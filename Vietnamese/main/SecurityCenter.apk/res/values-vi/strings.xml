@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="global_dock_guide_desc_with_split_screen">"· Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+    <string name="global_dock_guide_desc_with_split_screen">"· Nhấn vào một ứng dụng trên Sidebar để mở ứng dụng đó trong cửa sổ nổi.
 · Kéo một ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.
 · Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi.
@@ -5708,29 +5708,29 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="title_result_location">Vị trí</string>
 	<string name="HIPS_Perm_GetInstall_Desc">Nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
 	<string name="gd_setting_group_custom_gtb_apps">Trò Chơi</string>
-        <string name="gd_setting_group_custom_line_location">Vị trí thanh công cụ</string>
-        <string name="gd_setting_group_custom_settings">Cá nhân hóa</string>
-        <string name="gd_setting_group_custom_vtb_apps">Ứng dụng Video</string>
-        <string name="gd_setting_group_smart_tool_box">Thanh cạnh bên</string>
-        <string name="gd_setting_group_title_switch">Thiết lập</string>
-        <string name="gd_setting_gtb">Hiển thị trong khi chơi game</string>
-        <string name="gd_setting_gtb_desc">Các tính năng đặc biệt cho chơi game</string>
-        <string name="gd_setting_guide_one">Chạm để mở cửa sổ nổi</string>
-        <string name="gd_setting_guide_three">Vuốt từ cạnh để mở các phím tắt chơi game</string>
-        <string name="gd_setting_guide_two">Vuốt từ cạnh để mở hộp công cụ video</string>
-        <string name="gd_setting_miui_dock">Luôn hiển thị</string>
-        <string name="gd_setting_shorthand">Ghi chú nhanh</string>
-        <string name="gd_setting_title">Thanh bên</string>
-        <string name="gd_setting_vtb">Hiển thị trong khi phát video</string>
-        <string name="gd_setting_vtb_desc">Các tính năng đặc biệt cho phát video</string>
+    <string name="gd_setting_group_custom_line_location">Vị trí thanh công cụ</string>
+    <string name="gd_setting_group_custom_settings">Cá nhân hóa</string>
+    <string name="gd_setting_group_custom_vtb_apps">Ứng dụng Video</string>
+    <string name="gd_setting_group_smart_tool_box">Thanh cạnh bên</string>
+    <string name="gd_setting_group_title_switch">Thiết lập</string>
+    <string name="gd_setting_gtb">Hiển thị trong khi chơi game</string>
+    <string name="gd_setting_gtb_desc">Các tính năng đặc biệt cho chơi game</string>
+    <string name="gd_setting_guide_one">Chạm để mở cửa sổ nổi</string>
+    <string name="gd_setting_guide_three">Vuốt từ cạnh để mở các phím tắt chơi game</string>
+    <string name="gd_setting_guide_two">Vuốt từ cạnh để mở hộp công cụ video</string>
+    <string name="gd_setting_miui_dock">Luôn hiển thị</string>
+    <string name="gd_setting_shorthand">Ghi chú nhanh</string>
+    <string name="gd_setting_title">Thanh bên</string>
+    <string name="gd_setting_vtb">Hiển thị trong khi phát video</string>
+    <string name="gd_setting_vtb_desc">Các tính năng đặc biệt cho phát video</string>
 	<string name="gd_app_edit_done">Xong</string>
     	<string name="gd_app_edit_title">Thêm ứng dụng</string>
     	<string name="gd_app_edit_title_new">Chỉnh sửa lối tắt của sổ nổi</string>
-        <string name="power_center_surface_temp_high">Nóng</string>
-        <string name="power_center_surface_temp_higher">Ấm</string>
-        <string name="power_center_surface_temp_low">Mát</string>
-        <string name="power_center_surface_temp_lower">Lạnh</string>
-        <string name="power_center_surface_temp_normal">Bình thường</string>
+    <string name="power_center_surface_temp_high">Nóng</string>
+    <string name="power_center_surface_temp_higher">Ấm</string>
+    <string name="power_center_surface_temp_low">Mát</string>
+    <string name="power_center_surface_temp_lower">Lạnh</string>
+    <string name="power_center_surface_temp_normal">Bình thường</string>
     	<string name="beauty_fc_assistant">Trợ lý Camera trước</string>
     	<string name="beauty_fc_assistant_summary">Sử dụng đánh sáng và làm đẹp với camera trước</string>
     	<string name="beauty_fc_assistant_summary_new">Hiển thị đánh sáng và làm đẹp khi sử dụng camera trước</string>
@@ -6016,7 +6016,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="terminal_privacy_ability_others">Cơ chế khác</string>
     <string name="terminal_privacy_ability_others_summary">Chia sẻ màn hình, thử nghiệm môi trường thanh toán, nhận dạng vân tay và khuôn mặt</string>
     <string name="terminal_privacy_ability_suggest">Khuyến nghị</string>
-    <string name="terminal_privacy_ability_suggest_summary">Các đề xuất và đề xuất từ các thư mục trên Màn hình chính, sidebar và Ví Mi</string>
+    <string name="terminal_privacy_ability_suggest_summary">Các đề xuất và đề xuất từ các thư mục trên Màn hình chính, thanh bên và Ví Mi</string>
     <string name="terminal_privacy_ability_summary">*Các tính năng và cơ chế bảo vệ quyền riêng tư trên thiết bị có thể khác nhau tùy theo thiết bị</string>
     <string name="terminal_privacy_ability_txt">Văn bản</string>
     <string name="terminal_privacy_ability_txt_summary">Chỉnh sửa văn bản, phụ đề thông minh, Taplus, tin nhắn và khay nhớ tạm được chia sẻ</string>
@@ -6041,7 +6041,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="clear_instant_app_data">Xóa ứng dụng</string>
 	<string name="card_main_apkclean_title">Xoá APK</string>
 	<string name="input_hint_search_app">Tìm kiếm ứng dụng</string>
-	    <string name="pc_fast_charge_notifi_power_threshold_title">Đặt mức pin nhắc nhở</string>
+	<string name="pc_fast_charge_notifi_power_threshold_title">Đặt mức pin nhắc nhở</string>
     <string name="pc_fast_charge_notifi_summary">Sạc nhanh hơn %s so với thông thường…</string>
     <string name="pc_fast_charge_notifi_summary_on">Tốc độ sạc được tăng lên khi màn hình tắt. Thiết bị của bạn sẽ nóng lên.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Thông báo tăng tốc độ sạc khi bộ sạc %dW được kết nối và pin thấp hơn mức cài đặt</string>
@@ -6059,4 +6059,8 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="pc_wireless_charge_adjust_position_title">Sạc thiết bị nhanh hơn</string>
     <string name="power_center_super_wireless_charge_enter_noti_summary">Tốc độ quạt sạc không dây tăng lên, sạc nhanh hơn</string>
     <string name="power_center_super_wireless_charge_enter_noti_title">Có thể bật chế độ sạc không dây cực nhanh</string>
+    <string name="pc_batery_protection">Bảo vệ Pin</string>
+    <string name="pc_more_battery_feature">Thêm tính năng</string>
+    <string name="pc_current_power_mode">Chế độ hiện tại</string>
+    <string name="pc_power_consume_check">Kiểm tra Pin</string>
 </resources>
