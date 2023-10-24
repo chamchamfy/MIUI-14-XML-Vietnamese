@@ -729,4 +729,8 @@ Nghỉ ngơi chút đi!"</item>
         <item quantity="other">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
         <item quantity="one">Tối ưu hóa mức sử dụng pin trong %d tình huống</item>
     </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+		<item quantity="one">%d biểu tượng</item>
+		<item quantity="other">%d biểu tượng</item>
+		</plurals>
 </resources>

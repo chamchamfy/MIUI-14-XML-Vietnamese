@@ -6063,4 +6063,14 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
     <string name="pc_more_battery_feature">Thêm tính năng</string>
     <string name="pc_current_power_mode">Chế độ hiện tại</string>
     <string name="pc_power_consume_check">Kiểm tra Pin</string>
+    <string name="pc_more_power_rank_apps">Nhiều ứng dụng hơn</string>
+    <string name="pc_night_sleep_mode_title">Chế độ ban đêm</string>
+    <string name="pc_night_sleep_mode_summary">Tự động tắt vài tính năng để tiết kiệm pin khi phát hiện chế độ ngủ</string>
+    <string name="pc_smart_discharge_checkbox_title">Tự động ngắt sạc</string>
+	<string name="pc_smart_discharge_drop_down_title">Cài đặt tự động ngắt kết nối</string>
+	<string name="pc_smart_discharge_checkbox_summary">Khi sử dụng ứng dụng điều hướng, quá trình sạc sẽ tự động dừng khi pin đạt đến mức đã chọn. Tính năng này sẽ không hoạt động khi Trình tiết kiệm pin hoặc Trình siêu tiết kiệm pin được bật.</string>
+	<string name="pc_smart_discharge_protect_notifi_summary">Để bảo vệ pin, quá trình sạc sẽ tự động dừng ở mức đã chọn khi sử dụng ứng dụng điều hướng</string>
+	<string name="pc_smart_discharge_protect_notifi_summary2">Để bảo vệ pin, quá trình sạc sẽ tự động dừng ở mức đã chọn khi sử dụng ứng dụng điều hướng</string>
+	<string name="pc_batery_information">Thông tin Pin</string>
+	<string name="pc_toady_charge_time_title">Số lần sạc pin hôm nay</string>
 </resources>
