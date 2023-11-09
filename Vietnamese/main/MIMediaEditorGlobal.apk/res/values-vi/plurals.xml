@@ -139,6 +139,4 @@
     <plurals name="vlog_filter_diy_lut_import_success_toast">
         <item quantity="other">Nhập %1$d bộ lọc thành công</item>
     </plurals>
-    <item type="plurals" name="APKTOOL_DUMMY_b">false</item>
-    <item type="plurals" name="APKTOOL_DUMMY_c">false</item>
 </resources>
