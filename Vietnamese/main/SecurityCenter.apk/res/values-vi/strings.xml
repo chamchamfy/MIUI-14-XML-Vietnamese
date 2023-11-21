@@ -6192,7 +6192,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="privacy_and_safety">Quyền riêng tư và bảo mật</string>
 	<string name="privacy_apps_tutorial_dlg_message_1">Tách hai ngón tay ra trên Màn hình chính để xem các ứng dụng ẩn</string>
 	<string name="privacy_apps_tutorial_dlg_message_2">Lưu ý: Khi bạn ẩn một ứng dụng, chỉ lối tắt trên Màn hình chính của ứng dụng đó bị ẩn.</string>
-	<string name="safety">Bảo vệ</string>
+	<string name="safety">Bảo mật</string>
 	<string name="screen_share_protection_warning_icon_title">Bảo vệ chống gian lận</string>
 	<string name="send_sms_title">Cho phép %s gửi tin nhắn?</string>
 	<string name="sp_payment_detection_title">Kiểm tra bảo mật thanh toán</string>
