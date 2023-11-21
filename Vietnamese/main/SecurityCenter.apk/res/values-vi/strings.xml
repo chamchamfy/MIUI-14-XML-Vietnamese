@@ -7179,8 +7179,4 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="widget_button_text">Thêm tiện ích</string>
 	<string name="widget_safe_title">Rác điện thoại di động</string>
 	<string name="widget_safe_title_1">Sử dụng bộ nhớ</string>
-	<string name="safety">Bảo mật</string>
-	<string name="pc_power_save_settings_new">Cài đặt tiết kiệm pin</string>
-	<string name="pc_charged_auto_close_title">Tắt khi sạc</string>
-	<string name="power_save_mode_auto_exit_summary_new">Tắt khi pin còn %s hoặc đã sạc đầy</string>
 </resources>
