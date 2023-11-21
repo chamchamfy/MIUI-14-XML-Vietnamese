@@ -802,12 +802,12 @@ Thử lại sau %2$d giây."</string>
     <string name="local_backup_password_toast_success">Thiết lập mật khẩu sao lưu mới</string>
     <string name="local_backup_password_toast_validation_failure">Không thể đặt mật khẩu sao lưu</string>
     <string name="lock_screen_carrier_airplane_mode_on">Chế độ máy bay</string>
-    <string name="lock_screen_date">EEEE, d MMMM</string>
-    <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lock_screen_date">EEEE, dd/MM | e/N</string>
+    <string name="lock_screen_date_12">EEEE, dd/MM | e/N</string>
     <string name="lock_screen_date_two_lines">"EEEE
-d MMMM"</string>
+dd/MM | e/N"</string>
     <string name="lock_screen_date_two_lines_12">"EEEE
-d MMMM"</string>
+dd/MM | e/N"</string>
     <string name="lock_screen_magazine_default_content">Phần hàng ngày của hình ảnh mới</string>
     <string name="lock_screen_magazine_default_title">Tạp chí khóa màn hình</string>
     <string name="lock_screen_magazine_global_button_text">Thêm</string>
@@ -2523,7 +2523,7 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="keyboard_key_tab">Tab</string>
     <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM e/N"</string>
+dd/MM | e/N"</string>
     <string name="keyguard_charging_info_battery_used_time_text">Thời gian sử dụng</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Chưa đo</string>
     <string name="screenshot_edit_label">Sửa</string>
@@ -3019,7 +3019,7 @@ dd/MM | e/N"</string>
     <string name="notification_info_channel_disabled_text">Bạn sẽ không nhận %2$s thông báo từ %1$s.</string>
     <string name="notification_info_channel_enabled_text">Bạn sẽ nhận %2$s thông báo từ %1$s.</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM e/N"</string>
+dd/MM | e/N"</string>
     <string name="settings_label">Cài đặt</string>
     <string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
     <string name="material_hour_selection">Chọn giờ</string>
@@ -3120,8 +3120,8 @@ dd/MM e/N"</string>
     <string name="wechatpay_description_talkback">Thanh toán WeChat</string>
     <string name="wechatpay_title">Thanh toán</string>
     <string name="wechatscan_description_talkback">Quét WeChat</string>
-    <string name="aod_lock_screen_date">EE, d MMMM</string>
-    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date">EE, dd/MM | e/N</string>
+    <string name="aod_lock_screen_date_12">EE,dd/MM | e/N</string>
     <string name="face_data_manage_unlock_liftcamera_msg">Sau khi màn hình sáng, vuốt lên để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
     <string name="face_unlock_success_show_message_dialog_msg">Cho phép Thông báo Màn hình khóa có thể được hiển thị trên Màn hình khóa.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Không, cảm ơn</string>
@@ -3336,7 +3336,6 @@ dd/MM e/N"</string>
 	<string name="quick_settings_cellular_state_change_message_on">Dữ liệu di động đang bật</string>
 	<string name="quick_settings_dnd_state_change_message_on">DND đang bật</string>
 	<string name="quick_settings_flashlight_state_change_message_on">Đèn pin đang bật</string>
-	<string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Tiết kiệm dữ liệu đang bật</string>
 	<string name="quick_settings_hotspot_state_change_message_on">Điểm phát sóng đang bật</string>
 	<string name="quick_settings_location_state_change_message_on">Vị trí đang bật</string>
 	<string name="quick_settings_mute_state_change_message_on">Chế độ im lặng đang bật</string>

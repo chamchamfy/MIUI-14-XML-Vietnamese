@@ -735,8 +735,4 @@ Nghỉ ngơi chút đi!"</item>
         <item quantity="other">%d mục</item>
         <item quantity="one">%d mục</item>
     </plurals>
-    <plurals name="pc_can_be_optimize_numbers">
-		<item quantity="one">%d biểu tượng</item>
-		<item quantity="other">%d biểu tượng</item>
-		</plurals>
 </resources>
