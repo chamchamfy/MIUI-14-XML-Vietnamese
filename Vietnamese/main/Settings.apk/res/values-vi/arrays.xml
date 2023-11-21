@@ -1818,4 +1818,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Nhà thông minh</item>
         <item>Không</item>
     </string-array>
+	<string-array name="smart_device_control_entries">
+        <item>"@string/mi_smart_hub_entry_title"</item>
+        <item>Nhà thông minh</item>
+        <item>Không</item>
+	</string-array>
 </resources>
