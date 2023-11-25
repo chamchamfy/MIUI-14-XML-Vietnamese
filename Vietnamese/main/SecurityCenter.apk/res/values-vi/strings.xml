@@ -6223,7 +6223,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="ad_click_type_not_interest">Không quan tâm</string>
 	<string name="ad_click_type_often">Quá thường xuyên</string>
 	<string name="ad_text_btn_cancel">Hủy bỏ</string>
-	<string name="ad_text_btn_resume">Bản tóm tắt</string>
+	<string name="ad_text_btn_resume">Bảng tóm tắt</string>
 	<string name="ad_text_develop">Nhà phát triển: %1$s</string>
 	<string name="ad_text_introduce">Về</string>
 	<string name="ad_text_permission">Quyền</string>
@@ -6299,7 +6299,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="auto_task_edit_address">Sửa địa chỉ</string>
 	<string name="auto_task_exit_finish">Nhiệm vụ hoàn thành tự động</string>
 	<string name="auto_task_font_setting_weight_toast">Không thể điều chỉnh độ đậm cho phông chữ này</string>
-	<string name="auto_task_leave_app">Rời khỏi</string>
+	<string name="auto_task_leave_app">Thoát</string>
 	<string name="auto_task_loop_exclude_cancel">Đã hủy tác vụ lặp lại</string>
 	<string name="auto_task_no_in_call">Khi không có cuộc gọi</string>
 	<string name="auto_task_notify_title_has_cancel">Nhiệm vụ đã bị hủy</string>
@@ -6494,7 +6494,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="eletric_card_one_identification_risk_app_summary">Nhận cảnh báo và hạn chế quyền tự động khi phát hiện rủi ro</string>
 	<string name="eletric_card_summary_4">Thông báo về các trang web nguy hiểm</string>
 	<string name="eletric_card_two_identification_risk_mms_summary">Nhận cảnh báo khi mã xác minh được chuyển tiếp đến các ứng dụng truyền thông xã hội</string>
-		<string name="eletric_group_title_one_identification_risk_app">Tự động hạn chế quyền</string>
+	<string name="eletric_group_title_one_identification_risk_app">Tự động hạn chế quyền</string>
 	<string name="eletric_group_title_one_identification_risk_app_summary">Tự động hạn chế quyền khi phát hiện rủi ro trong ứng dụng</string>
 	<string name="eletric_group_title_two_identification_risk_app">Nhận cảnh báo về rủi ro tài chính</string>
 	<string name="eletric_group_title_two_identification_risk_mms">Nhận cảnh báo khi mã xác minh được chuyển tiếp</string>
@@ -6612,7 +6612,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="gb_vision_enhance_smart_frame_insertion_desc">Tự động điều chỉnh tốc độ khung hình để chuyển động mượt mà hơn</string>
 	<string name="gb_vision_enhance_super_resolution">Giải pháp tối ưu</string>
 	<string name="gb_vision_enhance_super_resolution_desc">Tăng độ phân giải để xem chi tiết tốt hơn</string>
-	<string name="gb_voice_changer_robot">người máy</string>
+	<string name="gb_voice_changer_robot">Người máy</string>
 	<string name="gb_xunyou_gift_type_one_new">Xunyou tăng %d-ngày</string>
 	<string name="gb_xunyou_gift_type_three_new">Xunyou tăng %d-ngày</string>
 	<string name="gb_xunyou_gift_type_two_new">Xunyou tăng %d-ngày</string>
@@ -6676,7 +6676,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="main_toolbar_recharge_record">Kỷ lục nạp tiền</string>
 	<string name="malicious_access_accessibility">Bật dịch vụ trợ năng</string>
 	<string name="malicious_access_install">Đọc danh sách ứng dụng</string>
-	<string name="malicious_access_location">đọc vị trí</string>
+	<string name="malicious_access_location">Đọc vị trí</string>
 	<string name="malicious_access_pay">Gọi thanh toán</string>
 	<string name="malicious_access_wakelock">Sử dụng đánh thức màn hình</string>
 	<string name="malicious_activity_too_many">Hoạt động thường xuyên</string>
@@ -6780,7 +6780,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="pc_endurance_calculation">Đang tính…</string>
 	<string name="pc_entered_extreme_mode">Chế độ ngủ đông đang bật</string>
 	<string name="pc_entered_extreme_mode_summary">Thiết bị của bạn hết pin và đã chuyển sang chế độ Ngủ đông. Ứng dụng sẽ chạy ở chế độ nền và sẽ không gửi thông báo.</string>
-	<string name="pc_extreme_exit_and_power_off">Lối ra</string>
+	<string name="pc_extreme_exit_and_power_off">Thoát</string>
 	<string name="pc_extreme_mode_bg_toast">Ở chế độ Ngủ đông, các ứng dụng sẽ chạy ở chế độ nền và không gửi thông báo</string>
 	<string name="pc_extreme_mode_entering">Đang chuyển sang chế độ Ngủ đông…</string>
 	<string name="pc_extreme_mode_exit_risk_title">Chú ý</string>
@@ -6889,7 +6889,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="phone_manage_privacy_title">Bảo vệ quyền riêng tư</string>
 	<string name="phone_manager_edit_commonly_used_func_title">Chỉnh sửa các tính năng phổ biến</string>
 	<string name="phone_number_protect">Đặt số điện thoại ở chế độ riêng tư</string>
-	<string name="phone_type_fold">điện thoại có thể gập lại</string>
+	<string name="phone_type_fold">Điện thoại có thể gập lại</string>
 	<string name="phone_type_normal">Điện thoại di động thông thường</string>
 	<string name="popular_action_anti_spam_summary">SMS và cuộc gọi điện thoại</string>
 	<string name="popular_action_anti_spam_title">Chặn làm phiền</string>
@@ -6994,7 +6994,7 @@ Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string
 	<string name="screen_share_protection_summary">Ứng dụng bạn đang sử dụng hiện chứa thông tin cá nhân của bạn. Thông tin này có thể hiển thị với những người khác nếu bạn chia sẻ màn hình của mình. Vẫn chia sẻ?</string>
 	<string name="screen_share_warning_summary">Thông báo đến của bạn sẽ không được hiển thị trên màn hình được chia sẻ.</string>
 	<string name="screen_share_warning_title">Thông báo sẽ không được hiển thị</string>
-	<string name="screen_type_external">màn hình ngoài</string>
+	<string name="screen_type_external">Màn hình ngoài</string>
 	<string name="screen_type_internal">Màn hình bên trong</string>
 	<string name="select_app_title_music">Chơi nhạc</string>
 	<string name="share_uid_app">Ứng dụng có quyền được chia sẻ</string>
