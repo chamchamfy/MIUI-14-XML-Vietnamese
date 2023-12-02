@@ -1284,12 +1284,12 @@ Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sá
     <string name="status_bar_airplane">Chế độ máy bay</string>
     <string name="status_bar_alarm">Báo thức</string>
     <string name="status_bar_clear_all_button">Xóa</string>
-    <string name="status_bar_clock_date_format">E, d/M/y 🇻🇳 e/N YY</string>
-    <string name="status_bar_clock_date_format_12">E, d/M/y 🇻🇳 e/N YY</string>
-    <string name="status_bar_clock_date_time_format">H:mm E, d/M/y 🇻🇳 e/N YY</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d/M/y 🇻🇳 e/N YY</string>
-    <string name="status_bar_clock_date_weekday_format">EEE, d/M/y 🇻🇳 e/N YY</string>
-    <string name="status_bar_clock_date_weekday_format_12">EEE, d/M/y 🇻🇳 e/N YY</string>
+    <string name="status_bar_clock_date_format">EEEE, d/M/y  e/N YY</string>
+    <string name="status_bar_clock_date_format_12">EEEE, d/M/y  e/N YY</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d/M/y  e/N YY</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d/M/y  e/N YY</string>
+    <string name="status_bar_clock_date_weekday_format">EEE, d/M/y  e/N YY</string>
+    <string name="status_bar_clock_date_weekday_format_12">EEE, d/M/y  e/N YY</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -3121,7 +3121,7 @@ dd/MM | e/N"</string>
     <string name="wechatpay_title">Thanh toán</string>
     <string name="wechatscan_description_talkback">Quét WeChat</string>
     <string name="aod_lock_screen_date">EE, dd/MM | e/N</string>
-    <string name="aod_lock_screen_date_12">EE,dd/MM | e/N</string>
+    <string name="aod_lock_screen_date_12">EE, dd/MM | e/N</string>
     <string name="face_data_manage_unlock_liftcamera_msg">Sau khi màn hình sáng, vuốt lên để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
     <string name="face_unlock_success_show_message_dialog_msg">Cho phép Thông báo Màn hình khóa có thể được hiển thị trên Màn hình khóa.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Không, cảm ơn</string>

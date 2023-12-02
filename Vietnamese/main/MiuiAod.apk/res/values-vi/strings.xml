@@ -3,8 +3,8 @@
     <string name="accessibility_battery_level">Pin %d phần trăm.</string>
     <string name="accessibility_battery_level_charging">Đang sạc pin, %d phần trăm.</string>
     <string name="aod_close_color_inversion">Tính năng này không thể kết hợp với đảo màu. Tắt đảo màu trước.</string>
-    <string name="aod_lock_screen_date">EE, d MMMM</string>
-    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_lock_screen_date">EE, d MMMM | e/N</string>
+    <string name="aod_lock_screen_date_12">EE, d MMMM | e/N</string>
     <string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
     <string name="aod_mode_summary">Hiển thị đồng hồ, ngày, thông báo, và ảnh nền khi màn hình tắt.</string>
     <string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
@@ -99,17 +99,17 @@
 	<string name="photo_editor_saving">Đang lưu…</string>
 	<string name="disable_aod_in_power_save_mode">Tắt khi bật Tiết kiệm pin</string>
 	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để tiết kiệm pin"</string>
-	<string name="aod_lock_screen_date_12_signature">d/M</string>
-	<string name="aod_lock_screen_date_signature">d/M</string>
+	<string name="aod_lock_screen_date_12_signature">d/M | e/N</string>
+	<string name="aod_lock_screen_date_signature">d/M | e/N</string>
 	<string name="theme_cate_title">Chủ đề</string>
 	<string name="my_style_title">Phong cách của tôi</string>
 	<string name="delete">Xóa</string>
 	<string name="minimalist_clock">Đồng hồ đơn giản</string>
-	<string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
+	<string name="aod_lock_screen_date_smartcover_b">EE dd/MM | e/N</string>
 	<string name="aod_lock_screen_date_12_smartcover">"EE
-d/M"</string>
+d/M | e/N"</string>
 	<string name="aod_lock_screen_date_smartcover">"EE
-dd/MM"</string>
+dd/MM | e/N"</string>
 	<string name="mtrl_picker_date_header_title">Chọn một ngày</string>
 	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
 	<string name="mtrl_picker_range_header_title">Chọn một khoảng ngày</string>
@@ -481,9 +481,9 @@ dd/M"</string>
 	<string name="ambient_display_screen_title_sp">Màn hình Ambient</string>
 	<string name="on">Bật</string>
 	<string name="step_to_image_community">Tìm nhiều hơn trong Cộng đồng Mi</string>
-	<string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
+	<string name="aod_dual_clock_date_12">hh:mm dd/MM | e/N aa</string>
 	<string name="share_to_community">Chia sẻ lên Cộng đồng Mi</string>
-	<string name="aod_dual_clock_date">HH:mm dd/MM</string>
+	<string name="aod_dual_clock_date">HH:mm dd/MM | e/N</string>
 	<string name="dual_clock_tip">Đồng hồ kép đang bật. Chạm để mở Cài đặt.</string>
 	<string name="scheduled_style_summary">Đặt thời gian tùy chỉnh</string>
 	<string name="always_style_symmary">Tốn pin hơn</string>
