@@ -3,8 +3,8 @@
     <string name="accessibility_battery_level">Pin %d phần trăm.</string>
     <string name="accessibility_battery_level_charging">Đang sạc pin, %d phần trăm.</string>
     <string name="aod_close_color_inversion">Tính năng này không thể kết hợp với đảo màu. Tắt đảo màu trước.</string>
-    <string name="aod_lock_screen_date">EEEE dd/MM/yy 🇻🇳 e/N YY</string>
-    <string name="aod_lock_screen_date_12">EEEE dd/MM/yy 🇻🇳 e/N YY</string>
+    <string name="aod_lock_screen_date">EEE dd/MM/yy | e/N YY</string>
+    <string name="aod_lock_screen_date_12">EEE dd/MM/yy | e/N YY</string>
     <string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
     <string name="aod_mode_summary">Hiển thị đồng hồ, ngày, thông báo, và ảnh nền khi màn hình tắt.</string>
     <string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
@@ -42,7 +42,7 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="search_menu_title">Tìm kiếm</string>
 	<string name="animation_clock_panel">Dạng sóng</string>
-    <string name="aod_lock_screen_date_lunar">EEEE dd/MM/yy 🇻🇳 e/N YY</string>
+    <string name="aod_lock_screen_date_lunar">EEE dd/MM/yy | e/N YY</string>
     <string name="apply">Áp dụng</string>
     <string name="background_icon">Nền</string>
     <string name="black_white_clock_panel">Đồng hồ</string>
@@ -99,17 +99,17 @@
 	<string name="photo_editor_saving">Đang lưu…</string>
 	<string name="disable_aod_in_power_save_mode">Tắt khi bật Tiết kiệm pin</string>
 	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để tiết kiệm pin"</string>
-	<string name="aod_lock_screen_date_12_signature">d/M/y 🇻🇳 e/N YY</string>
-	<string name="aod_lock_screen_date_signature">d/M/y 🇻🇳 e/N YY</string>
+	<string name="aod_lock_screen_date_12_signature">d/M/y | e/N YY</string>
+	<string name="aod_lock_screen_date_signature">d/M/y | e/N YY</string>
 	<string name="theme_cate_title">Chủ đề</string>
 	<string name="my_style_title">Phong cách của tôi</string>
 	<string name="delete">Xóa</string>
 	<string name="minimalist_clock">Đồng hồ đơn giản</string>
-	<string name="aod_lock_screen_date_smartcover_b">EE dd/MM/yy 🇻🇳 e/N YY</string>
+	<string name="aod_lock_screen_date_smartcover_b">EE dd/MM/yy | e/N YY</string>
 	<string name="aod_lock_screen_date_12_smartcover">"EE
-d/M/y 🇻🇳 e/N YY"</string>
+d/M/y | e/N YY"</string>
 	<string name="aod_lock_screen_date_smartcover">"EE
-dd/MM/yy 🇻🇳 e/N YY"</string>
+dd/MM/yy | e/N YY"</string>
 	<string name="mtrl_picker_date_header_title">Chọn một ngày</string>
 	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
 	<string name="mtrl_picker_range_header_title">Chọn một khoảng ngày</string>

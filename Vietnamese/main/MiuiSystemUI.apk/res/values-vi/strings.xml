@@ -3120,8 +3120,8 @@ dd/MM | e/N"</string>
     <string name="wechatpay_description_talkback">Thanh toán WeChat</string>
     <string name="wechatpay_title">Thanh toán</string>
     <string name="wechatscan_description_talkback">Quét WeChat</string>
-    <string name="aod_lock_screen_date">EEEE dd/MM/yy 🇻🇳 e/N YY</string>
-    <string name="aod_lock_screen_date_12">EEEE dd/MM/yy 🇻🇳 e/N YY</string>
+    <string name="aod_lock_screen_date">EEE dd/MM/yy | e/N YY</string>
+    <string name="aod_lock_screen_date_12">EEE dd/MM/yy | e/N YY</string>
     <string name="face_data_manage_unlock_liftcamera_msg">Sau khi màn hình sáng, vuốt lên để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
     <string name="face_unlock_success_show_message_dialog_msg">Cho phép Thông báo Màn hình khóa có thể được hiển thị trên Màn hình khóa.</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Không, cảm ơn</string>
