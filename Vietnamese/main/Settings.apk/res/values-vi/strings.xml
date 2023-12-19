@@ -3731,8 +3731,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="settings_notify_need_backup">Sao lưu cài đặt lên Xiaomi Cloud để truy cập sau khi bạn đổi điện thoại.</string>
     <string name="model_name">Tên đời máy</string>
     <string name="my_device">Thiết bị của tôi</string>
-    <string name="device_miui_version">Phiên bản ROM</string>
-    <string name="device_miui_version_update">Cập nhật MIUI khả dụng</string>
+    <string name="device_miui_version">Phiên bản OS</string>
+    <string name="device_miui_version_update">Cập nhật</string>
     <string name="rank_title">Xếp hạng</string>
     <string name="device_miui_more">Xem thêm</string>
     <string name="device_share_loading">Đang tạo ảnh…</string>
@@ -6515,7 +6515,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
      <string name="default_data_switch_msg">%1$s có thể không hoạt động tạm thời.</string>
      <string name="delete_sound_effect">Âm thanh khi \"Xóa\"</string>
      <string name="device_cellular_network">Quét mạng di động</string>
-     <string name="device_miui_version_for_POCO">Phiên bản ROM (Dành cho POCO)</string>
+     <string name="device_miui_version_for_POCO">Phiên bản OS (Dành cho POCO)</string>
      <string name="drm_reset_dialog_msg">Thao tác này sẽ xóa mọi giấy phép trên thiết bị này. Tiếp tục?</string>
      <string name="drm_reset_toast_msg">Các giấy phép đã được xóa thành công.</string>
      <string name="drm_settings_summary">Xóa mọi giấy phép DRM</string>
@@ -8104,7 +8104,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="backup_set_new_exit">Thoát</string>
 	<string name="backup_set_new_pw_confirm_hint">Chú ý</string>
 	<string name="backup_set_new_pw_confirm_summary">Các mục của bạn hiện được sao lưu tự động. Tạo mật khẩu sao lưu sẽ dừng sao lưu tự động. Vẫn tiếp tục?</string>
-	<string name="device_miui_version_parameters">Phiên bản ROM</string>
+	<string name="device_miui_version_parameters">Phiên bản OS</string>
 	<string name="quick_reply_title">Trả lời nhanh</string>
 	<string name="popup_led_summary">Hiển thị hiệu ứng khi máy ảnh trước mở ra và thu gọn</string>
 	<string name="popup_led_title">Hiệu ứng hình ảnh</string>
@@ -9778,6 +9778,7 @@ Dưới đây là một số nguyên nhân:
 	<string name="apply_fingerprint_to">Sử dụng vân tay để</string>
 	<string name="enrol_fingerprint_data">Thêm vân tay</string>
 	<string name="sunlight_mode">Chế độ Ánh sáng mặt trời</string>
+	<string name="sunlight_mode_boost_summary">Mở rộng phạm vi độ sáng và tự động điều chỉnh độ sáng trong điều kiện đủ sáng. Tính năng này sẽ khiến thiết bị của bạn nóng lên và tiêu tốn nhiều điện năng hơn.</string>
 	<string name="sunlight_mode_summary">Điều chỉnh độ sáng thành ánh sáng mạnh xung quanh khi tắt độ sáng tự động</string>
 	<string name="lockscreen_sidepanel_shortcuts_title">Bảng lối tắt cạnh</string>
 	<string name="lockscreen_sidepanel_shortcuts_summary">Tùy chỉnh ứng dụng hiển thị ở bảng bên cạnh màn hình khóa.</string>
@@ -10088,7 +10089,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 	<string name="dialog_backup_title">Cập nhật sao lưu trước khi tiến hành khôi phục cài đặt gốc?</string>
 	<string name="other_password">Mật khẩu khác</string>
 	<string name="face_data_manage_unlock_slide_msg">Thay thế vuốt để mở khóa bằng mở khóa khuôn mặt</string>
-	<string name="privacy_protection">Bảo vệ riêng tư</string>
+	<string name="privacy_protection">Quyền riêng tư &amp; bảo mật</string>
 	<string name="backup_more_settings">Cài đặt</string>
 	<string name="multi_face_delete_show_message">Xóa dữ liệu khuôn mặt ngay?</string>
 	<string name="nfc_repair_summary">Sửa vấn đề ngăn bạn sử dụng tính năng NFC</string>
@@ -12619,4 +12620,6 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="photography_handle_quick_launch_camera_title">Khởi động nhanh</string>
     <string name="wifi_stx_logs_disabled">Nhật ký WLAN STx đang tắt</string>
     <string name="wifi_stx_logs_enabled">Nhật ký WLAN STx đang bật</string>
+    <string name="otg_new_tip">Bật tính năng OTG để có thể kết nối trực tiếp thiết bị của bạn với các thiết bị khác bằng USB. Tính năng này sẽ tự động tắt sau %d phút không hoạt động.</string>
+	<string name="os_version">Phiên bản OS</string>
 </resources>
