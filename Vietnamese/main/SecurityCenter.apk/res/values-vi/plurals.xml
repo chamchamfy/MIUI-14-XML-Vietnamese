@@ -985,7 +985,7 @@
 	</plurals>
 	<plurals name="power_center_battery_charge_number">
 		<item quantity="other"> lần</item>
-		<item quantity="one">thời gian</item>
+		<item quantity="one"> thời gian</item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
 		<item quantity="other">vấn đề sử dụng pin %d</item>
@@ -1048,7 +1048,7 @@
 		<item quantity="one">Thêm %d phút</item>
 	</plurals>
 	<plurals name="power_center_menu_text">
-		<item quantity="other">mặt hàng</item>
+		<item quantity="other">mục </item>
 		<item quantity="one">mục </item>
 	</plurals>
 	<plurals name="power_center_unoffical_battery_dialog_negative">
