@@ -231,22 +231,22 @@
 	<string name="miui_clock_city_name_local">Địa phương</string>
 	<string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Đại học Arizona</string>
 	<string name="miui_lock_screen_large_date">"EEE
-d/M/y | e/N YY"</string>
+dd/MM"</string>
 	<string name="digitaluniverse">Vũ trụ kỹ thuật số (âm thanh nổi)</string>
 	<string name="miui_lock_screen_large_date_12">"EEE
-d/M/y | e/N YY"</string>
+dd/MM"</string>
 	<string name="atlantis">Atlantis (âm thanh nổi)</string>
 	<string name="wallpaper_group_geometric_title">Hình học</string>
 	<string name="wallpaper_group_red_mars_title">Sao Hỏa</string>
 	<string name="wallpaper_group_black_white_title">Trắng đen</string>
-	<string name="miui_lock_screen_date">EEEE d/M/y | e/N YY</string>
+	<string name="miui_lock_screen_date">EEEE dd/MM</string>
 	<string name="wallpaper_group_natural_texture_subtitle">Tom Hegen và những người khác</string>
-	<string name="miui_lock_screen_date_12">EEEE d/M/y | e/N YY</string>
+	<string name="miui_lock_screen_date_12">EEEE dd/MM</string>
 	<string name="reveries">Mơ tưởng (âm thanh nổi)</string>
 	<string name="miui_lock_screen_date_two_lines">"EEEE
-d/M/y | e/N YY"</string>
+dd/MM"</string>
 	<string name="miui_lock_screen_date_two_lines_12">"EEEE
-d/M/y | e/N YY"</string>
+dd/MM"</string>
 	<string name="wallpaper_group_more_system_wallpaper_title">Thêm hình nền hệ thống</string>
 	<string name="africaanimals_preview">Xavan</string>
 	<string name="arcticanimals_preview">Vùng Bắc Cực</string>
