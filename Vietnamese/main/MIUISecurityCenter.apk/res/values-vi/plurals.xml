@@ -984,8 +984,8 @@
 		<item quantity="one">%s phút</item>
 	</plurals>
 	<plurals name="power_center_battery_charge_number">
-		<item quantity="other">lần </item>
-		<item quantity="one">lần </item>
+		<item quantity="other"> lần </item>
+		<item quantity="one"> lần </item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
 		<item quantity="other">vấn đề sử dụng pin %d</item>
