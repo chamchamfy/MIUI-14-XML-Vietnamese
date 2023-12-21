@@ -500,7 +500,7 @@
 		<item quantity="one">%d ứng dụng chứa vi-rút hoặc phần mềm độc hại</item>
 	</plurals>
 	<plurals name="menu_text_app_manager_ex">
-		<item quantity="other">Có sẵn bản cập nhật %d</item>
+		<item quantity="other">Đã có bản cập nhật %d</item>
 		<item quantity="one">Đã có bản cập nhật %d</item>
 	</plurals>
 	<plurals name="miuix_appcompat_items_selected">
@@ -713,7 +713,7 @@
 	</plurals>
 	<plurals name="permission_usage_allow_device_sensor">
 		<item quantity="other">%1$s | Ứng dụng này đã truy cập chuyển động và hướng của thiết bị %2$d lần</item>
-		<item quantity="one">%1$s | Ứng dụng này đã truy cập vào hướng và chuyển động của thiết bị %2$d thời gian</item>
+		<item quantity="one">%1$s | Ứng dụng này đã truy cập chuyển động và hướng của thiết bị %2$d lần</item>
 	</plurals>
 	<plurals name="permission_usage_allow_files">
 		<item quantity="other">%1$s | Ứng dụng này đã truy cập các tệp và tài liệu %2$d lần</item>
@@ -805,7 +805,7 @@
 	</plurals>
 	<plurals name="permission_usage_allow_wakepath">
 		<item quantity="other">%1$s | Được phép %2$d lần</item>
-		<item quantity="one">%1$s | Được phép %2$d thời gian</item>
+		<item quantity="one">%1$s | Được phép %2$d lần</item>
 	</plurals>
 	<plurals name="permission_usage_delete_pic_more">
 		<item quantity="other">%1$s | Đã xóa ảnh khỏi Thư viện %2$d lần</item>
@@ -841,7 +841,7 @@
 	</plurals>
 	<plurals name="permission_usage_deny_device_sensor">
 		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào chuyển động và hướng của thiết bị %2$d lần</item>
-		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào hướng và chuyển động của thiết bị %2$d lần</item>
+		<item quantity="one">%1$s | Ứng dụng này đã bị từ chối truy cập vào chuyển động và hướng của thiết bị %2$d lần</item>
 	</plurals>
 	<plurals name="permission_usage_deny_files">
 		<item quantity="other">%1$s | Ứng dụng này đã bị từ chối truy cập vào tệp và tài liệu %2$d lần</item>
@@ -984,8 +984,8 @@
 		<item quantity="one">%s phút</item>
 	</plurals>
 	<plurals name="power_center_battery_charge_number">
-		<item quantity="other"> lần </item>
-		<item quantity="one"> lần </item>
+		<item quantity="other">lần </item>
+		<item quantity="one">lần </item>
 	</plurals>
 	<plurals name="power_center_battery_consume_prolblem">
 		<item quantity="other">vấn đề sử dụng pin %d</item>
