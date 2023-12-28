@@ -12169,7 +12169,7 @@ Có người dùng khác trên thiết bị này.
     <string name="beauty_fc_assistant">Trợ lý Camera trước</string>
     <string name="privacy_lab_settings">Lab bảo vệ riêng tư</string>
     <string name="memorycard_calculating">Đang tính…</string>
-    <string name="gd_setting_title">Sidebar</string>
+    <string name="gd_setting_title">Thanh bên</string>
     <string name="menu_item_notification_power_text">Tối ưu pin</string>
     <string name="security_check_progress_dialog_message">Kiểm tra các vấn đề bảo mật…</string>
     <string name="accessibility_magnification_mode_dialog_option_switch">Toàn màn hình &amp; một phần màn hình</string>
@@ -12390,7 +12390,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 3. Chọn xem bạn muốn sử dụng nút hay cử chỉ để truy cập tính năng"</string>
     <string name="accessibility_button_gesture_footer_learn_more_content_description">Tìm hiểu thêm về nút hỗ trợ tiếp cận &amp; cử chỉ</string>
     <string name="accessibility_button_gesture_title">Nút trợ năng &amp; cử chỉ</string>
-    <string name="freeform_guide_vedio_description">Nhấn vào một ứng dụng trên sidebar để mở ứng dụng đó trong cửa sổ nổi</string>
+    <string name="freeform_guide_vedio_description">Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi</string>
     <string name="miui_bubbles_notification">Bong bóng hội thoại</string>
     <string name="freeform_guide_to_sidehide_summary">Kéo nhanh ứng dụng sang hai bên màn hình để ẩn đi</string>
     <string name="freeform_guide_to_sidehide_title">Ẩn cửa sổ nổi</string>
