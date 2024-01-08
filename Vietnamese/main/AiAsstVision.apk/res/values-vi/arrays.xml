@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="runtime_permission_desc">
+		<item>Nhận dạng giọng nói cho các tính năng như dịch giọng nói</item>
+	</string-array>
+</resources>
