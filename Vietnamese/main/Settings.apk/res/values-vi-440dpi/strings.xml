@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_font">Kích thước văn bản &amp; bố cục</string>
+    <string name="title_font_current">Kích thước văn bản</string>
+    <string name="title_layout_current">Bố cục hệ thống</string>
+</resources>

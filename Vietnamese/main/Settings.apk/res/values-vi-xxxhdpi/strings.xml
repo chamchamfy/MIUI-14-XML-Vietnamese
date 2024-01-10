@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="title_font">Phông chữ và bố cục</string>
+    <string name="title_font_current">Đặt phông chữ</string>
+    <string name="title_layout_current">Đặt bố cục giao diện</string>
+</resources>

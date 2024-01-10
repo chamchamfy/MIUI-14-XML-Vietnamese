@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="privacy_mode_dialog_message">Ở chế độ khách, dữ liệu ghi chú và thư viện sẽ bị ẩn và màn hình sẽ không thể chỉnh sửa được. Có thể đặt mật khẩu bảo vệ trong cài đặt khóa ứng dụng. Bạn có muốn vào chế độ khách không? </string>
+    <string name="privacy_mode_enable_sum">Ẩn dữ liệu cá nhân để bảo vệ quyền riêng tư</string>
+</resources>

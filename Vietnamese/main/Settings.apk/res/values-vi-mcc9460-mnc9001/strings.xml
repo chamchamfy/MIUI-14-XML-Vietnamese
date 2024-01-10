@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apn_chinaunicom_3gnet_general">Người dùng băng thông rộng Wo kết nối với Internet</string>
+    <string name="apn_chinaunicom_3gwap_general">Người dùng băng thông rộng Wo sử dụng điện thoại di động để truy cập Internet</string>
+</resources>

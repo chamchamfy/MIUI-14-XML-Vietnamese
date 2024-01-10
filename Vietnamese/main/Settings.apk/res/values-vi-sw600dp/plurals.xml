@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Nhận thông tin về máy tính bảng chỉ trong %1$d bước. </item>
+        <item quantity="one">Nhận thông tin về máy tính bảng chỉ trong %1$d bước. </item>
+    </plurals>
+</resources>
