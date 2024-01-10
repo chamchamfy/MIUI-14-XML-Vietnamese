@@ -3399,4 +3399,7 @@ d/M/y | e/N YY"</string>
     <string name="miui_magazine_clock_date">d/M | e/N</string>
     <string name="miui_magazine_clock_date_content_description">dd/MM | e/N</string>
 	<string name="miui_rhombus_clock_date">dd MMM | e/N</string>
+	<string name="format_month_day_style2">d/M</string>
+	<string name="format_month_day_style1">d/MMM</string>
+	<string name="format_month_day_week">EEE, dd MMM</string>
 </resources>
