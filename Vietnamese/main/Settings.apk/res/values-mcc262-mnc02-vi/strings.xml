@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="wifi_calling_off_explanation_2">"
-
-Bạn không thể thực hiện cuộc gọi khẩn cấp thông qua tính năng gọi qua mạng WLAN. Nếu bạn cố gắng thực hiện cuộc gọi khẩn cấp, thiết bị của bạn sẽ tự động sử dụng mạng di động. Cuộc gọi khẩn cấp chỉ có thể được thực hiện ở những khu vực có vùng phủ sóng mạng di động."</string>
-    <string name="wifi_calling_settings_title">Gọi qua mạng WLAN</string>
-</resources>
