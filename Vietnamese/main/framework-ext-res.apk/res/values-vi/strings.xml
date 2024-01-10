@@ -2,7 +2,7 @@
 <resources>
 	<string name="miui_forbid_poweroff_when_device_locked">Không thể tắt, thiết bị đã khóa.</string>
      <string name="miui_warning_button_cancel">Hủy</string>
-     <string name="miui_warning_button_ok">OK</string>
+     <string name="miui_warning_button_ok">Đồng ý</string>
      <string name="miui_warning_tip_info">Đã xảy ra lỗi %1$s. Đóng ứng dụng này ngay?</string>
      <string name="resolver_app_recommend_flag">Kiến nghị</string>
      <string name="super_resolution_maintain_tips">Siêu phân giải chưa khả dụng.</string>
