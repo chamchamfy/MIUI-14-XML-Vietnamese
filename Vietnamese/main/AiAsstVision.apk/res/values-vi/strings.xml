@@ -409,7 +409,7 @@ Gửi mã này cho kỹ thuật viên."</string>
 	<string name="know">Hiểu rồi</string>
 	<string name="know_ai_translate_content">Phụ đề thông minh có thể phiên âm và dịch giọng nói sang phụ đề song ngữ trong thời gian thực. Tính năng này hữu ích cho các cuộc họp và lớp học trực tuyến, video trực tiếp và các tình huống cần trợ thính. Âm thanh và văn bản được chép lại của nó sẽ chỉ được xử lý trên thiết bị của bạn. Điều này không chỉ giữ thông tin của bạn ở chế độ riêng tư mà còn có nghĩa là tính năng này có thể được sử dụng ngoại tuyến.</string>
 	<string name="know_ai_translate_title">Phụ đề thông minh là gì?</string>
-	<string name="ko_to_cn">Tiếng Hàn sang tiến Trung</string>
+	<string name="ko_to_cn">Tiếng Hàn sang tiếng Trung</string>
 	<string name="korean">Tiếng Hàn</string>
 	<string name="language_cn_summary">Nhận dạng tiếng Quan thoại, ≈%s MB</string>
 	<string name="language_en_summary">Nhận dạng tiếng Anh và dịch từ tiếng Anh sang tiếng Trung, ≈%s MB</string>
