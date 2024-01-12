@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="abc_action_bar_home_description">Đi đến màn hình chính</string>
+	<string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
 	<string name="abc_action_bar_up_description">Di chuyển lên</string>
 	<string name="abc_action_menu_overflow_description">Tùy chọn khác</string>
 	<string name="abc_action_mode_done">Xong</string>
@@ -99,7 +99,7 @@
 	<string name="check_is_need_restore_text_dialog_title">Khôi phục nội dung</string>
 	<string name="check_network_text">Kiểm tra cài đặt mạng</string>
 	<string name="check_update">Kiểm tra cập nhật</string>
-	<string name="chinese">Người Trung Quốc</string>
+	<string name="chinese">Tiếng Trung</string>
 	<string name="chinese_day_1">1</string>
 	<string name="chinese_day_2">2</string>
 	<string name="chinese_day_3">3</string>
@@ -393,7 +393,7 @@ Gửi mã này cho kỹ thuật viên."</string>
 	<string name="img_listen_start_content_description">Bắt đầu phiên âm</string>
 	<string name="img_windows_content_description">Thu nhỏ ứng dụng</string>
 	<string name="init_hint_text">Đợi một chút…</string>
-	<string name="inner_record_force_loa">Phát âm thanh hệ thống</string>
+	<string name="inner_record_force_speaker">Phát âm thanh hệ thống</string>
 	<string name="input_common_expresss">Nhập cụm từ vào đây</string>
 	<string name="input_method_privacy_mode_hint">Chế độ bảo mật của phương thức nhập liệu Xiaomi hiện không hỗ trợ dịch thuật Xiaoai, vui lòng tắt chế độ bảo mật của phương thức nhập và thử lại</string>
 	<string name="insufficient_storage_text">Không đủ dung lượng</string>
@@ -444,10 +444,10 @@ Gửi mã này cho kỹ thuật viên."</string>
 	<string name="lanuage_ru">Tiếng Nga</string>
 	<string name="lanuage_sk">Tiếng Slovak</string>
 	<string name="lanuage_sl">Tiếng Slovenia</string>
-	<string name="lanuage_sv">Thụy Điển</string>
+	<string name="lanuage_sv">Tiếng Thụy Điển</string>
 	<string name="lanuage_ta">Tiếng Tamil</string>
 	<string name="lanuage_th">Tiếng Thái</string>
-	<string name="lanuage_tr">Thổ Nhĩ Kỳ</string>
+	<string name="lanuage_tr">Tiếng Thổ Nhĩ Kỳ</string>
 	<string name="lanuage_vi">Tiếng Việt</string>
 	<string name="linking_now_text">Đang kết nối</string>
 	<string name="llm_water_mark_text">Nội dung được tạo ra bởi AI và chỉ mang tính chất tham khảo</string>
@@ -638,7 +638,7 @@ Lưu ý rằng ứng dụng này cần kết nối với internet và yêu cầu
 	<string name="remove_improvement_plan_complete">Đã nhận được yêu cầu, hồ sơ cải tiến dịch thuật Xiaoai sẽ bị xóa</string>
 	<string name="remove_improvement_plan_error">Không xóa được bản ghi cải thiện trải nghiệm người dùng, vui lòng thử lại sau</string>
 	<string name="remove_improvement_record">Xóa bản ghi cải tiến dịch thuật Xiaoai</string>
-	<string name="remove_improvement_record_hint">Sau khi xác nhận xóa, âm thanh dịch, văn bản và các bản ghi khác được sử dụng để cải thiện bản dịch Xiaoai được liên kết với OAID của thiết bị này sẽ bị xóa khỏi máy chủ Xiaomi. Một lượng nhỏ dữ liệu được lấy mẫu đã được sử dụng để giúp cải thiện bản dịch Xiaoai sẽ không còn được liên kết với thiết bị này nữa. </string><string name="restore_text">Khôi phục</string>
+	<string name="remove_improvement_record_hint">Sau khi xác nhận xóa, âm thanh dịch, văn bản và các bản ghi khác được sử dụng để cải thiện bản dịch Xiaoai được liên kết với OAID của thiết bị này sẽ bị xóa khỏi máy chủ Xiaomi. Một lượng nhỏ dữ liệu được lấy mẫu đã được sử dụng để giúp cải thiện bản dịch Xiaoai sẽ không còn được liên kết với thiết bị này nữa. </string>
 	<string name="restore_text">Khôi phục</string>
 	<string name="retry">Thử lại</string>
 	<string name="retry_download_model_hint">Thử lại</string>
@@ -712,7 +712,6 @@ Nếu rút lại sự đồng ý, bạn sẽ không thể sử dụng dịch v�
 	<string name="solar_term_summer_begins">Lập Hạ</string>
 	<string name="solar_term_grain_buds">Tiểu Mãn</string>
 	<string name="solar_term_grain_in_ear">Mang Chủng</string>
-	<string name="sound_recording_permission_describe">For transcribing audio</string>
 	<string name="solar_term_summer_solstice">Hạ Chí</string>
 	<string name="solar_term_slight_heat">Tiểu Thử</string>
 	<string name="solar_term_great_heat">Đại Thử</string>
@@ -726,6 +725,7 @@ Nếu rút lại sự đồng ý, bạn sẽ không thể sử dụng dịch v�
 	<string name="solar_term_light_snow">Tiểu Tuyết</string>
 	<string name="solar_term_heavy_snow">Đại Tuyết</string>
 	<string name="solar_term_winter_solstice">Đông Chí</string>
+	<string name="sound_from_language">Ngôn ngữ âm thanh</string>
 	<string name="sound_mode">Nguồn âm thanh</string>
 	<string name="sound_recording_permission">Ghi âm cuộc gọi và âm thanh</string>
 	<string name="sound_recording_permission_describe">Để phiên âm âm thanh</string>
@@ -893,6 +893,4 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="word_third">Ngôi thứ ba số ít</string>
 	<string name="word_verb">Động từ</string>
 	<string name="yesterday">Hôm qua</string>
-	<string name="banner_item_1_content">Trình dịch trên máy tính bảng của bạn, dễ khởi động, thông minh và hiệu quả</string>
-	<string name="banner_item_5_content">Những gì bạn nhìn thấy trên màn hình máy tính bảng sẽ được dịch, giúp việc đọc ngoại ngữ nhanh hơn một bước</string>
 	</resources>
