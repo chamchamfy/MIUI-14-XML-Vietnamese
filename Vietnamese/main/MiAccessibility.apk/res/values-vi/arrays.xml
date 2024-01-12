@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="auxiliay_instruction_settings_summary">
+		<item>Hiển thị số</item>
+		<item>Hiển thị số liên tục</item>
+		<item>Số ẩn</item>
+	</string-array>
+	<string-array name="auxiliay_instruction_settings_title">
+		<item>Hiển thị số (đơn)</item>
+		<item>Hiển thị số liên tục</item>
+		<item>Số ẩn</item>
+	</string-array>
+	<string-array name="basic_navigation_settings_summary">
+		<item>Nhiệm vụ gần đây, mở nhiệm vụ gần đây</item>
+		<item>Quay lại máy tính để bàn, quay lại máy tính để bàn</item>
+		<item>trở lại</item>
+		<item>Mở Control Center và kéo Control Center xuống</item>
+		<item>Mở trung tâm thông báo và kéo trung tâm thông báo xuống</item>
+		<item>Mở &lt;tên ứng dụng></item>
+		<item>Chọn &lt;nhãn></item>
+		<item>Tôi có thể nói gì, tôi có thể nói gì</item>
+		<item>Xem tất cả hướng dẫn</item>
+		<item>Tạm dừng điều khiển bằng giọng nói, điều khiển bằng giọng nói khi ngủ</item>
+		<item>Đánh thức điều khiển bằng giọng nói, bật điều khiển bằng giọng nói, bắt đầu điều khiển bằng giọng nói</item>
+		<item>Thoát điều khiển bằng giọng nói, dừng điều khiển bằng giọng nói</item>
+		<item>cuộn xuống dưới cùng</item>
+		<item>cuộn lên trên cùng</item>
+		<item>ảnh chụp màn hình, ảnh chụp màn hình, chụp màn hình</item>
+	</string-array>
+	<string-array name="basic_navigation_settings_title">
+		<item>nhiệm vụ gần đây</item>
+		<item>Quay lại máy tính để bàn</item>
+		<item>trở lại</item>
+		<item>Trung tâm điều khiển mở</item>
+		<item>Mở trung tâm thông báo</item>
+		<item>Mở &lt;ứng dụng> (chỉ hiệu quả trên máy tính để bàn)</item>
+		<item>Chọn &lt;nhãn></item>
+		<item>Xem hướng dẫn có sẵn</item>
+		<item>Xem tất cả hướng dẫn</item>
+		<item>Điều khiển giọng nói khi ngủ</item>
+		<item>Đánh thức điều khiển bằng giọng nói</item>
+		<item>Thoát điều khiển bằng giọng nói</item>
+		<item>Cuộn xuống cuối (trang)</item>
+		<item>Cuộn lên đầu (trang)</item>
+		<item>ảnh chụp màn hình</item>
+	</string-array>
+	<string-array name="equipment_operation_settings_summary">
+		<item>Tăng âm lượng, tăng âm lượng, bấm phím tăng âm lượng</item>
+		<item>Giảm âm lượng, giảm âm lượng, bấm vào nút giảm âm lượng</item>
+		<item>Nhấn và giữ nút nguồn</item>
+		<item>khóa màn hình, khóa màn hình</item>
+	</string-array>
+	<string-array name="equipment_operation_settings_title">
+		<item>Bấm vào phím tăng âm lượng</item>
+		<item>Bấm vào nút giảm âm lượng</item>
+		<item>Nhấn và giữ nút nguồn</item>
+		<item>khóa màn hình</item>
+	</string-array>
+	<string-array name="gesture_simulation_settings_summary">
+		<item>Trượt lên, trượt lên</item>
+		<item>Trượt xuống, trượt xuống</item>
+		<item>Vuốt sang trái, trượt sang trái</item>
+		<item>Vuốt sang phải, trượt sang phải</item>
+		<item>Cử chỉ phóng to, thu phóng, dang rộng hai ngón tay</item>
+		<item>Cử chỉ thu nhỏ, thu nhỏ, chụm</item>
+		<item>Click click</item>
+		<item>Nhấp đúp, nhấp đúp</item>
+		<item>Nhấn và giữ lâu</item>
+	</string-array>
+	<string-array name="gesture_simulation_settings_title">
+		<item>Trượt lên</item>
+		<item>Trượt xuống</item>
+		<item>vuốt sang trái</item>
+		<item>vuốt sang phải</item>
+		<item>Kéo ra bằng hai ngón tay</item>
+		<item>Chụm bằng hai ngón tay</item>
+		<item>Nhấp chuột</item>
+		<item>nhấn đúp chuột</item>
+		<item>Nhấn</item>
+	</string-array>
+	<string-array name="preference_key">
+		<item>cú đánh</item>
+		<item>home_alarm</item>
+		<item>bé_khóc</item>
+		<item>Nước</item>
+		<item>mèo_meo</item>
+		<item>sủa</item>
+		<item>còi báo động</item>
+		<item>chuông cửa</item>
+		<item>chuông báo cháy</item>
+		<item>hét lên</item>
+		<item>thủy tinh</item>
+		<item>sừng</item>
+		<item>sôi</item>
+		<item>ho</item>
+	</string-array>
+	<string-array name="quit_time">
+		<item>Sau 1 phút không hoạt động</item>
+		<item>Sau 3 phút không hoạt động</item>
+		<item>Sau 5 phút không hoạt động</item>
+		<item>Không bao giờ</item>
+	</string-array>
+	<string-array name="sound_key">
+		<item>gõ cửa</item>
+		<item>Báo động khói</item>
+		<item>Em bé khóc</item>
+		<item>Nước</item>
+		<item>Con mèo</item>
+		<item>Chó</item>
+		<item>Còi báo động</item>
+		<item>Chuông cửa</item>
+		<item>Chuông báo cháy</item>
+		<item>Hét lên</item>
+		<item>Thủy tinh</item>
+		<item>sừng</item>
+		<item>Sôi</item>
+		<item>Ho</item>
+	</string-array>
+	<string-array name="sound_source_entries">
+		<item>Micrô</item>
+		<item>Âm thanh hệ thống</item>
+	</string-array>
+	<string-array name="text_control_settings_summary">
+		<item>&lt;Văn bản nhập bằng giọng nói></item>
+		<item>dòng mới</item>
+		<item>xóa bỏ</item>
+		<item>Xóa &lt;số từ></item>
+		<item>Xóa &lt;số hàng> hàng</item>
+		<item>Di chuyển con trỏ về phía trước</item>
+		<item>Di chuyển con trỏ &lt;số> về phía trước</item>
+		<item>Di chuyển con trỏ về phía sau</item>
+		<item>Di chuyển con trỏ &lt;số> về phía sau</item>
+		<item>Con trỏ di chuyển về cuối</item>
+		<item>Con trỏ di chuyển để bắt đầu</item>
+		<item>đã chọn</item>
+	</string-array>
+	<string-array name="text_control_settings_title">
+		<item>&lt;Văn bản nhập bằng giọng nói></item>
+		<item>dòng mới</item>
+		<item>xóa bỏ</item>
+		<item>Xóa &lt;số từ></item>
+		<item>Xóa &lt;số hàng> hàng</item>
+		<item>Di chuyển con trỏ về phía trước</item>
+		<item>Di chuyển con trỏ &lt;số> về phía trước</item>
+		<item>Di chuyển con trỏ về phía sau</item>
+		<item>Di chuyển con trỏ &lt;số> về phía sau</item>
+		<item>Con trỏ di chuyển về cuối</item>
+		<item>Con trỏ di chuyển để bắt đầu</item>
+		<item>đã chọn</item>
+	</string-array>
+</resources>
