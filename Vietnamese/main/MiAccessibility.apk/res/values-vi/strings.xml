@@ -26,7 +26,7 @@
 	<string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
 	<string name="abc_shareactionprovider_share_with">Chia sẽ với</string>
 	<string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
-	<string name="abc_toolbar_collapse_description">Xổ ra</string>
+	<string name="abc_toolbar_collapse_description">Thu gọn</string>
 	<string name="accessibility_voice_access_summary">Điều khiển bằng giọng nói do Mi Ditto cung cấp</string>
 	<string name="actionbar_button_up_description">Mặt sau</string>
 	<string name="activate_voice_access_action">Kích hoạt điều khiển bằng giọng nói</string>
@@ -52,7 +52,7 @@
 	<string name="back_prefix">Quay lại</string>
 	<string name="back_summary">Quay lại một bước</string>
 	<string name="back_utterance">quay lại; rút lui</string>
-	<string name="barking">Trang chủ</string>
+	<string name="barking">Tiếng sủa</string>
 	<string name="basic_commands">Hoạt động cơ bản</string>
 	<string name="basic_commands_summary">Điều khiển bằng giọng nói có sẵn</string>
 	<string name="basic_commands_title">Hoạt động cơ bản</string>
@@ -95,7 +95,7 @@
 	<string name="caption_text_size_large">L</string>
 	<string name="caption_text_size_mid">M</string>
 	<string name="caption_text_size_small">S</string>
-	<string name="cat_meow">Meo meo</string>
+	<string name="cat_meow">Mèo kêu</string>
 	<string name="character_counter_content_description">Đã vượt quá giới hạn ký tự %1$d của %2$d</string>
 	<string name="character_counter_pattern">%1$d / %2$d</string>
 	<string name="checkbox_text">Công tắc</string>
@@ -194,7 +194,7 @@
 	<string name="control_phone">Kiểm soát thiết bị</string>
 	<string name="copy">Sao chép</string>
 	<string name="copy_message_text">Sao chép</string>
-	<string name="cough">ho</string>
+	<string name="cough">Ho</string>
 	<string name="create_shortcut_tips">Cho phép tạo lối tắt Màn hình chính trong Cài đặt trước.</string>
 	<string name="create_shortcut_tips2">Cho phép tạo lối tắt Màn hình chính trước.</string>
 	<string name="current_command">Tôi có thể nói gì?</string>
@@ -390,7 +390,7 @@
 	<string name="hide_numbers_summary">Ẩn số hiển thị trên các mục</string>
 	<string name="hide_overlay_utterance">Ẩn số</string>
 	<string name="highlight_list_text">Danh sách quan trọng</string>
-	<string name="home">Trang chủ</string>
+	<string name="home">Nhà</string>
 	<string name="home_alarm">Thiết bị gia dụng (máy dò khói và gas)</string>
 	<string name="home_message">Màn hình nền</string>
 	<string name="home_utterance">Màn hình nền</string>
@@ -412,8 +412,8 @@
 	<string name="iv_fw_resize_content_description">Điều chỉnh kích thước của ứng dụng thu nhỏ</string>
 	<string name="iv_speaking_content_description">Phát</string>
 	<string name="key_delete">Xóa</string>
-	<string name="key_new_line">dòng mới</string>
-	<string name="knock">gõ cửa</string>
+	<string name="key_new_line">Dòng mới</string>
+	<string name="knock">Gõ cửa</string>
 	<string name="know">Hiểu rồi</string>
 	<string name="label_miui_enhance_tb">MiuiEnhanceTalkback</string>
 	<string name="landscape_screen_name">Màn hình ngang</string>
@@ -555,7 +555,7 @@
 	<string name="pm">CH</string>
 	<string name="power_menu_utterance">Nguồn; nhấn và giữ nút nguồn</string>
 	<string name="preference_authorization_title">Chính sách bảo mật</string>
-	<string name="preference_category_authorization__title">Chính sách bảo mật</string>
+	<string name="preference_category_authorization_title">Chính sách bảo mật</string>
 	<string name="preference_category_function_title">Đặc trưng</string>
 	<string name="preference_category_help_and_feedback_title">Dịch vụ và phản hồi</string>
 	<string name="preference_category_title_permission_authorization">Quyền riêng tư và quyền</string>
@@ -565,7 +565,7 @@
 	<string name="preference_engine_type_title">Chọn công cụ giọng nói</string>
 	<string name="preference_engine_type_xiaoai">Mi AI</string>
 	<string name="preference_feedback_title">Nhận xét</string>
-	<string name="preference_introduce_title">Câu hỏi thường gặp</string>
+	<string name="preference_introduce_title">FAQ</string>
 	<string name="preference_permission_title">Quyền</string>
 	<string name="preference_revoke_authorization_summary">Sau đó, bạn sẽ phải cấp quyền để có thể sử dụng lại Mi Ditto.</string>
 	<string name="preference_revoke_authorization_title">Rút lại sự đồng ý</string>

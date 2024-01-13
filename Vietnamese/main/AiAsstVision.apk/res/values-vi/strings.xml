@@ -602,7 +602,7 @@ Lưu ý rằng ứng dụng này cần kết nối với internet và yêu cầu
 	<string name="pref_title_auto_export_to_notes">Xuất tự động</string>
 	<string name="pref_title_distinguish_speaker">Phân biệt những người nói</string>
 	<string name="pref_title_floating_window_background">Nền cửa sổ nổi</string>
-	<string name="pref_title_introduce">Câu hỏi thường gặp</string>
+	<string name="pref_title_introduce">FAQ</string>
 	<string name="pref_title_know_ai_translate">Giới thiệu về phụ đề</string>
 	<string name="pref_title_recognition_and_translation">Nhận dạng và dịch</string>
 	<string name="pref_title_shortcut">Lối tắt màn hình chính</string>

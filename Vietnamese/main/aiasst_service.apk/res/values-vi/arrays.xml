@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="entries_dropdown_preference">
+		<item>Đồ họa</item>
+		<item>Số nội bộ</item>
+		<item>Số bên ngoài</item>
+	</string-array>
+	<string-array name="meaningless_words">
+		<item>Ừm</item>
+		<item>Được rồi</item>
+		<item>Ờ</item>
+		<item>Ừ</item>
+		<item>Vâng</item>
+		<item>Tốt</item>
+		<item>Vâng bạn</item>
+		<item>Xin chào</item>
+		<item>Vâng bạn</item>
+		<item>À xin chào</item>
+		<item>Xin chào</item>
+		<item>Vì</item>
+		<item>Xin chào</item>
+		<item>Này này này</item>
+		<item>Này</item>
+		<item>Xin chào</item>
+		<item>Xin chào</item>
+		<item>Này bạn</item>
+		<item>Xin chào</item>
+		<item>Vì lợi ích của riêng bạn</item>
+		<item>Xin chào</item>
+		<item>Này bạn</item>
+		<item>Xin chào</item>
+		<item>Xin chào</item>
+		<item>Xin chào</item>
+		<item>Bạn</item>
+		<item>Xin chào</item>
+		<item>Bạn</item>
+		<item>Xin chào</item>
+		<item>À</item>
+		<item>Hở</item>
+		<item>Chào</item>
+		<item>Này bạn</item>
+		<item>Này xin chào</item>
+		<item>Chào</item>
+		<item>Này bạn</item>
+		<item>Này bạn</item>
+		<item>Xin chào</item>
+		<item>Xin chào</item>
+		<item>Ồ</item>
+		<item>Ồ ồ</item>
+		<item>Đừng</item>
+		<item>Mắt</item>
+		<item>Ăn</item>
+		<item>Con số</item>
+		<item>Nói dối</item>
+		<item>Cố gắng tìm</item>
+		<item>Đột nhiên</item>
+		<item>Xinh đẹp</item>
+		<item>Thù lao</item>
+		<item>Canh</item>
+		<item>Con bò đực</item>
+		<item>Chào</item>
+		<item>Thịt</item>
+		<item>Cái gì</item>
+		<item>Cái đó</item>
+		<item>Không có</item>
+		<item>Ha</item>
+		<item>Em gái</item>
+		<item>Lấy</item>
+		<item>Dừng lại</item>
+		<item>Buổi tiệc</item>
+		<item>7</item>
+		<item>Hát</item>
+		<item>Đắt</item>
+		<item>Nhìn</item>
+		<item>Nhón</item>
+		<item>Quân đội</item>
+		<item>Cây kim</item>
+		<item>Màu đỏ</item>
+		<item>Bầu trời</item>
+		<item>Não</item>
+		<item>Giống</item>
+		<item>Sinh ra</item>
+		<item>Hình ảnh</item>
+		<item>Sách</item>
+		<item>Sấm sét</item>
+		<item>Nhanh</item>
+		<item>Hiểu</item>
+		<item>Nam giới</item>
+		<item>Thay đổi</item>
+		<item>6</item>
+		<item>Mạng lưới</item>
+		<item>Cao</item>
+		<item>Nhóm</item>
+		<item>Xu</item>
+		<item>Tuần</item>
+		<item>Tốc biến</item>
+		<item>Hạng hai</item>
+		<item>Trung tâm</item>
+		<item>Núi</item>
+		<item>Xâm phạm</item>
+		<item>Tốt</item>
+		<item>Đúng</item>
+		<item>Hỏi</item>
+		<item>Chơi</item>
+		<item>Cuộn</item>
+		<item>Nghĩ</item>
+		<item>Câu hỏi</item>
+		<item>Cắt</item>
+		<item>Đứng</item>
+		<item>Mang đến </item>
+		<item>Bữa ăn</item>
+		<item>Cầu</item>
+		<item>Rút lui</item>
+		<item>Chỉ</item>
+		<item>Con tôm</item>
+		<item>Em gái</item>
+		<item>Phải</item>
+		<item>Nặng</item>
+		<item>Chúng tôi</item>
+		<item>Chỉ</item>
+		<item>Tuyệt</item>
+		<item>Điều</item>
+		<item>Tóc</item>
+		<item>Mặt trăng</item>
+		<item>Gọi</item>
+		<item>Đưa cho</item>
+		<item>Làm phiền</item>
+		<item>Trái tim</item>
+		<item>Đá</item>
+		<item>Con lừa</item>
+		<item>Thư</item>
+		<item>Nhìn thấy</item>
+		<item>Mùa thu</item>
+		<item>Xin vui lòng</item>
+		<item>Buổi sáng</item>
+		<item>Chặt</item>
+		<item>Khô</item>
+		<item>Bún</item>
+		<item>Lạnh lẽo</item>
+		<item>Tình dục</item>
+		<item>Tuyết</item>
+		<item>Bán</item>
+		<item>Cái túi</item>
+		<item>Rộng</item>
+		<item>Có</item>
+		<item>Cỏ</item>
+		<item>Vâng</item>
+		<item>Cài đặt</item>
+		<item>Ah</item>
+		<item>Hoàn thành</item>
+		<item>Ổn định</item>
+		<item>Vây quanh</item>
+		<item>Mở</item>
+		<item>Nước Anh</item>
+		<item>Bận</item>
+		<item>Nhìn thấy</item>
+		<item>Dưa gang</item>
+		<item>Mọi người</item>
+		<item>Anh trai</item>
+		<item>Giúp đỡ</item>
+		<item>Cũ</item>
+		<item>Ở giữa</item>
+		<item>Trắng</item>
+		<item>Ngựa</item>
+		<item>Ngọn lửa</item>
+		<item>Đôi</item>
+		<item>Chim</item>
+		<item>Thảm họa</item>
+		<item>Sẽ</item>
+		<item>Bạc</item>
+		<item>Đơn giản</item>
+		<item>Muốn</item>
+		<item>Sợ</item>
+		<item>Tiền bạc</item>
+		<item>Bắn</item>
+		<item>Cười</item>
+		<item>Đèn</item>
+		<item>Sữa</item>
+		<item>Thay đổi</item>
+		<item>Mười</item>
+		<item>Ngủ</item>
+		<item>Dương</item>
+		<item>Màu sắc</item>
+		<item>Đừng</item>
+		<item>Chúa</item>
+		<item>Dài</item>
+		<item>Ngậm trong miệng</item>
+		<item>Củi</item>
+		<item>6</item>
+		<item>Mua</item>
+		<item>Cá</item>
+		<item>Đầu tiên</item>
+		<item>Nắm lấy</item>
+		<item>Giống</item>
+		<item>Tiền bạc</item>
+		<item>Chải</item>
+		<item>Làm</item>
+		<item>Sàn nhà</item>
+		<item>Vượt qua</item>
+		<item>Ở đâu</item>
+		<item>Trán</item>
+		<item>Ấm</item>
+		<item>Buồn ngủ</item>
+		<item>Tốt</item>
+		<item>Năm</item>
+		<item>Thuốc lá</item>
+		<item>Tiết tấu</item>
+		<item>Nói chuyện</item>
+		<item>Nhận được</item>
+		<item>Mỗi lần</item>
+		<item>Nghệ thuật</item>
+		<item>Cổ xưa</item>
+		<item>Răng</item>
+		<item>Màu vàng</item>
+		<item>Giày</item>
+		<item>Đồng ý</item>
+		<item>Giải thích</item>
+		<item>Có thể</item>
+		<item>Con mèo</item>
+		<item>Cuộc họp</item>
+		<item>Ai</item>
+		<item>Trò chuyện</item>
+		<item>Cảm ơn</item>
+		<item>Kiểm tra</item>
+		<item>Di chuyển</item>
+		<item>Đêm</item>
+		<item>0</item>
+		<item>Rồng</item>
+		<item>Chiều rộng</item>
+		<item>Đám mây</item>
+		<item>Nước tiểu</item>
+		<item>Ngày</item>
+		<item>Xe hơi</item>
+		<item>Miệng</item>
+		<item>Sử dụng</item>
+		<item>OK</item>
+		<item>Điện</item>
+		<item>Nước</item>
+		<item>Liên quan đến</item>
+		<item>Ngắn</item>
+		<item>Rau quả</item>
+		<item>Sắt</item>
+		<item>Sáng</item>
+		<item>Sai</item>
+		<item>Xue</item>
+		<item>Hơn là</item>
+		<item>Bên trong</item>
+		<item>Mặt trời</item>
+		<item>Chết</item>
+		<item>Mát mẻ</item>
+		<item>Trẻ</item>
+		<item>Chắc chắn</item>
+		<item>Dây điện</item>
+		<item>Ngu xuẩn</item>
+		<item>Thậm chí</item>
+		<item>Thơm</item>
+		<item>Quanh co</item>
+		<item>Nỗi đau</item>
+		<item>3</item>
+		<item>0</item>
+		<item>Lữ</item>
+		<item>Cô bé</item>
+		<item>Việc kinh doanh</item>
+		<item>Chảo</item>
+		<item>Lười</item>
+		<item>Chó sói</item>
+		<item>Phong</item>
+		<item>Cơn mưa</item>
+		<item>Cửa</item>
+		<item>Axit</item>
+		<item>Thắng</item>
+		<item>Đậu</item>
+		<item>Kích thước</item>
+		<item>Lưu</item>
+		<item>Điểm</item>
+		<item>Hồ</item>
+		<item>Mờ nhạt</item>
+		<item>Rút</item>
+		<item>Đường</item>
+		<item>Chuyên môn hóa</item>
+		<item>Mập</item>
+		<item>Tại sao</item>
+		<item>Đóng gói</item>
+		<item>Gỗ</item>
+		<item>Bữa ăn</item>
+		<item>Mập</item>
+		<item>Ánh sáng</item>
+		<item>Mặt sau</item>
+		<item>Chân</item>
+		<item>Dám</item>
+		<item>Quả bóng</item>
+		<item>Khéo léo</item>
+		<item>Xấu</item>
+		<item>Phật</item>
+		<item>Mặc</item>
+		<item>Kêu vang</item>
+		<item>Ngốc nghếch</item>
+		<item>Tốt</item>
+		<item>Ồ</item>
+		<item>Ah</item>
+		<item>Chào</item>
+		<item>Đây</item>
+		<item>Chờ đợi</item>
+		<item>Con lợn</item>
+		<item>Người đàn ông</item>
+		<item>Cái</item>
+		<item>Khóc</item>
+		<item>Từ</item>
+		<item>Tụng kinh</item>
+		<item>Phiên bản</item>
+		<item>Thị trấn</item>
+		<item>Xấu xí</item>
+		<item>Giấm</item>
+		<item>Hố</item>
+		<item>2</item>
+		<item>Thứ hai</item>
+		<item>4</item>
+		<item>9</item>
+		<item>7</item>
+		<item>Quần áo</item>
+		<item>8</item>
+		<item>Nhìn</item>
+		<item>Pooh</item>
+		<item>Bàn chân</item>
+		<item>Thẻ</item>
+		<item>Lài</item>
+		<item>Y</item>
+		<item>Cắn</item>
+		<item>Đơn độc</item>
+		<item>Tại</item>
+		<item>Đứa bé</item>
+		<item>Ngủ</item>
+		<item>Rời khỏi</item>
+		<item>Mạnh mẽ</item>
+		<item>Sâu</item>
+		<item>Tiếng Tây Tạng</item>
+		<item>Nhẫn</item>
+		<item>Huyện</item>
+		<item>Khuôn mặt</item>
+		<item>Chậm</item>
+		<item>Tao</item>
+		<item>5</item>
+		<item>Tuổi</item>
+		<item>Yo</item>
+		<item>Cơm</item>
+		<item>Bông</item>
+		<item>Chà xát</item>
+		<item>Giấy</item>
+		<item>Nhẹ nhàng</item>
+		<item>Sâu</item>
+		<item>Cá nhân</item>
+		<item>Xây dựng</item>
+		<item>Nhóm</item>
+		<item>Ăn xin</item>
+		<item>Nơi cư trú</item>
+		<item>Lực lượng</item>
+		<item>Tài năng</item>
+		<item>Đặng</item>
+		<item>Chó</item>
+		<item>Mềm mại</item>
+		<item>Quét</item>
+		<item>Ngôi sao</item>
+		<item>Vinh quang</item>
+		<item>Bức vẽ</item>
+		<item>Âm</item>
+		<item>Gọi </item>
+		<item>Tên</item>
+		<item>Nam giới</item>
+		<item>Dải</item>
+		<item>Cao</item>
+		<item>Sống</item>
+		<item>Khóa</item>
+		<item>Việt</item>
+		<item>Trang chủ</item>
+		<item>Hố</item>
+		<item>Dâu tằm</item>
+		<item>Người Trung Quốc</item>
+		<item>Bên trái</item>
+		<item>Máy khoan</item>
+		<item>1</item>
+		<item>Lữ</item>
+		<item>Cỏ</item>
+		<item>Một</item>
+		<item>Hai</item>
+		<item>Ba</item>
+		<item>Bốn</item>
+		<item>Năm</item>
+		<item>Sáu</item>
+		<item>Bảy</item>
+		<item>Tám</item>
+		<item>Chín</item>
+		<item>Mười</item>
+	</string-array>
+	<string-array name="setting_callIng_time">
+		<item>Trả lời ngay bây giờ</item>
+		<item>3 giây</item>
+		<item>5 giây</item>
+		<item>10 giây</item>
+		<item>20 tuổi</item>
+		<item>30 tuổi</item>
+		<item>45 giây</item>
+	</string-array>
+	<string-array name="welcome_tips">
+		<item>Chào bạn!</item>
+		<item>Chào bạn! Bạn đang nói chuyện với Mi AI. Tôi là trợ lý của người bạn đang gọi.</item>
+	</string-array>
+</resources>

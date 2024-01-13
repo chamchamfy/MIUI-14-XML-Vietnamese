@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+		<item quantity="one">1 giờ trước</item>
+		<item quantity="few">1 giờ trước</item>
+		<item quantity="many">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_a_hour_ago">
+		<item quantity="other">1 giờ trước</item>
+		<item quantity="one">1 giờ trước</item>
+		<item quantity="few">1 giờ trước</item>
+		<item quantity="many">1 giờ trước</item>
+	</plurals>
+	<plurals name="abbrev_half_hour_ago">
+		<item quantity="other">Nửa tiếng trước</item>
+		<item quantity="one">Nửa tiếng trước</item>
+		<item quantity="few">Nửa tiếng trước</item>
+		<item quantity="many">Nửa tiếng trước</item>
+	</plurals>
+	<plurals name="abbrev_in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+		<item quantity="one">Trong 1 giờ</item>
+		<item quantity="few">Trong 1 giờ</item>
+		<item quantity="many">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="abbrev_in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+		<item quantity="one">Trong nửa giờ</item>
+		<item quantity="few">Trong nửa giờ</item>
+		<item quantity="many">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="abbrev_in_less_than_one_minute">
+		<item quantity="other">Ngay lập tức</item>
+		<item quantity="one">Ngay lập tức</item>
+		<item quantity="few">Ngay lập tức</item>
+		<item quantity="many">Ngay lập tức</item>
+	</plurals>
+	<plurals name="abbrev_in_num_minutes">
+		<item quantity="other">Trong %d phút</item>
+		<item quantity="one">Sau 1 phút</item>
+		<item quantity="few">Trong %d phút</item>
+		<item quantity="many">Trong %d phút</item>
+	</plurals>
+	<plurals name="abbrev_less_than_one_minute_ago">
+		<item quantity="other">Vừa rồi</item>
+		<item quantity="one">Vừa rồi</item>
+		<item quantity="few">Vừa rồi</item>
+		<item quantity="many">Vừa rồi</item>
+	</plurals>
+	<plurals name="abbrev_num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+		<item quantity="few">%d phút trước</item>
+		<item quantity="many">%d phút trước</item>
+	</plurals>
+	<plurals name="disable_taplus_apps">
+		<item quantity="other">%d ứng dụng không sử dụng Taplus</item>
+		<item quantity="one">%d ứng dụng không sử dụng Taplus</item>
+	</plurals>
+	<plurals name="enable_taplus_apps">
+		<item quantity="other">%d ứng dụng sử dụng Taplus</item>
+		<item quantity="one">%d ứng dụng sử dụng Taplus</item>
+	</plurals>
+	<plurals name="enable_taplus_apps_count">
+		<item quantity="other">%d ứng dụng</item>
+		<item quantity="one">%d ứng dụng</item>
+	</plurals>
+	<plurals name="find_applications">
+		<item quantity="other">Tìm kiếm trong số %d các ứng dụng</item>
+		<item quantity="one">Tìm kiếm trong số %d ứng dụng</item>
+	</plurals>
+	<plurals name="half_hour_ago">
+		<item quantity="other">Nửa tiếng trước</item>
+		<item quantity="one">Nửa tiếng trước</item>
+		<item quantity="few">Nửa tiếng trước</item>
+		<item quantity="many">Nửa tiếng trước</item>
+	</plurals>
+	<plurals name="in_a_hour">
+		<item quantity="other">Trong 1 giờ</item>
+		<item quantity="one">Trong 1 giờ</item>
+		<item quantity="few">Trong 1 giờ</item>
+		<item quantity="many">Trong 1 giờ</item>
+	</plurals>
+	<plurals name="in_half_hour">
+		<item quantity="other">Trong nửa giờ</item>
+		<item quantity="one">Trong nửa giờ</item>
+		<item quantity="few">Trong nửa giờ</item>
+		<item quantity="many">Trong nửa giờ</item>
+	</plurals>
+	<plurals name="in_less_than_one_minute">
+		<item quantity="other">Ngay lập tức</item>
+		<item quantity="one">Ngay lập tức</item>
+		<item quantity="few">Ngay lập tức</item>
+		<item quantity="many">Ngay lập tức</item>
+	</plurals>
+	<plurals name="in_num_minutes">
+		<item quantity="other">trong %d phút</item>
+		<item quantity="one">sau 1 phút</item>
+		<item quantity="few">trong %d phút</item>
+		<item quantity="many">trong %d phút</item>
+	</plurals>
+	<plurals name="less_than_one_minute_ago">
+		<item quantity="other">Vừa rồi</item>
+		<item quantity="one">Vừa rồi</item>
+		<item quantity="few">Vừa rồi</item>
+		<item quantity="many">Vừa rồi</item>
+	</plurals>
+	<plurals name="miuix_appcompat_items_selected">
+		<item quantity="other">%d mục đã chọn</item>
+		<item quantity="one">%d mục đã chọn</item>
+		<item quantity="few">%d mục đã chọn</item>
+		<item quantity="many">%d mục đã chọn</item>
+	</plurals>
+	<plurals name="num_minutes_ago">
+		<item quantity="other">%d phút trước</item>
+		<item quantity="one">1 phút trước</item>
+		<item quantity="few">%d phút trước</item>
+		<item quantity="many">%d phút trước</item>
+	</plurals>
+	<plurals name="settings_added_blacklist_title">
+		<item quantity="other">%d ứng dụng được thêm vào ngoại lệ</item>
+		<item quantity="one">%d ứng dụng đã được thêm vào ngoại lệ</item>
+		<item quantity="few">%d ứng dụng được thêm vào ngoại lệ</item>
+		<item quantity="many">%d ứng dụng đã được thêm vào ngoại lệ</item>
+	</plurals>
+	<plurals name="settings_no_added_blacklist_title">
+		<item quantity="other">%d ứng dụng có sẵn</item>
+		<item quantity="one">%d ứng dụng có sẵn</item>
+		<item quantity="few">%d ứng dụng có sẵn</item>
+		<item quantity="many">%d ứng dụng có sẵn</item>
+	</plurals>
+</resources>
