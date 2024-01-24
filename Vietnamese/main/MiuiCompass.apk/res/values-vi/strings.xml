@@ -51,8 +51,6 @@
     <string name="altitude_uncalibrate_msg">Không thể đo chính xác độ cao nếu không có kết nối dữ liệu di động hoặc GPS.</string>
     <string name="altitude_uncalibrate_refresh">Thử lại</string>
     <string name="altitude_uncalibrate_cancel">Hủy</string>
-    <string name="app_description_title">Giới thiệu về La bàn</string>
-    <string name="app_description_content">La bàn được sử dụng để điều hướng, định hướng và hiển thị phương hướng. Chắc chắn rằng bạn có thể thực hiện mà không cần tính năng này trước khi gỡ bỏ ứng dụng.</string>
     <string name="calibrate_altitude">Đang đo…</string>
     <string name="getting_location">Đang đo…</string>
     <string name="menu_calibrate">Cân chỉnh la bàn</string>
@@ -417,4 +415,6 @@
 	<string name="fmt_time">T</string>
 	<string name="location_permission_tip_one">Nhấn để cấp quyền truy cập vị trí để xem vĩ độ, kinh độ, áp suất không khí và độ cao.</string>
     <string name="location_permission_tip_two">Nhấn để cấp quyền truy cập vị trí để xem vĩ độ và kinh độ.</string>
+	<string name="app_description_content">"La bàn là một ứng dụng hệ thống. Bạn sẽ không thể sử dụng nó để kiểm tra chỉ đường, tọa độ, áp suất khí quyển và độ cao hiện tại sau khi gỡ bỏ."</string>
+    <string name="app_description_title">Gỡ bỏ La bàn?</string>
 </resources>

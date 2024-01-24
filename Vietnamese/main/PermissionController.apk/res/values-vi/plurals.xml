@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
 	<plurals name="additional_permissions_more">
@@ -24,4 +25,8 @@
 	<plurals name="seconds">
 		<item quantity="other">%s giây</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d thông báo mới</item>
+        <item quantity="one">%d thông báo mới</item>
+    </plurals>
 </resources>

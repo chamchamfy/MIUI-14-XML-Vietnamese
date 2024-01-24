@@ -230,8 +230,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="particulate_matter_exceeded">Cao</string>
     <string name="particulate_matter_serious_exceeded">Quá cao</string>
     <string name="city_exceeded_warning">Bạn có thể thêm đến 10 thành phố</string>
-    <string name="xiaomi_weather_description_title">Giới thiệu Thời tiết</string>
-    <string name="xiaomi_weather_description_content">Thời tiết cung cấp cho bạn thông tin thời tiết chính xác. Không có ứng dụng này, thanh trạng thái và tiện ích Thời tiết Màn hình chính không thể làm việc bình thường. Chắc chắn rằng bạn không cần tính năng này trước khi bạn gỡ bỏ ứng dụng.</string>
     <string name="real_time_sunrise">Bình minh %1$s</string>
     <string name="real_time_sunset">Hoàng hôn %1$s</string>
     <string name="act_find_city_hot_title">Thành phố nổi tiếng</string>
@@ -857,4 +855,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="customer_service_hotline">Hotline dịch vụ khách hàng: 400-100-5678</string>
 	<string name="aqi_24_hours_desc">Dự báo AQI 24 giờ</string>
 	<string name="aqi_15_days_desc">Dự báo AQI 15 ngày</string>
+	<string name="xiaomi_weather_description_content">"Thời tiết là một ứng dụng hệ thống. Bạn sẽ không thể xem thông tin thời tiết hoặc sử dụng các tiện ích liên quan sau khi gỡ bỏ."</string>
+    <string name="xiaomi_weather_description_title">Gỡ bỏ Thời tiết?</string>
 </resources>

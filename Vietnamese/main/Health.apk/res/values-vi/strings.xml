@@ -1803,7 +1803,7 @@ Các thử nghiệm của chúng tôi cho thấy rằng phương pháp này đo 
 	<string name="course_search_no_result">Không tìm thấy khóa học tương ứng</string>
 	<string name="mcv2_music_artist_unknown_text">Nghệ sĩ không xác định</string>
 	<string name="mcv2_playback_error_text">"Không thể phát mục bạn yêu cầu"</string>
-	<string name="health_uninstall_dialog_content">"Sức khỏe Xiaomi là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm số bước, theo dõi giấc ngủ, thời gian và cân nặng, cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ. "</string>
+	<string name="health_uninstall_dialog_content">"Sức khỏe Xiaomi là một ứng dụng hệ thống. Bạn có thể sử dụng ứng dụng này để đếm số bước, theo dõi giấc ngủ, thời gian và cân nặng, cũng như đồng bộ hóa số liệu thống kê của bạn với đám mây. Bạn sẽ không thể sử dụng ứng dụng này sau khi gỡ bỏ."</string>
 	<string name="MediaControlView_ad_text">Ghé thăm nhà quảng cáo</string>
 	<string name="mcv2_cc_is_on">Phụ đề đang bật. Bấm để ẩn nó.</string>
 	<string name="mcv2_next_button_desc">Phương tiện tiếp theo</string>
