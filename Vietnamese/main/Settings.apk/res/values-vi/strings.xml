@@ -6805,8 +6805,8 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="bootloader_device_bind_no_data_network">Tắt WLAN rồi thêm tài khoản và thiết bị bằng dữ liệu di động.</string>
     <string name="bootloader_device_bind_server_token_expired_1">Không thể xác thực. Thử thêm lại tài khoản và thiết bị</string>
     <string name="bootloader_device_bind_server_token_expired_2">Không thể xác thực. Đăng nhập vào tài khoản của bạn và làm lại từ đầu.</string>
-    <string name="camera_front">%s trước</string>
-    <string name="camera_rear">%s sau</string>
+    <string name="camera_front">Trước %s</string>
+    <string name="camera_rear">Sau %s</string>
     <string name="change_theme_reboot">Thay đổi chủ đề cần phải khởi động lại.</string>
     <string name="child_mode_settings">Kiểm soát của phụ huynh</string>
     <string name="connected">Đã kết nối</string>
@@ -7723,7 +7723,7 @@ Cập nhật cài đặt thành:
     <string name="device_description_cpu">Bộ vi xử lý</string>
     <string name="device_description_battery">Dung lượng pin</string>
     <string name="device_description_camera">Máy ảnh sau</string>
-    <string name="device_description_screen">K.thước màn hình</string>
+    <string name="device_description_screen">Màn hình</string>
     <string name="device_description_resolution">Độ phân giải</string>
     <string name="device_description_ram">RAM</string>
     <string name="default_launcher_set_jeejen_message">Bấm phím Trang chính để thiết lập Jeejen</string>
@@ -14747,5 +14747,8 @@ Thao tác xóa phương thức khóa sẽ xóa mẫu vân tay lưu trên thiết
     <string name="display_notification_icon_1">%d biểu tượng</string>
     <string name="display_notification_icon_3">%d biểu tượng</string>
     <string name="display_notification_icon_5">%d biểu tượng</string>
-	<string name="title_show_notification_icon_count">Hiển thị số biểu tượng thông báo</string>
+	<string name="title_show_notification_icon_count">Hiển thị biểu tượng thông báo</string>
+	<string name="my_device_front_camera">Máy ảnh trước</string>
+    <string name="my_device_guarantee">Thời hạn bảo hành</string>
+	<string name="my_device_real_camera">Máy ảnh sau</string>
 </resources>
