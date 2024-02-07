@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
+        <item quantity="one">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d teepj tin</item>
+    </plurals>
     <plurals name="autofill_picker_some_suggestions">
         <item quantity="other">%1$s đề xuất tự động điền</item>
         <item quantity="one">Một đề xuất tự động điền</item>
@@ -80,10 +87,6 @@
         <item quantity="other">%1$d trong số %2$d</item>
         <item quantity="one">1 kết quả</item>
     </plurals>
-    <plurals name="pinpuk_attempts">
-        <item quantity="other">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
-        <item quantity="one">Bạn còn %d lần thử trước khi SIM bị khóa.</item>
-    </plurals>
     <plurals name="restr_pin_countdown">
         <item quantity="other">Hãy thử lại sau %d giây</item>
         <item quantity="one">Hãy thử lại sau 1 giây</item>
@@ -152,7 +155,4 @@
         <item quantity="other">%d giây</item>
         <item quantity="one">1 giây</item>
     </plurals>
-	<plurals name="file_count">
-		<item quantity="other">%1$s + %2$d teepj tin</item>
-	</plurals>
 </resources>

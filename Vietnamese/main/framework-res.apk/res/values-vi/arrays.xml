@@ -6,16 +6,6 @@
         <item>Khác</item>
         <item>Tùy chỉnh</item>
     </string-array>
-    <string-array name="imProtocols">
-        <item>AIM</item>
-        <item>Windows Live</item>
-        <item>Yahoo</item>
-        <item>Skype</item>
-        <item>QQ</item>
-        <item>Google Talk</item>
-        <item>ICQ</item>
-        <item>Jabber</item>
-    </string-array>
     <string-array name="organizationTypes">
         <item>Cơ quan</item>
         <item>Khác</item>
@@ -37,9 +27,34 @@
         <item>Khác</item>
         <item>Tùy chỉnh</item>
     </string-array>
-    <string-array name="app_ops_labels">
-        <item>Đang cố bật Wi-Fi</item>
-        <item>Đang cố bật BlueTooth</item>
+    <string-array name="imAddressTypes">
+        <item>Nhà riêng</item>
+        <item>Cơ quan</item>
+        <item>Khác</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Dữ liệu di động</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Để gọi điện và gửi tin nhắn qua Wi-Fi, trước tiên hãy yêu cầu nhà cung cấp dịch vụ của bạn thiết lập dịch vụ này. Sau đó, bật lại gọi qua Wi-Fi từ Cài đặt. (Mã lỗi: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Đăng ký với nhà cung cấp dịch vụ của bạn (Mã lỗi: %1$s)</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
         <item>Thử lại</item>
@@ -70,29 +85,14 @@
         <item>Di chuyển ngón tay của bạn một chút</item>
         <item>Dấu vân tay này đã được thêm, sử dụng ngón tay khác</item>
     </string-array>
-    <string-array name="imAddressTypes">
-        <item>Nhà riêng</item>
-        <item>Cơ quan</item>
-        <item>Khác</item>
-        <item>Tùy chỉnh</item>
-    </string-array>
-    <string-array name="network_switch_type_name">
-        <item>Dữ liệu di động</item>
-        <item>Wi-Fi</item>
-        <item>Bluetooth</item>
-        <item>Ethernet</item>
-        <item>VPN</item>
+    <string-array name="app_ops_labels">
+        <item>Đang cố bật Wi-Fi</item>
+        <item>Đang cố bật BlueTooth</item>
     </string-array>
     <string-array name="special_locale_names">
         <item>Tiếng Ả Rập</item>
         <item>Tiếng Trung (Giản Thể)</item>
         <item>Tiếng Trung (Phồn Thể)</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Để gọi điện và gửi tin nhắn qua Wi-Fi, trước tiên hãy yêu cầu nhà cung cấp dịch vụ của bạn thiết lập dịch vụ này. Sau đó, bật lại gọi qua Wi-Fi từ Cài đặt. (Mã lỗi: %1$s)</item>
-    </string-array>
-    <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Đăng ký với nhà cung cấp dịch vụ của bạn (Mã lỗi: %1$s)</item>
     </string-array>
     <string-array name="origin_carrier_names">
         <item>CHINA MOBILE</item>
