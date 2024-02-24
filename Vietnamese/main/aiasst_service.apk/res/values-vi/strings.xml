@@ -1088,7 +1088,7 @@
 	<string name="welcome">Đặt lời chào của bạn</string>
 	<string name="what_is_auto_pick">Trả lời tự động là gì?</string>
 	<string name="what_is_manual_pick">Nhận hàng thủ công là gì?</string>
-	<string name="withdraw_consent">Rút lại sự đồng ý</string>
+	<string name="withdraw_consent">Dịch nội dung</string>
 	<string name="withdraw_consent_dialog_content">Bạn sẽ không thể sử dụng Mi AI Call Assistant nếu bạn chọn rút lại sự đồng ý. Nếu sau này bạn muốn sử dụng lại dịch vụ này, bạn cần phải đồng ý với Chính sách quyền riêng tư trong cài đặt ứng dụng. Vẫn rút lại sự đồng ý?</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Cập nhật</string>
