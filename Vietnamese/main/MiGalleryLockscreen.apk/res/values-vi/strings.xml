@@ -248,7 +248,7 @@
     <string name="passport_registered_phone_user_name">Tên người dùng: %s</string>
     <string name="passport_password_req_notice">Mật khẩu phải dài 8-16 ký tự và kết hợp ít nhất hai trong số sau: chữ số, chữ cái và ký hiệu đặc biệt (ví dụ: 123abc@# hoặc 123abc hoặc abc@#).</string>
     <string name="passport_reset_password_prompt">Mật khẩu không chính xác</string>
-    <string name="passport_reset_password_title">Thiết lập lại mật khẩu</string>
+    <string name="passport_reset_password_title">Đặt lại mật khẩu</string>
     <string name="passport_auto_generate_pwd">Tạo mật khẩu bảo mật</string>
     <string name="passport_pwd_generate_failure">Không thể tạo mật khẩu</string>
     <string name="passport_use_generated_pwd_title">Nhớ mật khẩu của bạn</string>
@@ -343,7 +343,7 @@
     <string name="passport_login_failed">Không thể đăng nhập</string>
     <string name="passport_reg_failed">Không thể thiết lập tài khoản</string>
     <string name="passport_verification_failed">Xác thực thất bại</string>
-    <string name="passport_reset_fail_title">Không thể thiết lập lại mật khẩu</string>
+    <string name="passport_reset_fail_title">Không thể đặt lại mật khẩu</string>
     <string name="passport_identification_expired">Mã xác minh đã hết hạn, vui lòng bắt đầu lại</string>
     <string name="passport_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
     <string name="passport_error_user_name">Tên người dùng bạn nhập vào không hợp lệ.</string>
@@ -1320,4 +1320,25 @@ d MMMM"</string>
     <string name="action_more_dlg_settings">Thêm cài đặt</string>
     <string name="action_more_dlg_share">Chia sẻ</string>
 	<string name="lks_to_setting">Cài đặt Tạp chí màn hình khoá</string>
+	<string name="sst_ai_wallpaper_Activity_title">Tạo hình nền AI</string>
+    <string name="sst_ai_wallpaper_desc">Hình ảnh vẽ tay có thể được sử dụng để tạo hình nền độ nét cao theo nhiều phong cách thông qua AIGC.</string>
+    <string name="sst_ai_wallpaper_title">Tạo hình nền AI</string>
+    <string name="wallpaper_creator_empty_dlg_content">Các bước đơn giản, hình thành ngay. Nhập ảnh vẽ tay/ảnh khác, nhập một số lời nhắc và tạo ngay bốn ảnh nền cách điệu thông qua các mô hình lớn AI. Chọn cái ưng ý nhất và lưu vào album.</string>
+	<string name="ai_back">Quay lại</string>
+    <string name="ai_begin">Bắt đầu</string>
+    <string name="ai_disable_limit_message">Không còn lượt nào cho ngày hôm nay. Tạo thêm hình nền AI vào ngày mai!</string>
+    <string name="ai_edit_hint">Mô tả kết quả mong đợi của bạn. Một mô tả hay có thể giúp AI của chúng tôi sáng tạo tốt hơn với những từ rõ ràng như \"Vàng\",\"Rồng\",\"Bay lên\",\"Đám mây\".</string>
+    <string name="ai_network_error_message">"Không có kết nối mạng. Không thể sử dụng hình nền AI."</string>
+    <string name="ai_next">Lưu vào Thư viện</string>
+    <string name="ai_participation">Sự tham gia của AI</string>
+    <string name="ai_recommend_keyword">Kiểu</string>
+    <string name="ai_text_limit">"Không thể nhập thêm văn bản"</string>
+    <string name="ai_wallpaper_declare_double_link"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận của người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+	<string name="creation_ai_disable_limit_message">Không còn lượt nào cho ngày hôm nay. Tạo thêm hình nền AI vào ngày mai!</string>
+    <string name="creation_ai_disable_message">Tính năng này chỉ dành cho người thử nghiệm Beta. Bạn có thể đăng ký trên Cộng đồng Xiaomi.</string>
+    <string name="creation_ai_disable_title">Cần có quyền của người thử nghiệm beta</string>
+    <string name="creation_ai_err">Xác thực ngoại lệ</string>
+    <string name="creation_ai_load">Đợi một chút…</string>
+    <string name="creation_ai_ok">Hiểu rồi</string>
+    <string name="creation_ai_recreate">Bắt đầu lại</string>
 </resources>
