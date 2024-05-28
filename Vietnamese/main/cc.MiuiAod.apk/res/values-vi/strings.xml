@@ -3,8 +3,8 @@
 	<string name="accessibility_battery_level">Pin %d phần trăm.</string>
 	<string name="accessibility_battery_level_charging">Đang sạc pin, %d phần trăm.</string>
 	<string name="aod_close_color_inversion">Tính năng này không thể kết hợp với đảo màu. Tắt đảo màu trước.</string>
-	<string name="aod_lock_screen_date">EEE dd/MM/yy | e/N YY</string>
-	<string name="aod_lock_screen_date_12">EEE dd/MM/yy | e/N YY</string>
+	<string name="aod_lock_screen_date">"EEE dd/MM | e/N"</string>
+	<string name="aod_lock_screen_date_12">"EEE dd/MM | e/N"</string>
 	<string name="aod_mode_style">Kiểu đồng hồ và hình nền</string>
 	<string name="aod_mode_summary">Hiển thị đồng hồ, ngày, thông báo, và ảnh nền khi màn hình tắt.</string>
 	<string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
@@ -42,7 +42,7 @@
 	<string name="abc_toolbar_collapse_description">Thu gọn</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="animation_clock_panel">Dạng sóng</string>
-	<string name="aod_lock_screen_date_lunar">EEE dd/MM/yy | e/N YY</string>
+	<string name="aod_lock_screen_date_lunar">"EEE e/N YY"</string>
 	<string name="apply">Áp dụng</string>
 	<string name="background_icon">Nền</string>
 	<string name="black_white_clock_panel">Đồng hồ</string>
@@ -99,17 +99,17 @@
 	<string name="photo_editor_saving">Đang lưu…</string>
 	<string name="disable_aod_in_power_save_mode">Tắt khi bật Tiết kiệm pin</string>
 	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để tiết kiệm pin"</string>
-	<string name="aod_lock_screen_date_12_signature">d/M/y | e/N YY</string>
-	<string name="aod_lock_screen_date_signature">d/M/y | e/N YY</string>
+	<string name="aod_lock_screen_date_12_signature">"d/M | e/N"</string>
+	<string name="aod_lock_screen_date_signature">"dd/MM | e/N"</string>
 	<string name="theme_cate_title">Chủ đề</string>
 	<string name="my_style_title">Phong cách của tôi</string>
 	<string name="delete">Xóa</string>
 	<string name="minimalist_clock">Đồng hồ đơn giản</string>
-	<string name="aod_lock_screen_date_smartcover_b">EE dd/MM/yy | e/N YY</string>
+	<string name="aod_lock_screen_date_smartcover_b">"EE dd/MM/yy"</string>
 	<string name="aod_lock_screen_date_12_smartcover">"EE
-d/M/y | e/N YY"</string>
+d/M/y"</string>
 	<string name="aod_lock_screen_date_smartcover">"EE
-dd/MM/yy | e/N YY"</string>
+dd/MM/yy"</string>
 	<string name="mtrl_picker_date_header_title">Chọn một ngày</string>
 	<string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
 	<string name="mtrl_picker_range_header_title">Chọn một khoảng ngày</string>
@@ -501,7 +501,7 @@ dd/M"</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
 	<string name="send">Gửi</string>
 	<string name="notification_channel_alerts">Cảnh báo</string>
-	<string name="garbage_count">Có %1$s instance cũ</string>
+	<string name="garbage_count">Có %1$s trường hợp cũ</string>
 	<string name="memory_leak">Rò rỉ bộ nhớ</string>
 	<string name="fmt_date_numeric_day">D</string>
 	<string name="fmt_date_day">D</string>
@@ -588,21 +588,21 @@ dd/M"</string>
 	<string name="kg_rhombus_switch_label">Chữ số nhiều màu</string>
 	<string name="kg_smart_frame_primary_label">Chữ</string>
 	<string name="kg_smart_frame_secondary_label">Nền</string>
-	<string name="miui_smart_frame_clock_date">d/M | e/N</string>
-	<string name="miui_rhombus_clock_date">dd MMM | e/N</string>
-	<string name="miui_magazine_clock_date_content_description">dd/MM | e/N</string>
-	<string name="miui_magazine_clock_date">d/M | e/N</string>
-	<string name="miui_magazine_c_clock_style2_date_content_description">EE, dd MMM | e/N</string>
-	<string name="miui_magazine_c_clock_style2_date">EE d/M | e/N</string>
-	<string name="miui_lock_screen_date">EE, dd MMM | e/N</string>
-	<string name="miui_lock_screen_date_12">EE, dd MMM | e/N</string>
-	<string name="miui_lock_screen_date_two_lines">"EE dd MMM | e/N"</string>
-	<string name="miui_lock_screen_date_two_lines_12">"EE dd MMM | e/N"</string>
-	<string name="miui_lock_screen_large_date">"EE d/M | e/N"</string>
-	<string name="miui_lock_screen_large_date_12">"EE d/M | e/N"</string>
-	<string name="format_month_day_style2">d/M | e/N</string>
-	<string name="format_month_day_style1">d/MMM | e/N</string>
-	<string name="format_month_day_week">EEE, dd MMM | e/N</string>
+	<string name="miui_smart_frame_clock_date">"d/M"</string>
+	<string name="miui_rhombus_clock_date">"dd MMM"</string>
+	<string name="miui_magazine_clock_date_content_description">"dd/MM"</string>
+	<string name="miui_magazine_clock_date">"d/M"</string>
+	<string name="miui_magazine_c_clock_style2_date_content_description">"EE, dd MMM"</string>
+	<string name="miui_magazine_c_clock_style2_date">"EE d/M"</string>
+	<string name="miui_lock_screen_date">"EE, dd MMM"</string>
+	<string name="miui_lock_screen_date_12">"EE, dd MMM"</string>
+	<string name="miui_lock_screen_date_two_lines">"EE dd MMM"</string>
+	<string name="miui_lock_screen_date_two_lines_12">"EE dd MMM"</string>
+	<string name="miui_lock_screen_large_date">"EE d/M"</string>
+	<string name="miui_lock_screen_large_date_12">"EE d/M"</string>
+	<string name="format_month_day_style2">"d/M"</string>
+	<string name="format_month_day_style1">"d/MMM"</string>
+	<string name="format_month_day_week">"EEE, dd MMM"</string>
 	<string name="kg_classic_item_chinese_clock">Tiếng Trung</string>
 	<string name="kg_classic_item_chinese_hour">Giờ (Tiếng Trung)</string>
 	<string name="kg_classic_item_chinese_min">Phút (Tiếng Trung)</string>
