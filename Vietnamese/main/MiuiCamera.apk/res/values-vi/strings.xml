@@ -811,7 +811,6 @@
 <string name="disable_video_snapshot_hint">Ảnh chụp nhanh video bị vô hiệu hóa khi sử dụng hiệu ứng.</string>
 <string name="dismiss_button_content_description">Để gần Máy ảnh</string>
 <string name="do_not_remind_me">Không hiển thị lại</string>
-<string name="doc_shortcut_short">Tài liệu</string>
 <string name="document_blackwhite">Đen&amp;Trắng</string>
 <string name="document_blur_warn">Văn bản bị mờ</string>
 <string name="document_mode_use_hint_text_body">Tự động làm nét và tăng cường tài liệu</string>
@@ -857,7 +856,6 @@
 <string name="download_title">Cảnh báo sử dụng dữ liệu</string>
 <string name="download_waiting">Đang chờ</string>
 <string name="download_wechat">Tải WeChat</string>
-<string name="do_not_remind_me">Không hiển thị lại</string>
 <string name="dual_camera_lens_covered_toast">Ống kính bị che khuất.</string>
 <string name="dual_camera_lowlight_toast">Dường như ở đây quá tối.</string>
 <string name="dual_camera_too_close_toast">Máy ảnh quá gần với đối tượng.</string>
@@ -1004,7 +1002,7 @@
 <string name="film_landscape_timefreeze_hint">Chỉ hỗ trợ chụp phong cảnh</string>
 <string name="film_timefreeze">Đóng băng nền</string>
 <string name="film_timefreeze_hint">Vui lòng không di chuyển điện thoại</string>
-<string name="film_timefreeze_reset">Hủy đóng băng nền</string>>
+<string name="film_timefreeze_reset">Hủy đóng băng nền</string>
 <string name="film_video_a">T.phóng ma thuật</string>
 <string name="film_video_b_tip">Vui lòng chụp trong điều kiện ánh sáng yếu</string>
 <string name="film_video_c">Đóng băng thời gian</string>
@@ -1419,7 +1417,6 @@
 <string name="miuix_appcompat_action_mode_deselect_all">Bỏ chọn</string>
 <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
 <string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
-<string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
 <string name="miuix_appcompat_cancel_description">Hủy</string>
 <string name="miuix_appcompat_confirm_description">Xác nhận</string>
 <string name="miuix_appcompat_delete_description">Xóa</string>
@@ -1638,10 +1635,8 @@
 <string name="pixel_ai_108">AI 108 cực sống động</string>
 <string name="pixel_ai_108_close">Tắt AI 108 cực sống động</string>
 <string name="pm">CH</string>
-<string name="popup_tips_near_range_mode">Chế độ chụp gần</string>
-<string name="popup_tips_privacy_watermark_edit">Chỉnh sửa hình mờ</string>
 <string name="popup_tip_3d_beauty_intro_text">Làm đẹp 3D</string>
-<string name="popup_tips_near_range_mode">Lấy nét gần</string>
+<string name="popup_tips_near_range_mode">Chụp gần</string>
 <string name="popup_tips_privacy_watermark_edit">Sửa dấu chìm</string>
 <string name="portait_effect_entry_blackwhite">Đen&amp;Trắng</string>
 <string name="portait_effect_entry_cold_white">Ánh sao</string>
@@ -1694,7 +1689,6 @@
 <string name="portrait_mode_use_hint_for_bokeh">"Thử chế độ Chân dung. Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
 <string name="portrait_repair_tips">Chân dung HD thông minh</string>
 <string name="portrait_with_facebeauty_hint">Làm đẹp khả dụng trong chế độ chân dung</string>
-<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 <string name="pref_960_watermark_title">Dấu chìm 960FPS</string>
 <string name="pref_a_c_f">Siêu âm</string>
 <string name="pref_advanced_functions">Cài đặt nâng cao</string>
@@ -1713,7 +1707,6 @@
 <string name="pref_audio_indicator_entry_on">Bật âm thanh</string>
 <string name="pref_auto_boot">Tự khởi chạy</string>
 <string name="pref_auto_boot_summary">Làm cho Máy ảnh phản ứng nhanh hơn bằng cách cho phép máy ảnh tự động khởi động. Bạn có thể quản lý quyền tự khởi động trong chi tiết ứng dụng.</string>
-<string name="pref_a_c_f">Bản đồ</string>
 <string name="pref_beauty_me_mp_switch_desc">Chỉnh hiệu ứng trang điểm cho nam trên ảnh nhóm</string>
 <string name="pref_beauty_me_mp_switch_title">Điều chỉnh hiệu ứng trang điểm cho nam giới</string>
 <string name="pref_beauty_nvs_wp_desc">Xoá nốt ruồi khi sử dụng tác dụng làm mịn da</string>
@@ -1957,13 +1950,12 @@
 <string name="pref_camera_redeyereduction_entry_disable">Tắt</string>
 <string name="pref_camera_redeyereduction_entry_enable">Bật</string>
 <string name="pref_camera_redeyereduction_title">Giảm mắt đỏ</string>
-<string name="pref_camera_referenceline_title">Hiển thị đường lưới</string>
+<string name="pref_camera_referenceline_title">Hiển thị đường tham chiếu</string>
 <string name="pref_camera_reference_capture_title">Đường tham chiếu</string>
 <string name="pref_camera_reference_capture_title_golden_section">Tỷ lệ vàng</string>
 <string name="pref_camera_reference_capture_title_jiugongge">Lưới</string>
 <string name="pref_camera_reference_capture_title_left_golden_spiral">Xoắn ốc vàng bên trái</string>
 <string name="pref_camera_reference_capture_title_right_golden_spiral">Xoắn ốc vàng bên phải</string>
-<string name="pref_camera_referenceline_title">Đường tham chiếu</string>
 <string name="pref_camera_saturation_title">Độ bão hòa</string>
 <string name="pref_camera_scenedetect_title">Tự động nhận biết cảnh</string>
 <string name="pref_camera_scenemode_entry_auto">Tự động</string>
@@ -2198,7 +2190,6 @@
 <string name="pref_super_night_se_summary">Nhận biết môi trường ánh sáng tối sẽ tự động kích hoạt chụp ban đêm và cải thiện hiệu ứng hình ảnh thông qua các thuật toán</string>
 <string name="pref_super_night_se_title">Tự động nhìn đêm</string>
 <string name="pref_switch_camera_heic_image_desc">Định dạng ảnh hiệu quả hơn giúp tiết kiệm dung lượng lưu trữ. Nó hỗ trợ chế độ Ultra HD nhưng không hỗ trợ ảnh động, xóa hình mờ thông thường và một số ứng dụng của bên thứ ba.</string>
-<string name="pref_s_n_r_s_c">Khi ghi âm</string>
 <string name="pref_true_colour_video_mode_description">Quay video bằng Dolby Vision để ghi lại các chi tiết sống động như thật, màu sắc ấn tượng và độ tương phản nổi bật (tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba)</string>
 <string name="pref_true_colour_video_mode_introduction">Trải nghiệm hình ảnh tuyệt đẹp, chi tiết sống động như thật và độ tương phản nổi bật</string>
 <string name="pref_true_colour_video_mode_setting_dec">Ghi lại các chi tiết sống động như thật, màu sắc tuyệt đẹp và độ tương phản nổi bật ở chế độ Video và Pro. Tiêu điểm theo dõi chuyển động và mã hóa H.264 không được hỗ trợ. Tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba.</string>
@@ -2275,13 +2266,12 @@
 <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Thu phóng âm thanh không làm việc với tai nghe In-ear monitor (IEM) và mic ngoài</string>
 <string name="preparing_sd">Đang kiểm tra thẻ SD…</string>
 <string name="preview_back_pressed_hint">Nhấn lần nữa để quay lại xem trước</string>
-<string name="professional_shortcut_long">Nghề nghiệp</string>
-<string name="professional_shortcut_short">Nghề nghiệp</string>
+<string name="professional_shortcut_long">Chuyên nghiệp</string>
+<string name="professional_shortcut_short">Chuyên nghiệp</string>
 <string name="prompt_desc">Sử dụng chức năng này sẽ tiêu tốn dữ liệu của bạn khoảng %sM. Bạn có muốn tiếp tục tải xuống không?</string>
 <string name="pro_color_mode">Màu chuyên nghiệp</string>
 <string name="process_tips_1">Không gập thiết bị cho đến khi video được lưu</string>
 <string name="process_tips_2">Không mở ra thiết bị cho đến khi video được lưu</string>
-<string name="professional_shortcut_short">Chuyên nghiệp</string>
 <string name="qq_details">Chi tiết QQ:</string>
 <string name="qr_code_details">Chi tiết mã QR:</string>
 <string name="qr_of_unsupported_text">Nội dung: \"%s\"</string>
@@ -2555,9 +2545,6 @@
 <string name="timbre_lady">Quý bà</string>
 <string name="timbre_normal">Gốc</string>
 <string name="time">Thời gian</string>
-<string name="timefreeze_guide_tip2">Bạn có thể đóng băng và mở nền bất kỳ lúc nào trước hoặc trong khi chụp.</string>
-<string name="timefreeze_guide_tip3">Yêu cầu chủ thể của bạn ở chính giữa khung hình.</string>
-<string name="timefreeze_guide_tip7">Hoặc khám phá các thủ thuật của riêng bạn!</string>
 <string name="timerburst_pressed_hint">Nhấn để dừng chụp</string>
 <string name="timer_burst">Hẹn giờ chụp liên tục</string>
 <string name="timer_burst_manu_param_interval">Khoảng thời gian (không bao gồm thời gian phơi sáng)</string>
@@ -2581,11 +2568,6 @@
 <string name="timefreeze_guide_tip6">Treo đối tượng ở không trung.</string>
 <string name="timefreeze_guide_tip7">Hoặc khám phá các thủ thuật tuyệt vời!</string>
 <string name="timefreeze_guide_title">Video đóng băng thời gian</string>
-<string name="timer_burst">Hẹn giờ chụp liên tiếp</string>
-<string name="timer_burst_manu_param_interval">Khoảng thời gian không phơi sáng</string>
-<string name="timer_burst_param_interval">Khoảng thời gian</string>
-<string name="timer_burst_param_total_count">Số ảnh</string>
-<string name="timerburst_pressed_hint">Chạm lại để dừng</string>
 <string name="tip_portrait_repair_off">Chân dung HD: Tắt</string>
 <string name="tip_privacy_watermark_off">Hình mờ bảo vệ: Tắt</string>
 <string name="title">Tiêu đề</string>
