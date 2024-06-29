@@ -1351,8 +1351,8 @@ Thử lại sau %2$d giây."</string>
      <string name="left_icon">Biểu tượng trái</string>
      <string name="left_keycode">Mã phím trái</string>
      <string name="left_nav_bar_button_type">Loại phím trái khác</string>
-     <string name="lock_screen_date">EEEE, d/M/y | e/N YY</string>
-     <string name="lock_screen_date_12">EEEE, d/M/y | e/N YY</string>
+     <string name="lock_screen_date">EEEE, d MMM</string>
+     <string name="lock_screen_date_12">EEEE, d MMM</string>
      <string name="lock_screen_no_sim_card">Không có thẻ SIM</string>
      <string name="lock_wallpaper_enter">Vào</string>
      <string name="lock_wallpaper_learn_more">Thêm</string>
@@ -2016,14 +2016,14 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="wechatpay_description_talkback">Thanh toán WeChat</string>
 	<string name="wechatpay_title">Thanh toán</string>
 	<string name="wechatscan_description_talkback">Quét WeChat</string>
-	<string name="aod_lock_screen_date">EE, d/M/y | e/N YYM</string>
-	<string name="aod_lock_screen_date_12">EE, d/M/y | e/N YYM</string>
+	<string name="aod_lock_screen_date">EE, d MMM</string>
+	<string name="aod_lock_screen_date_12">EE, d MMM</string>
 	<string name="face_unlock_success">Xác thực dữ liệu khuôn mặt thành công</string>
 	<string name="gxzw_area">Quét vân tay</string>
 	<string name="lock_screen_date_two_lines">"EEEE
-d/M/y | e/N YY"</string>
+d MMM"</string>
 	<string name="lock_screen_date_two_lines_12">"EEEE
-d/M/y | e/N YY"</string>
+d MMM"</string>
 	<string name="gxzw_use_password_to_unlock">Nhập mật khẩu</string>
 	<string name="battery_low_button_open_power_save">Bật</string>
 	<string name="battery_low_percent_format_save_mode_closed">Pin còn ít hơn %d%%. Hãy sạc thiết bị.</string>
@@ -3145,8 +3145,7 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
 	<string name="error_icon_content_description">Lỗi</string>
 	<string name="media_output_dialog_connect_failed">"Không thể kết nối. Thử lại."</string>
 	<string name="material_minute_suffix">%1$s phút</string>
-	<string name="miui_lock_screen_large_date">"EEE
-d/M/y | e/N YY"</string>
+	<string name="miui_lock_screen_large_date">"EEE d MMM"</string>
 	<string name="wifitrackerlib_wifi_unmetered_label">Chưa đo</string>
 	<string name="screenshot_edit_label">Sửa</string>
 	<string name="wifitrackerlib_connected_via_network_scorer">Tự động kết nối qua %1$s</string>
@@ -3161,10 +3160,10 @@ d/M/y | e/N YY"</string>
 	<string name="wifitrackerlib_wifi_check_password_try_again">Kiểm tra mật khẩu và thử lại</string>
 	<string name="material_minute_selection">Chọn phút</string>
 	<string name="wifi_hotspot_switch_on_text">Bật</string>
-	<string name="miui_lock_screen_date_12">EEE d/M/y | e/N YY</string>
+	<string name="miui_lock_screen_date_12">EEE d MMM</string>
 	<string name="wifitrackerlib_private_dns_broken">Không thể truy cập máy chủ DNS Riêng tư</string>
 	<string name="miui_lock_screen_date_two_lines">"EEEE
-d/M/y | e/N YY"</string>
+d MMM"</string>
 	<string name="accessibility_quick_settings_power_menu">Menu nguồn</string>
 	<string name="material_timepicker_am">SA</string>
 	<string name="wifitrackerlib_tap_to_sign_up">Chạm để đăng ký</string>
@@ -3193,7 +3192,7 @@ d/M/y | e/N YY"</string>
 	<string name="notification_vpn_connected">VPN được kết nối</string>
 	<string name="accessibility_control_move_up">Chuyển lên</string>
 	<string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Chạm để làm mới đăng ký và kết nối</string>
-	<string name="miui_lock_screen_date">EEE d/M/y | e/N YY</string>
+	<string name="miui_lock_screen_date">EEE d MMM</string>
 	<string name="notification_disclosure_vpn_text">qua %1$s</string>
 	<string name="accessibility_banner_message_dismiss">Tôi biết</string>
 	<string name="wifitrackerlib_speed_label_fast">Nhanh</string>
@@ -3242,7 +3241,7 @@ d/M/y | e/N YY"</string>
 	<string name="wifitrackerlib_wifi_security_none">Không</string>
 	<string name="controls_media_smartspace_rec_description">Mở %1$s</string>
 	<string name="miui_lock_screen_date_two_lines_12">"EEEE
-d/M/y | e/N YY"</string>
+d MMM"</string>
 	<string name="wifitrackerlib_osu_completing_sign_up">Đang hoàn tất đăng ký…</string>
 	<string name="quick_settings_networks_unavailable">Mạng Wi-Fi, Bluetooth và mạng di động đều bị tắt. Bạn không thể gọi điện thoại hoặc kết nối với Internet.</string>
 	<string name="settingslib_learn_more_text">Tìm hiểu thêm</string>
@@ -3266,8 +3265,7 @@ d/M/y | e/N YY"</string>
 	<string name="wifitrackerlib_speed_label_very_fast">Rất nhanh</string>
 	<string name="accessibility_qs_edit_tile_start_add">Thêm ô</string>
 	<string name="wallet_app_button_label">Hiển thị tất cả</string>
-	<string name="miui_lock_screen_large_date_12">"EEE
-d/M/y | e/N YY"</string>
+	<string name="miui_lock_screen_large_date_12">"EEE d MMM"</string>
 	<string name="settings_label">Cài đặt</string>
 	<string name="material_clock_toggle_content_description">Chọn SA hoặc CH</string>
 	<string name="material_hour_selection">Chọn giờ</string>
