@@ -1824,7 +1824,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="advanced_customize_mode">Tùy chỉnh nâng cao</string>
     <string name="alarm_sound">Báo thức</string>
     <string name="all_wallpapers">Tất cả hình nền</string>
-    <string name="aod_screen">Always-on display</string>
+    <string name="aod_screen">Màn hình luôn bật</string>
     <string name="app_description_content">Chủ đề là ứng dụng hệ thống. Ứng dụng cung cấp hình nền và nhiều tùy chọn cá nhân. Bạn sẽ vẫn có thể sử dụng Chủ đề qua Cài đặt sau khi xóa lối tắt Màn hình chính.</string>
     <string name="app_description_title">Xóa \"Chủ đề\" khỏi Màn hình chính?</string>
     <string name="applied_success_contine">Tiếp tục duyệt</string>
@@ -1840,7 +1840,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="apply_wallpaper_notice_content">Chủ đề hiện được áp dụng chứa mô-đun Màn hình khóa tùy chỉnh có thể ngăn bạn thực hiện các điều chỉnh liên quan đến Màn hình khóa.</string>
     <string name="apply_wallpaper_notice_lockscreen">Chủ đề hiện tại chứa Màn hình khóa tùy chỉnh. Chúng tôi sẽ thay thế bằng Màn hình khóa mặc định nếu bạn áp dụng hình nền này. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_notice_still_apply">Áp dụng</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Always-on display sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Màn hình luôn bật sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa. Áp dụng ngay?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Chỉ số chất lượng không khí: %s</string>

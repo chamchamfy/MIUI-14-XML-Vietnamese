@@ -3740,7 +3740,7 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_optimize_darkmode_summary">Chế độ nền tối tiêu thụ ít điện năng</string>
     <string name="power_optimize_disable_5g">Giới hạn kết nối 5G</string>
     <string name="power_optimize_disable_5g_summary">Kết nối 5G tiêu hao nhiều điện năng</string>
-    <string name="power_optimize_disable_aod">Tắt Always-on display</string>
+    <string name="power_optimize_disable_aod">Tắt Màn hình luôn bật</string>
     <string name="power_optimize_disable_app_autostart">Chặn ứng dụng tự động mở</string>
     <string name="power_optimize_disable_gps">Tắt GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">Tắt chế độ định vị chính xác cao</string>
@@ -3770,8 +3770,8 @@ Tiết kiệm pin tối ưu"</string>
     <string name="power_save_mode">Tiết kiệm pin</string>
     <string name="power_save_mode_auto_exit_summary_new">Tắt khi pin %s hoặc đã sạc đầy</string>
     <string name="power_save_mode_auto_exit_title">Tắt khi sạc</string>
-    <string name="power_save_mode_close_aod_display_summary">Tắt Always-on display khi Tiết kiệm pin bật</string>
-    <string name="power_save_mode_close_aod_display_title">Tắt Always-on display</string>
+    <string name="power_save_mode_close_aod_display_summary">Tắt Màn hình luôn bật khi Tiết kiệm pin bật</string>
+    <string name="power_save_mode_close_aod_display_title">Tắt Màn hình luôn bật</string>
     <string name="power_save_mode_close_notification_screenon_summary">Làm việc khi Tiết kiệm Pin bật</string>
     <string name="power_save_mode_close_notification_screenon_title">Không sáng màn hình khi có thông báo</string>
     <string name="power_save_mode_close_warn_text">Tiết kiệm Pin giới hạn hoạt động nền và đồng bộ. Nếu bạn chọn sử dụng khi thiết bị được sạc, một vài tính năng có thể không làm việc bình thường. Bật tiết kiệm pin khi thiết bị được sạc?</string>
