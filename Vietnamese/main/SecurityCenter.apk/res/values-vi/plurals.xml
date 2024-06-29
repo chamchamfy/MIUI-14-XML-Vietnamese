@@ -1341,20 +1341,41 @@
 	<plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d ứng dụng có thể hiển thị sai. Giới hạn thông báo nổi.</item>
     </plurals>
-    	<plurals name="menu_text_antivirus_2">
-        <item quantity="other">%d mục</item>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d giờ trước</item>
     </plurals>
-	<plurals name="menu_text_antispam_2">
-        <item quantity="other">%d mục</item>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Nửa giờ trước</item>
     </plurals>
-	<plurals name="menu_text_antivirus_3">
-        <item quantity="other">"%d ngày"</item>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Trong %d giờ</item>
     </plurals>
-	<plurals name="menu_text_app_manager_2">
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Trong nửa giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Tức thì</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Sau %d phút</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Vừa xong</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+    </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Đã thêm %d trò chơi</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">Đã thêm %d ứng dụng</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d ứng dụng</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d ứng dụng không hoạt động bình thường và hao pin</item>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d ứng dụng</item>
     </plurals>
 	<plurals name="power_center_battery_health_summary">
 		<item quantity="other">Sạc đầy thiết bị ít nhất %2$d lần để nhận thống kê chính xác</item>
