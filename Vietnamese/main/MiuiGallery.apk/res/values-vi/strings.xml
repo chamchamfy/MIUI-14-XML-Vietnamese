@@ -394,12 +394,16 @@ khả dụng"</string>
     <string name="default_relation_name">Nhóm mới</string>
     <string name="define_by_user">Tùy chỉnh</string>
     <string name="delete">Xóa</string>
+    <string name="delete_account_message">Thư viện cần xóa bộ nhớ cache của ứng dụng vì bạn đã đăng xuất khỏi Tài khoản Xiaomi của mình.</string>
     <string name="delete_album_failed">Không thể xóa album</string>
     <string name="delete_album_msg_format">Xóa album \"%2$s\" %1$s %3$s?</string>
-    <string name="delete_album_success">Album đã được xóa</string>
+    <string name="delete_album_msg_format_cloud">Xóa %1$s %2$s khỏi Xiaomi Cloud và tất cả các thiết bị đã đồng bộ hóa?</string>
+    <string name="delete_album_msg_format_local">Xóa %1$s %2$s?</string>
+    <string name="delete_album_success">Đã xóa album</string>
+    <string name="delete_all_photos">Bạn sắp xóa tất cả ảnh trên thiết bị này. Điều này có thể khiến bạn mất đi những dữ liệu quan trọng. Vẫn xóa?</string>
     <string name="delete_finish_format">Đã xóa %d mục</string>
-    <string name="delete_from_all_devices_and_cloud">Từ tất cả thiết bị và Xiaomi Cloud</string>
-    <string name="delete_from_cloud">Xóa ảnh từ Xiaomi Cloud</string>
+    <string name="delete_from_all_devices_and_cloud">Từ tất cả các thiết bị và Xiaomi Cloud</string>
+    <string name="delete_from_cloud">Xóa khỏi đám mây</string>
     <string name="delete_from_devices">Tất cả thiết bị đã được đồng bộ</string>
     <string name="delete_from_devices_album">Tất cả thiết bị đã đồng bộ với album này</string>
     <string name="delete_from_homepage_album">Album được hiển thị trong Thư viện</string>
@@ -408,9 +412,14 @@ khả dụng"</string>
     <string name="delete_in_album">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị được kết nối và được lưu trữ trong thùng rác trên đám mây trong %d ngày nếu bạn dùng gói lưu trữ đám mây miễn phí. Vẫn xóa?</string>
     <string name="delete_in_home_page">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị được kết nối và được lưu trữ trong thùng rác trên đám mây trong %d ngày nếu bạn dùng gói lưu trữ đám mây miễn phí. Vẫn xóa?</string>
     <string name="delete_in_process">Đang xóa…</string>
-    <string name="delete_origin">Xóa ảnh trong album gốc</string>
-    <string name="delete_other_shared_images">Không thể xóa ảnh được chia sẻ bởi người khác</string>
+    <string name="delete_media_dialog_comment">*Các mục này trước tiên sẽ được chuyển đến "Các mục đã xóa". Từ đó, bạn có thể khôi phục chúng hoặc xóa chúng vĩnh viễn.</string>
+    <string name="delete_media_for_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị đã đồng bộ hóa với các mục đã xóa gần đây.</string>
+    <string name="delete_media_from_cloud">Các mục đã chọn sẽ bị xóa khỏi tất cả các thiết bị và đám mây. Vẫn xóa?</string>
+    <string name="delete_origin">Xóa các mục khỏi album gốc</string>
+    <string name="delete_other_shared_images">Không thể xóa ảnh được người khác chia sẻ</string>
     <string name="delete_owner_and_other_shared_images_format">Đã xóa %1$d, đã lưu %2$d</string>
+    <string name="delete_risk_alert_message">Bạn đã chọn một số lượng lớn các mục cần xóa. Nếu bạn tiếp tục, các mục này sẽ được chuyển đến "Các mục đã xóa". Xóa các mục ngay bây giờ?</string>
+    <string name="delete_risk_alert_title">Chú ý</string>
     <string name="delete_third_party_photo">Xóa ảnh này?</string>
     <string name="delete_third_party_video">Xóa video này?</string>
     <string name="delete_to_trash_tips">Bạn có thể xem ảnh đã xóa gần đây trong Cài đặt > Thùng rác</string>
@@ -1963,12 +1972,10 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="photo_portrait_color_download_fail">"Không thể tải trình cắm. Kết nối mạng và thử lại."</string>
     <string name="filter_sky_clear_sky">Trời quang</string>
     <string name="risk_control_deleted_date">dd/MM</string>
-    <string name="delete_album_msg_format_cloud">Xóa %1$s %2$s khỏi Xiaomi Cloud và tất cả thiết bị đã đồng bộ?</string>
     <string name="trash_bin_summary_local">Xem ảnh và video vừa xóa</string>
     <string name="filter_sky_stratus">Mây tầng</string>
     <string name="risk_control_deleted_message">Ai đó đã xóa các mục trong Thư viện của bạn bằng %3$s trên %1$s lúc %2$s. Đó có phải là bạn không?</string>
     <string name="filter_sky_cumulus">Mây tích</string>
-    <string name="delete_album_msg_format_local">Xóa %1$s %2$s?</string>
     <string name="filter_sky_nimbus">Mây dông</string>
     <string name="filter_sky_double_rainbow">Cầu vồng kép</string>
     <string name="filter_sky_twilight">Chạng vạng</string>
@@ -3285,7 +3292,6 @@ Phiên dịch có thể mất một lúc khi bạn sử dụng tính năng này 
     <string name="trash_high_occupied_tip_banner">Các mục đã xóa gần đây chiếm %1$s. Xóa một số để giải phóng dung lượng.</string>
     <string name="trash_high_occupied_tip_toast">Các mục đã xóa gần đây chiếm %1$s. Xóa một số để giải phóng dung lượng.</string>
     <string name="trash_purge_all_media">"Xóa vĩnh viễn tất cả các mục khỏi đám mây và tất cả các thiết bị được đồng bộ hóa? Bạn không thể đảo ngược hành động này."</string>
-    <string name="delete_media_for_cloud">Các mục đã chọn sẽ bị xóa khỏi đám mây và tất cả các thiết bị được đồng bộ hóa với các mục đã xóa gần đây.</string>
     <string name="tips_for_photo_page_selection">Bạn có thể nhấn vào các mục để xem</string>
     <string name="widget_disable">"Tiện ích có kích thước này không được hỗ trợ trên thiết bị"</string>
     <string name="search_edit_hint">Tìm kiếm tệp hoặc album</string>
@@ -3532,7 +3538,6 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="cta_agreement_declare"><Data>Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.</Data></string>
     <string name="cta_hybrid_feedback_network_declare">Để xem các giải pháp cho các vấn đề phổ biến nhất, trước tiên hãy cho phép ứng dụng này kết nối với mạng.</string>
     <string name="cta_screenthrow_declare">Để có thể chiếu màn hình của thiết bị này sang màn hình ngoài, ứng dụng này cần kết nối với internet.</string>
-    <string name="delete_account_message">Thư viện cần xóa bộ nhớ đệm của ứng dụng do bạn đã đăng xuất khỏi Tài khoản Xiaomi.</string>
     <string name="device_storage_space_low_dialog_des">Lưu trữ ảnh và video gốc trên đám mây trong khi vẫn giữ bản sao dung lượng nhỏ hơn chất lượng cao trên thiết bị này để giải phóng %s lưu trữ.</string>
     <string name="device_storage_space_low_notice_des">Đồng bộ ảnh và video với đám mây để giải phóng %s</string>
     <string name="device_storage_space_low_notice_title">Lưu trữ sắp hết</string>
