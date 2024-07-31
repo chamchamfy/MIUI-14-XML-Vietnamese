@@ -130,12 +130,8 @@
         <item quantity="one">&lt;Data>Bạn có thể gỡ cài đặt ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data></item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.
-
-Nếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn."</item>
-        <item quantity="one">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.
-
-Nếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn."</item>
+        <item quantity="other">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.&lt;br/&gt; &lt;br/&gt;Nếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn."</item>
+        <item quantity="one">"Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.&lt;br/&gt; &lt;br/&gt;Nếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn."</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.</item>
@@ -262,16 +258,11 @@ Nếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ củ
         <item quantity="one">Hiểu rồi (%ds)</item>
     </plurals>
     <plurals name="gb_vision_enhance_desc_detail">
-        <item quantity="other">"Ghi chú:
-·Hình ảnh nâng cao sẽ không khả dụng khi Tiết kiệm Pin bật hoặc thiết bị của bạn quá nóng.
-·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây."</item>
-        <item quantity="one">"Ghi chú:
-·Hình ảnh nâng cao sẽ không khả dụng khi Tiết kiệm Pin bật hoặc thiết bị của bạn quá nóng.
-·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây."</item>
+        <item quantity="other">"Ghi chú:&lt;br/&gt;·Hình ảnh nâng cao sẽ không khả dụng khi Tiết kiệm Pin bật hoặc thiết bị của bạn quá nóng.&lt;br/&gt;·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây."</item>
+        <item quantity="one">"Ghi chú:&lt;br/&gt;·Hình ảnh nâng cao sẽ không khả dụng khi Tiết kiệm Pin bật hoặc thiết bị của bạn quá nóng.&lt;br/&gt;·Tốc độ khung hình thông minh hiển thị kết quả tốt nhất khi trò chơi của bạn được đặt hiển thị ít nhất %d khung hình mỗi giây."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
-        <item quantity="other">"Hãy thử Trình thay đổi giọng nói ngay bây giờ
-để được dùng thử miễn phí %d-ngày!"</item>
+        <item quantity="other">"Hãy thử Trình thay đổi giọng nói ngay bây giờ để được dùng thử miễn phí %d-ngày!"</item>
     </plurals>
     <plurals name="gb_voice_changer_trial_gain_fail">
         <item quantity="other">Không thể nhận bản dùng thử miễn phí %d-ngày</item>
@@ -286,10 +277,8 @@ Nếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ củ
         <item quantity="one">Nhận bản dùng thử miễn phí %d-ngày</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Đăng ký của bạn đã hết hạn.
-Bạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!"</item>
-        <item quantity="one">"Đăng ký của bạn đã hết hạn.
-Bạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!"</item>
+        <item quantity="other">"Đăng ký của bạn đã hết hạn.&lt;br/&gt;Bạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!"</item>
+        <item quantity="one">"Đăng ký của bạn đã hết hạn.&lt;br/&gt;Bạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Nhận bản dùng thử miễn phí %d-ngày</item>
@@ -1271,10 +1260,8 @@ Bạn có thể dùng thử miễn phí %d-ngày ngay bây giờ!"</item>
         <item quantity="one">%d ứng dụng</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
-        <item quantity="other">"Bạn đã xem video được %d giờ rồi.
-Nghỉ ngơi một lát!"</item>
-        <item quantity="one">"Bạn đã xem video được %d giờ rồi.
-Nghỉ ngơi một lát!"</item>
+        <item quantity="other">"Bạn đã xem video được %d giờ rồi. Nghỉ ngơi một lát!"</item>
+        <item quantity="one">"Bạn đã xem video được %d giờ rồi. Nghỉ ngơi một lát!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d lượt xem</item>
