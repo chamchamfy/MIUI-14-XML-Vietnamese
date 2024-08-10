@@ -620,7 +620,14 @@
     <string name="app_manager_pref_ads">Kiến nghị</string>
     <string name="app_manager_reset_app_preferences">Đặt lại tùy chọn ứng dụng</string>
     <string name="app_manager_reset_app_preferences_button">Đặt lại ứng dụng</string>
-    <string name="app_manager_reset_app_preferences_desc">"Sẽ thiết lập lại tất cả thiết lập dưới đây:&lt;br/&gt;&lt;br/&gt; \""<li>Ứng dụng đã vô hiệu hóa</li>"\"&lt;br/&gt; \""<li>Thông báo ứng dụng đã vô hiệu hóa</li>"\"&lt;br/&gt; \""<li>Ứng dụng mặc đinh</li>"\"&lt;br/&gt; \""<li>Giới hạn dữ liệu nền ứng dụng</li>"\"&lt;br/&gt;&lt;br/&gt; Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
+    <string name="app_manager_reset_app_preferences_desc">"Sẽ thiết lập lại tất cả thiết lập dưới đây:
+
+ \""<li>Ứng dụng đã vô hiệu hóa</li>"\"
+ \""<li>Thông báo ứng dụng đã vô hiệu hóa</li>"\"
+ \""<li>Ứng dụng mặc đinh</li>"\"
+ \""<li>Giới hạn dữ liệu nền ứng dụng</li>"\"
+
+ Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="app_manager_reset_app_preferences_title">Đặt lại tùy chọn ứng dụng?</string>
     <string name="app_manager_restricted_settings_title">Cho phép cài đặt bị hạn chế</string>
     <string name="app_manager_search_prompt">Không tìm thấy kết quả? Thử hiển thị kết quả từ tất cả các ứng dụng.</string>
@@ -732,7 +739,9 @@
     <string name="app_statusbar_audio_now">Đang ghi âm</string>
     <string name="app_statusbar_camera_now">Đang chụp</string>
     <string name="app_statusbar_location_now">Đang định vị</string>
-    <string name="app_summary">"Lấy lì xì WeChat/QQ/Mi Chat&lt;br/&gt;Hỗ trợ lì xì cá nhân và lì xì nhóm&lt;br/&gt;Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì xì nào"</string>
+    <string name="app_summary">"Lấy lì xì WeChat/QQ/Mi Chat
+Hỗ trợ lì xì cá nhân và lì xì nhóm
+Hoạt động lì xì Lễ hội mùa xuân, đừng bỏ lỡ phong bao lì xì nào"</string>
     <string name="app_usage_half_year">%d tháng qua</string>
     <string name="app_usage_more_year">Hơn %d năm trước</string>
     <string name="app_usage_never">Chưa bao giờ dùng</string>
@@ -1056,16 +1065,20 @@
     <string name="bh_settings_declare">Tuyên bố miễn trừ trách nhiệm</string>
     <string name="bh_settings_policy_text">Chính sách bảo mật</string>
     <string name="bh_settings_user_agreement">Sự thỏa thuận của người dùng</string>
-    <string name="bh_settings_withdrawal_dialog_content_text">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của Yulore Limited.&lt;br/&gt;Sau đó, chúng tôi sẽ ngừng thu thập và sử dụng thông tin cá nhân của bạn và xóa vĩnh viễn lịch sử đặt hàng của bạn. Đảm bảo tất cả các giao dịch của bạn được hoàn thành trước khi bạn rút lại sự đồng ý."</string>
-    <string name="bh_settings_withdrawal_dialog_not_content_text">"Có vẻ như bạn muốn rút lại sự đồng ý với Chính sách quyền riêng tư của Yulore Limited.&lt;br/&gt;Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn tất. Để có thể rút lại sự đồng ý, hãy liên hệ với bộ phận hỗ trợ khách hàng để đóng đơn hàng của bạn."</string>
+    <string name="bh_settings_withdrawal_dialog_content_text">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của Yulore Limited.
+Sau đó, chúng tôi sẽ ngừng thu thập và sử dụng thông tin cá nhân của bạn và xóa vĩnh viễn lịch sử đặt hàng của bạn. Đảm bảo tất cả các giao dịch của bạn được hoàn thành trước khi bạn rút lại sự đồng ý."</string>
+    <string name="bh_settings_withdrawal_dialog_not_content_text">"Có vẻ như bạn muốn rút lại sự đồng ý với Chính sách quyền riêng tư của Yulore Limited.
+Tuy nhiên, một số giao dịch của bạn vẫn chưa hoàn tất. Để có thể rút lại sự đồng ý, hãy liên hệ với bộ phận hỗ trợ khách hàng để đóng đơn hàng của bạn."</string>
     <string name="bh_settings_withdrawal_dialog_title">Rút lại sự đồng ý</string>
     <string name="bh_settings_withdrawal_subtitle">Rút lại sự đồng ý với Chính sách quyền riêng tư về việc sử dụng dữ liệu</string>
     <string name="bh_settings_withdrawal_text">Rút lại sự đồng ý</string>
     <string name="bh_settings_withdrawal_yulore">Rút lại sự đồng ý với Chính sách quyền riêng tư của Yulore Limited</string>
     <string name="bh_settings_yulore_limited_paivacy">Xem Chính sách quyền riêng tư của Yulore Limited</string>
     <string name="bh_settings_yulore_limited_user">Xem Thỏa thuận người dùng giới hạn của Yulore</string>
-    <string name="bh_set_phone_dialog_title">"Đảm bảo số điện thoại bạn nhập vào đây là chính xác.&lt;br/&gt;Bạn có thể thay đổi số điện thoại của mình trong Cài đặt."</string>
-    <string name="bh_set_phone_dialog_title_new">"Thêm số điện thoại của bạn để xem và mua các gói dữ liệu có sẵn cho bạn.&lt;br/&gt;Bạn luôn có thể thay đổi số điện thoại của mình trong Cài đặt."</string>
+    <string name="bh_set_phone_dialog_title">"Đảm bảo số điện thoại bạn nhập vào đây là chính xác.
+Bạn có thể thay đổi số điện thoại của mình trong Cài đặt."</string>
+    <string name="bh_set_phone_dialog_title_new">"Thêm số điện thoại của bạn để xem và mua các gói dữ liệu có sẵn cho bạn.
+Bạn luôn có thể thay đổi số điện thoại của mình trong Cài đặt."</string>
     <string name="bh_traffic_product_out_of_stock">Bán hết</string>
     <string name="bh_withdrawal_yulore_fail">Không thể rút lại sự đồng ý</string>
     <string name="bh_withdrawal_yulore_success">Đã rút lại sự đồng ý thành công</string>
@@ -1248,7 +1261,12 @@
     <string name="card_main_xspace_title">Ứng dụng kép</string>
     <string name="card_sms_report">Báo cáo qua SMS</string>
     <string name="card_tc_failed">Hiệu chỉnh thất bại</string>
-    <string name="card_tc_failed_content">"Nguyên nhân:&lt;br/&gt; 1. Nhà mạng phản hồi chậm vào đầu hoặc cuối tháng. Hãy thử lại sau vài ngày.&lt;br/&gt; 2. Khi bạn hiệu chỉnh lần đầu, bạn cần kết nối mạng để có mẫu hiệu chỉnh. Kết nối mạng và thử lại.&lt;br/&gt; 3. Nhà cung cấp có thể không hỗ trợ gửi tin nhắn văn bản bao gồm thông tin số dư tài khoản và dữ liệu còn lại. Liên hệ với nhà cung cấp để biết thêm thông tin.&lt;br/&gt; 4. Dữ liệu nhà cung cấp bị lỗi. Thử chẩn đoán nhà cung cấp để giải quyết vấn đề này.&lt;br/&gt; 5. Vẫn chưa giải quyết được vấn đề? Chạm “Báo qua SMS” để gửi phản hồi đến Xiaomi."</string>
+    <string name="card_tc_failed_content">"Nguyên nhân:
+ 1. Nhà mạng phản hồi chậm vào đầu hoặc cuối tháng. Hãy thử lại sau vài ngày.
+ 2. Khi bạn hiệu chỉnh lần đầu, bạn cần kết nối mạng để có mẫu hiệu chỉnh. Kết nối mạng và thử lại.
+ 3. Nhà cung cấp có thể không hỗ trợ gửi tin nhắn văn bản bao gồm thông tin số dư tài khoản và dữ liệu còn lại. Liên hệ với nhà cung cấp để biết thêm thông tin.
+ 4. Dữ liệu nhà cung cấp bị lỗi. Thử chẩn đoán nhà cung cấp để giải quyết vấn đề này.
+ 5. Vẫn chưa giải quyết được vấn đề? Chạm “Báo qua SMS” để gửi phản hồi đến Xiaomi."</string>
     <string name="card_uninstall_button_text">Quản lý hội nghị</string>
     <string name="card_uninstall_summary">Gỡ bỏ các ứng dụng hiếm khi được sử dụng để giải phóng dung lượng lưu trữ</string>
     <string name="card_uninstall_title_1">Gỡ ứng dụng ít sử dụng</string>
@@ -1466,7 +1484,9 @@
     <string name="continue_set">Tiếp tục cài đặt</string>
     <string name="convenient_mode">Mở khóa tất cả ứng dụng cùng lúc</string>
     <string name="convenient_summary">Nhập mật khẩu một lần để mở khóa tất cả ứng dụng</string>
-    <string name="conversation_settings_top">"·Trượt thanh công cụ Hội nghị trong các cuộc gọi video và âm thanh toàn màn hình để truy cập các tính năng của nó.&lt;br/&gt;·Loại và số lượng tính năng tùy thuộc vào kiểu thiết bị."</string>
+    <string name="conversation_settings_top">"
+·Trượt thanh công cụ Hội nghị trong các cuộc gọi video và âm thanh toàn màn hình để truy cập các tính năng của nó.
+·Loại và số lượng tính năng tùy thuộc vào kiểu thiết bị."</string>
     <string name="conversation_sider_tips">Sử dụng các công cụ Hội nghị mới để có trải nghiệm cuộc gọi tốt nhất</string>
     <string name="conversation_summary">Làm đẹp, chép lời phụ đề và các tính năng khác trong cuộc gọi âm thanh và video</string>
     <string name="conversation_summary_new">Làm đẹp, phụ đề và các tính năng khác trong cuộc gọi âm thanh và video</string>
@@ -1566,7 +1586,9 @@
     <string name="data_usage_no_total_package_body">Chạm để thiết lập giới hạn dữ liệu</string>
     <string name="data_usage_no_total_package_body_dual">Không thiết lập giới hạn dữ liệu cho %s</string>
     <string name="data_usage_no_total_package_title">Thiết lập giới hạn sử dụng dữ liệu</string>
-    <string name="data_usage_protected_dialog_message">"Hệ thống đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.&lt;br/&gt;&lt;br/&gt;Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
+    <string name="data_usage_protected_dialog_message">"Hệ thống đã tắt dữ liệu di động để ngăn bạn tạo ra phí bổ sung cho nhà cung cấp.
+
+Nhà cung cấp dịch vụ của bạn có thể tính thêm phí nếu bạn bật lại dữ liệu di động."</string>
     <string name="data_usage_protected_notify_message">Dữ liệu di động đã bị tắt để ngăn việc phát sinh thêm phí của nhà cung cấp dịch vụ.</string>
     <string name="data_usage_protected_notify_title">Bạn đã sử dụng 5GB dữ liệu di động</string>
     <string name="data_usage_warning_body">Chạm để xem chi tiết sử dụng dữ liệu.</string>
@@ -1646,7 +1668,10 @@
     <string name="dialog_roaming_warning_message">Nhà mạng sẽ tính thêm phí sau khi bạn bật chuyển vùng dữ liệu quốc tế. Vẫn bật?</string>
     <string name="dialog_roaming_warning_ok">Bật</string>
     <string name="dialog_skt_roaming_warning_cancel">Không đồng ý</string>
-    <string name="dialog_skt_roaming_warning_message">"Đọc và đồng ý với điều kiện bên dưới để sử dụng chuyển vùng dữ liệu. Chuyển vùng dữ liệu quốc tế có thể tính phí. Nếu không có gói dữ liệu chuyển vùng, các khoản phí đáng kể có thể áp dụng cho các ứng dụng tự động cập nhật, chẳng hạn như các ứng dụng liên quan đến mạng xã hội, email và thời tiết.&lt;br/&gt; * Khi bạn không đồng ý sử dụng chuyển vùng dữ liệu, chuyển vùng dữ liệu sẽ bị tắt.&lt;br/&gt; * HD Voice được sử dụng làm mặc định trên các mạng được hỗ trợ.&lt;br/&gt; * Chuyển vùng dữ liệu 5G chỉ khả dụng trong các mạng đối tác của chúng tôi."</string>
+    <string name="dialog_skt_roaming_warning_message">"Đọc và đồng ý với điều kiện bên dưới để sử dụng chuyển vùng dữ liệu. Chuyển vùng dữ liệu quốc tế có thể tính phí. Nếu không có gói dữ liệu chuyển vùng, các khoản phí đáng kể có thể áp dụng cho các ứng dụng tự động cập nhật, chẳng hạn như các ứng dụng liên quan đến mạng xã hội, email và thời tiết.
+ * Khi bạn không đồng ý sử dụng chuyển vùng dữ liệu, chuyển vùng dữ liệu sẽ bị tắt.
+ * HD Voice được sử dụng làm mặc định trên các mạng được hỗ trợ.
+ * Chuyển vùng dữ liệu 5G chỉ khả dụng trong các mạng đối tác của chúng tôi."</string>
     <string name="dialog_skt_roaming_warning_ok">Đồng ý</string>
     <string name="dialog_skt_roaming_warning_title">Thỏa thuận Chuyển vùng dữ liệu</string>
     <string name="dialog_text">Tạo lối tắt Tăng tốc trò chơi trên Màn hình chính</string>
@@ -1683,9 +1708,12 @@
     <string name="dlg_keyword_ok">Lưu</string>
     <string name="dlg_message_not_open_stranger_identify">Để bật tính năng này, hãy vào Cài đặt > Điện thoại.</string>
     <string name="dlg_move_to_white">Thêm vào danh sách ngoại lệ</string>
-    <string name="dlg_not_block_call">"Bỏ chặn các số đã chọn?\u000d &lt;br/&gt;Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
-    <string name="dlg_not_block_sms">"Bỏ chặn các số đã chọn?\u000d &lt;br/&gt;Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong hộp thư tin nhắn."</string>
-    <string name="dlg_no_block">"Bỏ chặn và khôi phục các cuộc gọi từ số này vào lịch sử cuộc gọi?&lt;br/&gt;(Số này sẽ được thêm vào danh sách trắng cuộc gọi)"</string>
+    <string name="dlg_not_block_call">"Bỏ chặn các số đã chọn?\u000d 
+Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong lịch sử cuộc gọi."</string>
+    <string name="dlg_not_block_sms">"Bỏ chặn các số đã chọn?\u000d 
+Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị chặn trước đó sẽ không xuất hiện trong hộp thư tin nhắn."</string>
+    <string name="dlg_no_block">"Bỏ chặn và khôi phục các cuộc gọi từ số này vào lịch sử cuộc gọi?
+(Số này sẽ được thêm vào danh sách trắng cuộc gọi)"</string>
     <string name="dlg_no_block_ok">Bỏ chặn</string>
     <string name="dlg_onlie_service_summary">Việc tắt các dịch vụ trực tuyến sẽ khiến một số tính năng của ứng dụng không khả dụng. Vẫn tắt?</string>
     <string name="dlg_open_online_service_pos_text">Bật</string>
@@ -1880,8 +1908,10 @@
     <string name="ew_emergency_title">Thẻ y tế</string>
     <string name="ew_first_start_network_title">Điều khoản và điều kiện</string>
     <string name="ew_get_location">Định vị</string>
-    <string name="ew_global_signature">"Thông tin được cung cấp bởi EEWS BMKG&lt;br/&gt;Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
-    <string name="ew_global_signature_template">"Thông tin được cung cấp bởi %s&lt;br/&gt;Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
+    <string name="ew_global_signature">"Thông tin được cung cấp bởi EEWS BMKG
+Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
+    <string name="ew_global_signature_template">"Thông tin được cung cấp bởi %s
+Hỗ trợ kỹ thuật của Xiaomi &amp; ICL"</string>
     <string name="ew_guide_law_agree">Đồng ý</string>
     <string name="ew_guide_law_done">Đã hiểu</string>
     <string name="ew_guide_law_exit">Không đồng ý</string>
@@ -1896,7 +1926,12 @@
     <string name="ew_guide_start_find_area">Tìm kiếm khu vực</string>
     <string name="ew_guide_start_warning_range">Hiện tại, cảnh báo sớm động đất cung cấp các dịch vụ cho khu vực được bao phủ bởi Mạng lưới Cảnh báo sớm Động đất Đại lục của Viện Giảm nhẹ Thiên tai Công nghệ cao Thành Đô. Khu vực cụ thể có thể được tìm thấy trong [Quản lý thành phố].</string>
     <string name="ew_guide_statement_text">Điều khoản miễn trừ này áp dụng cho tất cả người dùng có chức năng cảnh báo động đất (sau đây gọi là bạn). Khi bạn đồng ý với điều khoản này, điều khoản này thể hiện mối quan hệ giữa bạn và Xiaomi Technology Co., Ltd. và các chi nhánh của (sau đây gọi là Xiaomi) tạo thành một tài liệu ràng buộc pháp lý. Bạn xác nhận rằng bạn đã đọc chi tiết tất cả nội dung của điều khoản miễn trừ này, bạn hoàn toàn hiểu và đồng ý với tất cả nội dung của điều khoản miễn trừ này, nếu bạn không đồng ý với nội dung của điều khoản miễn trừ này thì bạn nên tắt ngay chức năng cảnh báo động đất. Theo các luật và quy định liên quan, Xiaomi sẽ cung cấp cho bạn các dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất do các cơ quan liên quan thực hiện. Tức là khi bật chức năng cảnh báo động đất, bạn có thể nhận được các dịch vụ cảnh báo động đất tại các khu vực trên. Đối với các khu vực hiện đang cung cấp dịch vụ cảnh báo sớm động đất, vui lòng kiểm tra trong mô-đun [Quản lý đô thị]. Các khu vực cảnh báo sớm sẽ dần được bổ sung trong tương lai, vì vậy hãy chú ý theo dõi! Vì sự an toàn của bạn, Xiaomi cung cấp các mô-đun chức năng liên quan trong trung tâm an toàn để hiển thị cho bạn thông tin cảnh báo động đất. Bạn hiểu rằng thông tin cảnh báo sớm động đất được cung cấp bởi Viện nghiên cứu giảm nhẹ thiên tai công nghệ cao Thành Đô và Xiaomi không có bất kỳ quyền kiểm soát nào đối với thông tin đó. Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hiệu quả và kịp thời của thông tin cảnh báo sớm, cũng như không đảm bảo rằng dịch vụ cảnh báo sớm động đất có thể đáp ứng mọi nhu cầu của bạn. Việc nhận thông tin cảnh báo động đất đòi hỏi bạn phải giữ cho mạng điện thoại di động của mình hoạt động bình thường, không nhận được hoặc nhận không kịp do bên thứ ba như lỗi đường truyền, sự cố kỹ thuật, mạng, hỏng thiết bị đầu cuối, hệ thống không ổn định và các lý do bất khả kháng khác Xiaomi sẽ không chịu bất kỳ trách nhiệm nào về mọi tổn thất phải chịu. Bạn hiểu rằng dịch vụ cảnh báo sớm động đất chỉ mang tính chất tham khảo để bạn đánh giá rủi ro an toàn và đưa ra quyết định an toàn. Cảnh báo sớm động đất chỉ có thể cung cấp thời gian cảnh báo sớm từ vài giây đến hàng chục giây. Bạn chịu trách nhiệm với các rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên dịch vụ cảnh báo sớm động.</string>
-    <string name="ew_guide_statement_text_new">"Tuyên bố từ chối trách nhiệm này áp dụng cho tất cả người dùng (sau đây gọi là \"bạn\") bật tính năng cảnh báo động đất. Bằng cách đồng ý với tuyên bố từ chối trách nhiệm này, bạn tham gia vào một hợp đồng ràng buộc pháp lý với Xiaomi Inc. và các chi nhánh của nó (sau đây được gọi là \"Xiaomi\"). Bạn xác nhận rằng bạn đã đọc tất cả nội dung của tuyên bố từ chối trách nhiệm này, và bạn hoàn toàn hiểu và đồng ý với tất cả các điều khoản và điều kiện của tuyên bố từ chối trách nhiệm này; nếu không, bạn nên tắt tính năng cảnh báo động đất ngay lập tức.&lt;br/&gt;Theo các luật và quy định có liên quan, Xiaomi sẽ cung cấp cho bạn các dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất do các cơ quan liên quan bao phủ. Tức là, khi bật chức năng cảnh báo động đất, bạn sẽ có thể nhận được cảnh báo động đất được đưa ra cho các khu vực cụ thể. Bạn có thể tìm thấy các khu vực phủ sóng cụ thể trong Cài đặt.&lt;br/&gt;Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi Viện giảm nhẹ thiên tai công nghệ cao Thành Đô. Xiaomi không giám sát tổ chức này và không có bất kỳ quyền kiểm soát nào đối với nó.&lt;br/&gt;Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất, cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn.&lt;br/&gt;Nhận thông tin cảnh báo động đất yêu cầu bạn phải giữ thiết bị của mình kết nối với mạng di động. Lỗi đường truyền liên lạc của bên thứ ba, sự cố kỹ thuật, lỗi mạng hoặc thiết bị đầu cuối, sự không ổn định của hệ thống và các trường hợp bất khả kháng khác có thể khiến bạn không nhận được thông tin cảnh báo động đất. Xiaomi sẽ không chịu bất kỳ trách nhiệm nào đối với bất kỳ tổn thất nào do các sự kiện đó gây ra.&lt;br/&gt;Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạn tham khảo. Cảnh báo bạn nhận được có thể đến vài giây trước khi trận động đất xảy ra. Bạn hoàn toàn chịu trách nhiệm về rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này."</string>
+    <string name="ew_guide_statement_text_new">"Tuyên bố từ chối trách nhiệm này áp dụng cho tất cả người dùng (sau đây gọi là \"bạn\") bật tính năng cảnh báo động đất. Bằng cách đồng ý với tuyên bố từ chối trách nhiệm này, bạn tham gia vào một hợp đồng ràng buộc pháp lý với Xiaomi Inc. và các chi nhánh của nó (sau đây được gọi là \"Xiaomi\"). Bạn xác nhận rằng bạn đã đọc tất cả nội dung của tuyên bố từ chối trách nhiệm này, và bạn hoàn toàn hiểu và đồng ý với tất cả các điều khoản và điều kiện của tuyên bố từ chối trách nhiệm này; nếu không, bạn nên tắt tính năng cảnh báo động đất ngay lập tức.
+Theo các luật và quy định có liên quan, Xiaomi sẽ cung cấp cho bạn các dịch vụ cảnh báo sớm dựa trên phạm vi khu vực giám sát cảnh báo sớm động đất do các cơ quan liên quan bao phủ. Tức là, khi bật chức năng cảnh báo động đất, bạn sẽ có thể nhận được cảnh báo động đất được đưa ra cho các khu vực cụ thể. Bạn có thể tìm thấy các khu vực phủ sóng cụ thể trong Cài đặt.
+Tính năng này cung cấp cho bạn chức năng cảnh báo động đất. Bạn phải hiểu rằng thông tin cảnh báo động đất được cung cấp bởi Viện giảm nhẹ thiên tai công nghệ cao Thành Đô. Xiaomi không giám sát tổ chức này và không có bất kỳ quyền kiểm soát nào đối với nó.
+Xiaomi không hứa hẹn hoặc đảm bảo tính chính xác, hợp lệ và kịp thời của thông tin cảnh báo động đất, cũng như không đảm bảo rằng dịch vụ cảnh báo động đất sẽ đáp ứng mọi nhu cầu của bạn.
+Nhận thông tin cảnh báo động đất yêu cầu bạn phải giữ thiết bị của mình kết nối với mạng di động. Lỗi đường truyền liên lạc của bên thứ ba, sự cố kỹ thuật, lỗi mạng hoặc thiết bị đầu cuối, sự không ổn định của hệ thống và các trường hợp bất khả kháng khác có thể khiến bạn không nhận được thông tin cảnh báo động đất. Xiaomi sẽ không chịu bất kỳ trách nhiệm nào đối với bất kỳ tổn thất nào do các sự kiện đó gây ra.
+Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạn tham khảo. Cảnh báo bạn nhận được có thể đến vài giây trước khi trận động đất xảy ra. Bạn hoàn toàn chịu trách nhiệm về rủi ro và hậu quả của bất kỳ hành động nào bạn thực hiện dựa trên thông tin được cung cấp bởi tính năng này."</string>
     <string name="ew_guide_tips_1">Bạn sẽ được thông báo về trận động đất sắp tới và nghe thấy âm thanh cảnh báo</string>
     <string name="ew_guide_tips_2">Thông tin và âm thanh cảnh báo sẽ được cập nhật trong trận động đất</string>
     <string name="ew_guide_tips_3">Bạn sẽ có thể tìm nơi trú ẩn gần nhất, gọi cho liên hệ khẩn cấp của bạn và xuất trình thẻ y tế của bạn nếu cần</string>
@@ -2079,7 +2114,10 @@
     <string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
     <string name="extreme_add_white_list_summary">Có thể thêm lên đến 4 ứng dụng</string>
     <string name="extreme_add_white_list_title">Ứng dụng chạy nền ngoại lệ</string>
-    <string name="extreme_power_save_description"><li>Siêu Tiết kiệm pin dừng tất cả hoạt động nền của một ứng dụng sau khi bạn rời khỏi ứng dụng và quay lại Màn hình chính. Ứng dụng này sẽ không gửi thông báo cho bạn hoặc nhận cập nhật.</li>"&lt;br/&gt;"<li>Nếu bạn muốn ứng dụng chạy trong nền, hãy khóa ứng dụng đó trong phần Gần đây hoặc thêm ứng dụng chạy nền ngoại lệ bên dưới. Có thể chạy lên đến 4 ứng dụng trong nền khi Siêu Tiết kiệm pin được bật. </li>"&lt;br/&gt;"<li>Siêu Tiết kiệm pin sẽ tắt NFC theo mặc định. Bạn có thể thay đổi điều này trong Cài đặt.</li>"&lt;br/&gt;"<li>Để đảm bảo bạn có thể sử dụng bình thường tất cả các tính năng của thiết bị, Siêu Tiết kiệm pin sẽ tự động tắt khi pin của bạn sạc được 30%.</li></string>
+    <string name="extreme_power_save_description"><li>Siêu Tiết kiệm pin dừng tất cả hoạt động nền của một ứng dụng sau khi bạn rời khỏi ứng dụng và quay lại Màn hình chính. Ứng dụng này sẽ không gửi thông báo cho bạn hoặc nhận cập nhật.</li>"
+"<li>Nếu bạn muốn ứng dụng chạy trong nền, hãy khóa ứng dụng đó trong phần Gần đây hoặc thêm ứng dụng chạy nền ngoại lệ bên dưới. Có thể chạy lên đến 4 ứng dụng trong nền khi Siêu Tiết kiệm pin được bật. </li>"
+"<li>Siêu Tiết kiệm pin sẽ tắt NFC theo mặc định. Bạn có thể thay đổi điều này trong Cài đặt.</li>"
+"<li>Để đảm bảo bạn có thể sử dụng bình thường tất cả các tính năng của thiết bị, Siêu Tiết kiệm pin sẽ tự động tắt khi pin của bạn sạc được 30%.</li></string>
     <string name="extreme_power_save_mode_card_summary">Bật chế độ Siêu Tiết kiệm pin để Tiết kiệm pin khi pin yếu.</string>
     <string name="extreme_power_save_mode_summary">Siêu Tiết kiệm pin hạn chế hoạt động nền, và dừng đồng bộ.</string>
     <string name="extreme_power_save_mode_title">Siêu Tiết kiệm pin</string>
@@ -2285,7 +2323,9 @@
     <string name="forget_pattern"><u>Quên mật khẩu</u></string>
     <string name="forground_network_optimization_summary">Cung cấp thêm băng thông cho trò chơi chạy trong nền trước</string>
     <string name="forground_network_optimization_title">Ưu tiên băng thông</string>
-    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Chạm vào ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.&lt;br/&gt;· Kéo ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"
+· Chạm vào ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+· Kéo ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình."</string>
     <string name="free_send_net_booster">Tăng tốc mạng miễn phí</string>
     <string name="free_send_net_booster_busniess">Nhận tăng tốc Xunlei miễn phí</string>
     <string name="free_send_net_booster_busniess_tip">Chạm để nhận</string>
@@ -2301,15 +2341,31 @@
     <string name="fully_informed_privacy">Nhận thức về quyền riêng tư</string>
     <string name="full_fill_oprator_and_location">Cung cấp thông tin nhà cung cấp dịch vụ và vị trí của bạn</string>
     <string name="full_fill_sim_location">Đặt vị trí trước</string>
-    <string name="function_auto_reject_detail">"Về tính năng này:&lt;br/&gt;1. Khi bạn đang chơi trò chơi, tất cả cuộc gọi đến vào thẻ SIM không có dịch vụ dữ liệu sẽ tự động từ chối.&lt;br/&gt;2. Bạn sẽ thấy thông báo cuộc gọi nhỡ và người khác sẽ nghe thấy lời nhắn rằng bạn đang bận.&lt;br/&gt;3. Tính năng này chỉ hỗ trợ nhà mạng ở Trung Quốc."</string>
-    <string name="function_auto_reject_detail_new">"Về tính năng này:&lt;br/&gt;%1$d. Khi bạn đang chơi trò chơi, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ tự động bị từ chối.&lt;br/&gt;%2$d. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người kia sẽ nghe thấy tin nhắn âm thanh cho biết hiện tại bạn đang bận.&lt;br/&gt;%3$d. Tính năng này chỉ được hỗ trợ bởi các nhà mạng di động ở Trung Quốc đại lục."</string>
+    <string name="function_auto_reject_detail">"Về tính năng này:
+1. Khi bạn đang chơi trò chơi, tất cả cuộc gọi đến vào thẻ SIM không có dịch vụ dữ liệu sẽ tự động từ chối.
+2. Bạn sẽ thấy thông báo cuộc gọi nhỡ và người khác sẽ nghe thấy lời nhắn rằng bạn đang bận.
+3. Tính năng này chỉ hỗ trợ nhà mạng ở Trung Quốc."</string>
+    <string name="function_auto_reject_detail_new">"Về tính năng này:
+%1$d. Khi bạn đang chơi trò chơi, tất cả các cuộc gọi đến thẻ SIM không có dịch vụ dữ liệu di động sẽ tự động bị từ chối.
+%2$d. Bạn sẽ thấy thông báo về cuộc gọi nhỡ và người kia sẽ nghe thấy tin nhắn âm thanh cho biết hiện tại bạn đang bận.
+%3$d. Tính năng này chỉ được hỗ trợ bởi các nhà mạng di động ở Trung Quốc đại lục."</string>
     <string name="function_auto_reject_title">Từ chối cuộc gọi VoLTE đến thẻ SIM không có dịch vụ dữ liệu</string>
     <string name="function_close">Tắt</string>
-    <string name="function_gwsd_detail">"Về tính năng này:&lt;br/&gt; 1. Khi bạn đang sử dụng dữ liệu di động trên SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi các cuộc gọi đến cho đến khi bạn nhấc máy.&lt;br/&gt; 2. Khi tính năng này được bật, người khác sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Các cuộc gọi đến sẽ tự động bị từ chối sau 7-10 giây không hoạt động.&lt;br/&gt; 3. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
-    <string name="function_gwsd_detail_new">"Về tính năng này:&lt;br/&gt;%1$d. Khi bạn đang sử dụng dữ liệu di động trên SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi các cuộc gọi đến cho đến khi bạn nhấc máy.&lt;br/&gt;%2$d. Khi tính năng này bật, người khác sẽ không thể nghe thấy nhạc chờ của bạn trừ khi bạn đang sử dụng thẻ SIM thông thường. Cuộc gọi đến sẽ tự động bị từ chối sau %3$d-%4$d giây không hoạt động.&lt;br/&gt;%5$d. Hỗ trợ thẻ SIM dữ liệu do China Mobile và China Unicom phát hành. Hỗ trợ thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành."</string>
+    <string name="function_gwsd_detail">"Về tính năng này:
+ 1. Khi bạn đang sử dụng dữ liệu di động trên SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi các cuộc gọi đến cho đến khi bạn nhấc máy.
+ 2. Khi tính năng này được bật, người khác sẽ không thể nghe thấy nhạc chuông của bạn trừ khi bạn sử dụng thẻ SIM thông thường. Các cuộc gọi đến sẽ tự động bị từ chối sau 7-10 giây không hoạt động.
+ 3. Thẻ SIM dữ liệu do China Mobile và China Unicom phát hành được hỗ trợ. Thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành được hỗ trợ."</string>
+    <string name="function_gwsd_detail_new">"Về tính năng này:
+%1$d. Khi bạn đang sử dụng dữ liệu di động trên SIM dữ liệu hoặc thẻ SIM thông thường được kết nối với mạng VoLTE, kết nối sẽ không bị gián đoạn bởi các cuộc gọi đến cho đến khi bạn nhấc máy.
+%2$d. Khi tính năng này bật, người khác sẽ không thể nghe thấy nhạc chờ của bạn trừ khi bạn đang sử dụng thẻ SIM thông thường. Cuộc gọi đến sẽ tự động bị từ chối sau %3$d-%4$d giây không hoạt động.
+%5$d. Hỗ trợ thẻ SIM dữ liệu do China Mobile và China Unicom phát hành. Hỗ trợ thẻ SIM thông thường do China Mobile, China Unicom và China Telecom phát hành."</string>
     <string name="function_gwsd_title">Không cho phép cuộc gọi đến ngắt kết nối mạng của SIM</string>
     <string name="function_oncall_not_close_network">Không ngắt kết nối khi có cuộc gọi</string>
-    <string name="function_oncall_not_close_network_detail">"Về tính năng này:&lt;br/&gt;%1$d. Tính năng này cho phép bạn trực tuyến trong các phiên chơi trò chơi mà không bị gián đoạn bởi các cuộc gọi đến khi thiết bị này được kết nối với mạng 5G cụ thể.&lt;br/&gt;%2$d. Nếu cả hai thẻ SIM của bạn đều không được kết nối với mạng 5G thì SIM chính của bạn sẽ tự động từ chối các cuộc gọi đến.&lt;br/&gt;%3$d. Tính năng này chỉ được hỗ trợ ở Trung Quốc đại lục.&lt;br/&gt;%4$d. Tính năng này chỉ hoạt động trong mạng 5G-SA."</string>
+    <string name="function_oncall_not_close_network_detail">"Về tính năng này:
+%1$d. Tính năng này cho phép bạn trực tuyến trong các phiên chơi trò chơi mà không bị gián đoạn bởi các cuộc gọi đến khi thiết bị này được kết nối với mạng 5G cụ thể.
+%2$d. Nếu cả hai thẻ SIM của bạn đều không được kết nối với mạng 5G thì SIM chính của bạn sẽ tự động từ chối các cuộc gọi đến.
+%3$d. Tính năng này chỉ được hỗ trợ ở Trung Quốc đại lục.
+%4$d. Tính năng này chỉ hoạt động trong mạng 5G-SA."</string>
     <string name="function_shield_auto_bright">Tắt Độ sáng tự động</string>
     <string name="function_shield_eye_shield">Tắt chế độ đọc sách</string>
     <string name="function_shield_pull_notification_bar">Không mở Bảng thông báo</string>
@@ -2413,7 +2469,8 @@
     <string name="game_net_text2">Tăng tốc độ kết nối game đồng thời hạn chế tốc độ tải xuống nền để giảm độ trễ mạng</string>
     <string name="game_net_title">Tối ưu tốc độ kết nối</string>
     <string name="game_performance_wild_mode">Tăng tốc Wild</string>
-    <string name="game_performance_wild_mode_tips">"Bật để cải thiện hiệu suất của thiết bị&lt;br/&gt;(Thiết bị của bạn sẽ nóng lên và tiêu thụ nhiều điện năng hơn)"</string>
+    <string name="game_performance_wild_mode_tips">"Bật để cải thiện hiệu suất của thiết bị
+(Thiết bị của bạn sẽ nóng lên và tiêu thụ nhiều điện năng hơn)"</string>
     <string name="game_setting">Cài đặt trò chơi</string>
     <string name="game_video_network_eror">Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
     <string name="game_video_net_data">Dữ liệu di động</string>
@@ -2490,7 +2547,8 @@
     <string name="gb_collimator_size">Kích thước</string>
     <string name="gb_collimator_style">Loại</string>
     <string name="gb_collimator_toast">Tầm nhìn giúp việc nhắm mục tiêu thuận tiện hơn nhiều</string>
-    <string name="gb_cooler_device_toast">"Trải nghiệm hình ảnh được nâng cao nhờ&lt;br/&gt;Bộ làm mát Trò chơi Xiaomi"</string>
+    <string name="gb_cooler_device_toast">"Trải nghiệm hình ảnh được nâng cao nhờ
+Bộ làm mát Trò chơi Xiaomi"</string>
     <string name="gb_create_icon_summary">Tạo lối tắt Màn hình chính</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_description_image_button_answer">Trả lời</string>
@@ -2532,7 +2590,8 @@
     <string name="gb_game_end_toast">Xem lại những khoảnh khắc quan trọng trong trò chơi của bạn</string>
     <string name="gb_game_fill_desc">Nội dung có thể bị bóp méo trong một số trường hợp</string>
     <string name="gb_game_macro_bubble_tips">Thử Combo</string>
-    <string name="gb_game_macro_toast_tips">"Hãy thử combo!&lt;br/&gt;Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string>
+    <string name="gb_game_macro_toast_tips">"Hãy thử combo!
+Ghi lại các trình tự và sử dụng chúng bất cứ lúc nào!"</string>
     <string name="gb_game_mode_change_btn_right">Khởi động lại</string>
     <string name="gb_game_mode_change_message">Khởi động lại trò chơi để áp dụng thay đổi ngay bây giờ?</string>
     <string name="gb_game_mode_change_new">Chuyển đổi giữa các bố cục ở đây</string>
@@ -2679,7 +2738,8 @@
     <string name="gb_turbo_wonder_subtitle">Ghi lại khoảnh khắc quan trọng</string>
     <string name="gb_vision_enhance">Hình ảnh nâng cao</string>
     <string name="gb_vision_enhance_desc">Cải thiện chất lượng hình ảnh và hiệu suất</string>
-    <string name="gb_vision_enhance_frme_insertion_tips">"Tốc độ khung hình thông minh&lt;br/&gt;%dFPS"</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Tốc độ khung hình thông minh
+%dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Tốc độ khung hình thông minh</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Tự động điều chỉnh tốc độ khung hình để chuyển động mượt mà hơn</string>
     <string name="gb_vision_enhance_super_resolution">Giải pháp tối ưu</string>
@@ -2710,14 +2770,16 @@
     <string name="gb_voice_changer_setting_realtime_title">Phản hồi thời gian thực</string>
     <string name="gb_voice_changer_setting_rights">Điều khoản Dịch vụ và Chính sách Riêng tư</string>
     <string name="gb_voice_changer_toast_window_bubble_tips">Dùng thử Trình thay đổi giọng nói ngay bây giờ để được dùng thử miễn phí 3 ngày!</string>
-    <string name="gb_voice_changer_toast_window_new_tips">"Thử Đổi giọng nói!&lt;br/&gt;Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc biệt."</string>
+    <string name="gb_voice_changer_toast_window_new_tips">"Thử Đổi giọng nói!
+Chuyển đổi giữa các ký tự khác nhau và các hiệu ứng đặc biệt."</string>
     <string name="gb_voice_changer_toast_window_open">Đã bật hiệu ứng \"%s\"</string>
     <string name="gb_voice_changer_toast_window_vip_expire">Đăng ký của bạn sắp hết hạn. Gia hạn đăng ký ngay bây giờ để nhận các lợi ích!</string>
     <string name="gb_voice_changer_trial_gender_dialog">Đã nhận được bản dùng thử miễn phí thành công! Chọn giới tính để điều chỉnh các hiệu ứng và khuyến nghị cho phù hợp.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Dùng thử</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Đang nhận bản dùng thử miễn phí…</string>
     <string name="gb_voice_changer_user_status_expired">Đăng ký hết hạn</string>
-    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Nhận dùng thử miễn phí %d ngày&lt;br/&gt;và khám phá Đổi giọng nói!"</string>
+    <string name="gb_voice_changer_user_status_get_trial_card_dialog">"Nhận dùng thử miễn phí %d ngày
+và khám phá Đổi giọng nói!"</string>
     <string name="gb_voice_changer_user_status_no_login">Đăng nhập Tài khoản Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">Ngày hết hạn: %s</string>
     <string name="gb_voice_changer_user_status_renew">Làm mới</string>
@@ -2789,10 +2851,18 @@
     <string name="gigabyteShort">GB</string>
     <string name="give_lucky_money">Trao lì xì</string>
     <string name="global_dock_guide_desc_pad">Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh</string>
-    <string name="global_dock_guide_desc_without_split_screen">"· Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi.&lt;br/&gt;· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
-    <string name="global_dock_guide_desc_without_split_screen_new">"Vuốt để mở thanh bên và nhấn vào ứng dụng để mở ứng dụng đó trong cửa sổ nổi.&lt;br/&gt;Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
-    <string name="global_dock_guide_desc_with_split_screen">"· Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi.&lt;br/&gt;· Kéo một ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.&lt;br/&gt;· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
-    <string name="global_dock_guide_desc_with_split_screen_new">"· Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.&lt;br/&gt;· Kéo ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.&lt;br/&gt;· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"
+· Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_without_split_screen_new">"Vuốt để mở thanh bên và nhấn vào ứng dụng để mở ứng dụng đó trong cửa sổ nổi.
+Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_with_split_screen">"
+· Nhấn vào một ứng dụng trên Thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+· Kéo một ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.
+· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
+    <string name="global_dock_guide_desc_with_split_screen_new">"· Nhấn vào một ứng dụng trên thanh bên để mở ứng dụng đó trong cửa sổ nổi.
+· Kéo ứng dụng vào giữa màn hình để mở ứng dụng đó trong cửa sổ nổi hoặc sang một bên để sử dụng Chia đôi màn hình.
+· Nhấn và giữ chỉ báo để di chuyển cửa sổ xung quanh."</string>
     <string name="global_satisfaction_notification_button">Tỷ lệ</string>
     <string name="global_satisfaction_notification_channel">Khảo sát sự hài lòng của người dùng</string>
     <string name="global_satisfaction_notification_subhead">Nói cho chúng tôi về kinh nghiệm của bạn</string>
@@ -2860,7 +2930,8 @@
     <string name="gs_game_disturb_msg">Không làm phiền</string>
     <string name="gs_game_duration">Thời gian</string>
     <string name="gs_game_manual_record">Ghi thủ công</string>
-    <string name="gs_game_manual_record_subtitle">"Bạn có thẻ bắt đầu ghi trong hộp công cụ khi đang chơi. Có thể ghi lên đến 30 giây sau khi bạn chạm nút \"Ghi\".&lt;br/&gt;Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan trọng."</string>
+    <string name="gs_game_manual_record_subtitle">"Bạn có thẻ bắt đầu ghi trong hộp công cụ khi đang chơi. Có thể ghi lên đến 30 giây sau khi bạn chạm nút \"Ghi\".
+Video sẽ được lưu trong Tăng tốc Trò chơi > Khoảnh khắc quan trọng."</string>
     <string name="gs_game_manual_record_subtitle_child">Bạn có thể gặp phải một số vấn đề khi sử dụng tính năng này:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Ghi lại phiên chơi game của bạn cần mức tiêu thụ năng lượng cao hơn, có thể gây lag.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Tính năng ghi màn hình khác có thể hoạt động không chính xác.</string>
@@ -2984,8 +3055,13 @@
     <string name="heavenly_stems_wu">"Mậu "</string>
     <string name="heavenly_stems_xin">"Tân "</string>
     <string name="heavenly_stems_yi">"Ất "</string>
-    <string name="help_page_text_14_global">"1. Nếu bạn muốn sử dụng thiết bị Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử các bước dưới đây:&lt;br/&gt;Kết nối cả điện thoại và màn hình ngoài (v.d. TV của bạn) vào cùng một mạng Wi-Fi, hoặc kết nối màn hình ngoài vào điểm phát của điện thoại. Nếu không có mạng Wi-Fi khả dụng hoặc bạn không thể kết nối cả hai thiết bị vào cùng một mạng, kiểm tra xem tính năng truyền trên màn hình mở rộng đã được cập nhật, bật Bluetooth trên cả điện thoại và màn hình mở rộng, và bật Miracast trên TV của bạn.&lt;br/&gt;2. Nếu bạn đang truyền trên một thiết bị Xiaomi lần đầu tiên, bạn cần hoàn tất xác thực.&lt;br/&gt;3. Nếu bạn muốn dùng thiết bị không phải Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:&lt;br/&gt;Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV của bạn) vào cùng một mạng Wi-Fi. hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
-    <string name="help_page_text_55_global">"Nếu bạn không thể kết nối mạng, đảm bảo rằng màn hình mở rộng của bạn hỗ trợ tính năng Miracast và nó đã được bật. Trên một vài mẫu, tính năng này sẽ được gọi là Hiển thị Không dây, Chiếu màn hình, hoặc Đa màn hình.&lt;br/&gt;4. Nếu bạn gặp phải bất kì vấn đề nào, bạn có thể báo cáo qua ứng dụng \"Dịch vụ &amp; phản hồi\" của chúng tôi."</string>
+    <string name="help_page_text_14_global">"1. Nếu bạn muốn sử dụng thiết bị Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử các bước dưới đây:
+Kết nối cả điện thoại và màn hình ngoài (v.d. TV của bạn) vào cùng một mạng Wi-Fi, hoặc kết nối màn hình ngoài vào điểm phát của điện thoại. Nếu không có mạng Wi-Fi khả dụng hoặc bạn không thể kết nối cả hai thiết bị vào cùng một mạng, kiểm tra xem tính năng truyền trên màn hình mở rộng đã được cập nhật, bật Bluetooth trên cả điện thoại và màn hình mở rộng, và bật Miracast trên TV của bạn.
+2. Nếu bạn đang truyền trên một thiết bị Xiaomi lần đầu tiên, bạn cần hoàn tất xác thực.
+3. Nếu bạn muốn dùng thiết bị không phải Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
+Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV của bạn) vào cùng một mạng Wi-Fi. hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
+    <string name="help_page_text_55_global">"Nếu bạn không thể kết nối mạng, đảm bảo rằng màn hình mở rộng của bạn hỗ trợ tính năng Miracast và nó đã được bật. Trên một vài mẫu, tính năng này sẽ được gọi là Hiển thị Không dây, Chiếu màn hình, hoặc Đa màn hình.
+4. Nếu bạn gặp phải bất kì vấn đề nào, bạn có thể báo cáo qua ứng dụng \"Dịch vụ &amp; phản hồi\" của chúng tôi."</string>
     <string name="hide_mode_app_background_setting_text">Tiết kiệm pin ứng dụng</string>
     <string name="hide_mode_result_summary_text">Tùy chỉnh cài đặt Tiết kiệm pin cho ứng dụng cá nhân</string>
     <string name="hide_mode_summary_text">Quản lý hoạt động nền ứng dụng để Tiết kiệm pin</string>
@@ -3165,7 +3241,9 @@
     <string name="legal_workday_invalidate">Thứ hai-Thứ sáu (thông tin ngày nghỉ hết hạn)</string>
     <string name="legal_workday_invalidate_message">Chạm để cập nhật thông tin ngày nghỉ lễ.</string>
     <string name="legal_workday_message">" (Bỏ qua ngày lễ)"</string>
-    <string name="leisure_usage_dialog_message">"Bạn đã đạt đến giới hạn dữ liệu ngoài giờ cao điểm.&lt;br/&gt;&lt;br/&gt;Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối dữ liệu di động."</string>
+    <string name="leisure_usage_dialog_message">"Bạn đã đạt đến giới hạn dữ liệu ngoài giờ cao điểm.
+
+Nhà cung cấp có thể tính thêm phí nếu bạn sử dụng kết nối dữ liệu di động."</string>
     <string name="leisure_usage_dialog_title">Bạn đã vượt quá giới hạn dữ liệu ngoài giờ cao điểm, kết nối dữ liệu đã bị tắt</string>
     <string name="limit_speed_by_quota">Lưu lượng sử dụng không giới hạn, tốc độ sẽ bị giảm nếu vượt quá ngưỡng</string>
     <string name="list_empty_text">Trống</string>
@@ -3232,7 +3310,9 @@
     <string name="lucky_alarm_open_summary">Sau khi mở, cửa sổ bật lên sẽ hiện 1 phút trước khi bắt đầu hoạt động lì xì, và thời gian hoạt động sẽ được thấy qua cửa sổ nổi.</string>
     <string name="lucky_alarm_open_title">Báo thức lì xì</string>
     <string name="lucky_alarm_sound_title">Âm báo hoạt động</string>
-    <string name="lucky_assistant_description">"Sản phẩm chính hãng Xiaomi&lt;br/&gt;Lấy lì xì WeChat/QQ/Mi Chat&lt;br/&gt;Nhắc nhở các nhóm bị chặn và ứng dụng bật Không làm phiền"</string>
+    <string name="lucky_assistant_description">"Sản phẩm chính hãng Xiaomi
+Lấy lì xì WeChat/QQ/Mi Chat
+Nhắc nhở các nhóm bị chặn và ứng dụng bật Không làm phiền"</string>
     <string name="lucky_max_chat_title">Từ QQ</string>
     <string name="lucky_money_close">Đóng</string>
     <string name="lucky_money_group_summary">Lì xì được gửi từ cá nhân không cần phải chộp. Chúng tôi khuyên bạn chỉ nên đặt lời nhắc lì xì nhóm để tránh quá nhiều lời nhắc.</string>
@@ -3379,7 +3459,8 @@
     <string name="memory_clean_memory_size_tip">Bộ nhớ đệm</string>
     <string name="memory_clean_no_need_clean">Mọi thứ đều tốt</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">Đã giải phóng %s. Thiết bị của bạn đã nhanh hơn %d%%.</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Đã giải phóng %s.&lt;br/&gt;Thiết bị của bạn bây giờ nhanh hơn %s."</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Đã giải phóng %s.
+Thiết bị của bạn bây giờ nhanh hơn %s."</string>
     <string name="memory_clean_no_running_process">Không có nhiệm vụ để xóa</string>
     <string name="memory_clean_running_process_title">Giám sát ứng dụng (%d)</string>
     <string name="memory_clear_unused">Xóa bộ nhớ đệm (%s)</string>
@@ -3619,7 +3700,9 @@
     <string name="na_open_at_once">Bật</string>
     <string name="na_operator_not_support_correction">Nhà cung cấp dịch vụ này không hỗ trợ các yêu cầu về phí và số dư</string>
     <string name="na_query_and_correction">Kiểm tra và hiệu chỉnh cân</string>
-    <string name="na_query_and_correction_msg">"Bạn có thể kiểm tra và hiệu chỉnh số dư tài khoản cũng như số liệu thống kê dữ liệu di động bằng cách gửi SMS miễn phí tới nhà cung cấp dịch vụ của bạn. Những tin nhắn này được mã hóa.&lt;br/&gt;Tin nhắn truy vấn số dư không được lưu trữ trong Tin nhắn và sẽ không được hiển thị.&lt;br/&gt;Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu thống kê sử dụng dữ liệu\" bất cứ lúc nào."</string>
+    <string name="na_query_and_correction_msg">"Bạn có thể kiểm tra và hiệu chỉnh số dư tài khoản cũng như số liệu thống kê dữ liệu di động bằng cách gửi SMS miễn phí tới nhà cung cấp dịch vụ của bạn. Những tin nhắn này được mã hóa.
+Tin nhắn truy vấn số dư không được lưu trữ trong Tin nhắn và sẽ không được hiển thị.
+Bạn có thể tắt tùy chọn \"Tự động điều chỉnh số liệu thống kê sử dụng dữ liệu\" bất cứ lúc nào."</string>
     <string name="na_text_checking">"Đang kiểm tra: "</string>
     <string name="nd_result_button_optimize">Tối ưu</string>
     <string name="nd_result_summary_optimize">Thử tối ưu kết nối mạng khi không ổn định</string>
@@ -3642,12 +3725,39 @@
     <string name="network_disable_dialog_content">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
     <string name="network_disable_dialog_content_cn">Mạng không mạnh, vui lòng kiểm tra trạng thái mạng ~</string>
     <string name="network_disable_dialog_title">Không thể kết nối mạng</string>
-    <string name="network_mobile_exception_detail">"Thiết bị của bạn không thể kết nối internet:&lt;br/&gt;&lt;br/&gt;1. Đảm bảo rằng bạn chưa vượt quá giới hạn dữ liệu di động mà bạn đã đăng ký.&lt;br/&gt;&lt;br/&gt;2. Nếu bạn vừa mới mua thêm lưu lượng, hãy khởi động lại thiết bị và thử lại.&lt;br/&gt;&lt;br/&gt;3. Tín hiệu mạng của nhà cung cấp có thể yếu ở vị trí hiện tại."</string>
+    <string name="network_mobile_exception_detail">"Thiết bị của bạn không thể kết nối internet:
+
+1. Đảm bảo rằng bạn chưa vượt quá giới hạn dữ liệu di động mà bạn đã đăng ký.
+
+2. Nếu bạn vừa mới mua thêm lưu lượng, hãy khởi động lại thiết bị và thử lại.
+
+3. Tín hiệu mạng của nhà cung cấp có thể yếu ở vị trí hiện tại."</string>
     <string name="network_operator_exception_summary">Không thể kích hoạt thẻ SIM. Đảm bảo rằng thẻ SIM của bạn đã được lắp đặt đúng và đã được nhà mạng kích hoạt.</string>
     <string name="network_permission_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng</string>
     <string name="network_roaming_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng khi chuyển vùng.</string>
-    <string name="network_route_exception_detail">"Dưới đây là vấn đề bạn gặp phải với bộ định tuyến mà bạn đã kết nối:&lt;br/&gt;&lt;br/&gt; \""<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"\"&lt;br/&gt;Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.&lt;br/&gt;&lt;br/&gt; \""<b>2. Vấn đề cung cấp dịch vụ Internet</b>"\"&lt;br/&gt;Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với nhà cung cấp dịch vụ Internet.&lt;br/&gt;&lt;br/&gt; \""<b>3. Vấn đề về phần cứng bộ định tuyến</b>"\"&lt;br/&gt;Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.&lt;br/&gt;&lt;br/&gt; \""<b>4. Vấn đề về bộ định tuyến khác</b>"\"&lt;br/&gt;Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.&lt;br/&gt;&lt;br/&gt; \""<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"\"&lt;br/&gt;Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
-    <string name="network_sim_exception_detail">"Có vấn đề với thẻ SIM của bạn:&lt;br/&gt;&lt;br/&gt;1. Đảm bảo rằng tài khoản của bạn đang ở trạng thái hoạt động tốt. Hãy thử sử dụng thẻ SIM của bạn bè để xem có kết nối bình thường không.&lt;br/&gt;&lt;br/&gt;2. Nếu bạn sử dụng 2 thẻ SIM, thử đổi thẻ để kiểm tra kết nối.&lt;br/&gt;&lt;br/&gt;3. Đảm bảo rằng thẻ SIM và khe cắm SIM điện thoại của bạn không bị hư hỏng. Xác nhận rằng thẻ SIM bạn đang sử dụng đã được lắp đặt đúng vào khay SIM."</string>
+    <string name="network_route_exception_detail">"Dưới đây là vấn đề bạn gặp phải với bộ định tuyến mà bạn đã kết nối:
+
+ \""<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"\"
+Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.
+
+ \""<b>2. Vấn đề cung cấp dịch vụ Internet</b>"\"
+Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với nhà cung cấp dịch vụ Internet.
+
+ \""<b>3. Vấn đề về phần cứng bộ định tuyến</b>"\"
+Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.
+
+ \""<b>4. Vấn đề về bộ định tuyến khác</b>"\"
+Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.
+
+ \""<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"\"
+Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
+    <string name="network_sim_exception_detail">"Có vấn đề với thẻ SIM của bạn:
+
+1. Đảm bảo rằng tài khoản của bạn đang ở trạng thái hoạt động tốt. Hãy thử sử dụng thẻ SIM của bạn bè để xem có kết nối bình thường không.
+
+2. Nếu bạn sử dụng 2 thẻ SIM, thử đổi thẻ để kiểm tra kết nối.
+
+3. Đảm bảo rằng thẻ SIM và khe cắm SIM điện thoại của bạn không bị hư hỏng. Xác nhận rằng thẻ SIM bạn đang sử dụng đã được lắp đặt đúng vào khay SIM."</string>
     <string name="network_speed_for_apps_close">Buộc đóng</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bắt buộc đóng ứng dụng này?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">Không thể bắt buộc đóng ứng dụng hệ thống.</string>
@@ -3854,7 +3964,8 @@
     <string name="om_lock_app_unlocked_app">Đã mở khóa</string>
     <string name="om_media_scan_timeout_proc_detail">Máy chủ phương tiện đang làm việc trong nền. Bạn có thể giới hạn hoạt động này.</string>
     <string name="om_media_scan_timeout_proc_name">Máy chủ phương tiện</string>
-    <string name="om_media_scan_time_warn_title">"Máy chủ phương tiện đang làm việc trong nền.&lt;br/&gt;Hoạt động này làm giảm tuổi thọ pin."</string>
+    <string name="om_media_scan_time_warn_title">"Máy chủ phương tiện đang làm việc trong nền.
+Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_memory_clean_cleaning_text">Đang tăng tốc…</string>
     <string name="om_notify_cpu_load_too_high_summary">Hạn chế hoạt động nền để tăng tốc</string>
     <string name="om_notify_cpu_load_too_high_title">Sử dụng CPU của %s quá cao</string>
@@ -4339,10 +4450,16 @@
     <string name="permission_precise_location_sumary">Khi tính năng này bị tắt, ứng dụng sẽ chỉ có thể truy cập vào vị trí gần đúng của bạn</string>
     <string name="permission_share_uid">Vị trí chính xác</string>
     <string name="permission_upgrade_more">Xem thêm các tính năng bảo vệ quyền riêng tư</string>
-    <string name="permission_upgrade_privacy_title">"Để bảo vệ thông tin cá nhân của bạn&lt;br/&gt;Ghi âm, danh bạ và quyền hỗ trợ khác được đặt thành “Chỉ cho phép khi sử dụng ứng dụng”&lt;br/&gt;Khi trạng thái này được đặt, ứng dụng sẽ không thể sử dụng quyền trong nền"</string>
-    <string name="permission_upgrade_runtime">"Khi được hỏi&lt;br/&gt;Định vị và máy ảnh được đặt thành “Cho phép lần này”&lt;br/&gt;Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ trở lại thành “Hỏi”"</string>
+    <string name="permission_upgrade_privacy_title">"Để bảo vệ thông tin cá nhân của bạn
+Ghi âm, danh bạ và quyền hỗ trợ khác được đặt thành “Chỉ cho phép khi sử dụng ứng dụng”
+Khi trạng thái này được đặt, ứng dụng sẽ không thể sử dụng quyền trong nền"</string>
+    <string name="permission_upgrade_runtime">"Khi được hỏi
+Định vị và máy ảnh được đặt thành “Cho phép lần này”
+Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ trở lại thành “Hỏi”"</string>
     <string name="permission_upgrade_title">Nâng cấp chức năng quản lý giấy phép</string>
-    <string name="permission_upgrade_virtual">"Nếu bạn không muốn cung cấp thông tin thực như danh bạ, nhật ký cuộc gọi, v.v.&lt;br/&gt;Có thể đặt quyền tương ứng thành “Ủy quyền thông tin trống”&lt;br/&gt;Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo vệ quyền riêng tư"</string>
+    <string name="permission_upgrade_virtual">"Nếu bạn không muốn cung cấp thông tin thực như danh bạ, nhật ký cuộc gọi, v.v.
+Có thể đặt quyền tương ứng thành “Ủy quyền thông tin trống”
+Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo vệ quyền riêng tư"</string>
     <string name="permission_usage_allow_activity_recognization_once">%1$s | Ứng dụng này đã truy cập thông tin tập luyện của bạn</string>
     <string name="permission_usage_allow_autostart_once">%1$s | Ứng dụng này tự động khởi động</string>
     <string name="permission_usage_allow_body_sensor_once">%1$s | Ứng dụng này truy cập vào cảm biến cơ thể</string>
@@ -5245,7 +5362,9 @@
     <string name="privacy_pop_record">Đã ghi âm hôm nay</string>
     <string name="privacy_pop_storage">Đã truy cập bộ nhớ hôm nay</string>
     <string name="privacy_prompt_tc_sms_report_message">Chi tiết số điện và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ của Mi để cập nhật thông tin sử dụng dữ liệu của bạn.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"Sau khi bạn bắt đầu hiệu chỉnh, OS sẽ kết nối mạng, mã hóa thông tin nhà mạng, số điện thoại, IMEI, Tài khoản Mi và tải lên máy chủ Mi để nhận mẫu hiệu chỉnh của nhà mạng và kiểm tra xem có thể mua dữ liệu ở khu vực bạn hay không.&lt;br/&gt;&lt;br/&gt;Khi hiệu chỉnh, OS sẽ gửi tin nhắn đến nhà mạng để nhận mẫu hiệu chỉnh."</string>
+    <string name="privacy_prompt_traffic_adjust_message">"Sau khi bạn bắt đầu hiệu chỉnh, OS sẽ kết nối mạng, mã hóa thông tin nhà mạng, số điện thoại, IMEI, Tài khoản Mi và tải lên máy chủ Mi để nhận mẫu hiệu chỉnh của nhà mạng và kiểm tra xem có thể mua dữ liệu ở khu vực bạn hay không.
+
+Khi hiệu chỉnh, OS sẽ gửi tin nhắn đến nhà mạng để nhận mẫu hiệu chỉnh."</string>
     <string name="privacy_prompt_upload">Tải lên</string>
     <string name="privacy_protect_summary">Bảo vệ thông tin cá nhân của bạn</string>
     <string name="privacy_protect_title">Riêng tư &amp; bảo mật</string>
@@ -5260,7 +5379,9 @@
     <string name="privacy_recommend_title">Đề xuất cá nhân hóa</string>
     <string name="privacy_revoke_category_title">Rút lại sự đồng ý và hủy bỏ dịch vụ</string>
     <string name="privacy_revoke_dialog_content">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách bảo mật về quyền riêng tư. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Bảo mật cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Việc bạn rút lại sự đồng ý đối với Chính sách Riêng tư của nó sẽ được coi là từ chối chấp nhận các dịch vụ của nó dựa trên thông tin cá nhân được thu thập.</string>
-    <string name="privacy_revoke_dialog_content_cn">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của %1$s. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác.&lt;br/&gt;Vì %2$s cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ của %3$s.&lt;br/&gt;Rút lại sự đồng ý ngay bây giờ?"</string>
+    <string name="privacy_revoke_dialog_content_cn">"Nếu tiếp tục, bạn sẽ rút lại sự đồng ý với Chính sách quyền riêng tư của %1$s. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác.
+Vì %2$s cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ của %3$s.
+Rút lại sự đồng ý ngay bây giờ?"</string>
     <string name="privacy_revoke_dialog_negetive_text">Hủy</string>
     <string name="privacy_revoke_dialog_positive_text">Thu hồi</string>
     <string name="privacy_revoke_dialog_positive_text_numbers">Rút tiền (%ds)</string>
@@ -6072,9 +6193,15 @@
     <string name="storage_compact_warning">Điều chỉnh nhiều quyền</string>
     <string name="storage_compact_warning_desc">Quyền ảnh, video và âm thanh cho ứng dụng này phải được thay đổi đồng thời. Việc thay đổi một trong các quyền này sẽ thay đổi tất cả các quyền đó.</string>
     <string name="storage_deepclean_entry">Dọn dẹp sâu</string>
-    <string name="storage_dialog_unmountable">"^1 bị hỏng.&lt;br/&gt;&lt;br/&gt;Để sử dụng ^1 này, bạn cần cài đặt nó trước."</string>
-    <string name="storage_dialog_unmounted">"^1 này đã được tháo an toàn, nhưng vẫn khả dụng.&lt;br/&gt;&lt;br/&gt;Để sử dụng ^1 này, bạn cần kết nối nó trước."</string>
-    <string name="storage_dialog_unsupported">"Thiết bị này không hỗ trợ ^1.&lt;br/&gt;&lt;br/&gt;Để sử dụng ^1 với thiết bị này, bạn cần cài đặt trước."</string>
+    <string name="storage_dialog_unmountable">"^1 bị hỏng.
+
+Để sử dụng ^1 này, bạn cần cài đặt nó trước."</string>
+    <string name="storage_dialog_unmounted">"^1 này đã được tháo an toàn, nhưng vẫn khả dụng.
+
+Để sử dụng ^1 này, bạn cần kết nối nó trước."</string>
+    <string name="storage_dialog_unsupported">"Thiết bị này không hỗ trợ ^1.
+
+Để sử dụng ^1 với thiết bị này, bạn cần cài đặt trước."</string>
     <string name="storage_entry_file">Quản lý tập tin</string>
     <string name="storage_entry_other">Khác</string>
     <string name="storage_entry_setting">Cài đặt</string>
@@ -6117,7 +6244,9 @@
     <string name="storage_unmount_failure">Không thể ngắt kết nối %1$s</string>
     <string name="storage_unmount_success">Ngắt kết nối %1$s thành công</string>
     <string name="storage_wizard_format_confirm_v2_action">Định dạng ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">"^1 ngày cần được định dạng để lưu ứng dụng, tệp tin và phương tiện.&lt;br/&gt;&lt;br/&gt;Định dạng sẽ xóa dữ liệu đã có trên ^2. Để tránh mất nội dung, sao lưu vào ^3 hoặc thiết bị khác."</string>
+    <string name="storage_wizard_format_confirm_v2_body">"^1 ngày cần được định dạng để lưu ứng dụng, tệp tin và phương tiện.
+
+Định dạng sẽ xóa dữ liệu đã có trên ^2. Để tránh mất nội dung, sao lưu vào ^3 hoặc thiết bị khác."</string>
     <string name="storage_wizard_format_confirm_v2_title">Định dạng ^1 này ngay?</string>
     <string name="stranger_call_dialog_add_block_list">Chặn</string>
     <string name="stranger_call_dialog_add_contacts">Liên hệ mới</string>
@@ -6173,7 +6302,8 @@
     <string name="st_confirm_dialog_summary_oversea_call">Bật để chặn tất cả các cuộc gọi đến từ các số điện thoại nước ngoài.</string>
     <string name="st_confirm_dialog_summary_stranger_call">Tất cả cuộc gọi từ người lạ sẽ bị chặn.</string>
     <string name="st_filter_keywords_setting_summary1">Tin nhắn từ những số không xác định có chứa những từ trong danh sách sẽ bị chặn.</string>
-    <string name="st_filter_keywords_setting_summary2">"&lt;br/&gt;(Sử dụng dấu phẩy để phân cách nhiều từ khóa)"</string>
+    <string name="st_filter_keywords_setting_summary2">"
+(Sử dụng dấu phẩy để phân cách nhiều từ khóa)"</string>
     <string name="st_filter_keywords_setting_summary3">Tin nhắn từ số không xác định có chứa các từ trong danh sách này sẽ được cho phép.</string>
     <string name="st_group_list_management">Quản lý chặn</string>
     <string name="st_hint_add_head_number">Nhập tiền tố</string>
@@ -6456,7 +6586,9 @@
     <string name="tc_diagnostic_brand_error_notification_title">Loại mạng sai</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Kết quả: Thương hiệu nhà mạng sai&lt;br/>&lt;br/>Cài đặt thương hiệu: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Thương hiệu thực: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_complete">Hoàn tất</string>
-    <string name="tc_diagnostic_fragment_default">"Giới thiệu chẩn đoán&lt;br/&gt;1. Thiết bị này sẽ kết nối với mạng nhà mạng, gửi một tin nhắn miễn phí, và chờ phản hồi. Điều này có thể mất đến 5 phút.&lt;br/&gt;2. Bạn có thể thoát khỏi trang này trong khi chẩn đoán, hệ thống sẽ tự động chẩn đoán trong nền."</string>
+    <string name="tc_diagnostic_fragment_default">"Giới thiệu chẩn đoán
+1. Thiết bị này sẽ kết nối với mạng nhà mạng, gửi một tin nhắn miễn phí, và chờ phản hồi. Điều này có thể mất đến 5 phút.
+2. Bạn có thể thoát khỏi trang này trong khi chẩn đoán, hệ thống sẽ tự động chẩn đoán trong nền."</string>
     <string name="tc_diagnostic_location_error_notification_summary">Chạm để điều chỉnh vị trí</string>
     <string name="tc_diagnostic_location_error_notification_title">Vị trí sai</string>
     <string name="tc_diagnostic_notification_sumarry">Chạm để xem kết quả</string>
@@ -6561,9 +6693,13 @@
     <string name="tether_over_limit_dialog_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="tether_over_limit_warning_notify_message">Tắt điểm phát sóng di động.</string>
     <string name="tether_over_limit_warning_notify_title">Đã đạt đến giới hạn dữ liệu điểm phát sóng</string>
-    <string name="text_alarm_after">"Hoạt động lì xì năm nay đã kết thúc&lt;br/&gt;Mong được đoàn tụ với bạn trong năm tới"</string>
-    <string name="text_alarm_before">"Hoạt động lì xì năm nay sắp bắt đầu&lt;br/&gt;Thần Tài đang ở đây, hãy chờ đợi"</string>
-    <string name="text_alarm_close">"Bật đồng hồ báo thức lì xì&lt;br/&gt;Kịp thời nhắc nhở tất cả các loại lì xì&lt;br/&gt;Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
+    <string name="text_alarm_after">"Hoạt động lì xì năm nay đã kết thúc
+Mong được đoàn tụ với bạn trong năm tới"</string>
+    <string name="text_alarm_before">"Hoạt động lì xì năm nay sắp bắt đầu
+Thần Tài đang ở đây, hãy chờ đợi"</string>
+    <string name="text_alarm_close">"Bật đồng hồ báo thức lì xì
+Kịp thời nhắc nhở tất cả các loại lì xì
+Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
     <string name="text_all_control_summary">Khi lì xì được phát hiện sau khi mở, màn hình sẽ tự sáng lên để nhắc</string>
     <string name="text_button">Tôi biết</string>
     <string name="text_done">Đồng ý</string>
@@ -6803,13 +6939,21 @@
     <string name="traffic_alert_auto_modify_package_summary">Tự động điều chỉnh gói dữ liệu dựa vào thông tin nhà mạng</string>
     <string name="traffic_calculation">Lưu lượng được tính hàng ngày, chẳng hạn như 10 nghìn đồng/1GB/ngày</string>
     <string name="traffic_config_alert_auto_modify">Cập nhật kế hoạch sử dụng dữ liệu tự động</string>
-    <string name="traffic_config_alert_body">"Gói dữ liệu của nhà cung cấp: %s.&lt;br/&gt;&lt;br/&gt;Bạn sẽ sử dụng dữ liệu này?"</string>
-    <string name="traffic_config_alert_body_extra">"&lt;br/&gt;Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác với %2$s bạn đã thêm thủ công."</string>
-    <string name="traffic_config_alert_body_extra_notset">"&lt;br/&gt;Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công."</string>
-    <string name="traffic_config_alert_body_leisure">"&lt;br/&gt;Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
-    <string name="traffic_config_alert_body_leisure_notset">"&lt;br/&gt;Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Bạn chưa thiết lập giới hạn sử dụng dữ liệu ngoài giờ cao điểm."</string>
-    <string name="traffic_config_alert_body_normal">"&lt;br/&gt;Giới hạn sử dụng dữ liệu tính phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
-    <string name="traffic_config_alert_package">"&lt;br/&gt;Đã chuyển qua dữ liệu bổ sung"</string>
+    <string name="traffic_config_alert_body">"Gói dữ liệu của nhà cung cấp: %s.
+
+Bạn sẽ sử dụng dữ liệu này?"</string>
+    <string name="traffic_config_alert_body_extra">"
+Bạn đã mua %1$s dữ liệu bổ sung tháng này. Dữ liệu này khác với %2$s bạn đã thêm thủ công."</string>
+    <string name="traffic_config_alert_body_extra_notset">"
+Bạn đã mua %s dữ liệu bổ sung tháng này. Điều này chưa được cập nhật trong giới hạn dữ liệu hàng tháng bạn thiết lập thủ công."</string>
+    <string name="traffic_config_alert_body_leisure">"
+Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
+    <string name="traffic_config_alert_body_leisure_notset">"
+Giới hạn sử dụng dữ liệu ngoài giờ cao điểm hàng tháng của bạn là %1$s. Bạn chưa thiết lập giới hạn sử dụng dữ liệu ngoài giờ cao điểm."</string>
+    <string name="traffic_config_alert_body_normal">"
+Giới hạn sử dụng dữ liệu tính phí hàng tháng của bạn là %1$s. Dữ liệu này khác với giới hạn %2$s bạn thiết lập thủ công."</string>
+    <string name="traffic_config_alert_package">"
+Đã chuyển qua dữ liệu bổ sung"</string>
     <string name="traffic_config_alert_setted">Đã áp dụng cài đặt</string>
     <string name="traffic_config_alert_title">Hiệu chỉnh %s</string>
     <string name="traffic_correction_failed">Không thể nhận thông tin</string>
@@ -6819,7 +6963,9 @@
     <string name="traffic_correction_success">Đã cập nhật dữ liệu sử dụng</string>
     <string name="traffic_correction_success_notify_message">Chạm để xem chi tiết.</string>
     <string name="traffic_limit_error_alert_body">Dữ liệu còn lại của bạn tháng này (%1$s) lớn hơn gói hàng tháng của bạn (%2$s). Gói hàng tháng đã thay đổi?</string>
-    <string name="traffic_limit_error_alert_package">"&lt;br/&gt;&lt;br/&gt;Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước."</string>
+    <string name="traffic_limit_error_alert_package">"
+
+Dữ liệu còn lại bao gồm dữ liệu đã gia hạn từ tháng trước."</string>
     <string name="traffic_limit_error_alert_title">Nhắc nhở giới hạn dữ liệu %s</string>
     <string name="traffic_limit_input">Giới hạn cảnh lưu lượng (tùy chọn)</string>
     <string name="traffic_none">Không</string>
@@ -6956,7 +7102,8 @@
     <string name="vb_fps_settings_tips">Tính năng này điều chỉnh tốc độ làm tươi màn hình thành tốc độ khung hình video, giúp Tiết kiệm pin và phát lại mượt mà. Bật nhận xét nổi sẽ tắt tốc độ làm mới tự động.</string>
     <string name="vb_immerse_voice">Âm thanh nổi ba chiều</string>
     <string name="vb_movie_mode">Chế độ rạp chiếu phim</string>
-    <string name="vb_movie_power_hint">"Chế độ rạp chiếu phim mang lại trải nghiệm xem sống động.&lt;br/&gt;Thiết bị của bạn có thể nóng lên và tiêu thụ nhiều điện năng hơn."</string>
+    <string name="vb_movie_power_hint">"Chế độ rạp chiếu phim mang lại trải nghiệm xem sống động.
+Thiết bị của bạn có thể nóng lên và tiêu thụ nhiều điện năng hơn."</string>
     <string name="vb_movie_subtitle">Yêu cầu hiệu suất cao</string>
     <string name="vb_mv_style_close_toast">Phong cách đã tắt</string>
     <string name="vb_power_performance_mode_conflict_toast">Không thể sử dụng tính năng này khi bật Chế độ hiệu suất</string>
@@ -6972,8 +7119,16 @@
     <string name="vb_ve_settings_ai_stronger">Tự động cập nhật</string>
     <string name="vb_ve_settings_display_style_tips">*Các hiệu ứng này được áp dụng cho toàn bộ màn hình</string>
     <string name="vb_ve_settings_display_style_tips_new">*Hiệu ứng sẽ chỉ được áp dụng trên khu vực phát video</string>
-    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Hiệu ứng này sẽ chỉ được áp dụng cho khu vực phát lại video.&lt;br/&gt;&lt;br/&gt;Tính năng này không hoạt động với video nâng cao.&lt;br/&gt;&lt;br/&gt;Bật cái này sẽ tắt cái kia."</string>
-    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Hiệu ứng này sẽ được áp dụng cho toàn bộ màn hình.&lt;br/&gt;&lt;br/&gt;Tính năng này không hoạt động với video nâng cao.&lt;br/&gt;&lt;br/&gt;Bật cái này sẽ tắt cái kia."</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Hiệu ứng này sẽ chỉ được áp dụng cho khu vực phát lại video.
+
+Tính năng này không hoạt động với video nâng cao.
+
+Bật cái này sẽ tắt cái kia."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Hiệu ứng này sẽ được áp dụng cho toàn bộ màn hình.
+
+Tính năng này không hoạt động với video nâng cao.
+
+Bật cái này sẽ tắt cái kia."</string>
     <string name="vb_ve_settings_picture_stronger">Tăng cường hiệu ứng</string>
     <string name="vb_ve_settings_pic_border_stronger">Tăng cường đường viền</string>
     <string name="vb_video_effects_3d">Âm thanh vòm</string>
@@ -7011,12 +7166,19 @@
     <string name="vb_video_effects_setting_warmth">Ấm</string>
     <string name="vb_video_effects_some_headphone">Được hỗ trợ bởi các mẫu tai nghe đã chọn</string>
     <string name="vb_video_effects_spatial">Theo dõi chuyển động đầu</string>
-    <string name="vb_video_effects_spatial_summary">"Điều chỉnh âm thanh sống động dựa trên chuyển động của đầu&lt;br/&gt;*Chỉ được hỗ trợ trên các mẫu tai nghe chơi game"</string>
+    <string name="vb_video_effects_spatial_summary">"Điều chỉnh âm thanh sống động dựa trên chuyển động của đầu
+*Chỉ được hỗ trợ trên các mẫu tai nghe chơi game"</string>
     <string name="vb_video_effects_spatial_summary_new">Trải nghiệm cảm giác không gian và hướng nâng cao cho âm thanh được hỗ trợ khi sử dụng tai nghe</string>
     <string name="vb_video_effects_srs_premium_sound">Âm thanh</string>
     <string name="vb_video_super_division">Upscale</string>
-    <string name="vb_video_super_division_desc">"Độ phân giải nâng cao tự động khi ≤720p.&lt;br/&gt;&lt;br/&gt;Sử dụng tính năng này làm tăng mức tiêu thụ điện năng.&lt;br/&gt;&lt;br/&gt;Tính năng này không hoạt động với tính năng làm mượt chuyển động.&lt;br/&gt;Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
-    <string name="vb_video_super_division_tips">"Không đủ rõ ràng?&lt;br/&gt;Thử nâng cấp độ phân giải!"</string>
+    <string name="vb_video_super_division_desc">"Độ phân giải nâng cao tự động khi ≤720p.
+
+Sử dụng tính năng này làm tăng mức tiêu thụ điện năng.
+
+Tính năng này không hoạt động với tính năng làm mượt chuyển động.
+Bật một trong các tính năng sẽ tắt tính năng còn lại."</string>
+    <string name="vb_video_super_division_tips">"Không đủ rõ ràng?
+Thử nâng cấp độ phân giải!"</string>
     <string name="vb_vison_dynamic_enhance_close_toast">Hoạt ảnh nâng cao đang tắt</string>
     <string name="vb_voice_adjust">Âm thanh rạp chiếu phim</string>
     <string name="verify_shut_down_password_content">Yêu cầu xác nhận khóa màn hình nếu thiết bị của bạn bị tắt nguồn khi bị khóa</string>

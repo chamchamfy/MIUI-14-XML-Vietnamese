@@ -312,9 +312,11 @@
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC âm thanh Bluetooth: Chất lượng phát lại</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Chọn Codec LDAC âm thanh Bluetooth: Chất lượng phát lại</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:&lt;br/&gt;Độ trễ"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Độ trễ"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:&lt;br/&gt;Chất lượng phát"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Chất lượng phát"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Tốc độ lấy mẫu âm thanh Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Chọn Codec âm thanh Bluetooth: Tốc độ lấy mẫu</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Truyền trực tuyến: %1$s</string>
@@ -835,7 +837,10 @@
     <string name="contactUpdateFailed">Không thể cập nhật liên hệ trên thẻ SIM</string>
     <string name="contactUpdateSuccess">Cập nhật thành công liên hệ trên thẻ SIM</string>
     <string name="content_description_menu_button">Menu</string>
-    <string name="convert_to_fbe_warning">"Chuyển đổi phân vùng dữ liệu sang chế độ mã hóa dựa trên tệp.&lt;br/&gt; !!Cảnh báo!! Tính năng này sẽ xóa tất cả dữ liệu của bạn.&lt;br/&gt; Tính năng này trong giai đoạn alpha và có thể không hoạt động đúng cách.&lt;br/&gt; Nhấn 'Xóa và chuyển đổi...' để tiếp tục."</string>
+    <string name="convert_to_fbe_warning">"Chuyển đổi phân vùng dữ liệu sang chế độ mã hóa dựa trên tệp.
+ !!Cảnh báo!! Tính năng này sẽ xóa tất cả dữ liệu của bạn.
+ Tính năng này trong giai đoạn alpha và có thể không hoạt động đúng cách.
+ Nhấn 'Xóa và chuyển đổi...' để tiếp tục."</string>
     <string name="convert_to_file_encryption">Chuyển đổi sang mã hóa tệp</string>
     <string name="convert_to_file_encryption_done">Đã mã hóa tệp</string>
     <string name="convert_to_file_encryption_enabled">Chuyển đổi...</string>
@@ -860,12 +865,16 @@
     <string name="data_connection_cdma">1x</string>
     <string name="data_disable_warning_no_mms">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động (WCDMA/LTE). Để sử dụng mạng, kết nối Wi-Fi."</string>
     <string name="data_disable_warning_with_mms">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động (WCDMA/LTE). Để sử dụng mạng, kết nối Wi-Fi."</string>
-    <string name="data_disable_warning_with_mms_lgu">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động. Để sử dụng mạng, kết nối Wi-Fi.&lt;br/&gt;&lt;br/&gt;Tắt dữ liệu di động?"</string>
+    <string name="data_disable_warning_with_mms_lgu">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động. Để sử dụng mạng, kết nối Wi-Fi.
+
+Tắt dữ liệu di động?"</string>
     <string name="data_enabled">Dữ liệu di động</string>
     <string name="data_enable_always_warn">Hỏi khi sử dụng dữ liệu di động</string>
     <string name="data_enable_summary">Bật truy cập dữ liệu qua mạng Di động</string>
     <string name="data_enable_warning">Cho phép luôn sử dụng dữ liệu di động có thể tạo ra chi phí ngoài gói dữ liệu của bạn. Vẫn kết nối?</string>
-    <string name="data_enable_warning_lgu">"Trừ khi có quy định khác trong gói nhà cung cấp dịch vụ của bạn, sử dụng dữ liệu di động có thể tạo thêm phí vận chuyển.&lt;br/&gt;&lt;br/&gt;Vẫn sử dụng dữ liệu di động?"</string>
+    <string name="data_enable_warning_lgu">"Trừ khi có quy định khác trong gói nhà cung cấp dịch vụ của bạn, sử dụng dữ liệu di động có thể tạo thêm phí vận chuyển.
+
+Vẫn sử dụng dữ liệu di động?"</string>
     <string name="data_plan">Gói dữ liệu di động</string>
     <string name="data_usage_disable_mobile">Tắt dữ liệu di động?</string>
     <string name="data_usage_ota">Cập nhật hệ thống</string>
@@ -1319,8 +1328,10 @@
     <string name="full_forwarding_option_off">Tắt</string>
     <string name="full_forwarding_option_voicemail">Thư thoại</string>
     <string name="full_forwarding_settings">Chuyển tiếp toàn bộ</string>
-    <string name="fw_change_failed">"Không thể thay đổi số chuyển hướng.&lt;br/&gt;Liên hệ với nhà cung cấp dịch vụ của bạn nếu sự cố này vẫn tiếp diễn."</string>
-    <string name="fw_get_in_vm_failed">"Không thể truy xuất và lưu cài đặt số chuyển tiếp hiện tại.&lt;br/&gt;Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
+    <string name="fw_change_failed">"Không thể thay đổi số chuyển hướng.
+Liên hệ với nhà cung cấp dịch vụ của bạn nếu sự cố này vẫn tiếp diễn."</string>
+    <string name="fw_get_in_vm_failed">"Không thể truy xuất và lưu cài đặt số chuyển tiếp hiện tại.
+Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="general_news_settings">Tin tổng hợp</string>
     <string name="general_remove">Xóa</string>
     <string name="general_setting">Cài đặt</string>
@@ -1585,7 +1596,12 @@
     <string name="lgu_msim_emm_cause_7_14">"SIM %d mạng không cung cấp dịch vụ dữ liệu di động"</string>
     <string name="lgu_msim_emm_cause_8">"SIM %d không thể đăng ký mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"SIM %d không thể kết nối mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
-    <string name="limited_service_alert_dialog_description">&lt;b&gt;Cuộc gọi khẩn cấp qua Gọi Wi-Fi&lt;/b&gt;"&lt;br/&gt;Cuộc gọi khẩn cấp không thể gọi qua Wi-Fi.&lt;br/&gt;&lt;br/&gt;Thiết bị tự động chuyển sang mạng di động (2G/3G) để gọi khẩn cấp.&lt;br/&gt;&lt;br/&gt;Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng mạng di động."</string>
+    <string name="limited_service_alert_dialog_description">&lt;b&gt;Cuộc gọi khẩn cấp qua Gọi Wi-Fi&lt;/b&gt;"
+Cuộc gọi khẩn cấp không thể gọi qua Wi-Fi.
+
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để gọi khẩn cấp.
+
+Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng mạng di động."</string>
     <string name="limited_sim_function_notification_message">%1$s cuộc gọi và dịch vụ dữ liệu có thể bị chặn khi sử dụng SIM khác.</string>
     <string name="limited_sim_function_notification_title">Giới hạn tính năng SIM</string>
     <string name="limited_sim_function_with_phone_num_notification_message">%1$s cuộc gọi và dịch vụ dữ liệu có thể bị chặn khi đang sử dụng %2$s.</string>
@@ -1623,7 +1639,8 @@
     <string name="livetalk_network_unavailable">Mạng không khả dụng</string>
     <string name="livetalk_next_step">Tiếp theo</string>
     <string name="livetalk_nsufficient_balance">Số dư không đủ</string>
-    <string name="livetalk_package_introduction_text">"Thực hiện cuộc gọi giá rẻ.&lt;br/&gt;Nạp tiền và bắt đầu ngay"</string>
+    <string name="livetalk_package_introduction_text">"Thực hiện cuộc gọi giá rẻ.
+Nạp tiền và bắt đầu ngay"</string>
     <string name="livetalk_package_name">Sử dụng gói tùy chọn</string>
     <string name="livetalk_provider">Được cung cấp bởi %1$s</string>
     <string name="livetalk_provision"><b>Điều khoản Dịch vụ</b></string>
@@ -1635,7 +1652,9 @@
     <string name="livetalk_sim_card_not_activated">Thẻ SIM này chưa được kích hoạt</string>
     <string name="livetalk_unavaiable_info">Dịch vụ này tạm thời không khả dụng</string>
     <string name="livetalk_user_config_title">Xác minh thẻ SIM</string>
-    <string name="livetalk_welcome_description_text">"• Tiết kiệm 70%% chi phí cuộc gọi.&lt;br/&gt;• Gọi bất kỳ số điện nào trên thế giới và không giới hạn nhà mạng.&lt;br/&gt;• Bạn chỉ cần nạp tiền và gọi thôi."</string>
+    <string name="livetalk_welcome_description_text">"• Tiết kiệm 70%% chi phí cuộc gọi.
+• Gọi bất kỳ số điện nào trên thế giới và không giới hạn nhà mạng.
+• Bạn chỉ cần nạp tiền và gọi thôi."</string>
     <string name="livetalk_welcome_notes_text">Chú ý: Mỗi cuộc gọi sử dụng 1KB dữ liệu di động; Số điện thoại dịch vụ và rút gọn không được hỗ trợ. Nếu bạn trả tiền cho cuộc gọi đến, bạn có thể sẽ bị tính phí bởi nhà mạng khi chuyển vùng. Nhà mạng có thể tính phí một tin nhắn SMS được sử dụng để xác minh số điện thoại này.</string>
     <string name="livetalk_white_list_number_title">Thực hiện cuộc gọi thông thường</string>
     <string name="loading">Vui lòng chờ…</string>
@@ -1720,11 +1739,15 @@
     <string name="messageCallBarring">Nhập mật khẩu</string>
     <string name="messageCFB">Chuyển tiếp cuộc gọi đến</string>
     <string name="messageCFNRc">Chuyển tiếp cuộc gọi đến</string>
-    <string name="messageCFNRc_kr_kt">"Dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định khi bạn không thể trả lời cuộc gọi (ví dụ: khi bạn ở trên điện thoại hoặc thiết bị của bạn tắt). Bạn phải đăng ký dịch vụ này. Liên hệ với trung tâm khách hàng (114+ [Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập * 72 + [số để chuyển tiếp cuộc gọi đến] [Gửi] để bật hoặc * 720 [Gửi] để tắt.&lt;br/&gt;&lt;br/&gt;Số khi không gọi được"</string>
+    <string name="messageCFNRc_kr_kt">"Dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định khi bạn không thể trả lời cuộc gọi (ví dụ: khi bạn ở trên điện thoại hoặc thiết bị của bạn tắt). Bạn phải đăng ký dịch vụ này. Liên hệ với trung tâm khách hàng (114+ [Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập * 72 + [số để chuyển tiếp cuộc gọi đến] [Gửi] để bật hoặc * 720 [Gửi] để tắt.
+
+Số khi không gọi được"</string>
     <string name="messageCFNRy">Chuyển tiếp cuộc gọi đến</string>
     <string name="messageCFU">Chuyển tiếp cuộc gọi đến</string>
     <string name="messageCFU_kr">Một dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định. Bạn phải đăng ký dịch vụ này. Bạn sẽ phải trả phí hàng tháng. Liên hệ với trung tâm khách hàng (114+[Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập %1$s+[số để chuyển tiếp cuộc gọi đến][Gửi] để bật hoặc %2$s[Gửi] để tắt.</string>
-    <string name="messageCFU_kr_kt">"Một dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định. Bạn phải đăng ký dịch vụ này. Bạn sẽ phải trả phí hàng tháng. Liên hệ với trung tâm khách hàng (114+ [Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập * 71 + [số để chuyển tiếp cuộc gọi đến] [Gửi] để bật hoặc * 710 [Gửi] để tắt.&lt;br/&gt;&lt;br/&gt;Luôn sử dụng số này"</string>
+    <string name="messageCFU_kr_kt">"Một dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định. Bạn phải đăng ký dịch vụ này. Bạn sẽ phải trả phí hàng tháng. Liên hệ với trung tâm khách hàng (114+ [Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập * 71 + [số để chuyển tiếp cuộc gọi đến] [Gửi] để bật hoặc * 710 [Gửi] để tắt.
+
+Luôn sử dụng số này"</string>
     <string name="messageCW_kr">Dịch vụ mạng miễn phí cho phép bạn trả lời cuộc gọi thứ hai trong khi gọi, tạm dừng cuộc gọi đầu tiên. Nhập %1$s[Gửi] để bật hoặc %2$s[Gửi] để tắt.</string>
     <string name="messageCW_kr_kt">Dịch vụ mạng miễn phí cho phép bạn trả lời cuộc gọi thứ hai trong khi gọi, tạm dừng cuộc gọi đầu tiên. Nhập * 40 + [Gửi] để bật hoặc * 400 + [Gửi] để tắt.</string>
     <string name="message_decode_error">Lỗi khi giải mã tin nhắn.</string>
@@ -1995,7 +2018,8 @@
     <string name="network_settings_information">Tắt dữ liệu di động trước</string>
     <string name="network_settings_next">Tiếp theo</string>
     <string name="network_settings_query_failed_message">Không tìm thấy mạng di động.</string>
-    <string name="network_settings_select_automatic_hint">"Không thể đăng ký vào mạng đã chọn.&lt;br/&gt;Sẽ dùng mạng ưu tiên thay thế."</string>
+    <string name="network_settings_select_automatic_hint">"Không thể đăng ký vào mạng đã chọn.
+Sẽ dùng mạng ưu tiên thay thế."</string>
     <string name="network_settings_sel_sub">Cài đặt SIM</string>
     <string name="network_settings_title">Mạng di động</string>
     <string name="network_settings_turn_off">Tắt</string>
@@ -2077,7 +2101,8 @@
     <string name="no_sim_card">Lắp thẻ SIM</string>
     <string name="no_sip_account_found">Không có tài khoản gọi qua Internet trên điện thoại này. Bạn có muốn thêm một tài khoản ngay bây giờ?</string>
     <string name="no_sip_account_found_title">Không có tài khoản gọi qua Internet.</string>
-    <string name="no_unlock_chance_hint">"Bạn không còn lần thử.&lt;br/&gt;Hãy liên hệ với nhà cung cấp."</string>
+    <string name="no_unlock_chance_hint">"Bạn không còn lần thử.
+Hãy liên hệ với nhà cung cấp."</string>
     <string name="no_vm_number">Thiếu số thư thoại</string>
     <string name="no_vm_number_msg">Không có số thư thoại nào được lưu trữ trên thẻ SIM.</string>
     <string name="no_voip">Không hỗ trợ gọi qua Internet</string>
@@ -2169,9 +2194,14 @@
     <string name="ota_title_activate">Kích hoạt điện thoại của bạn</string>
     <string name="ota_title_activate_success">Kích hoạt điện thoại thành công.</string>
     <string name="ota_title_problem_with_activation">Không thể kích hoạt</string>
-    <string name="ota_touch_activate">"Bạn cần phải thực hiện cuộc gọi đặc biệt để kích hoạt dịch vụ điện thoại.&lt;br/&gt;&lt;br/&gt;Sau khi nhấn “Kích hoạt”, nghe hướng dẫn để kích hoạt điện thoại của bạn."</string>
+    <string name="ota_touch_activate">"Bạn cần phải thực hiện cuộc gọi đặc biệt để kích hoạt dịch vụ điện thoại.
+
+Sau khi nhấn “Kích hoạt”, nghe hướng dẫn để kích hoạt điện thoại của bạn."</string>
     <string name="ota_try_again">Thử lại</string>
-    <string name="ota_unsuccessful">"Điện thoại của bạn chưa được kích hoạt.&lt;br/&gt;Bạn có thể phải tìm một khu vực có phạm vi phủ sóng tốt hơn (gần cửa sổ hoặc bên ngoài).&lt;br/&gt;&lt;br/&gt;Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn khác."</string>
+    <string name="ota_unsuccessful">"Điện thoại của bạn chưa được kích hoạt.
+Bạn có thể phải tìm một khu vực có phạm vi phủ sóng tốt hơn (gần cửa sổ hoặc bên ngoài).
+
+Hãy thử lại hoặc gọi cho dịch vụ khách hàng để có tùy chọn khác."</string>
     <string name="other">Khác</string>
     <string name="other_available_phone_accounts">Tài khoản khả dụng khác</string>
     <string name="other_settings">Cài đặt cuộc gọi khác</string>
@@ -2366,20 +2396,24 @@
     <string name="pick_outgoing_sip_phone">"Sử dụng tài khoản gọi qua internet "</string>
     <string name="picture_color_mode">Chế độ màu của ảnh</string>
     <string name="picture_color_mode_desc">Sử dụng sRGB</string>
-    <string name="pin2_attempts">"&lt;br/&gt;Còn %d lần thử."</string>
+    <string name="pin2_attempts">"
+Còn %d lần thử."</string>
     <string name="pin2_changed">Mã PIN2 đã thay đổi thành công.</string>
     <string name="pin2_error_exception">Mạng hoặc SIM bị lỗi</string>
     <string name="pin2_invalid">SQĐS không được cập nhật do bạn nhập mã PIN không chính xác.</string>
     <string name="pin2_invalid_or_name_is_too_long">Mã PIN không hợp lệ hoặc tên quá dài.</string>
-    <string name="pin2_lock_warning">"&lt;br/&gt;Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành công nữa."</string>
+    <string name="pin2_lock_warning">"
+Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành công nữa."</string>
     <string name="pin2_or_fdn_invalid">SQĐS chưa được cập nhật. Mã PIN2 không chính xác, hoặc số điện thoại đã bị từ chối.</string>
     <string name="pin2_unblocked">Đã mở khóa PIN 2</string>
     <string name="ping_test_label">Chạy kiểm tra ping</string>
-    <string name="pin_attempts">"&lt;br/&gt;Còn lại %d lần thử."</string>
+    <string name="pin_attempts">"
+Còn lại %d lần thử."</string>
     <string name="pin_changed">Đổi mã PIN của SIM thành công.</string>
     <string name="pin_failed">Mã PIN bạn nhập không chính xác.</string>
     <string name="pin_length_indicate">(4–8 chữ số)</string>
-    <string name="pin_lock_warning">"&lt;br/&gt;Điện thoại của bạn sẽ bị khóa tự động sau lần thử không thành công nữa"</string>
+    <string name="pin_lock_warning">"
+Điện thoại của bạn sẽ bị khóa tự động sau lần thử không thành công nữa"</string>
     <string name="pin_progress_change_pin">Đang đổi mã PIN…</string>
     <string name="pin_progress_change_pin2">Đang đổi mã PIN2…</string>
     <string name="pin_progress_set_fdn_lock">Đang thiết lập trạng thái khóa SQĐS…</string>
@@ -2593,13 +2627,17 @@
     <string name="puk2_requested">Mật khẩu không chính xác, SIM bị khóa! Yêu cầu mã PUK2.</string>
     <string name="puk_label">Nhập mã PUK</string>
     <string name="puk_length_indicate">(8 chữ số)</string>
-    <string name="puk_lock_warning">"&lt;br/&gt;Thẻ SIM của bạn sẽ bị xóa sau lần thử không thành công nữa."</string>
+    <string name="puk_lock_warning">"
+Thẻ SIM của bạn sẽ bị xóa sau lần thử không thành công nữa."</string>
     <string name="puk_requested">Mật khẩu không chính xác, mã PIN bị chặn! Yêu cầu mã PUK.</string>
     <string name="puk_unlocked">Thẻ SIM của bạn đã được bỏ chặn. Điện thoại của bạn đang được mở khoá…</string>
     <string name="puk_unlock_failed">Mở khóa PUK không thành công.</string>
     <string name="puk_unlock_success">Mở khóa PUK thành công.</string>
     <string name="purchase">Mua</string>
-    <string name="purchase_description_summary">"- Không hạn chế nhà mạng, bạn có thể gọi đến bất kỳ nơi đâu bạn muốn.&lt;br/&gt;- Không xung đột giữa dịch vụ này và các dịch vụ khác.&lt;br/&gt;- Chỉ cần nạp tiền và gọi.&lt;br/&gt;- Không cần phải cài đặt phức tạp."</string>
+    <string name="purchase_description_summary">"- Không hạn chế nhà mạng, bạn có thể gọi đến bất kỳ nơi đâu bạn muốn.
+- Không xung đột giữa dịch vụ này và các dịch vụ khác.
+- Chỉ cần nạp tiền và gọi.
+- Không cần phải cài đặt phức tạp."</string>
     <string name="purchase_description_title">Giới thiệu</string>
     <string name="purchase_limit">Bạn đã vượt giới hạn số lần nạp tiền</string>
     <string name="purchase_list">Lịch sử mua hàng</string>
@@ -2650,7 +2688,11 @@
     <string name="radio_info_imei_label">"IMEI:"</string>
     <string name="radio_info_ims_feature_status_available">Khả dụng</string>
     <string name="radio_info_ims_feature_status_unavailable">Không có</string>
-    <string name="radio_info_ims_reg_status">"Đăng ký IMS: %1$s&lt;br/&gt;Thoại trên nền LTE: %2$s&lt;br/&gt;Thoại qua Wi-Fi: %3$s&lt;br/&gt;Gọi điện video: %4$s&lt;br/&gt;Giao diện UT: %5$s"</string>
+    <string name="radio_info_ims_reg_status">"Đăng ký IMS: %1$s
+Thoại trên nền LTE: %2$s
+Thoại qua Wi-Fi: %3$s
+Gọi điện video: %4$s
+Giao diện UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">Chưa đăng ký</string>
     <string name="radio_info_ims_reg_status_registered">Đã đăng ký</string>
     <string name="radio_info_ims_reg_status_title">Trạng thái IMS</string>
@@ -3193,16 +3235,19 @@
     <string name="the_water_lantern_festival">Tết Hạ Nguyên</string>
     <string name="third_party_account_summary">Tài khoản này đang được sử dụng bởi %s.</string>
     <string name="throttle_current_usage">Dữ liệu được sử dụng trong thời gian hiện tại</string>
-    <string name="throttle_data_rate_reduced_subtext">"%1$s vượt mức tối đa&lt;br/&gt;Tốc độ dữ liệu giảm xuống %2$d Kb/s"</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$s vượt mức tối đa
+Tốc độ dữ liệu giảm xuống %2$d Kb/s"</string>
     <string name="throttle_data_usage">Sử dụng dữ liệu</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) của %3$s thời gian tối đa</string>
     <string name="throttle_help">Tìm hiểu thêm</string>
     <string name="throttle_help_subtext">Thêm thông tin về chính sách sử dụng dữ liệu mạng di động của nhà mạng</string>
     <string name="throttle_rate">Chính sách tốc độ truyền dữ liệu</string>
     <string name="throttle_rate_subtext">Tốc độ dữ liệu giảm xuống %1$d Kb/s nếu dữ liệu sử dụng vượt quá giới hạn</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d٪) của %3$s thời gian tối đa&lt;br/&gt;Thời gian tiếp theo bắt đầu trong %4$d ngày (%5$s)"</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) của %3$s thời gian tối đa
+Thời gian tiếp theo bắt đầu trong %4$d ngày (%5$s)"</string>
     <string name="throttle_time_frame">Thời gian sử dụng dữ liệu</string>
-    <string name="throttle_time_frame_subtext">"%1$d٪ của chu kỳ trôi qua&lt;br/&gt;Thời gian tiếp theo bắt đầu trong %2$d ngày (%3$s)"</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ của chu kỳ trôi qua
+Thời gian tiếp theo bắt đầu trong %2$d ngày (%3$s)"</string>
     <string name="thursday">Thứ Năm</string>
     <string name="thursday_short">Th 5</string>
     <string name="thursday_shortest">Th 5</string>
@@ -3307,8 +3352,14 @@
     <string name="user_add_profile_item_title">Tiểu sử bị hạn chế</string>
     <string name="user_add_user_item_summary">Người dùng có ứng dụng và nội dung riêng của mình</string>
     <string name="user_add_user_item_title">Người dùng</string>
-    <string name="user_add_user_message_long">"Bạn có thể chia sẻ thiết bị này với những người khác bằng cách thêm người dùng mới. Mỗi người dùng có không gian riêng, nơi mà họ có thể tùy chỉnh các ứng dụng, hình nền và các nội dung khác. Người dùng cũng có thể điều chỉnh cài đặt máy tính bảng có ảnh hưởng đến tất cả người dùng khác như Wi-Fi.&lt;br/&gt;&lt;br/&gt;Sau khi bạn tạo một người dùng mới, người đó cần phải trải qua quá trình cài đặt.&lt;br/&gt;&lt;br/&gt;Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả người dùng khác chấp nhận cập nhật quyền truy cập của ứng dụng."</string>
-    <string name="user_add_user_message_short">"Khi bạn thêm người dùng mới, người này cần thiết lập không gian của họ.&lt;br/&gt;&lt;br/&gt;Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho người dùng khác."</string>
+    <string name="user_add_user_message_long">"Bạn có thể chia sẻ thiết bị này với những người khác bằng cách thêm người dùng mới. Mỗi người dùng có không gian riêng, nơi mà họ có thể tùy chỉnh các ứng dụng, hình nền và các nội dung khác. Người dùng cũng có thể điều chỉnh cài đặt máy tính bảng có ảnh hưởng đến tất cả người dùng khác như Wi-Fi.
+
+Sau khi bạn tạo một người dùng mới, người đó cần phải trải qua quá trình cài đặt.
+
+Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả người dùng khác chấp nhận cập nhật quyền truy cập của ứng dụng."</string>
+    <string name="user_add_user_message_short">"Khi bạn thêm người dùng mới, người này cần thiết lập không gian của họ.
+
+Bất cứ người dùng nào cũng có thể cập nhật ứng dụng cho người dùng khác."</string>
     <string name="user_add_user_title">Thêm người dùng mới?</string>
     <string name="user_add_user_type_title">Thêm</string>
     <string name="user_guest">Khách</string>
@@ -3357,7 +3408,8 @@
     <string name="video_calling_settings_title">Gọi điện video nhà mạng</string>
     <string name="vilte_srvcc_tip">Do mạng, chuyển sang cuộc gọi thoại.</string>
     <string name="vm_changed">Số thư thoại đã thay đổi.</string>
-    <string name="vm_change_failed">"Không thể thay đổi số thư thoại.&lt;br/&gt;Liên hệ với nhà cung cấp dịch vụ nếu sự cố này vẫn tiếp diễn."</string>
+    <string name="vm_change_failed">"Không thể thay đổi số thư thoại.
+Liên hệ với nhà cung cấp dịch vụ nếu sự cố này vẫn tiếp diễn."</string>
     <string name="vm_change_pin_error_invalid">PIN mới chứa ký tự không hợp lệ.</string>
     <string name="vm_change_pin_error_mismatch">Mã PIN cũ không khớp.</string>
     <string name="vm_change_pin_error_system_error">Không thể thay đổi PIN</string>
@@ -3396,7 +3448,11 @@
     <string name="voice_service_cannot_call_notification_title">Không thể thực hiện cuộc gọi ở mạng hiện tại</string>
     <string name="voice_service_switch_summary">Bật để có thể sử dụng chức năng cuộc gọi VoLTE trong mạng VoLTE</string>
     <string name="voice_service_switch_title">Sử dụng dịch vụ cuộc gọi VoLTE</string>
-    <string name="voice_service_warning_dialog_body">"Máy tính bảng này hỗ trợ cuộc gọi VoLTE trong mạng 4G. Chắc chắn rằng mạng mà thiết bị của bạn kết nối hỗ trợ chức năng này. Dịch vụ VoLTE được cung cấp bởi nhà mạng. Liên hệ với nhà mạng để tìm hiểu xem VoLTE có được hỗ trợ trong khu vực của bạn hay không.&lt;br/&gt;&lt;br/&gt;Nếu bạn thấy trong thanh trạng thái, cuộc gọi VoLTE không khả dụng. Nếu bạn không thể thực hiện hoặc nhận cuộc gọi hoặc cuộc gọi của bạn bị gián đoạn, hãy chắc chắn rằng mạng của bạn tương thích với VoLTE.&lt;br/&gt;&lt;br/&gt;Máy tính bảng này không có tai nghe. Bạn có thể chuyển sang chế độ rảnh tay hoặc sử dụng tai nghe để thực hiện cuộc gọi."</string>
+    <string name="voice_service_warning_dialog_body">"Máy tính bảng này hỗ trợ cuộc gọi VoLTE trong mạng 4G. Chắc chắn rằng mạng mà thiết bị của bạn kết nối hỗ trợ chức năng này. Dịch vụ VoLTE được cung cấp bởi nhà mạng. Liên hệ với nhà mạng để tìm hiểu xem VoLTE có được hỗ trợ trong khu vực của bạn hay không.
+
+Nếu bạn thấy trong thanh trạng thái, cuộc gọi VoLTE không khả dụng. Nếu bạn không thể thực hiện hoặc nhận cuộc gọi hoặc cuộc gọi của bạn bị gián đoạn, hãy chắc chắn rằng mạng của bạn tương thích với VoLTE.
+
+Máy tính bảng này không có tai nghe. Bạn có thể chuyển sang chế độ rảnh tay hoặc sử dụng tai nghe để thực hiện cuộc gọi."</string>
     <string name="voice_service_warning_dialog_cancel">Hủy</string>
     <string name="voice_service_warning_dialog_ok">Tôi biết</string>
     <string name="voice_service_warning_dialog_ok_timer">Tôi biết (%d)</string>
@@ -3426,7 +3482,11 @@
     <string name="vowifi_emergency_notification_content">Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
     <string name="vowifi_emergency_notification_title">Gọi Wi-Fi Vodafone</string>
     <string name="vowifi_emergency_warning_check">Không hiển thị lại</string>
-    <string name="vowifi_emergency_warning_message">Cuộc gọi khẩn cấp không khả dụng qua Gọi Wi-Fi&lt;br/&gt;&lt;br/&gt;Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.&lt;br/&gt;&lt;br/&gt;Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
+    <string name="vowifi_emergency_warning_message">Cuộc gọi khẩn cấp không khả dụng qua Gọi Wi-Fi
+
+Thiết bị tự động chuyển sang mạng di động (2G/3G) để thực hiện cuộc gọi khẩn cấp.
+
+Cuộc gọi khẩn cấp chỉ khả dụng trong vùng phủ sóng Mạng di động.</string>
     <string name="vowifi_emergency_warning_title">Cuọc gọi Khẩn cấp qua Gọi Wi-Fi</string>
     <string name="vpn_settings_not_available">Cài đặt VPN không khả dụng cho người dùng này</string>
     <string name="vt_provisioned_switch_string">Đã cấp phép gọi điện video</string>
@@ -3459,11 +3519,15 @@
     <string name="wfcmode_wifi_only">Chỉ Wi-Fi</string>
     <string name="wfcmode_wifi_preferred">Ưu tiên Wi-Fi</string>
     <string name="wfc_internet_connection_lost">Mất kết nối mạng.</string>
-    <string name="wfc_internet_lost_summary">Rất tiếc! Bạn đã kết nối Wi-Fi nhưng kết nối mạng có vẻ không có.&lt;br/&gt;&lt;br/&gt;Vui lòng kiểm tra kết nối mạng của router Wi-Fi và thử kết nối lại.</string>
+    <string name="wfc_internet_lost_summary">Rất tiếc! Bạn đã kết nối Wi-Fi nhưng kết nối mạng có vẻ không có.
+
+Vui lòng kiểm tra kết nối mạng của router Wi-Fi và thử kết nối lại.</string>
     <string name="wfc_no_network">Không có mạng di động đủ điều kiện</string>
     <string name="wfc_provisioned_switch_string">Đã cấp phép gọi điện qua Wi-Fi</string>
     <string name="wfc_wifi_call_drop">Cuộc gọi Wi-Fi bị rớt</string>
-    <string name="wfc_wifi_call_drop_summary">"Rất tiếc! Bạn phải di chuyển ra ngoài mạng Wi-Fi trong khi gọi.&lt;br/&gt;&lt;br/&gt;Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thúc cuộc gọi của mình không?"</string>
+    <string name="wfc_wifi_call_drop_summary">"Rất tiếc! Bạn phải di chuyển ra ngoài mạng Wi-Fi trong khi gọi.
+
+Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thúc cuộc gọi của mình không?"</string>
     <string name="wfc_wifi_handover_fail">Rất tiếc! Cuộc gọi không thể hoàn thành.</string>
     <string name="wfc_wifi_lte_handover_fail">Rất tiếc! Không có mạng LTE khả dụng để tiếp tục cuộc gọi.</string>
     <string name="whole_calls">Tất cả cuộc gọi</string>
@@ -3535,8 +3599,18 @@
     <string name="wifi_call_cancel">Thêm thông tin</string>
     <string name="wifi_call_help">Trợ giúp</string>
     <string name="wifi_call_help_message">Nếu bạn chọn ưa thích mạng di động, mạng di động sẽ mặc định được dùng cho cuộc gọi. Trong trường hợp không có mạng di động hoặc mạng rất yếu, mạng Wi-Fi sẽ được dùng.</string>
-    <string name="wifi_call_help_message_1">"Gọi Wi-Fi là một dịch vụ cung cấp bởi Orange cho phép bạn tạo và nhận cuộc gọi qua Wi-Fi. Tính năng này có thể sử dụng ở nơi tín hiệu di động yếu.&lt;br/&gt;&lt;br/&gt;Để sử dụng Gọi Wi-Fi, bật nó trong Cài đặt &gt; Gọi Wi-Fi.&lt;br/&gt;&lt;br/&gt;Để kích hoạt dochj vụ này, Orange sẽ gửi cho bạn một tin nhắn xác thực sớm nhất có thể khi dịch vụ khả dụng. Sau đó, bạn sẽ có thể kết nối mạng Wi-Fi để tạo cuộc gọi.&lt;br/&gt;&lt;br/&gt;Cuộc gọi qua Wi-Fi sẽ được tính phí theo gói cước của bạn.&lt;br/&gt;&lt;br/&gt;Bất cứ khi nào tính năng này khả dụng, biểu tượng sau sẽ được hiển thị ở đầu màn hình của bạn."</string>
-    <string name="wifi_call_help_message_2">"Nếu bạn chọn ưu tiên mạng Wi-Fi, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp bạn không kết nối mạng Wi-Fi hoặc tín hiệu yếu, mạng di động sẽ được dùng để gọi điện.&lt;br/&gt;&lt;br/&gt;Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
+    <string name="wifi_call_help_message_1">"Gọi Wi-Fi là một dịch vụ cung cấp bởi Orange cho phép bạn tạo và nhận cuộc gọi qua Wi-Fi. Tính năng này có thể sử dụng ở nơi tín hiệu di động yếu.
+
+Để sử dụng Gọi Wi-Fi, bật nó trong Cài đặt &gt; Gọi Wi-Fi.
+
+Để kích hoạt dochj vụ này, Orange sẽ gửi cho bạn một tin nhắn xác thực sớm nhất có thể khi dịch vụ khả dụng. Sau đó, bạn sẽ có thể kết nối mạng Wi-Fi để tạo cuộc gọi.
+
+Cuộc gọi qua Wi-Fi sẽ được tính phí theo gói cước của bạn.
+
+Bất cứ khi nào tính năng này khả dụng, biểu tượng sau sẽ được hiển thị ở đầu màn hình của bạn."</string>
+    <string name="wifi_call_help_message_2">"Nếu bạn chọn ưu tiên mạng Wi-Fi, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp bạn không kết nối mạng Wi-Fi hoặc tín hiệu yếu, mạng di động sẽ được dùng để gọi điện.
+
+Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
     <string name="wifi_call_help_title">Trợ giúp Gọi Wi-Fi</string>
     <string name="wifi_call_notification_message">Dịch vụ này được cung cấp bởi Orange. Có thể mất đến vài giờ để kích hoạt dịch vụ. Bạn sẽ nhận được một tin nhắn xác nhận sớm nhất có thể khi nó khả dụng.</string>
     <string name="wifi_call_preferred_summary">"Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
@@ -3603,8 +3677,10 @@
     <string name="wifi_wapi_as_certificate">Chứng chỉ AS</string>
     <string name="wifi_wapi_certification_dont_exist">Chứng chỉ WAPI không tồn tại. Vui lòng cài đặt.</string>
     <string name="wifi_wapi_cert_mode_hand_text">Chọn chứng chỉ bằng tay</string>
-    <string name="wifi_wapi_fail_to_auth">Xác thực WAPI thất bại&lt;br/&gt;Vui lòng kiểm tra tính hợp lệ của chứng chỉ</string>
-    <string name="wifi_wapi_fail_to_init">Không thể mở chứng chỉ WAPI&lt;br/&gt;Chứng chỉ bộ nhớ có thể không bật</string>
+    <string name="wifi_wapi_fail_to_auth">Xác thực WAPI thất bại
+Vui lòng kiểm tra tính hợp lệ của chứng chỉ</string>
+    <string name="wifi_wapi_fail_to_init">Không thể mở chứng chỉ WAPI
+Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="wifi_wapi_psk_type">Loại mật khẩu</string>
     <string name="wifi_wapi_user_certificate">Chứng chỉ người dùng</string>
     <string name="wifi_whitelist_roaming">Cầu nối SSID ‑ Chuyển giao nhanh</string>

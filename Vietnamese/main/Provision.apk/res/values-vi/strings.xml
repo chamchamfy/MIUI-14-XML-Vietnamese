@@ -510,7 +510,10 @@
     <string name="other_settings_mifg_online_content_summary">Nhận hình nền mới để trình chiếu Màn hình khóa thường xuyên.</string>
     <string name="other_settings_quality_service">Quyền hệ thống Daemon</string>
     <string name="other_settings_quality_service_summary">Hệ thống Daemon được sử dụng để cải thiện hiệu suất và độ ổn định của hệ thống. Để có thể hoạt động bình thường, dịch vụ này cần có quyền truy cập và lưu các mục vào bộ nhớ thiết bị.</string>
-    <string name="other_settings_upload_debug_log_detail">"Giúp cải thiện trải nghiệm thiết bị OS của bạn bằng cách tự động gửi dữ liệu chẩn đoán, thiết bị và dữ liệu sử dụng ứng dụng cho Xiaomi. Điều này sẽ giúp cải thiện tuổi thọ pin, hệ thống OS và độ ổn định của ứng dụng, v.v.&lt;br/&gt; Dữ liệu bạn sẽ gửi sẽ chứa thông tin chung về thiết bị của bạn và cách bạn sử dụng thiết bị (ví dụ: mức pin, hoạt động của hệ thống và ứng dụng cũng như lỗi). Dữ liệu sẽ được sử dụng để cải thiện các thiết bị OS.&lt;br/&gt; Việc tắt tính năng này không ảnh hưởng đến khả năng thiết bị của bạn gửi thông tin cần thiết cho các dịch vụ thiết yếu như cập nhật hệ thống và bảo mật.&lt;br/&gt; Bạn có thể kiểm soát tính năng này từ Cài đặt > Mật khẩu &amp; bảo mật > Quyền riêng tư > Cách sử dụng và chẩn đoán."</string>
+    <string name="other_settings_upload_debug_log_detail">"Giúp cải thiện trải nghiệm thiết bị OS của bạn bằng cách tự động gửi dữ liệu chẩn đoán, thiết bị và dữ liệu sử dụng ứng dụng cho Xiaomi. Điều này sẽ giúp cải thiện tuổi thọ pin, hệ thống OS và độ ổn định của ứng dụng, v.v.
+ Dữ liệu bạn sẽ gửi sẽ chứa thông tin chung về thiết bị của bạn và cách bạn sử dụng thiết bị (ví dụ: mức pin, hoạt động của hệ thống và ứng dụng cũng như lỗi). Dữ liệu sẽ được sử dụng để cải thiện các thiết bị OS.
+ Việc tắt tính năng này không ảnh hưởng đến khả năng thiết bị của bạn gửi thông tin cần thiết cho các dịch vụ thiết yếu như cập nhật hệ thống và bảo mật.
+ Bạn có thể kiểm soát tính năng này từ Cài đặt > Mật khẩu &amp; bảo mật > Quyền riêng tư > Cách sử dụng và chẩn đoán."</string>
     <string name="other_settings_upload_debug_log_summary">Thông tin mà chúng tôi thu thập sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và có thể chứa thông tin cá nhân. Không có dữ liệu nào được sử dụng để nhận dạng cá nhân bạn.</string>
     <string name="other_settings_upload_debug_log_title">Gửi dữ liệu chẩn đoán tự động</string>
     <string name="other_settings_user_experience">Chương trình Trải nghiệm Người dùng</string>
@@ -727,7 +730,7 @@
     <string name="service_policy_adjust_content">Chính sách Riêng tư Xunlei</string>
     <string name="service_policy_download">&lt;Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư Xunlei&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">Chính sách Riêng tư</string>
-    <string name="service_security_over_r">Đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/&gt;&lt;br/&gt;Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó.</string>
+    <string name="service_security_over_r">"Đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/>&lt;br/>Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó."</string>
     <string name="service_sim_activation">Kích hoạt thẻ SIM</string>
     <string name="setting_locale">Đang thiết lập khu vực…</string>
     <string name="shut_down">Tắt máy</string>
@@ -793,7 +796,9 @@
     <string name="terms_of_label_separator">", "</string>
     <string name="terms_of_use">Điều khoản và Điều kiện</string>
     <string name="terms_of_use_ble_htmlViewer">Nhà cung cấp vị trí, Trình xem HTML</string>
-    <string name="terms_of_use_label">"Sự riêng tư của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.&lt;br/&gt; &lt;br/&gt;Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng OS. %s và Tài khoản Mi sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
+    <string name="terms_of_use_label">"Sự riêng tư của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
+ 
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng OS. %s và Tài khoản Mi sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
     <string name="terms_of_use_label_ai_assistant">Trợ lý AI</string>
     <string name="terms_of_use_label_app_vault">Bật App vault</string>
     <string name="terms_of_use_label_back">Dịch vụ sao lưu</string>
@@ -803,7 +808,9 @@
     <string name="terms_of_use_label_config_updater">Cập nhật cấu hình</string>
     <string name="terms_of_use_label_finddevice">Tìm</string>
     <string name="terms_of_use_label_game">Trò chơi</string>
-    <string name="terms_of_use_label_gms">"Sự riêng tư của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.&lt;br/&gt; &lt;br/&gt;Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng OS. Dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Xiaomi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm trò chơi, MAB, thành phần hệ thống OS Daemon và MSA, ứng dụng web, Kho ứng dụng, thống kê, thẻ thông minh, Liên kết Mi, Tài khoản Mi và dịch vụ Google Play sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
+    <string name="terms_of_use_label_gms">"Sự riêng tư của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
+ 
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng OS. Dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Xiaomi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm trò chơi, MAB, thành phần hệ thống OS Daemon và MSA, ứng dụng web, Kho ứng dụng, thống kê, thẻ thông minh, Liên kết Mi, Tài khoản Mi và dịch vụ Google Play sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
     <string name="terms_of_use_label_home">Màn hình chính</string>
     <string name="terms_of_use_label_htmlViewer">Trình xem HTML</string>
     <string name="terms_of_use_label_htmlviewer">Trình xem HTML</string>
@@ -840,9 +847,12 @@
     <string name="terms_of_use_label_webview">Chế độ xem web của hệ thống Android</string>
     <string name="terms_of_use_lable_apps">Dịch vụ Mi, Dịch vụ kích hoạt Mi SIM, Xiaomi Cloud, Tìm thiết bị, Màn hình chính, Trò chơi, OS Daemon, Thành phần hệ thống MSA, Dịch vụ dịch thuật, Ứng dụng nhanh, App vault, thống kê, Liên kết Mi</string>
     <string name="terms_of_use_lable_apps_wifi_device">Dịch vụ Mi, Xiaomi Cloud, Tìm thiết bị, Màn hình chính, Trò chơi, MIUI Daemon, Thành phần hệ thống MSA, Dịch vụ dịch, MIUI SDK, Ứng dụng nhanh, Kho ứng dụng, thống kê, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"&lt;br/&gt;Bạn phải đồng ý với Chính sách Riêng tư Facemoji trước khi sử dụng tính năng này."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"&lt;br/&gt;Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử dụng tính năng này."</string>
-    <string name="terms_of_use_lable_default_input_method_mint">"&lt;br/&gt;Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard trước khi sử dụng tính năng này."</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+Bạn phải đồng ý với Chính sách Riêng tư Facemoji trước khi sử dụng tính năng này."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử dụng tính năng này."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard trước khi sử dụng tính năng này."</string>
     <string name="terms_of_use_lable_gms">, Dịch vụ Google Play</string>
     <string name="terms_of_use_lable_smart_cards">, Thẻ thông minh</string>
     <string name="terms_of_use_lable_xmsf">Khung dịch vụ Mi</string>
@@ -913,7 +923,9 @@
     <string name="verify_application_security">Để xác minh bảo mật ứng dụng</string>
     <string name="verify_device_security">Để xác minh bảo mật thiết bị</string>
     <string name="voice_assist_advice">Mi AI cho phép bạn sử dụng điều khiển bằng giọng nói, nhưng nó tiêu thụ nhiều điện năng hơn (+ 1%% mỗi giờ).</string>
-    <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:&lt;br/&gt;1. Khi màn hình bật.&lt;br/&gt;2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
+    <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:
+1. Khi màn hình bật.
+2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
     <string name="voice_assist_desp">Nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận biết âm thanh của bạn và cho phép bạn điều khiển thiết bị.</string>
     <string name="voice_assist_desp_screen_light">Sau khi màn hình sáng, nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận dạng giọng nói của bạn và bạn có thể điều khiển thiết bị.</string>
     <string name="voice_assist_title">Đánh thức bằng âm thanh</string>
