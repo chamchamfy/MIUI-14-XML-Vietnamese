@@ -72,11 +72,8 @@
     <string name="accessibility_double_click_to_exit">Nhấn đúp để thoát</string>
     <string name="accessibility_dual_preview_change">Xem thay đổi</string>
     <string name="accessibility_dual_preview_change_finish">Xem thay đổi thành công</string>
-    <string name="accessibility_dual_preview_change_finish">Đã xem thay đổi thành công</string>
     <string name="accessibility_dual_video_merged">Kết hợp Video</string>
-    <string name="accessibility_dual_video_merged">Video kết hợp</string>
     <string name="accessibility_dual_video_standalone">Tách Video</string>
-    <string name="accessibility_dual_video_standalone">Video riêng biệt</string>
     <string name="accessibility_effect_mode_button">Nút hiệu ứng</string>
     <string name="accessibility_eis_normal">Ổn định video đã bật</string>
     <string name="accessibility_eis_off">Ổn định video đã tắt</string>
@@ -162,9 +159,7 @@
     <string name="accessibility_preview_selected">Đã chọn</string>
     <string name="accessibility_preview_select_tip">Chọn %1$d</string>
     <string name="accessibility_preview_shrink">Co lại</string>
-    <string name="accessibility_preview_shrink">Thu nhỏ</string>
     <string name="accessibility_preview_zoom_tip">%1$.1f xem trước thu phóng</string>
-    <string name="accessibility_preview_zoom_tip">%1$.1fX xem trước thu phóng</string>
     <string name="accessibility_privacy_watermark">Hình mờ bảo vệ</string>
     <string name="accessibility_protrait">Chân dung</string>
     <string name="accessibility_pro_parameters_panel_on">Mở menu với thông số PRO</string>
@@ -255,7 +250,6 @@
     <string name="aggregate_add_field">Thêm trường</string>
     <string name="ai">Tự động cập nhật</string>
     <string name="aiwatermark_location_absent_hint">"Không thể lấy thông tin vị trí"</string>
-    <string name="aiwatermark_location_absent_hint">Không thể lấy thông tin vị trí</string>
     <string name="aiwatermark_location_list_title">Vị trí</string>
     <string name="aiwatermark_location_tips">Cho phép Máy ảnh truy cập vị trí của bạn để có thêm các dấu chìm phù hợp</string>
     <string name="ai_agra_fort">Pháo đài Agra</string>
@@ -490,7 +484,6 @@
     <string name="cam_string_remote_camera_setup_wizard_button_connect">Kết nối</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description1">Chức năng ghi nhiều máy ảnh hỗ trợ hai điện thoại di động ghi lại hình ảnh từ các góc nhìn khác nhau và kết hợp chúng thành một video. Bạn có thể xem trước video và quay phim của hai điện thoại di động thông qua máy này và chỉ hỗ trợ ghi âm của máy này.</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description2">Bên kia cần bật khóa chuyển "Thư mục nhiều cấp" trong thanh thông báo thả xuống. Tính năng ghi nhiều camera chỉ hỗ trợ điện thoại di động Xiaomi và Redmi có chế độ "Chụp cảnh kép trước sau" hoặc "Chụp nhiều ảnh cùng lúc".</string>
-    <string name="cam_string_remote_camera_setup_wizard_button_description2">Bên kia cần bật khóa chuyển Thư mục nhiều cấp trong thanh thông báo thả xuống. Tính năng ghi nhiều camera chỉ hỗ trợ điện thoại di động Xiaomi và Redmi có chế độ Chụp cảnh kép trước sau hoặc Chụp nhiều ảnh cùng lúc.</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description3">SAN mời bạn ghi âm trực tuyến</string>
     <string name="cam_string_remote_camera_setup_wizard_button_description4">Vui lòng đợi trong khi kết nối ..</string>
     <string name="cam_string_remote_camera_setup_wizard_button_find">Tìm kiếm thiết bị</string>
@@ -498,7 +491,6 @@
     <string name="cam_string_remote_camera_setup_wizard_button_refuse">Hủy</string>
     <string name="cam_string_remote_camera_setup_wizard_button_request">Bạn có muốn thoát ghi âm chung nhiều máy không?</string>
     <string name="cam_string_remote_camera_setup_wizard_find_tip">Yêu cầu bên kia bật khóa chuyển "Nhiều máy ảnh" trong thanh thông báo thả xuống</string>
-    <string name="cam_string_remote_camera_setup_wizard_find_tip">Yêu cầu bên kia bật khóa chuyển Nhiều máy ảnh trong thanh thông báo thả xuống</string>
     <string name="cam_string_remote_camera_setup_wizard_subtitle">Ghi âm chung nhiều máy là gì?</string>
     <string name="cam_string_remote_camera_setup_wizard_title">Ghi âm chung nhiều máy</string>
     <string name="cam_string_remote_camera_setup_wizard_title1">Tìm kiếm thiết bị..</string>
@@ -642,7 +634,6 @@
     <string name="color_effect_entry_berry">Quả mọng</string>
     <string name="color_effect_entry_blackgold">Vàng đen</string>
     <string name="color_effect_entry_blackgold_describe">Bộ lọc độ tương phản cao này chỉ giữ lại màu vàng và xanh đậm. Thích hợp sử dụng trên những con đường thành phố về đêm.</string>
-    <string name="color_effect_entry_blackgold_describe">Giới thiệu về bộ lọc</string>
     <string name="color_effect_entry_blackice">Đá đen</string>
     <string name="color_effect_entry_blackwhite">Đen &amp; Trắng</string>
     <string name="color_effect_entry_classic">Cổ điển</string>
@@ -656,23 +647,17 @@
     <string name="color_effect_entry_latte">Cà phê Latte</string>
     <string name="color_effect_entry_new_1">Huyền bí</string>
     <string name="color_effect_entry_new_1_describe">Giới thiệu về bộ lọc</string>
-    <string name="color_effect_entry_new_1_describe">Màu sắc thường sử dụng trong phim điện ảnh, màu xanh lá cây sẽ được thêm ở các vùng tối hơn. Bộ lọc này hoạt động tốt đối với bối cảnh có độ tương phản cao như hoàng hôn trong thành phố.</string>
     <string name="color_effect_entry_new_2_describe">Giới thiệu về bộ lọc</string>
     <string name="color_effect_entry_new_3">Ảo mộng</string>
     <string name="color_effect_entry_new_3_describe">Giới thiệu về bộ lọc</string>
-    <string name="color_effect_entry_new_3_describe">Sự kết hợp màu sắc độc đáo này hoạt động hoàn hảo trong điều kiện thời tiết nhiều mây và ánh sáng dịu.</string>
     <string name="color_effect_entry_new_4">Giấc mơ</string>
     <string name="color_effect_entry_new_4_describe">Giới thiệu về bộ lọc</string>
-    <string name="color_effect_entry_new_4_describe">Tông màu tối và độ tương phản nhẹ phù hợp với bối cảnh trong nhà với ánh sáng dịu.</string>
     <string name="color_effect_entry_new_5">Carmen</string>
     <string name="color_effect_entry_new_5_describe">Giới thiệu về bộ lọc</string>
-    <string name="color_effect_entry_new_5_describe">Tông màu nâu và độ tương phản trung bình tạo ra bầu không khí ấm áp cho bối cảnh ngoài trời với ánh sáng tự nhiên.</string>
     <string name="color_effect_entry_new_6_describe">Giới thiệu về bộ lọc</string>
     <string name="color_effect_entry_new_bbp_describe">Giới thiệu về bộ lọc</string>
-    <string name="color_effect_entry_new_bbp_describe">Độ tương phản cao và độ bão hòa thấp sẽ đem lại cảm xúc điện ảnh cho hầu hết bối cảnh.</string>
     <string name="color_effect_entry_orange">Chanh xanh</string>
     <string name="color_effect_entry_orange_describe">Giới thiệu về bộ lọc</string>
-    <string name="color_effect_entry_orange_describe">Thủ thuật biên tập phim cổ điển với vùng tối lạnh hơn và vùng sáng ấm hơn. Bộ lọc này thích hợp với khu vực có màu sắc đa dạng như trong thành phố và môi trường tự nhiên.</string>
     <string name="color_effect_entry_quiet">Yên lặng</string>
     <string name="color_effect_entry_sibopenk">Cyberpunk</string>
     <string name="color_effect_entry_soda">Soda</string>
@@ -763,7 +748,6 @@
     <string name="cta_mimoji_msg">Chào mừng sử dụng Fun Cam! Bạn có thể sử dụng ứng dụng này để chụp ảnh và quay video. Để có thể hoạt động bình thường, ứng dụng này cần kết nối mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:</string>
     <string name="cta_mimoji_perm_type">Quyền bắt buộc (sử dụng cho các tính năng và dịch vụ cơ bản của ứng dụng này)</string>
     <string name="cta_mimoji_user_links">&lt;Data>Đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.&lt;/Data></string>
-    <string name="cta_mimoji_user_links">Hãy đọc và đồng ý&lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
     <string name="cta_mimoji_user_tips">Nếu bạn không đồng ý cấp các quyền bắt buộc hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Nếu bạn không cấp các quyền tùy chọn, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn. Bạn luôn có thể giới hạn quyền hoặc rút lại chấp thuận của mình trong Cài đặt.</string>
     <string name="cta_msg">Chào mừng tới Máy ảnh! Bạn có thể sử dụng ứng dụng này để chụp ảnh và quay video. Ứng dụng này cần kết nối mạng và các quyền tùy chọn dưới đây:</string>
     <string name="cta_perm_cam">Sử dụng máy ảnh</string>
@@ -1016,10 +1000,8 @@
     <string name="file_size">Kích thước:</string>
     <string name="film_landscape_timefreeze_hint">Chỉ hỗ trợ chụp phong cảnh</string>
     <string name="film_timefreeze">Tip bật</string>
-    <string name="film_timefreeze">Đóng băng nền</string>
     <string name="film_timefreeze_hint">Vui lòng không di chuyển điện thoại</string>
     <string name="film_timefreeze_reset">Hủy đóng băng nền</string>
-    <string name="film_timefreeze_reset">Đặt lại tip</string>
     <string name="film_video_a">T.phóng ma thuật</string>
     <string name="film_video_b_tip">Vui lòng chụp trong điều kiện ánh sáng yếu</string>
     <string name="film_video_c">Đóng băng thời gian</string>
@@ -1404,7 +1386,6 @@
     <string name="mimoji_human_chinese_princesses">Công chúa</string>
     <string name="mimoji_human_clowns">Chú hề</string>
     <string name="mimoji_human_doggy_headgear_girls">Chó</string>
-    <string name="mimoji_human_doggy_headgear_girls">Cún</string>
     <string name="mimoji_human_motorcyclists">Người lái xe</string>
     <string name="mimoji_human_witches">Phù thủy</string>
     <string name="mimoji_mole">Nốt ruồi</string>
@@ -1655,7 +1636,6 @@
     <string name="pm">CH</string>
     <string name="popup_tips_near_range_mode">Chụp gần</string>
     <string name="popup_tips_privacy_watermark_edit">Chỉnh sửa hình mờ</string>
-    <string name="popup_tips_privacy_watermark_edit">Sửa dấu chìm</string>
     <string name="popup_tip_3d_beauty_intro_text">Làm đẹp 3D</string>
     <string name="portait_effect_entry_blackwhite">Đen&amp;Trắng</string>
     <string name="portait_effect_entry_cold_white">Ánh sao</string>
@@ -1716,9 +1696,7 @@
     <string name="pref_ai_detect">Nhận diện AI</string>
     <string name="pref_audio_chart">Bản đồ</string>
     <string name="pref_audio_chart_off">"Đóng"</string>
-    <string name="pref_audio_chart_off">Đóng</string>
     <string name="pref_audio_chart_on">"Mở"</string>
-    <string name="pref_audio_chart_on">Mở</string>
     <string name="pref_audio_denoise_title">Giảm nhiễu âm thanh</string>
     <string name="pref_audio_focus_entry_front">Phía trước</string>
     <string name="pref_audio_focus_entry_general">Bình thường</string>
@@ -1729,7 +1707,6 @@
     <string name="pref_auto_boot">Tự khởi chạy</string>
     <string name="pref_auto_boot_summary">Làm cho Máy ảnh phản ứng nhanh hơn bằng cách cho phép máy ảnh tự động khởi động. Bạn có thể quản lý quyền tự khởi động trong chi tiết ứng dụng.</string>
     <string name="pref_a_c_f">Bản đồ</string>
-    <string name="pref_a_c_f">Siêu âm</string>
     <string name="pref_beauty_me_mp_switch_desc">Chỉnh hiệu ứng trang điểm cho nam trên ảnh nhóm</string>
     <string name="pref_beauty_me_mp_switch_title">Điều chỉnh hiệu ứng trang điểm cho nam giới</string>
     <string name="pref_beauty_nvs_wp_desc">Xoá nốt ruồi khi sử dụng tác dụng làm mịn da</string>
@@ -1757,9 +1734,7 @@
     <string name="pref_camera_auto_focus_title_entry_on">Bật</string>
     <string name="pref_camera_auto_hibernation">Chụp khi tắt màn hình</string>
     <string name="pref_camera_auto_hibernation_desc">Tắt màn hình sau %d phút không hoạt động để Tiết kiệm pin trong khi quay video thông thường hoặc video tua nhanh thời gian, sử dụng tính năng chụp liên tục theo thời gian hoặc phơi sáng lâu</string>
-    <string name="pref_camera_auto_hibernation_desc">Tắt màn hình sau %d phút không hoạt động để Tiết kiệm Pin trong khi quay video thông thường hoặc video tua nhanh thời gian, sử dụng tính năng chụp liên tục theo thời gian hoặc phơi sáng lâu</string>
     <string name="pref_camera_auto_hibernation_description">Tắt màn hình sau %d phút chụp để Tiết kiệm pin</string>
-    <string name="pref_camera_auto_hibernation_description">Tắt màn hình sau %d phút chụp để Tiết kiệm Pin</string>
     <string name="pref_camera_auxiliary_close">Đóng</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Xác nhận phơi sáng</string>
     <string name="pref_camera_auxiliary_focus_peak">Tiêu điểm cao nhất</string>
@@ -1883,11 +1858,9 @@
     <string name="pref_camera_hdr_type_entry_normal">Bình thường</string>
     <string name="pref_camera_hdr_type_title">Loại HDR</string>
     <string name="pref_camera_heic_image_format_desc3">"Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ ở chế độ Ảnh và Ultra HD nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể chụp ảnh động và xóa hình mờ trong HEIF."</string>
-    <string name="pref_camera_heic_image_format_desc3">Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ ở chế độ Ảnh và Ultra HD nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể chụp ảnh động và xóa hình mờ trong HEIF.</string>
     <string name="pref_camera_heic_image_format_description">Ảnh ở định dạng tệp hình ảnh hiệu quả cao chiếm ít dung lượng lưu trữ hơn, nhưng không được một số ứng dụng hỗ trợ</string>
     <string name="pref_camera_heic_image_format_description2">Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ, nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể chụp ảnh trực tiếp và xóa dấu chìm trong HEIF</string>
     <string name="pref_camera_heic_image_format_description_global">"Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể xóa hình mờ trong HEIF."</string>
-    <string name="pref_camera_heic_image_format_description_global">Định dạng tệp hình ảnh hiệu quả cao giúp tiết kiệm dung lượng lưu trữ nhưng không được một số ứng dụng bên thứ ba hỗ trợ. Bạn không thể xóa hình mờ trong HEIF.</string>
     <string name="pref_camera_heic_image_format_title">Định dạng HEIF</string>
     <string name="pref_camera_hfr_entry_off">Tắt</string>
     <string name="pref_camera_hfr_title">Khung hình cao (tốc độ chậm)</string>
@@ -2051,7 +2024,6 @@
     <string name="pref_camera_track_focus_intro_goto">Bật</string>
     <string name="pref_camera_track_focus_preferred_description">Tự động lấy nét người, động vật đang di chuyển hoặc chạm đúp vào bất kỳ đối tượng nào để bám theo</string>
     <string name="pref_camera_track_focus_preferred_title">Lấy nét theo dõi chuyển động</string>
-    <string name="pref_camera_track_focus_preferred_title">Tiêu điểm theo dõi chuyển động</string>
     <string name="pref_camera_ubifocus_title">Lấy nét sau</string>
     <string name="pref_camera_ultra_wide_ldc_description">Chỉnh méo hình ở chế độ góc siêu rộng</string>
     <string name="pref_camera_ultra_wide_ldc_title">Chỉnh méo góc siêu rộng</string>
@@ -2077,7 +2049,6 @@
     <string name="pref_camera_volumekey_function_entry_volume">Âm lượng</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Thu phóng</string>
     <string name="pref_camera_volumekey_function_timer_desc">"Sẽ không hoạt động với video"</string>
-    <string name="pref_camera_volumekey_function_timer_desc">Sẽ không hoạt động với video</string>
     <string name="pref_camera_volumekey_function_title">Chức năng phím âm lượng</string>
     <string name="pref_camera_volumekey_function_zoom_desc">Chỉ hoạt động ở các chế độ hỗ trợ thu phóng</string>
     <string name="pref_camera_watermark_title">Thêm nhãn thời gian trên ảnh</string>
@@ -2114,9 +2085,7 @@
     <string name="pref_exposure_title">Phơi sáng</string>
     <string name="pref_e_c_p_k">Xóa</string>
     <string name="pref_e_c_t_j">Gốc</string>
-    <string name="pref_e_c_t_j">Âm thanh gốc</string>
     <string name="pref_e_p_k">Mic ngoài</string>
-    <string name="pref_e_p_k">Xanh lục</string>
     <string name="pref_e_p_s_n">Ghi âm qua micro ngoài khi kết nối tai nghe Bluetooth có trang bị micro được kết nối</string>
     <string name="pref_face_beauty_title">Làm đẹp</string>
     <string name="pref_fingerprint_capture_title">Chụp bằng dấu vân tay</string>
@@ -2146,16 +2115,12 @@
     <string name="pref_hdr_indicator_entry_off">Tắt</string>
     <string name="pref_hdr_indicator_entry_on">Bật</string>
     <string name="pref_histogram_off">"Đóng"</string>
-    <string name="pref_histogram_off">Đóng</string>
     <string name="pref_histogram_on">"Mở"</string>
-    <string name="pref_histogram_on">Mở</string>
     <string name="pref_hybrid_video_mode_description">Sử dụng công nghệ HLG để tăng cường màu sắc và dải động của video quay với độ phân giải cao</string>
     <string name="pref_hybrid_video_mode_title">Hybrid</string>
     <string name="pref_i_n_r_b">Giảm tiếng ồn thông minh</string>
     <string name="pref_k_h">Tai nghe theo dõi trực tiếp</string>
-    <string name="pref_k_h">Theo dõi tai nghe trực tiếp</string>
     <string name="pref_k_s_i">Khi tai nghe được kết nối</string>
-    <string name="pref_k_s_i">Theo dõi âm thanh ghi âm bằng tai nghe có dây khi được kết nối</string>
     <string name="pref_lens_dirty_detect_summary">Nhận thông báo khi ống kính bị bẩn</string>
     <string name="pref_lens_dirty_detect_title">Thông báo ống kính bẩn</string>
     <string name="pref_live_duration_title">Thời lượng phát sóng</string>
@@ -2172,14 +2137,10 @@
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_noise_setting_off">"Đóng"</string>
-    <string name="pref_noise_setting_off">Đóng</string>
     <string name="pref_noise_setting_on">"Mở"</string>
-    <string name="pref_noise_setting_on">Mở</string>
     <string name="pref_n_s_a">Cài đặt âm thanh</string>
     <string name="pref_n_s_o_l">"Mở"</string>
-    <string name="pref_n_s_o_l">Mở</string>
     <string name="pref_n_s_o_m">"Tắt"</string>
-    <string name="pref_n_s_o_m">Tắt</string>
     <string name="pref_photo_assistance_tips_off">Tắt</string>
     <string name="pref_photo_assistance_tips_on">Mở</string>
     <string name="pref_pic_flaw_tip_summary">Nhận thông báo khi có người trong ảnh nhắm mắt hoặc ống kính bị che khuất khi đang chụp</string>
@@ -2193,7 +2154,6 @@
     <string name="pref_privacy_watermark_edit_title">Chỉnh sửa hình mờ</string>
     <string name="pref_privacy_watermark_entry">Hình mờ bảo vệ</string>
     <string name="pref_p_d_e">Chuyên nghiệp</string>
-    <string name="pref_p_d_e">Nghề nghiệp</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_retain_ai_scene">Máy ảnh AI</string>
     <string name="pref_retain_ai_scene_description">Giữ nguyên trạng thái máy ảnh AI đã đặt trong phiên trước đó</string>
@@ -2230,7 +2190,6 @@
     <string name="pref_super_night_se_title">Tự động nhìn đêm</string>
     <string name="pref_switch_camera_heic_image_desc">Định dạng ảnh hiệu quả hơn giúp tiết kiệm dung lượng lưu trữ. Nó hỗ trợ chế độ Ultra HD nhưng không hỗ trợ ảnh động, xóa hình mờ thông thường và một số ứng dụng của bên thứ ba.</string>
     <string name="pref_s_n_r_s_c">Giảm tiếng ồn trong video tùy thuộc vào môi trường</string>
-    <string name="pref_s_n_r_s_c">Khi ghi âm</string>
     <string name="pref_true_colour_video_mode_description">Quay video bằng Dolby Vision để ghi lại các chi tiết sống động như thật, màu sắc ấn tượng và độ tương phản nổi bật (tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba)</string>
     <string name="pref_true_colour_video_mode_introduction">Trải nghiệm hình ảnh tuyệt đẹp, chi tiết sống động như thật và độ tương phản nổi bật</string>
     <string name="pref_true_colour_video_mode_setting_dec">Ghi lại các chi tiết sống động như thật, màu sắc tuyệt đẹp và độ tương phản nổi bật ở chế độ Video và Pro. Tiêu điểm theo dõi chuyển động và mã hóa H.264 không được hỗ trợ. Tính năng này có thể không tương thích với một số ứng dụng của bên thứ ba.</string>
@@ -2309,9 +2268,7 @@
     <string name="process_tips_1">Không gập thiết bị cho đến khi video được lưu</string>
     <string name="process_tips_2">Không mở ra thiết bị cho đến khi video được lưu</string>
     <string name="professional_shortcut_long">Chuyên nghiệp</string>
-    <string name="professional_shortcut_long">Nghề nghiệp</string>
     <string name="professional_shortcut_short">Chuyên nghiệp</string>
-    <string name="professional_shortcut_short">Nghề nghiệp</string>
     <string name="prompt_desc">Sử dụng chức năng này sẽ tiêu tốn dữ liệu của bạn khoảng %sM. Bạn có muốn tiếp tục tải xuống không?</string>
     <string name="pro_color_mode">Màu chuyên nghiệp</string>
     <string name="qq_details">Chi tiết QQ:</string>
@@ -2373,7 +2330,6 @@
     <string name="reset_manually_parameter_confirmed">Đồng ý</string>
     <string name="reset_manually_parameter_hint">Đặt lại</string>
     <string name="reset_manual_picture_style_toast">Các thông số kiểu ảnh đã được đặt lại</string>
-    <string name="reset_manual_picture_style_toast">Các thông số đã được đặt lại</string>
     <string name="resume_playing_message">Tiếp tục phát từ %s?</string>
     <string name="resume_playing_restart">Bắt đầu lại</string>
     <string name="resume_playing_resume">Tiếp tục phát</string>
@@ -2427,7 +2383,6 @@
     <string name="share">Chia sẻ</string>
     <string name="show_all">Hiển thị tất cả</string>
     <string name="show_casting_quick_setting_tile">Hiển thị ô "Cài đặt nhanh"</string>
-    <string name="show_casting_quick_setting_tile">Hiển thị ô Cài đặt nhanh</string>
     <string name="show_images_only">Chỉ ảnh</string>
     <string name="show_on_map">Hiện trên bản đồ</string>
     <string name="show_videos_only">Chỉ video</string>
@@ -2659,7 +2614,6 @@
     <string name="unsupported_microphones_3d_record_tips">Âm thanh 3D không hỗ trợ micro ngoài</string>
     <string name="unsupported_microphones_audio_zoom_tips">Thu phóng âm thanh không hỗ trợ micro ngoài</string>
     <string name="update_loading">Đã tải xuống %1$d%%</string>
-    <string name="update_loading">Đã tải xuống %1$s</string>
     <string name="update_start">Cập nhật %1$s</string>
     <string name="user_agree">Đồng ý</string>
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
@@ -2709,7 +2663,6 @@
     <string name="video_effect_entry_central">Trung tâm</string>
     <string name="video_effect_entry_color_retention">Bộ lọc màu</string>
     <string name="video_effect_entry_color_retention_describe">Bộ lọc chân dung giữ nguyên màu sắc của người và chuyển màu bối cảnh thành trắng đen.</string>
-    <string name="video_effect_entry_color_retention_describe">Giới thiệu về bộ lọc</string>
     <string name="video_effect_entry_fantasy">Tưởng tượng</string>
     <string name="video_effect_entry_film">Phim</string>
     <string name="video_effect_entry_forest">Cánh rừng nhỏ</string>
@@ -2717,17 +2670,13 @@
     <string name="video_effect_entry_lost">Mất tích</string>
     <string name="video_effect_entry_meet">Gặp gỡ</string>
     <string name="video_effect_entry_meet_describe">Giới thiệu về bộ lọc</string>
-    <string name="video_effect_entry_meet_describe">Màu sắc nhẹ nhàng tái hiện nét hoài cổ của tác phẩm điện ảnh được thực hiện từ máy ảnh cơ.</string>
     <string name="video_effect_entry_northern_europe">Bắc Âu</string>
     <string name="video_effect_entry_northern_europe_describe">Giới thiệu về bộ lọc</string>
-    <string name="video_effect_entry_northern_europe_describe">Độ bão hòa và độ tương phản thấp phong cách điện ảnh Bắc Âu thích hợp với môi trường nhiều mây và ánh sáng dịu.</string>
     <string name="video_effect_entry_polaroid">Phân cực</string>
     <string name="video_effect_entry_rome">La Mã</string>
     <string name="video_effect_entry_rome_describe">Giới thiệu về bộ lọc</string>
-    <string name="video_effect_entry_rome_describe">Đơn sắc hoài cổ ấm thích hợp đối với tất cả bối cảnh.</string>
     <string name="video_effect_entry_summer_day">Mùa hè</string>
     <string name="video_effect_entry_summer_day_describe">Giới thiệu về bộ lọc</string>
-    <string name="video_effect_entry_summer_day_describe">Độ tương phản thấp và tông màu sáng hoạt động tốt khi bạn cần duy trì tông màu da. Bộ lọc này thích hợp cho các cảnh ngoài trời đầy nắng.</string>
     <string name="video_effect_entry_wind_sing">Gió nhẹ</string>
     <string name="video_err">Không thể phát video</string>
     <string name="video_hybrid_tip">Hybrid</string>
