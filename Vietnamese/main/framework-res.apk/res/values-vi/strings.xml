@@ -2417,7 +2417,6 @@ Bạn có thể thay đổi lối tắt này sang tính năng khác trong Cài �
     <string name="format_error">Không thể xóa thẻ SD.</string>
     <string name="fp_enrollment_powerbutton_intent_negative_button">Hủy</string>
     <string name="fp_enrollment_powerbutton_intent_positive_button">Tắt</string>
-    <string name="gigabyteShort">GB</string>
     <string name="global_action_battery_saver_off_status">Tiết kiệm pin đang BẬT</string>
     <string name="global_action_battery_saver_on_status">Tiết kiệm pin đang TẮT</string>
     <string name="global_action_choose_profile">Hồ sơ</string>
