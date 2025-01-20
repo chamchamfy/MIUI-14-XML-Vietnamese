@@ -7480,4 +7480,17 @@ Thử nâng cấp độ phân giải!"</string>
     <string name="app_lock_pwd_forget">Quên mật khẩu</string>
     <string name="app_lock_pwd_or_finger">Mở khóa bằng mật khẩu hoặc vân tay</string>
 	<string name="pc_smart_charge_button_summary_new">Để kéo dài tuổi thọ pin, hệ thống sẽ tìm hiểu cách bạn sạc thiết bị và dừng sạc khi mức pin đạt %1$s trong tình huống cụ thể</string>
+	<string name="game_toolbox_more_tools_title">Nhiều công cụ</string>
+	<string name="game_toolbox_ai_qa_title">AI hướng dẫn</string>
+	<string name="game_toolbox_ai_qa_desc">Hỏi đáp mô hình lớn</string>
+	<string name="game_toolbox_perf_config_title">Cài đặt hiệu năng</string>
+	<string name="game_toolbox_perf_config_desc">Cài đặt cấu hình hiệu năng trò chơi</string>
+	<string name="game_toolbox_mem_clean_desc">Dọn dẹp bộ nhớ và tăng tốc</string>
+	<string name="game_toolbox_ai_service_title">Dịch vụ trợ lý trò chơi</string>
+	<string name="game_toolbox_ai_service_desc">Trải nghiệm chơi game được nâng cao bằng AI</string>
+	<string name="game_toolbox_title_wild">Chế độ tối ưu</string>
+	<string name="game_toolbox_title_game_center">Trò chơi</string>
+	<string name="game_toolbox_fps_realtime">Thời gian thực %d FPS</string>
+	<string name="game_toolbox_fps_average">Trung bình %d FPS</string>
+	<string name="game_toolbox_fps_shake">Mức %d FPS</string>
 </resources>
