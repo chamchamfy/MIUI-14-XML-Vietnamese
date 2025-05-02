@@ -7493,4 +7493,5 @@ Thử nâng cấp độ phân giải!"</string>
 	<string name="game_toolbox_fps_realtime">Thời gian thực %d FPS</string>
 	<string name="game_toolbox_fps_average">Trung bình %d FPS</string>
 	<string name="game_toolbox_fps_shake">Mức %d FPS</string>
+	<string name="vb_movie_power_hint_new">Điều chỉnh hiệu ứng để có trải nghiệm xem tuyệt vời. Tính năng này sẽ làm tăng mức tiêu thụ điện năng.</string>
 </resources>
