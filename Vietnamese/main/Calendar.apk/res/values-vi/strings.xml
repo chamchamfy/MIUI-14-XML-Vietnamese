@@ -429,7 +429,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="train_event_station_header_name">Ga</string>
     <string name="train_event_station_header_stay_time">Thời gian dừng</string>
     <string name="train_event_station_stay_time">%1$s phút</string>
-    <string name="train_event_station_time_format">HH:mm</string>
+    <string name="train_event_station_time_format">H:mm</string>
     <string name="travel_carriage_number_text">Xe hơi</string>
     <string name="travel_event_add_successfully">Đã tạo sự kiện</string>
     <string name="travel_event_title_flight">Chuyến bay: %1$s-%2$s %3$s</string>
@@ -1324,7 +1324,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="heavenly_stems_jia">"Giáp "</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="miuishare_qzone_title">Qzone</string>
@@ -1744,12 +1744,12 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="close">Đóng</string>
 	<string name="send">Gửi</string>
-	<string name="twenty_four_hour_time_format">HH:mm</string>
+	<string name="twenty_four_hour_time_format">H:mm</string>
 	<string name="plain_year_format">yyyy</string>
 	<string name="twelve_hour_time_format">hh:mm aa</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="size_kilo_byte">KB</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="size_peta_byte">PB</string>
 	<string name="month_year_format">MMMM, yyyy</string>
 	<string name="size_byte">B</string>

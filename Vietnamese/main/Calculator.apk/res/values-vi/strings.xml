@@ -609,7 +609,7 @@
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
@@ -1111,8 +1111,8 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="clearable_edittext_clear_description">Xóa</string>
 	<string name="miuix_appcompat_cancel_description">Hủy</string>
 	<string name="miuix_appcompat_select_item">Chọn mục</string>
-	<string name="fmt_date_numeric_day">D</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
+	<string name="fmt_date_day">d</string>
 	<string name="menuDesc">Menu</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>

@@ -390,7 +390,7 @@
     <string name="home">Nhà riêng</string>
     <string name="home_and_company">Nhà riêng &amp; cơ quan</string>
     <string name="hour12_format_en">hh:mm</string>
-    <string name="hour24_format_en">HH:mm</string>
+    <string name="hour24_format_en">H:mm</string>
     <string name="http_stock_error">Không thể tải thông tin</string>
     <string name="immediate_recommendation">Đề nghị</string>
     <string name="instagram_main">Ảnh</string>
@@ -478,7 +478,7 @@
     <string name="mi_sport_go_install">Tải xuống</string>
     <string name="mi_wallet">Mi Wallet</string>
     <string name="month_day_format">dd/MM</string>
-    <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
+    <string name="month_day_hour_minute_format_en">dd/MM H:mm</string>
     <string name="month_format_en">dd/MM</string>
     <string name="music">Nhạc &amp; Radio</string>
     <string name="music_card_error_str">Xảy ra lỗi, mở ứng dụng Nhạc để phát</string>
@@ -767,7 +767,7 @@
     <string name="wx_timeline">Khoảnh khắc</string>
     <string name="xiaomi_search_label">Tìm kiếm</string>
     <string name="xspace_resolver_activity_title">Chọn ứng dụng</string>
-    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+    <string name="year_month_day_all_format_en">dd/MM/yyyy H:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
     <string name="yesterday">Hôm qua</string>
 	<string name="list_icon_drag">Sắp xếp lại</string>
@@ -1966,7 +1966,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="the_dragon_boat_festival">Tết Đoan ngọ</string>
 	<string name="agenda_empty_content">Không có sự kiện hôm nay.</string>
 	<string name="solar_term_stopping_the_heat">Xử Thử</string>
-	<string name="base_hour24_format_en">HH:mm</string>
+	<string name="base_hour24_format_en">H:mm</string>
 	<string name="chinese_month_march">3</string>
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="actionbar_button_up_description">Quay lại</string>
@@ -2105,7 +2105,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="app_pa_setting_service_stock">Cổ phiếu</string>
 	<string name="month_march_shortest">Thg 3</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="earthly_branches_si">Tỵ</string>
 	<string name="month_january_shortest">Thg 1</string>
 	<string name="chinese_symbol_animals_horse">Ngọ</string>
@@ -2167,7 +2167,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="fmt_chinese_date">e t N</string>
 	<string name="sunday_shortest">CN</string>
 	<string name="earthly_branches_xu">Tuất</string>
-	<string name="base_hour12_format_en">HH:mm</string>
+	<string name="base_hour12_format_en">H:mm</string>
 	<string name="app_sure">OK</string>
 	<string name="chinese_digit_five">5</string>
 	<string name="app_sports_action_review">Phát lại</string>
@@ -2199,7 +2199,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="the_peace_day">Ngày Tưởng niệm</string>
 	<string name="heavenly_stems_gui">"Quý "</string>
 	<string name="the_fools_day">Cá Tháng Tư</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="agenda_default">Sự kiện lịch</string>
 	<string name="noon">CH</string>
 	<string name="month_december_short">Tháng 12</string>
@@ -2276,7 +2276,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="solar_term_clear_and_bright">Thanh Minh</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="app_travel_train_status_outage">Đã hủy</string>
-	<string name="base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+	<string name="base_year_month_day_all_format_en">dd/MM/yyyy H:mm:ss</string>
 	<string name="app_bluetooth_device_empty">Không có thiết bị kết nối</string>
 	<string name="app_commute_location_open_tip">Cho phép App vault truy cập vị trí của bạnd để thấy điều hướng ở đây.</string>
 	<string name="app_travel_flight_board">Cổng</string>
@@ -2657,9 +2657,9 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
     <string name="alipay_auth_state_open">Đã bật lên</string>
     <string name="alipay_accountmanager_has_authinfo_tip">Đã được áp dụng cho các chức năng sau</string>
 	<string name="app_stock_info_desc">Mô tả</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="fmt_time_second">"s 'giây'"</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="fmt_date">D</string>
 	<string name="fmt_time">T</string>
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
@@ -2670,7 +2670,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_stock_load_data_failure">Không thể tải thông tin</string>
 	<string name="pa_picker_detail_bottom_bt_source_home">Màn hình chính</string>
 	<string name="pa_picker_detail_download_app_dialog_message_install_suffix">Đã thêm</string>
-	<string name="pa_base_hour12_format_en">HH:mm</string>
+	<string name="pa_base_hour12_format_en">H:mm</string>
 	<string name="pa_recommend_card_title">Đề xuất</string>
 	<string name="pa_stock_search_failure">Không tìm thấy kết quả</string>
 	<string name="pa_setting_privacy_perm_location">Truy cập vị trí</string>
@@ -2703,7 +2703,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_rtk_card_title">Trang chủ</string>
 	<string name="pa_edit_text_size">Cỡ chữ</string>
 	<string name="pa_edit_repeat">Lặp lại</string>
-	<string name="pa_day_time">HH:mm</string>
+	<string name="pa_day_time">H:mm</string>
 	<string name="pa_stock_desc_add_success">Đã thêm thành công</string>
 	<string name="pa_picker_list_load_end">Không còn mục nào nữa</string>
 	<string name="pa_setting_privacy_view_priv">Chính sách Riêng tư</string>
@@ -2799,7 +2799,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="brvah_loading">Đang tải...</string>
 	<string name="pa_login_dialog_negative">Không, cảm ơn</string>
 	<string name="pa_express_phone_binding_send_ok">Gửi mã xác minh đến %s</string>
-	<string name="pa_half_day_time">HH:mm</string>
+	<string name="pa_half_day_time">H:mm</string>
 	<string name="pa_rts_text">Trang chủ</string>
 	<string name="pa_setting_privacy_category_priv">Chính sách Riêng tư</string>
 	<string name="pa_disclaimer_title">Miễn trừ</string>
@@ -2811,7 +2811,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_sports_followed">Đang theo dõi</string>
 	<string name="pa_picker_detail_add_maml_net_unavailable">Không thể kết nối mạng. Kiểm tra cài đặt mạng và thử lại.</string>
 	<string name="pa_sports_widget_empty_recommend">Đề xuất</string>
-	<string name="pa_base_hour24_format_en">HH:mm</string>
+	<string name="pa_base_hour24_format_en">H:mm</string>
 	<string name="pa_express_item_menu_edit">Sửa</string>
 	<string name="pa_express_setting_number_title">Thêm số điện thoại</string>
 	<string name="pa_setting_privacy_policy_update_link">Chính sách Riêng tư</string>
@@ -2957,7 +2957,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="pa_shopping_page_setting_statement">Miễn trừ</string>
 	<string name="pa_picker_search_card_header_accessibility_filter_icon">Bộ lọc</string>
 	<string name="pa_shopping_widget_no_setting_content_desc">Cài đặt</string>
-	<string name="pa_base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+	<string name="pa_base_year_month_day_all_format_en">dd/MM/yyyy H:mm:ss</string>
 	<string name="pa_shopping_dialog_privacy_authorize_title">Điều khoản và Điều kiện</string>
 	<string name="pa_picker_no_relevant_content">Không tìm thấy kết quả</string>
 	<string name="pa_shopping_page_product_item_icon_tag">Đề xuất</string>

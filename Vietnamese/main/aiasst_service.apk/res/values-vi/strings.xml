@@ -125,7 +125,7 @@
 	<string name="aicall_outcall_please_agree_tip">Đồng ý với các điều khoản và điều kiện của chúng tôi trước tiên</string>
 	<string name="aicall_outcall_type">Cuộc gọi đi:</string>
 	<string name="aicall_please_hungup">Kết thúc cuộc gọi AI trước</string>
-	<string name="aicall_rule_data">dd/MM HH:mm</string>
+	<string name="aicall_rule_data">dd/MM H:mm</string>
 	<string name="aicall_smartphoneanser">Nhập câu trả lời của bạn và cho phép MI AI đọc chúng cho người khác trong khi gọi</string>
 	<string name="aicall_smartphoneanser_miui11_enter">Chuyển sang cuộc gọi AI theo cách thủ công</string>
 	<string name="aicall_sure">ĐỒNG Ý</string>

@@ -236,7 +236,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="cloud_no_backup">Không có bản sao lưu nào</string>
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
-    <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+    <string name="date_format">H:mm:ss dd-MM-yyyy</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>
@@ -668,7 +668,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="local_main_encrypt_backup_title">Mã hóa sao lưu</string>
 	<string name="local_backup_select_activity">Tạo bản sao lưu</string>
 	<string name="local_main_latest_backup_time_loading">Chỉ vài giây…</string>
-	<string name="local_main_date_format">HH:mm dd/MM/yyyy</string>
+	<string name="local_main_date_format">H:mm dd/MM/yyyy</string>
 	<string name="local_button_restore_data">Khôi phục vào thiết bị này</string>
 	<string name="local_main_backup_manager_title">Quản lý sao lưu</string>
 	<string name="local_back_up_detail_description">"Ghi chú:
@@ -1041,7 +1041,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
 	<string name="fmt_weekday_time_timezone">zW T</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
@@ -1068,7 +1068,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="size_byte">B</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="size_giga_byte">GB</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_year">yyyy</string>
@@ -1080,7 +1080,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="fmt_weekday_date">W, D</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="fmt_time_second">Giây</string>
 	<string name="size_mega_byte">MB</string>
 	<string name="fmt_date_timezone">D z</string>
@@ -1090,8 +1090,8 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
 	<string name="permission_admitted">Cho phép</string>
 	<string name="permission_intro">Chi tiết quyền</string>
-	<string name="fmt_date_numeric_day">D</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
+	<string name="fmt_date_day">d</string>
 	<string name="size_peta_byte">PB</string>
 	<string name="permission_not_admit">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
 	<string name="size_tera_byte">TB</string>

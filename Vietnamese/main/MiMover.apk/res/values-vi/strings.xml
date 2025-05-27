@@ -524,7 +524,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="heavenly_stems_yi">"Ất "</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
 	<string name="com_xiaomi_jr">Tài chính Mi</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="hybrid_provider">Được cung cấp bởi %1$s</string>
 	<string name="month_june_shortest">Thg 1</string>
 	<string name="select_all_description">Chọn tất cả</string>
@@ -989,12 +989,12 @@ Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di c
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Không phải bây giờ</string>
 	<string name="calendar_permission_desc">Quản lý sự kiện</string>
 	<string name="revoke_agree">Đồng ý Chính sách Riêng tư</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="title_request_manage_external_storage_perm">Yêu cầu quyền</string>
 	<string name="receiver">Nhận</string>
 	<string name="size_kilo_byte">KB</string>
 	<string name="contacts_permission_desc">Truy cập thông tin liên hệ</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="revoke">Thu hồi</string>
 	<string name="size_peta_byte">PB</string>
 	<string name="perm_manage_external_storage">Truy cập tất cả các tệp</string>

@@ -50,7 +50,7 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="activity_find_city_dialog_message">Cho phép Thời tiết xem vị trí của bạn</string>
     <string name="activity_main_time_format">E</string>
     <string name="aqi_fifteen_dates_time_format">d/M</string>
-    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="hour_minute_time_format">H:mm</string>
     <string name="first_start_network_msg">Ứng dụng này cần kết nối internet và truy cập thông tin vị trí của bạn để làm việc bình thường.</string>
     <string name="first_start_network_title">Kết nối internet và truy cập thông tin vị trí</string>
     <string name="international_detail_menu_title">Chi tiết</string>
@@ -347,7 +347,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="news_refresh_loading">Đang tải</string>
 	<string name="news_load_more_failed">Không có kết nối mạng, vui lòng kiểm tra cài đặt mạng và thử lại</string>
 	<string name="news_tips_no_data">Không có thông tin mới</string>
-	<string name="news_hour_minute_time_format">HH:mm dd-MM-yyyy</string>
+	<string name="news_hour_minute_time_format">H:mm dd-MM-yyyy</string>
 	<string name="news_refresh_release_to_refresh">Thả ra để làm mới</string>
 	<string name="news_tips_net_error">Không có kết nối mạng, vui lòng kiểm tra cài đặt mạng và thử lại</string>
 	<string name="news_load_more_loading">Đang tải</string>
@@ -556,7 +556,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="month_march_shortest">Thg 3</string>
 	<string name="solar_term_summer_begins">Lập Hạ</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="the_armys_day">Ngày thành lập quân đội</string>
 	<string name="earthly_branches_si">Tỵ</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -707,7 +707,7 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="early_morning">SA</string>
 	<string name="the_fools_day">Cá Tháng Tư</string>
 	<string name="monday_short">Th 2</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="noon">CH</string>
 	<string name="month_december_short">Tháng 12</string>
 	<string name="month_may_short">Tháng 5</string>
@@ -814,11 +814,11 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
 	<string name="send">Gửi</string>
 	<string name="size_byte">B</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="size_kilo_byte">KB</string>
 	<string name="size_giga_byte">GB</string>
 	<string name="fmt_time_second">"s 'giây'"</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="size_mega_byte">MB</string>
 	<string name="fmt_date">D</string>
 	<string name="size_tera_byte">TB</string>

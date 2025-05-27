@@ -5,7 +5,7 @@
     <string name="deskclock_backup">Đồng hồ báo thức</string>
     <string name="button_cancel">Hủy</string>
     <string name="button_next">Tiếp theo</string>
-    <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+    <string name="date_format">H:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="retry">Thử lại</string>
     <string name="cloud_app_current_device">Thiết bị hiện tại</string>
@@ -84,7 +84,7 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
     <string name="open_wifi_setting">Cài đặt Wi-Fi</string>
     <string name="name_model">%2$s của %1$s</string>
     <string name="download_settings">Đang tải xuống cài đặt Màn hình chính %s%%</string>
-    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="cloud_back_up_date_format">H:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Khôi phục cài đặt Màn hình chính</string>
     <string name="cancel_recover_settings">Hủy</string>
     <string name="recover_settings_description">Giữ thiết bị của bạn luôn mở</string>
@@ -594,7 +594,7 @@ Thử lại"</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
@@ -606,10 +606,10 @@ Thử lại"</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="fmt_weekday_date">W, D</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_timezone">D z</string>
 	<string name="fmt_date_year">yyyy</string>
@@ -618,8 +618,8 @@ Thử lại"</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
 	<string name="fmt_weekday_time">W T</string>
-	<string name="fmt_date_numeric_day">D</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
+	<string name="fmt_date_day">d</string>
 	<string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chẩn đoán.</string>
 	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
 	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>

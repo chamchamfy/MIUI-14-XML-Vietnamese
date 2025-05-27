@@ -23,12 +23,12 @@
     <string name="just_now">Vừa xong</string>
     <string name="yesterday">Hôm qua</string>
     <string name="month_day_format">dd/MM</string>
-    <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
+    <string name="month_day_hour_minute_format_en">dd/MM H:mm</string>
     <string name="month_format_en">dd/MM</string>
-    <string name="hour24_format_en">HH:mm</string>
+    <string name="hour24_format_en">H:mm</string>
     <string name="hour12_format_en">hh:mm</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
-    <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+    <string name="year_month_day_all_format_en">dd/MM/yyyy H:mm:ss</string>
     <string name="book_store">Xem sách</string>
     <string name="book_update">Cập nhật có sẵn</string>
     <string name="search">Tìm kiếm</string>

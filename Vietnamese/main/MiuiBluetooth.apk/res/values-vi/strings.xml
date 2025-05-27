@@ -1147,7 +1147,7 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="fmt_time_millis">Giây</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
 	<string name="fmt_date_time_timezone">D T z</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="fmt_time_24hour">HH</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_time_12hour">HH</string>
@@ -1163,7 +1163,7 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="fmt_weekday_date">W, D</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="fmt_time_second">Giây</string>
 	<string name="content_description_menu_button">Menu</string>
 	<string name="fmt_date_timezone">D z</string>
@@ -1181,8 +1181,8 @@ Giao thức truyền tải băng thông cao."</string>
 	<string name="data_connection_3_5g">Giờ</string>
 	<string name="item_view_role_description">Tab</string>
 	<string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
-	<string name="fmt_date_numeric_day">D</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
+	<string name="fmt_date_day">d</string>
 	<string name="confignet_cancel">Hủy</string>
 	<string name="config_net_not_my_device">Hủy</string>
 	<string name="bluetooth_connected_active">Đã kết nối %1$s</string>

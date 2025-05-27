@@ -1348,7 +1348,7 @@ Chạm vào đây để đăng nhập."</string>
     <string name="chinese_month_may">5</string>
     <string name="heavenly_stems_jia">"Giáp "</string>
     <string name="heavenly_stems_bing">"Bính "</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="month_september_short">Tháng 9</string>
     <string name="month_july_short">Tháng 7</string>
@@ -1644,10 +1644,10 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="privacy_pad_fold_Read_write_storage">Lưu trữ</string>
     <string name="material_minute_selection">Chọn phút</string>
     <string name="allow">Cho phép</string>
-    <string name="fmt_date_numeric_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
     <string name="wallpaper_set_as_both_small">Đặt cả hai</string>
     <string name="material_timepicker_am">SA</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="privacy_reading_the_application_list">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
     <string name="material_timepicker_hour">Giờ</string>
     <string name="privacy_remind_user_mode_title">Chú ý</string>

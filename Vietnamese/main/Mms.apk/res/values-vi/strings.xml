@@ -1239,7 +1239,7 @@ Xem qua trang đề xuất!"</string>
 	<string name="month_march_shortest">Thg 3</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="solar_term_summer_begins">Lập Hạ</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="the_armys_day">Ngày thành lập quân đội</string>
 	<string name="earthly_branches_si">Tỵ</string>
 	<string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -1384,7 +1384,7 @@ Xem qua trang đề xuất!"</string>
 	<string name="early_morning">SA</string>
 	<string name="the_fools_day">Cá Tháng Tư</string>
 	<string name="monday_short">Th 2</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="noon">CH</string>
 	<string name="month_december_short">Tháng 12</string>
 	<string name="month_may_short">Tháng 5</string>
@@ -1592,9 +1592,9 @@ Tắt Chế độ máy bay trước."</string>
     <string name="aim_show_original">Hiển thị tin nhắn</string>
     <string name="leave_mms_tips_context_browser">Rời khỏi Tin nhắn và mở trình duyệt web ngay?</string>
 	<string name="system_permission_requested">Hỏi</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="privacy_dialog_error_service">Lỗi máy chủ. Chờ một vài phút rồi thử lại.</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="pref_title_perm_location">Vị trí</string>
 	<string name="fmt_time_millis">"S 'mili giây'"</string>
 	<string name="dialog_quit">Thoát</string>

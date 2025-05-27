@@ -45,7 +45,7 @@
     <string name="month_march_shortest">Thg 3</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="solar_term_summer_begins">Lập Hạ</string>
-    <string name="fmt_time_12hour_minute">HH:mm</string>
+    <string name="fmt_time_12hour_minute">H:mm</string>
     <string name="the_armys_day">Ngày thành lập quân đội</string>
     <string name="earthly_branches_si">Tỵ</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -211,7 +211,7 @@
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="the_fools_day">Cá Tháng Tư</string>
     <string name="monday_short">Th 2</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="noon">CH</string>
     <string name="month_december_short">Tháng 12</string>
     <string name="month_may_short">Tháng 5</string>
@@ -491,8 +491,8 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
     <string name="fmt_date">D</string>
     <string name="fmt_time_millis">Giây</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_date_numeric_day">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_day">d</string>
     <string name="miuix_appcompat_select_all">Chọn tất cả</string>
     <string name="miuix_appcompat_deselect_all">Bỏ chọn</string>
     <string name="fmt_time_minute">"m 'phút'"</string>

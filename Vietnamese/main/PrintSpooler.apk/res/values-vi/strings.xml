@@ -418,7 +418,7 @@
 	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
 	<string name="fmt_weekday_time_timezone">zW T</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
@@ -430,7 +430,7 @@
 	<string name="fmt_time_millis">Giây</string>
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_year">yyyy</string>
 	<string name="fmt_date_long_year_month">MMMM, yyyy</string>
@@ -442,13 +442,13 @@
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="fmt_weekday_date">W, D</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="fmt_time_second">Giây</string>
 	<string name="fmt_date_timezone">D z</string>
 	<string name="fmt_date">D</string>
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
-	<string name="fmt_date_numeric_day">D</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
+	<string name="fmt_date_day">d</string>
 </resources>

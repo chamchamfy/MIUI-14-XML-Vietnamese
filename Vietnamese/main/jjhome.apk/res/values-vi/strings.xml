@@ -203,7 +203,7 @@ Thời gian trôi qua: %2$s"</string>
     <string name="contact_call_duration_hour">%1$d giờ</string>
     <string name="contact_call_duration_hour_minute">%1$d giờ %2$d phút</string>
     <string name="contact_call_miss_duration">Nhỡ</string>
-    <string name="contact_call_today_time_format">HH:mm</string>
+    <string name="contact_call_today_time_format">H:mm</string>
     <string name="contact_call_yesterday_time_format">dd MMMM</string>
     <string name="contact_call_before_yesterday_time_format">dd MMMM</string>
     <string name="contact_call_other_time_format_1">dd MMMM</string>

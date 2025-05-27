@@ -62,7 +62,7 @@
     <string name="com_appboy_feedback_form_message">Tin nhắn</string>
     <string name="com_appboy_feedback_form_send">Gửi</string>
     <string name="com_appboy_notification_time_twelve_hour_format">h:mm a</string>
-    <string name="com_appboy_notification_time_twenty_four_hour_format">HH:mm</string>
+    <string name="com_appboy_notification_time_twenty_four_hour_format">H:mm</string>
     <string name="com_appboy_recommendation_free">Miễn phí</string>
     <string name="v2_action_error">Không thể hoàn tất thao tác</string>
     <string name="v2_add">Thêm</string>

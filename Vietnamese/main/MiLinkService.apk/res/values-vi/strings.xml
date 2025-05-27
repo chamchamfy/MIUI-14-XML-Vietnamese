@@ -380,7 +380,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="abc_capital_off">Tắt</string>
     <string name="solar_term_the_rains">Vũ Thủy</string>
     <string name="heavenly_stems_bing">"Bính "</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="month_june_shortest">Thg 6</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="month_april_shortest">Thg 4</string>
@@ -574,11 +574,11 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="paipai_error_dialog_negative">Tôi biết</string>
     <string name="privacy_setting_category_1">Chính sách Riêng tư</string>
     <string name="permission_uballowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
-    <string name="fmt_date_numeric_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
     <string name="privacy_update_dialog_quit">Thoát</string>
     <string name="scan_wifi_label_china">Kết nối Wi-Fi</string>
     <string name="privacy_setting_show_authority">Chi tiết quyền</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="privacy_revoke_dialog_title">Đồng ý Chính sách Riêng tư</string>
     <string name="privacy_setting_show_policy">Chính sách Riêng tư</string>
     <string name="wifi_connect_btn_text">Định cấu hình</string>

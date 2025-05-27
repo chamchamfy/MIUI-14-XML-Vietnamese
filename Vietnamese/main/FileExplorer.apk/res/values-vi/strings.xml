@@ -1383,7 +1383,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="month_march_shortest">Thg 3</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="solar_term_summer_begins">Lập Hạ</string>
-    <string name="fmt_time_12hour_minute">HH:mm</string>
+    <string name="fmt_time_12hour_minute">H:mm</string>
     <string name="the_armys_day">Ngày thành lập quân đội</string>
     <string name="earthly_branches_si">Tỵ</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -1544,7 +1544,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="early_morning">SA</string>
     <string name="the_fools_day">Cá Tháng Tư</string>
     <string name="monday_short">Th 2</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="noon">CH</string>
     <string name="month_december_short">Tháng 12</string>
     <string name="month_may_short">Tháng 5</string>
@@ -1702,10 +1702,10 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="recent_hide_camera_and_screenshots">"Không hiển thị các mục Thư viện và ảnh chụp màn hình trong tệp gần đây"</string>
     <string name="app_name_recorder">Trình ghi âm</string>
     <string name="clean_hint_pad">Xóa rác để giải phóng bộ nhớ</string>
-    <string name="fmt_date_numeric_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
     <string name="to_open">Cài đặt</string>
     <string name="pref_permission_allowed">Cho phép</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="withdraw_consent">Đồng ý Chính sách Riêng tư</string>
     <string name="agree">Đồng ý</string>
     <string name="fmt_time_millis">"S 'mili giây'"</string>
@@ -1975,13 +1975,13 @@ Thử chuyển tập tin từ thiết bị sang Mi Drive."</string>
     <string name="pad_start_phone">Lưu trữ</string>
     <string name="path_name_email">Email</string>
     <string name="pattern_hour_minute_12">hh:mm a</string>
-    <string name="pattern_hour_minute_24">HH:mm</string>
+    <string name="pattern_hour_minute_24">H:mm</string>
     <string name="pattern_month_day">dd/MM</string>
     <string name="pattern_month_day_hh_mm_12">hh:mm a dd/MM</string>
-    <string name="pattern_month_day_hh_mm_24">HH:mm dd/MM</string>
+    <string name="pattern_month_day_hh_mm_24">H:mm dd/MM</string>
     <string name="pattern_year_month_day">dd/MM/yyyy</string>
     <string name="pattern_year_month_day_hh_mm_12">hh:mm a dd/MM/yyyy</string>
-    <string name="pattern_year_month_day_hh_mm_24">HH:mm dd/MM/yyyy</string>
+    <string name="pattern_year_month_day_hh_mm_24">H:mm dd/MM/yyyy</string>
     <string name="permission_phone">Điện thoại</string>
     <string name="permission_phone_desc">Truy cập IMEI để xác định, lưu trữ và xử lý các tập tin cá nhân</string>
     <string name="permission_storage">Lưu trữ</string>

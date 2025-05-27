@@ -2258,12 +2258,12 @@ Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạ
     <string name="float_window_tips">Điện thoại Xiaomi rất nhanh!</string>
     <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
@@ -2280,7 +2280,7 @@ Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạ
     <string name="fmt_time">T</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_time_12hour">Giờ</string>
-    <string name="fmt_time_12hour_minute">HH:mm</string>
+    <string name="fmt_time_12hour_minute">H:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
@@ -2288,7 +2288,7 @@ Bạn phải hiểu rằng tính năng này chỉ được cung cấp để bạ
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_millis">"S 'mili giây'"</string>

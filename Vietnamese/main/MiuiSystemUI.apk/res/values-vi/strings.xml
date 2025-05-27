@@ -1250,7 +1250,7 @@ hoàn toàn"</string>
     <string name="keyguard_charging_info_battery_used_time_text">Thời gian sử dụng</string>
     <string name="keyguard_charging_info_click_to_detail">Xem chi tiết</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Tiêu hao điện năng</string>
-    <string name="keyguard_charging_info_last_charge_time">d/M HH:mm</string>
+    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">%s hôm nay</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">%s hôm qua</string>
     <string name="keyguard_charging_info_last_charged_time_text">Sạc lần trước</string>
@@ -1602,7 +1602,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="status_bar_alarm">Báo thức</string>
     <string name="status_bar_clear_all_button">Xóa</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
-    <string name="status_bar_clock_date_time_format">HH:mm E, d MMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">hh:mm aa, E, d MMM</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Thiết lập phương thức nhập</string>
     <string name="status_bar_latest_events_title">Thông báo</string>
@@ -2056,7 +2056,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_label">Mở Tạp chí Khóa màn hình</string>
     <string name="long_screenshot_guide_text">"Chạm để tạo
 ảnh chụp màn hình cuộn"</string>
-    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="hour_minute_time_format">H:mm</string>
     <string name="notification_channel_usb">Kết nối USB</string>
     <string name="recents_dimiss_task">Xóa</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Không thể chia màn hình khi đang sử dụng Chia sẻ màn hình"</string>
@@ -3284,12 +3284,12 @@ dd/MM"</string>
     <string name="fmt_weekday_short">e</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">Giây</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
@@ -3308,8 +3308,8 @@ dd/MM"</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Doanh nghiệp 192-bit</string>
-    <string name="fmt_date_numeric_day">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_day">d</string>
     <string name="item_view_role_description">Tab</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
     <string name="privacy_dialog_title">Riêng tư</string>

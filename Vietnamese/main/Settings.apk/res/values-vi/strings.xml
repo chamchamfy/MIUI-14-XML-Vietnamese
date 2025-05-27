@@ -3519,7 +3519,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="dndm_repeated_call_summary_none">Im lặng khi có cuộc gọi lặp lại cùng một số</string>
     <string name="dndm_repeated_call_summary_3min">Chuông reo khi nhận cuộc gọi thứ hai từ cùng một số trong vòng 3 phút</string>
     <string name="dndm_twelve_hour_time_format">h:mm a</string>
-    <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
+    <string name="dndm_twenty_four_hour_time_format">H:mm</string>
     <string name="dndm_wristband">Kích hoạt với Mi Band</string>
     <string name="legal_workday_invalidate">Thứ hai-Thứ sáu (thông tin ngày nghỉ hết hạn)</string>
     <string name="legal_workday_invalidate_message">Chạm để cập nhật thông tin ngày nghỉ lễ.</string>
@@ -8314,7 +8314,7 @@ https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
     <string name="data_detail_description">Chi tiết</string>
     <string name="data_item_desc">Dữ liệu</string>
     <string name="data_no_enough_space_message">Không đủ dung lượng trống trên bộ nhớ trong thiết bị.</string>
-    <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+    <string name="date_format">H:mm:ss dd-MM-yyyy</string>
     <string name="delete_backup_process">Đang xóa…</string>
     <string name="delete_backup_title">Xóa sao lưu</string>
     <string name="delete_failed_backup_confirm">Bản sao lưu này có lỗi.</string>
@@ -11820,7 +11820,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="settings_charging_at_fast_speed">Sạc nhanh</string>
     <string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
     <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_time_minute">"m 'phút'"</string>
     <string name="magic_list_empty_text_pad">Không có ứng dụng tương thích với tính năng này</string>
@@ -12135,7 +12135,7 @@ Có người dùng khác trên thiết bị này.
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="size_byte">B</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="keywords_add_bt_device">Bluetooth</string>
     <string name="size_giga_byte">GB</string>
     <string name="fmt_weekday_timezone">W z</string>
@@ -12152,7 +12152,7 @@ Có người dùng khác trên thiết bị này.
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_time_12hour_minute">HH:mm</string>
+    <string name="fmt_time_12hour_minute">H:mm</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_second">Giây</string>
     <string name="content_description_menu_button">Menu</string>
@@ -12163,8 +12163,8 @@ Có người dùng khác trên thiết bị này.
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">H:mm:ss</string>
-    <string name="fmt_date_numeric_day">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_day">d</string>
     <string name="miheadset_hd_audio_title">Âm thanh HD</string>
     <string name="beauty_fc_assistant">Trợ lý Camera trước</string>
     <string name="privacy_lab_settings">Lab bảo vệ riêng tư</string>

@@ -323,7 +323,7 @@
 	<string name="fmt_time_12hour_minute_pm">h:mm a</string>
 	<string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
 	<string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="fmt_time_minute">"m 'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
 	<string name="fmt_time_second_millis">"s.S 'giây'"</string>
@@ -337,7 +337,7 @@
 	<string name="fmt_date_time_timezone">D T z</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
 	<string name="size_byte">B</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="size_giga_byte">GB</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_date_year">yyyy</string>
@@ -346,16 +346,16 @@
 	<string name="fmt_weekday_time">W T</string>
 	<string name="fmt_date_short_year_month">MMM, yyyy</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="fmt_weekday_date">W, D</string>
 	<string name="fmt_date_timezone">D z</string>
 	<string name="size_mega_byte">MB</string>
 	<string name="fmt_date_numeric_year">yyyy</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="error_continue_via_browser">Chi tiết</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="action_use_network">Sử dụng</string>
 	<string name="miuix_access_state_desc">Đã chọn</string>
 	<string name="miuix_indexer_selected">Đã chọn %s</string>

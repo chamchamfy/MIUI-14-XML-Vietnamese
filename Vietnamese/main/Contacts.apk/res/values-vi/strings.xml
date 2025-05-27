@@ -1801,7 +1801,7 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="abc_capital_off">Tắt</string>
 	<string name="solar_term_the_rains">Vũ Thủy</string>
 	<string name="heavenly_stems_bing">"Bính "</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="month_june_shortest">Thg 6</string>
 	<string name="fmt_weekday_timezone">W z</string>
 	<string name="month_april_shortest">Thg 4</string>
@@ -2176,13 +2176,13 @@ Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí
     <string name="bh_connect_address">"Tên người nhận"</string>
     <string name="bh_card_order_name">Gói dịch vụ</string>
     <string name="wifi_pad_disable_phone">"Không thể gọi điện trên thiết bị này"</string>
-	<string name="fmt_date_numeric_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
 	<string name="privacy_settings_read_contacts">Truy cập vào danh bạ của bạn</string>
 	<string name="bh_i_got_it">Tôi biết</string>
 	<string name="privacy_settings_call_phone_for_pad">Thực hiện cuộc gọi</string>
 	<string name="privacy_settings_read_call_log">Truy cập lịch sử cuộc gọi</string>
 	<string name="saf_permission_dialog_grant_permission_immediately">Cho phép</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_day">d</string>
 	<string name="privacy_settings_permission_description">Chi tiết quyền</string>
 	<string name="preference_privacy_settings_title">Riêng tư</string>
 	<string name="saf_permission_dialog_later">Để sau</string>

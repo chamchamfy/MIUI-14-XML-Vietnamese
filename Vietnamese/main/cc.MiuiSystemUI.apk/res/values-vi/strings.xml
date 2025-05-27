@@ -2056,7 +2056,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_label">Mở Tạp chí Khóa màn hình</string>
     <string name="long_screenshot_guide_text">"Chạm để tạo
 ảnh chụp màn hình cuộn"</string>
-    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="hour_minute_time_format">H:mm</string>
     <string name="notification_channel_usb">Kết nối USB</string>
     <string name="recents_dimiss_task">Xóa</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Không thể chia màn hình khi đang sử dụng Chia sẻ màn hình"</string>
@@ -3290,12 +3290,12 @@ dd/MM"</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_date_year">yyyy</string>
+    <string name="_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+    <string name="_long_year_month">MMMM, yyyy</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_date_time">D T</string>
+    <string name="_time">D T</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="output_service_bt">Chế độ ngủ cơ bản</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
@@ -3308,8 +3308,8 @@ dd/MM"</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Doanh nghiệp 192-bit</string>
-    <string name="fmt_date_numeric_day">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_day">d</string>
     <string name="item_view_role_description">Tab</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
     <string name="privacy_dialog_title">Riêng tư</string>

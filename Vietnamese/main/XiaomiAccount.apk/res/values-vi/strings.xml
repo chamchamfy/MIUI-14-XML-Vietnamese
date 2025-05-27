@@ -1034,7 +1034,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="operator_other">Số điện thoại</string>
 	<string name="skip_query_account">Bỏ qua</string>
 	<string name="fmt_time_minute_second_millis">"m'phút' s.S'giây'"</string>
-	<string name="fmt_time_24hour">"HH 'giờ'"</string>
+	<string name="fmt_time_24hour">"H 'giờ'"</string>
 	<string name="fmt_time_minute">"m'phút'"</string>
 	<string name="fmt_time_12hour">"h 'giờ'"</string>
     <string name="operator_unicom_agreement">Dịch vụ xác thực cung cấp bởi China Unicom</string>
@@ -1081,10 +1081,10 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="fmt_time_millis">Giây</string>
 	<string name="fmt_weekday_date_time">W, D T</string>
 	<string name="fmt_date_time_timezone">D T z</string>
-	<string name="fmt_time_24hour_minute">HH:mm</string>
+	<string name="fmt_time_24hour_minute">H:mm</string>
 	<string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
 	<string name="fmt_weekday_date">W, D</string>
-	<string name="fmt_time_12hour_minute">HH:mm</string>
+	<string name="fmt_time_12hour_minute">H:mm</string>
 	<string name="fmt_time_24hour_minute_second">H:mm:ss</string>
 	<string name="fmt_time_second">Giây</string>
 	<string name="fmt_date_timezone">D z</string>
@@ -1096,8 +1096,8 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="fmt_weekday_date_time_timezone">W, D T z</string>
 	<string name="fmt_time_12hour_minute_second">H:mm:ss</string>
 	<string name="fmt_weekday_time">W T</string>
-	<string name="fmt_date_numeric_day">D</string>
-	<string name="fmt_date_day">D</string>
+	<string name="fmt_date_numeric_day">d</string>
+	<string name="fmt_date_day">d</string>
 	<string name="notify_verify_again_security_phone">Xác nhận</string>
 	<string name="notify_verify_security_phone">Điện thoại</string>
 	<string name="cloud_service_status_storage_not_enough">Không đủ dung lượng</string>
