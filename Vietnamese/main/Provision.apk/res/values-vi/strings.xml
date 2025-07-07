@@ -672,7 +672,7 @@
     <string name="refuse_cookie">Từ chối cookie</string>
     <string name="require_authority_list_statement">Để có thể hoạt động bình thường, dịch vụ này yêu cầu các quyền sau:</string>
     <string name="require_authority_statement">Để cho phép chúng tôi cung cấp cho bạn các dịch vụ cơ bản, bạn cần cấp các quyền sau để chúng tôi thu thập thông tin cá nhân của bạn:</string>
-    <string name="require_base_authority_statement">"Để thực hiện các dịch vụ cơ bản, bạn cần gọi các quyền sau:&lt;br/>\u0009\u0009\u0009Đọc số địa phương, IMEI và IMSI"</string>
+    <string name="require_base_authority_statement">"Để thực hiện các dịch vụ cơ bản, cần sử dụng các quyền sau:&lt;br/>\u0009\u0009\u0009Đọc số địa phương, IMEI và IMSI"</string>
     <string name="require_basic_applist_and_authority_statement">Để có được các chức năng cơ bản, bạn cần gọi các quyền sau:</string>
     <string name="require_device_information_statement">Để có thể cung cấp các dịch vụ cơ bản, cần có các quyền sau:</string>
     <string name="require_miuidaemon_authority_statement">Để cho phép chúng tôi cung cấp cho bạn dịch vụ này, bạn cần cấp các quyền sau để chúng tôi thu thập thông tin cá nhân của bạn:</string>
@@ -1007,7 +1007,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="language_selected_description">%1$s, đã chọn</string>
     <string name="language_unselected_description">%1$s, chạm đúp để áp dụng</string>
     <string name="layout_size_huge">XL</string>
-    <string name="miui14_start_up_slogan">Sẵn sàng. Ổn định. Sống.</string>
     <string name="miuix_accessibility_title">Tiêu đề</string>
     <string name="miuix_appcompat_accessibility_collapse_state">Thu gọn</string>
     <string name="miuix_appcompat_accessibility_expand_state">Mở rộng</string>
@@ -1025,9 +1024,6 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="permission_get_audio_and_video_summary_settings">Để thiết lập ảnh hồ sơ và xem trước nhạc chuông (bao gồm Cài đặt)</string>
     <string name="permission_reminder_mode_summary_settings">Để chọn loại nhắc nhở cuộc gọi đến</string>
     <string name="prompt_fingerprint">Đã bật bảo vệ dữ liệu nâng cao cho tài khoản của bạn. Đặt khóa màn hình cho thiết bị này.</string>
-    <string name="recommend_font">MiSans</string>
-    <string name="require_base_authority_statement">Để cung cấp các dịch vụ cơ bản, chúng tôi cần sử dụng các quyền sau của bạn:
-Đọc số điện thoại, IMEI và IMSI</string>
     <string name="require_telephone_statement">Để cung cấp các dịch vụ cơ bản, yêu cầu các quyền sau:</string>
     <string name="startup_page_text_hint">Mở ra để kích hoạt thiết bị</string>
     <string name="title_fingers_and_faces">Đặt dữ liệu khuôn mặt và vân tay</string>
