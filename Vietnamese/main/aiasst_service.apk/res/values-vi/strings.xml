@@ -957,7 +957,7 @@
 	<string name="sunday">Chủ nhật</string>
 	<string name="sunday_short">CN</string>
 	<string name="sunday_shortest">CN</string>
-	<string name="system_permission_declare_double_link_tips">&lt;Data>Tôi đã đọc và đồng ý với Trợ lý cuộc gọi Mi AI &lt;a href=\"%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s>Chính sách quyền riêng tư&lt;/a>.&lt;/ Dữ liệu></string>
+	<string name="system_permission_declare_double_link_tips">&lt;Data>Tôi đã đọc và đồng ý với Trợ lý cuộc gọi Mi AI &lt;a href=\"%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s>Chính sách quyền riêng tư&lt;/a>.&lt;/Data></string>
 	<string name="temporary_not_available">tạm thời không có sẵn</string>
 	<string name="text_cta_dialog">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng Trợ lý cuộc gọi Mi AI. Để hoạt động bình thường, các dịch vụ của chúng tôi cần kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập danh bạ và thông tin vị trí cũng như thu thập và xử lý thông tin cá nhân của bạn. Đồng ý?&lt;/Data></string>
 	<string name="text_edit">Nhập văn bản</string>

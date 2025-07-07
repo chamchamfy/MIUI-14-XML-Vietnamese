@@ -1347,7 +1347,7 @@ Lịch sử trò chuyện và các tệp kỹ thuật được lưu trữ trên 
 Tất cả lịch sử dịch, quyền, cài đặt và nội dung được lưu trong bộ nhớ đệm khác trên thiết bị này;
 Tất cả dữ liệu hiện đang được sử dụng trên thiết bị này.
 Dữ liệu được lưu trữ cục bộ trên các thiết bị khác sẽ cần phải được xóa thủ công."</string>
-    <string name="logout_service_desc_tips">&lt;Data>\"Việc hủy dịch vụ Mi AI sẽ không ảnh hưởng đến việc bạn sử dụng các sản phẩm và dịch vụ khác của Xiaomi. Nếu bạn muốn xóa Tài khoản Xiaomi của mình, bạn có thể thực hiện việc đó &lt;a href=\"%s\">tại đây&lt;/a>.\" &lt;/dữ liệu></string>
+    <string name="logout_service_desc_tips">&lt;Data>\"Việc hủy dịch vụ Mi AI sẽ không ảnh hưởng đến việc bạn sử dụng các sản phẩm và dịch vụ khác của Xiaomi. Nếu bạn muốn xóa Tài khoản Xiaomi của mình, bạn có thể thực hiện việc đó &lt;a href=\"%s\">tại đây&lt;/a>.\" &lt;/Data></string>
     <string name="logout_service_desc_title">Hủy dịch vụ Mi AI</string>
     <string name="logout_service_home_action_up">Mặt sau</string>
     <string name="logout_service_loading_tips">Hủy dịch vụ…</string>
@@ -2206,7 +2206,7 @@ Lịch sử trò chuyện và các tệp kỹ thuật được lưu trữ trên 
 Tất cả lịch sử dịch, quyền, cài đặt và nội dung được lưu trong bộ nhớ đệm khác trên thiết bị này;
 Tất cả dữ liệu hiện đang được sử dụng trên thiết bị này.
 Dữ liệu được lưu trữ cục bộ trên các thiết bị khác sẽ cần phải được xóa thủ công."</string>
-    <string name="revoke_service_desc_tips">"&lt;Dữ liệu>\"Việc rút lại sự đồng ý đối với Chính sách quyền riêng tư của Mi AI sẽ không ảnh hưởng đến việc bạn sử dụng các sản phẩm và dịch vụ khác của Xiaomi. Nếu bạn muốn xóa Tài khoản Xiaomi của mình, bạn có thể làm điều đó &lt;font color='#3482ff'>&lt;a href=\"%s\">tại đây&lt;/a>&lt;/font>.\"&lt;/Data>"</string>
+    <string name="revoke_service_desc_tips">"&lt;Data>\"Việc rút lại sự đồng ý đối với Chính sách quyền riêng tư của Mi AI sẽ không ảnh hưởng đến việc bạn sử dụng các sản phẩm và dịch vụ khác của Xiaomi. Nếu bạn muốn xóa Tài khoản Xiaomi của mình, bạn có thể làm điều đó &lt;font color='#3482ff'>&lt;a href=\"%s\">tại đây&lt;/a>&lt;/font>.\"&lt;/Data>"</string>
     <string name="revoke_service_desc_title">Rút lại sự đồng ý với Chính sách quyền riêng tư của Mi AI</string>
     <string name="revoke_service_loading_tips">Đợi một chút…</string>
     <string name="revoke_service_success_desc">Sự đồng ý của bạn sẽ được rút lại trong vòng 3 ngày làm việc. Nếu bạn tiếp tục sử dụng Mi AI trước khi yêu cầu của bạn được xử lý, mọi dữ liệu mới được tạo cũng sẽ bị xóa khi việc rút lại sự đồng ý có hiệu lực.</string>

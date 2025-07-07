@@ -810,7 +810,7 @@
     <string name="pm">BUỔI CHIỀU</string>
     <string name="policy_language_local">trong chúng ta</string>
     <string name="policy_update_dialog_title">Cập nhật chính sách quyền riêng tư</string>
-    <string name="policy_update_tip">&lt;Dữ liệu>Để tăng cường bảo vệ thông tin cá nhân của bạn, chúng tôi đã cập nhật chính sách quyền riêng tư của các cuộc gọi AI theo các yêu cầu quy định mới nhất và qua đây giải thích cho bạn những điều sau.:&lt;br/>%1$s&lt;br/ > Chính sách quyền riêng tư của cuộc gọi AI đã được cập nhật, vui lòng đọc và đồng ý &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a> Nếu không, nó sẽ không thể cung cấp cho bạn Dịch vụ cuộc gọi AI.&lt;/Data></string>
+    <string name="policy_update_tip">&lt;Data>Để tăng cường bảo vệ thông tin cá nhân của bạn, chúng tôi đã cập nhật chính sách quyền riêng tư của các cuộc gọi AI theo các yêu cầu quy định mới nhất và qua đây giải thích cho bạn những điều sau.:&lt;br/>%1$s&lt;br/ > Chính sách quyền riêng tư của cuộc gọi AI đã được cập nhật, vui lòng đọc và đồng ý &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a> Nếu không, nó sẽ không thể cung cấp cho bạn Dịch vụ cuộc gọi AI.&lt;/Data></string>
     <string name="preference_copied">%1$s đã được sao chép.</string>
     <string name="prologue_auto_pick_radio_btn_title">Lời chào bằng thư trả lời tự động</string>
     <string name="prologue_bottom_tip">*Khuyến nghị: Khi chặn cuộc gọi theo cách thủ công, hãy để AI Call Assistant trả lời giúp bạn để người kia không kết thúc cuộc gọi</string>
