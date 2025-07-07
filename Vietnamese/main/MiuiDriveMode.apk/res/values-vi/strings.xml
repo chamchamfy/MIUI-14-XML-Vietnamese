@@ -39,7 +39,7 @@
     <string name="handle_return_to_voice_label">Chuyển sang Giọng nói</string>
     <string name="mask_extra_hint_message">Vuốt lên để chuyển sang chế độ tiện dụng và hoàn tất tác vụ.</string>
     <string name="miuilab_advice_and_feedback">Tùy chọn phản hồi</string>
-    <string name="miuilab_advice_and_feedback_detail">MIUI Forum:<a href="http://www.miui.com/type-38-7546.html"><font color="#0099FF"> Gợi ý chế độ lái xe</font></a></string>
+    <string name="miuilab_advice_and_feedback_detail">MIUI Forum:&lt;a href="http://www.miui.com/type-38-7546.html">&lt;font color="#0099FF"> Gợi ý chế độ lái xe&lt;/font>&lt;/a></string>
     <string name="miuilab_dialog_cancel">Hủy</string>
     <string name="miuilab_dialog_confirm">Tiếp tục</string>
     <string name="miuilab_dialog_title">Về Chế độ xe hơi</string>

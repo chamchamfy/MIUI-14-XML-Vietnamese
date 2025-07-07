@@ -1332,7 +1332,7 @@
     <string name="mimoji_create_emoticon_progress">Tạo biểu tượng cảm xúc</string>
     <string name="mimoji_create_tips">Nhìn thẳng vào máy ảnh và tạo Mimoji của bạn</string>
     <string name="mimoji_custom_image">Tùy chỉnh ảnh đại diện</string>
-    <string name="mimoji_delete"><font fgcolor="#ffff0000">Xóa</font></string>
+    <string name="mimoji_delete">&lt;font fgcolor="#ffff0000">Xóa&lt;/font></string>
     <string name="mimoji_delete_dialog_title">Bạn muốn xóa hình ảnh hiện tại?</string>
     <string name="mimoji_delete_mimoji">Xóa emoji</string>
     <string name="mimoji_delete_success">Xóa thành công</string>

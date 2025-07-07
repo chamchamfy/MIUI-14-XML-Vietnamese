@@ -693,7 +693,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="missing_name">(Không có tên)</string>
     <string name="missing_required_permission">Bạn đã tắt quyền yêu cầu.</string>
     <string name="mobile_equipment_identification">Nhận dạng Thiết bị Di động</string>
-    <string name="more_call_logs">Nghe lại toàn bộ bản ghi cuộc gọi của bạn tại <a href="https://i.mi.com">i.mi.com</a></string>
+    <string name="more_call_logs">Nghe lại toàn bộ bản ghi cuộc gọi của bạn tại &lt;a href="https://i.mi.com">i.mi.com&lt;/a></string>
     <string name="move_and_resize">Di chuyển và thay đổi kích thước</string>
     <string name="multi_number_menu_call">Gọi</string>
     <string name="multi_number_menu_delete">Xóa</string>
@@ -727,12 +727,12 @@ Nguyên nhân: \"%s\""</string>
     <string name="noFavoritesHelpText">"\"Bạn không có mục yêu thích nào.
 
 Để thêm liên hệ đến danh sách yêu thích của bạn:
- "<li>Chạm vào <b>Liên hệ</b>" tab
-"</li>" 
-"<li>"Chạm vào liên hệ mà bạn muốn thêm vào danh sách yêu thích
-"</li>" 
-"<li>"Chạm vào ngôi sao bên cạnh tên của liên hệ
-"</li>\"     </string>
+ "&lt;li>Chạm vào &lt;b>Liên hệ&lt;/b>" tab
+"&lt;/li>" 
+"&lt;li>"Chạm vào liên hệ mà bạn muốn thêm vào danh sách yêu thích
+"&lt;/li>" 
+"&lt;li>"Chạm vào ngôi sao bên cạnh tên của liên hệ
+"&lt;/li>\"     </string>
     <string name="noGroups">Không có nhóm</string>
     <string name="noMatchingContacts">Không tìm thấy liên hệ phù hợp nào.</string>
     <string name="noRecentContacts">Không có liên hệ gần đây</string>
@@ -1081,9 +1081,9 @@ Nguyên nhân: \"%s\""</string>
     <string name="t9_search_empty_send_sms">Gửi tin nhắn</string>
     <string name="t9_search_empty_video_call">Cuộc gọi video</string>
     <string name="t9_search_guide_pinyin_title1">Nhập số để tìm liên hệ</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Nhập %d và %d để tìm kiếm \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Nhập %d và %d để tìm kiếm \"&lt;font fgcolor="">X&lt;/font>avier &lt;font fgcolor="">H&lt;/font>enry\"</string>
     <string name="t9_search_guide_zhuyin_title1">Nhập số để tìm liên hệ</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Nhập %d và %d để tìm kiếm \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Nhập %d và %d để tìm kiếm \"&lt;font fgcolor="">J&lt;/font>eff &lt;font fgcolor="">M&lt;/font>ax\"</string>
     <string name="take_new_photo">Chụp ảnh mới</string>
     <string name="take_photo">Chụp ảnh</string>
     <string name="titleJoinContactDataWith">Hợp nhất liên hệ</string>
@@ -1193,50 +1193,50 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="solar_calendar">Dương lịch</string>
     <string name="noContactsHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm liên hệ, chạm "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm:
+Để thêm liên hệ, chạm "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"</li></font></b>"\" "</string>
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
     <string name="noContactsHelpTextForCreateShortcut">Bạn không có bất kỳ liên hệ nào để hiển thị.</string>
     <string name="noContactsHelpTextWithSync">"\"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm vào:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"</li></font></b>"\" "</string>
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)</string>
     <string name="noContactsNoSimHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm địa chỉ liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
+Để thêm địa chỉ liên hệ, chạm vào "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm vào:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
-"</li></font></b>"\" "</string>
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
+"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm vào:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới  để tạo liên hệ mới từ đầu 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
-"</li></font></b>"\" "</string>
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới  để tạo liên hệ mới từ đầu 
+"&lt;/li>&lt;/font>&lt;/b>" 
+"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
+"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
     <string name="close_dial_pad">Đóng trình quay số</string>
     <string name="date_picker_label">Nhắc nhở tôi trước 3 ngày và nhắc lại vào ngày</string>
     <string name="device_brand_title">Chọn thương hiệu</string>

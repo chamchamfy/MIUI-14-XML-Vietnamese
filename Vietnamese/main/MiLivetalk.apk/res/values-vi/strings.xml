@@ -38,16 +38,16 @@ Nhà mạng của bạn sẽ tính phí cho các cuộc gọi."</string>
     <string name="international_rates_summary">Cước phí có thể thay đổi theo từng quốc gia. Cước thực tế được tính theo lịch sử cuộc gọi.</string>
     <string name="intro_action_button_text">Thử ngay</string>
     <string name="intro_product_entry">Giới thiệu Cuộc gọi Mi</string>
-    <string name="intro_product_label">" "<li>"Cuộc gọi Mi sử dụng mạng điện thoại di động để thực hiện cuộc gọi. Nó không phải là một dịch vụ điện thoại internet.
-"</li> <li>"Bạn có thể gọi bất cứ nơi nào trên thế giới, không hạn chế nhà mạng.
-"</li> <li>"Cuộc gọi Mi được gắn liền với tài khoản Mi. Nó độc lập với kế hoạch nhà mạng của bạn."</li>" "</string>
+    <string name="intro_product_label">" "&lt;li>"Cuộc gọi Mi sử dụng mạng điện thoại di động để thực hiện cuộc gọi. Nó không phải là một dịch vụ điện thoại internet.
+"&lt;/li> &lt;li>"Bạn có thể gọi bất cứ nơi nào trên thế giới, không hạn chế nhà mạng.
+"&lt;/li> &lt;li>"Cuộc gọi Mi được gắn liền với tài khoản Mi. Nó độc lập với kế hoạch nhà mạng của bạn."&lt;/li>" "</string>
     <string name="intro_product_title">Cuộc gọi Mi là gì?</string>
-    <string name="intro_rates_label">" "<li>"Cước cuộc gọi đều giống nhau trên toàn Trung Quốc, bắt đầu từ 0,06 Tệ mỗi phút.
-"</li> <li>Bạn có thể lựa chọn phương án phù hợp với bạn nhất.</li>" "</string>
+    <string name="intro_rates_label">" "&lt;li>"Cước cuộc gọi đều giống nhau trên toàn Trung Quốc, bắt đầu từ 0,06 Tệ mỗi phút.
+"&lt;/li> &lt;li>Bạn có thể lựa chọn phương án phù hợp với bạn nhất.&lt;/li>" "</string>
     <string name="intro_rates_title">Cước phí thấp</string>
-    <string name="intro_use_attention_label">" "<li>"Những người trả tiền cho các cuộc gọi đến sẽ được tính phí chuyển vùng bởi nhà mạng.
-"</li> <li>"1KB lưu lượng internet là cần thiết để thực hiện cuộc gọi. Kết nối Internet không được sử dụng trong các cuộc gọi.
-"</li> <li>"Dịch vụ và các số ngắn này không được hỗ trợ."</li>" "</string>
+    <string name="intro_use_attention_label">" "&lt;li>"Những người trả tiền cho các cuộc gọi đến sẽ được tính phí chuyển vùng bởi nhà mạng.
+"&lt;/li> &lt;li>"1KB lưu lượng internet là cần thiết để thực hiện cuộc gọi. Kết nối Internet không được sử dụng trong các cuộc gọi.
+"&lt;/li> &lt;li>"Dịch vụ và các số ngắn này không được hỗ trợ."&lt;/li>" "</string>
     <string name="intro_use_attention_title">Chú ý: </string>
     <string name="intro_use_condition_caller_id_label">"ID người gọi đang bật.
 (Được yêu cầu từ nhà mạng)"</string>

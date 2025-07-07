@@ -276,7 +276,7 @@
     <string name="resource_menu_refresh">Làm mới</string>
     <string name="resource_mute">Không</string>
     <string name="resource_my">Trên máy</string>
-    <string name="resource_network_diagnostics"><u>Kiểm tra mạng</u></string>
+    <string name="resource_network_diagnostics">&lt;u>Kiểm tra mạng&lt;/u></string>
     <string name="resource_no_match_app">Không tìm thấy ứng dụng để xử lý tác vụ này.</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
     <string name="resource_no_result">Không tìm thấy kết quả nào</string>
@@ -1723,8 +1723,8 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="theme_component_title_large_icon">Siêu biểu tượng</string>
     <string name="phone_log_in_theme">Đăng nhập vào Chủ đề</string>
     <string name="login_theme">Đăng nhập vào Chủ đề</string>
-    <string name="phone_log_in_theme_detail"><Data>"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
-    <string name="read_and_agree_account_privacy"><Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
+    <string name="phone_log_in_theme_detail">&lt;Data>"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."&lt;/Data></string>
+    <string name="read_and_agree_account_privacy">&lt;Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."&lt;/Data></string>
     <string name="local_mode">Chế độ ngoại tuyến</string>
     <string name="local_mode_close">Tắt chế độ ngoại tuyến?</string>
     <string name="local_mode_close_desc">Tắt chế độ ngoại tuyến nếu bạn muốn sử dụng các dịch vụ trực tuyến. Tắt ngay bây giờ?</string>
@@ -1939,7 +1939,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Mẫu Màn hình khóa này không hỗ trợ Siêu hình nền. Sau khi áp dụng, Màn hình khóa của bạn sẽ trở về mặc định và hình nền Màn hình khóa và Màn hình chính của bạn sẽ được thay thế. Áp dụng ngay?</string>
     <string name="lock_screen_template_unsupported_tip">Do mẫu bạn đang sử dụng, nếu bạn tiếp tục, Màn hình khóa của bạn sẽ được khôi phục về mặc định. Vẫn tiếp tục?</string>
     <string name="lockscreen_magazine_dialog_agree">Đồng ý</string>
-    <string name="lockscreen_magazine_dialog_close"><u>Tắt Mix Hình nền</u></string>
+    <string name="lockscreen_magazine_dialog_close">&lt;u>Tắt Mix Hình nền&lt;/u></string>
     <string name="lockscreen_magazine_dialog_disagree">Không đồng ý</string>
     <string name="lockscreen_magazine_dialog_keep">Tiếp tục</string>
     <string name="lockscreen_magazine_dialog_keep_choose">Nhớ lựa chọn của tôi</string>

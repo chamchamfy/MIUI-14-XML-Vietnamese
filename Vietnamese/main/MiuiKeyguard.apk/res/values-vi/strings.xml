@@ -24,12 +24,12 @@
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="phone_locked_foget_password">Quên mật khẩu?</string>
     <string name="phone_locked_foget_password_method">Quên mật khẩu?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Bạn phải &lt;font color=#a5220e>xóa tất cả dữ liệu &lt;/font> trên thiết bị, bao gồm ảnh và liên hệ, và thiết lập mật khẩu Màn hình khóa mới.;</Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data>Bạn phải &lt;font color=#a5220e>xóa tất cả dữ liệu &lt;/font> trên thiết bị, bao gồm ảnh và liên hệ, và thiết lập mật khẩu Màn hình khóa mới.;&lt;/Data></string>
     <string name="phone_locked_foget_password_mehod_back">Quay lại</string>
     <string name="phone_locked_foget_password_method_next">Tiếp theo</string>
     <string name="phone_locked_forget_password_suggesstions_title">Làm thế nào để xóa dữ liệu?</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Tắt thiết bị, bấm giữ &lt;font color=#a5220e>phím Nguồn &lt;/font> và &lt;font color=#a5220e>phím Tăng âm lượng &lt;/font>đồng thời cho đến khi bạn nhìn thấy biểu tượng Mi.;</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Tắt thiết bị, bấm giữ &lt;font color=#a5220e>phím Nguồn &lt;/font> và &lt;font color=#a5220e>phím Tăng âm lượng &lt;/font>đồng thời cho đến khi bạn nhìn thấy biểu tượng Mi.;&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;&lt;/Data></string>
     <string name="phone_locked_foget_password_ok">Tôi biết</string>
     <string name="lockscreen_access_pattern_start">Bắt đầu hình mở khóa</string>
     <string name="lockscreen_access_pattern_cleared">Đã xóa hình mở khóa</string>

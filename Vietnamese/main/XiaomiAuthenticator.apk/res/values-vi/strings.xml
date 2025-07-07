@@ -84,7 +84,7 @@ Trước khi xóa:
     <string name="open_camera_exception_dialog_content">Có vấn đề với máy ảnh, bạn có thể cần khởi động lại thiết bị.</string>
     <string name="ok_button">OK</string>
     <string name="security_setting">Cài đặt bảo mật</string>
-    <string name="lockscreen_forgot_pattern_button_text"><u>Quên hình mở khóa</u></string>
+    <string name="lockscreen_forgot_pattern_button_text">&lt;u>Quên hình mở khóa&lt;/u></string>
     <string name="lockpattern_recording_intro_header">Vẽ hình mở khóa:</string>
     <string name="lockpattern_settings_help_how_to_record">Làm thế nào để vẽ một hình mở khóa</string>
     <string name="lockpattern_recording_incorrect_too_short">Kết nối ít nhất %d điểm. Hãy thử lại:</string>
@@ -94,8 +94,8 @@ Trước khi xóa:
     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Sai mật khẩu, bạn có thể nhập %d lần nữa&lt;/font></string>
     <string name="lockpattern_pattern_confirmed_header">Hình mở khóa mới của bạn:</string>
     <string name="lockpattern_recording_inprogress">Thả ngón tay ra khi hoàn tất.</string>
-    <string name="lockpattern_retry_text"><u>Thiết lập lại hình mở khóa</u></string>
-    <string name="forget_password"><u>Quên mật khẩu</u></string>
+    <string name="lockpattern_retry_text">&lt;u>Thiết lập lại hình mở khóa&lt;/u></string>
+    <string name="forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
     <string name="change_security_lock">Thêm khóa màn hình</string>
     <string name="lockpassword_confirm_your_pattern_header">Xác nhận hình mở khóa của bạn</string>
     <string name="lockpassword_input_your_pattern_header">Xác nhận hình mở khóa của bạn</string>
@@ -130,7 +130,7 @@ Trước khi xóa:
     <string name="jump_createpattern_tip">Bỏ qua hình mở khóa, tài khoản của bạn sẽ không được bảo vệ</string>
     <string name="jump_updatepattern_tip">Đóng hình mở khóa, tài khoản của bạn sẽ không được bảo vệ</string>
     <string name="jump_lockpattern_title">Bỏ qua</string>
-    <string name="update_pattern_jump"><u>Đóng hình mở khóa</u></string>
+    <string name="update_pattern_jump">&lt;u>Đóng hình mở khóa&lt;/u></string>
     <string name="original_pattern_tip">Vui lòng nhập &lt;font color=#fb3500>hình mở khóa ban đầu&lt;/font></string>
     <string name="new_pattern_tip">Vui lòng nhập &lt;font color=#fb3500>hình mở khóa mới&lt;/font>, kết nối ít nhất 4 điểm</string>
     <string name="title_createpattern">Tạo hình mở khóa</string>

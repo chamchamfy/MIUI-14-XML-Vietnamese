@@ -159,7 +159,7 @@ Xác định vị trí và khóa thiết bị của bạn trong trường hợp 
     <string name="micloud_space_applist_detail">Quản lý ứng dụng trên Màn hình chính</string>
     <string name="micloud_space_soundrecorder_title">Ghi âm</string>
     <string name="micloud_space_soundrecorder_detail">Quản lý ghi âm được lưu trữ trên thiết bị của bạn</string>
-    <string name="micloud_space_full_influence"><u>Điều gì sẽ xảy ra khi tôi hết dung lượng lưu trữ?</u></string>
+    <string name="micloud_space_full_influence">&lt;u>Điều gì sẽ xảy ra khi tôi hết dung lượng lưu trữ?&lt;/u></string>
     <string name="micloud_storage_usage" formatted="false">Đã dùng %s/Tổng dung lượng %s</string>
     <string name="micloud_storage_full">Xiaomi Cloud đã đầy</string>
     <string name="micloud_title_dspt_remain">Còn lại %s</string>
@@ -315,7 +315,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="upgrade_space_mibipreyear">%s Mi Credit một năm</string>
     <string name="get_this_month_gb">Nhận %s dung lượng miễn phí tháng này</string>
     <string name="get_first_month_gb">Nhận %s dung lượng miễn phí</string>
-    <string name="more_activity_in_upgrade_space">Xem thêm tại <a href="http://i.mi.com">http://i.mi.com</a></string>
+    <string name="more_activity_in_upgrade_space">Xem thêm tại &lt;a href="http://i.mi.com">http://i.mi.com&lt;/a></string>
     <string name="success_upgraded_space">Đã thêm %s</string>
     <string name="total_space_upgraded_to">Tổng dung lượng: %s</string>
     <string name="apple_cloud">iCloud</string>
@@ -426,7 +426,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="micloud_confusion_check_account_title">Đăng nhập vào Tài khoản Mi để kích hoạt lại Xiaomi Cloud.</string>
     <string name="micloud_confusion_account_name">Tài khoản:</string>
     <string name="input_password_hint">Nhập mật khẩu</string>
-    <string name="forget_password"><u>Quên mật khẩu</u></string>
+    <string name="forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
     <string name="micloud_sync_alert_dialog_title">Bật Xiaomi Cloud</string>
     <string name="micloud_sync_alert_dialog_message">Đồng bộ ảnh, liên hệ, ghi chú và nhiều thứ khác giữa các thiết bị của bạn.</string>
     <string name="micloud_sync_alert_dialog_negative">Hủy</string>
@@ -491,7 +491,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="micloud_find_device_close_alert_content">"Nếu bạn tắt Tìm thiết bị, bạn sẽ không thể định vị điện thoại của bạn bằng tính năng này. Nếu điện thoại của bạn hỗ trợ NFC, tất cả thẻ ngân hàng và thẻ chìa khóa sẽ được xóa khỏi Mi Pay."</string>
     <string name="micloud_find_device_close_alert_positive">Tiếp tục mở</string>
     <string name="micloud_find_device_close_alert_negtive">Tiếp tục tắt</string>
-    <string name="find_device_gdpr_prompt">"Bằng cách bật Tìm thiết bị, bạn đồng ý với "<u><a href="app://com.miui.cloudservice.gdpr.license">Chính sách bảo mật</a></u> của chúng tôi. Tắt tính năng này nếu bạn muốn rút lại sự đồng ý của mình.</string>
+    <string name="find_device_gdpr_prompt">"Bằng cách bật Tìm thiết bị, bạn đồng ý với "&lt;u>&lt;a href="app://com.miui.cloudservice.gdpr.license">Chính sách bảo mật&lt;/a>&lt;/u> của chúng tôi. Tắt tính năng này nếu bạn muốn rút lại sự đồng ý của mình.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">\"Chính sách Riêng tư\"</string>
     <string name="activate_finddevice">Kết nối mạng để kích hoạt thiết bị</string>
     <string name="account_related">Thiết bị này đã liên kết với Tài khoản Mi (%s). Kết nối mạng để xác minh thiết bị.</string>

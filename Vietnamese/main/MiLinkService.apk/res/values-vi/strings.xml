@@ -735,7 +735,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="circulate_card_mirror_device_pad_subtitle">"Hiển thị màn hình của máy tính bảng…"</string>
     <string name="circulate_card_mirror_device_subtitle">"Hiển thị màn hình điện thoại…"</string>
     <string name="circulate_card_mirror_device_title_pad">Máy tính bảng</string>
-    <string name="circulate_card_mirror_help"><u>Thiết bị tương thích</u></string>
+    <string name="circulate_card_mirror_help">&lt;u>Thiết bị tương thích&lt;/u></string>
     <string name="circulate_card_mirror_pad_subtitle">"Kéo \"màn hình máy tính bảng\" sang TV qua màn hình phản chiếu"</string>
     <string name="circulate_card_mirror_pad_title">"Màn hình máy tính bảng"</string>
     <string name="circulate_card_mirror_phone_subtitle">"Kéo \"màn hình điện thoại\" sang thiết bị khác qua màn hình phản chiếu"</string>
@@ -771,7 +771,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="device_permission_dialog_message">Mở Cài đặt > Kết nối > Kết nối và quyền trên %s và cấp quyền camera trước.</string>
     <string name="mirror_phone_content_remote">Bạn có thể bật Màn hình chính+ trong Cài đặt &gt; Kết nối.</string>
     <string name="mirror_remote_pad_content">Bạn có thể bật Màn hình chính+ trong Cài đặt &gt; Kết nối.</string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>Tôi đã đọc và đồng ý với \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Tuyên bố Rút lại chấp thuận đối với Chính sách Riêng tư Kết nối Xiaomi&lt;/a>&lt;/font>\".</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy">&lt;Data>Tôi đã đọc và đồng ý với \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Tuyên bố Rút lại chấp thuận đối với Chính sách Riêng tư Kết nối Xiaomi&lt;/a>&lt;/font>\".&lt;/Data></string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Đảm bảo bạn có quyền rút lại chấp thuận trước khi tiếp tục.
 %2$d. Sau khi bạn rút lại chấp thuận, thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì dịch vụ kết nối được cung cấp dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại chấp thuận sẽ được coi là từ chối chấp nhận các dịch vụ kết nối. Việc bạn rút lại chấp thuận sẽ không ảnh hưởng đến việc sử dụng bình thường các tính năng và dịch vụ khác.
 %3$d. Rút lại chấp thuận là một hành động không thể đảo ngược. Hãy nhớ rằng bạn sẽ không thể xem xét lại quyết định của mình sau khi rút lại chấp thuận."</string>
@@ -803,7 +803,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="appcirculate_fragment_circulate_device_content_description">Mở trên thiết bị khác: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_list_app_deliver">Mở \"%1$s\" trên thiết bị khác</string>
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Tìm kiếm lại</string>
-    <string name="appcirculate_fragment_circulate_device_list_text_none"><u>Không tìm thấy thiết bị của bạn?</u></string>
+    <string name="appcirculate_fragment_circulate_device_list_text_none">&lt;u>Không tìm thấy thiết bị của bạn?&lt;/u></string>
     <string name="appcirculate_toast_app_notstall">Chuyển không thành công, ứng dụng này chưa được cài đặt trên điện thoại di động</string>
     <string name="appcirculate_toast_busy">Dường như thiết bị kia hiện đang chuyển tập tin. Chờ cho đến khi quá trình chuyển hoàn tất và thử lại.</string>
     <string name="appcirculate_toast_connected">Đã bắt đầu chiếu</string>
@@ -1022,7 +1022,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="connect_settings_share_clipboard">Bộ nhớ tạm</string>
     <string name="connect_settings_share_launcher">Màn hình chính+</string>
     <string name="connect_settings_share_notification">Thông báo</string>
-    <string name="connect_settings_summary"><Data>Tự động khám phá các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối lại với nhau để thực hiện nhiều nhiệm vụ trên nhiều thiết bị. &lt;a href=%1$s>Tìm hiểu thêm&lt;/a></Data></string>
+    <string name="connect_settings_summary">&lt;Data>Tự động khám phá các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối lại với nhau để thực hiện nhiều nhiệm vụ trên nhiều thiết bị. &lt;a href=%1$s>Tìm hiểu thêm&lt;/a>&lt;/Data></string>
     <string name="connect_settings_summary_connection_service">Cho phép các thiết bị của bạn tương tác với nhau không dây</string>
     <string name="connect_settings_summary_corp_phone">Trả lời cuộc gọi trên máy tính bảng hoặc máy tính lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
     <string name="connect_settings_summary_relay_app">Tiếp tục nhiệm vụ cùng ứng dụng trên thiết bị khác</string>
@@ -1201,7 +1201,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="privacy_action_failed">Không thể rút lại chấp thuận</string>
     <string name="privacy_confirm_revoke_and_exit_btn">Rút lại</string>
     <string name="privacy_detail">Cho phép ứng dụng này kết nối internet và cấp các quyền yêu cầu trước khi bạn tiếp tục.</string>
-    <string name="privacy_detail_extra"><Data>Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a> và &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a>.</Data></string>
+    <string name="privacy_detail_extra">&lt;Data>Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a> và &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a>.&lt;/Data></string>
     <string name="privacy_give_up_revoke_btn">Hủy</string>
     <string name="privacy_i_know_btn">Tiếp tục</string>
     <string name="privacy_permission_nfc">NFC</string>
@@ -1245,10 +1245,10 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="screen_projection_entrance_list">Xem thiết bị khả dụng</string>
     <string name="screen_projection_entrance_list_new">Xem danh sách các thiết bị khả dụng để chiếu</string>
     <string name="screen_projection_example_document_hint_miui15">*Mục sẽ được hiển thị trên TV lân cận</string>
-    <string name="screen_projection_example_document_hint_new"><Data>*Để sử dụng tính năng này, vào Tập tin > Tài liệu và chạm vào biểu tượng &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
+    <string name="screen_projection_example_document_hint_new">&lt;Data>*Để sử dụng tính năng này, vào Tập tin > Tài liệu và chạm vào biểu tượng &lt;img src=../drawable/ic_cast_icon_photo.png/>.&lt;/Data></string>
     <string name="screen_projection_example_document_summary_miui15">Hiển thị trang trình bày trên TV khi sử dụng thiết bị này làm điều khiển từ xa</string>
     <string name="screen_projection_example_gallery_hint_miui15">*Để có thể chiếu ảnh và video, chọn một mục trong Thư viện, chạm \"Chia sẻ\", sau đó chạm biểu tượng \"Chiếu\".</string>
-    <string name="screen_projection_example_gallery_hint_new"><Data>*Để sử dụng tính năng này, hãy đi tới Thư viện, chọn ảnh, chạm Gửi ở thanh dưới cùng và chạm vào biểu tượng &lt;img src=../drawable/ic_cast_icon_photo.png/>.</Data></string>
+    <string name="screen_projection_example_gallery_hint_new">&lt;Data>*Để sử dụng tính năng này, hãy đi tới Thư viện, chọn ảnh, chạm Gửi ở thanh dưới cùng và chạm vào biểu tượng &lt;img src=../drawable/ic_cast_icon_photo.png/>.&lt;/Data></string>
     <string name="screen_projection_example_gallery_summary_miui15">Xem ảnh và video trên màn hình TV</string>
     <string name="screen_projection_example_game_hint_miui15">"*Để có thể chiếu game, chạm \"Chiếu\" trong Game Turbo khi đang chơi.
 Đảm bảo bạn đã bật Game Turbo trước khi chiếu game."</string>
@@ -1402,7 +1402,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="cast_unmute">Bật tiếng</string>
     <string name="cast_zero_devices_found">Không tìm thấy thiết bị nào.
 </string>
-    <string name="cast_zero_devices_learn_more_description"><a href="https://support.google.com/chromecastbuiltin/answer/3006709">Tìm hiểu thêm</a> về cách bạn có thể truyền nội dung tới các thiết bị khác.</string>
+    <string name="cast_zero_devices_learn_more_description">&lt;a href="https://support.google.com/chromecastbuiltin/answer/3006709">Tìm hiểu thêm&lt;/a> về cách bạn có thể truyền nội dung tới các thiết bị khác.</string>
     <string name="circulate_add_another_device_control_app">Thêm ứng dụng</string>
     <string name="circulate_cta_desc_phone_global">Kết nối Xiaomi cho phép các thiết bị của bạn tương tác với nhau không dây.</string>
     <string name="circulate_cta_title_global">Tuyên bố Riêng tư</string>

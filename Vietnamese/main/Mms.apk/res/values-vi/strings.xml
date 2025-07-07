@@ -490,8 +490,8 @@
     <string name="second_mms_introduction">Vào Không gian thứ hai</string>
     <string name="second_mms_switch">Chuyển</string>
     <string name="secs">giây</string>
-    <string name="security_alert_desc"><font color="#7f000000">"Người gửi không có trong danh sách liên hệ của bạn.
- "</font></string>
+    <string name="security_alert_desc">&lt;font color="#7f000000">"Người gửi không có trong danh sách liên hệ của bạn.
+ "&lt;/font></string>
     <string name="security_alert_desc_highlight">Báo cáo số này</string>
     <string name="security_alert_dialog_desc">Gửi số này (%s) và tin nhắn đến Xiaomi để phân tích.</string>
     <string name="security_alert_dialog_title">Báo cáo</string>
@@ -630,7 +630,7 @@
     <string name="url_fraud_risky_alert">"Trang web mà bạn đang cố gắng truy cập có thể nguy hiểm. Vẫn tiếp tục?
 %s"</string>
     <string name="url_fraud_title">Trang web này có thể là giả mạo</string>
-    <string name="url_fraud_visit"><u>Vẫn truy cập</u></string>
+    <string name="url_fraud_visit">&lt;u>Vẫn truy cập&lt;/u></string>
     <string name="url_result_safe">URL này an toàn</string>
     <string name="url_scanning">Đang kiểm tra URL…</string>
     <string name="verification_code_list_title">Mã xác minh</string>

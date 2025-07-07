@@ -3,7 +3,7 @@
     <string name="passport_account_label">Tài khoản Mi</string>
     <string name="passport_notification_title">Đang nhập %1$s lỗi</string>
     <string name="passport_login_prompt">Sử dụng duy nhất một Tài khoản Mi cho tất cả các dịch vụ.</string>
-    <string name="passport_login_using_other_ways"><u>Đăng nhập theo cách khác</u></string>
+    <string name="passport_login_using_other_ways">&lt;u>Đăng nhập theo cách khác&lt;/u></string>
     <string name="passport_login_title">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="passport_login">Đăng nhập</string>
     <string name="passport_relogin">Đăng nhập lại</string>
@@ -17,7 +17,7 @@
     <string name="passport_uplink_slot1_reg">Sử dụng SIM 1</string>
     <string name="passport_uplink_slot2_reg">Sử dụng SIM 2</string>
     <string name="passport_reg_via_sms_alert">Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
-    <string name="passport_reg_using_other_phone"><u>Sử dụng số điện thoại khác</u></string>
+    <string name="passport_reg_using_other_phone">&lt;u>Sử dụng số điện thoại khác&lt;/u></string>
     <string name="passport_reg_btn_using_other_phone">Sử dụng số điện thoại khác</string>
     <string name="passport_downlink_reg">Tạo tài khoản bằng cách sử dụng số điện thoại</string>
     <string name="passport_select_reg_ways_title">Đăng nhập theo cách khác</string>
@@ -52,10 +52,10 @@
     <string name="passport_register_restricted_title">Không thể sử dụng số điện thoại này</string>
     <string name="passport_register_restricted">Số điện thoại này được liên kết với quá nhiều tài khoản, thử sử dụng số điện thoại khác</string>
     <string name="passport_change_phone_number">Thay đổi số điện thoại</string>
-    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
+    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
     <string name="passport_forget_password_no_underline">Quên mật khẩu</string>
     <string name="passport_reg_type_email">Sử dụng địa chỉ email</string>
-    <string name="passport_register_by_email"><u>Tạo một tài khoản bằng cách sử dụng địa chỉ email</u></string>
+    <string name="passport_register_by_email">&lt;u>Tạo một tài khoản bằng cách sử dụng địa chỉ email&lt;/u></string>
     <string name="passport_account_not_actived">Tài khoản của bạn chưa được kích hoạt</string>
     <string name="passport_active_email_visit">Kiểm tra hộp thư đến của bạn tại %s</string>
     <string name="passport_click_email_to_valid">"
@@ -69,7 +69,7 @@
     <string name="passport_remove_confirm">Đăng xuất</string>
     <string name="passport_skip_register">Bỏ qua đăng ký</string>
     <string name="passport_account_not_activated">Tài khoản chưa được kích hoạt</string>
-    <string name="passport_change_account"><u>Thay đổi tài khoản</u></string>
+    <string name="passport_change_account">&lt;u>Thay đổi tài khoản&lt;/u></string>
     <string name="passport_register_account_verified_confirm">Đã xác minh tài khoản</string>
     <string name="passport_register_account_goto_email">Vào hộp thư đến</string>
     <string name="passport_error_dup_email">Email bạn nhập đã được liên kết với tài khoản khác.</string>
@@ -402,7 +402,7 @@
     <string name="search_develop_settings">Cài đặt Phát triển;Chọn phiên bản;Chọn phiên bản;Cập nhật Video;Phiên bản;Diễn đàn;Chế độ hiệu suất;Chất lượng hình ảnh;Plugins</string>
     <string name="declaration_allow">Đồng ý</string>
     <string name="declaration_content_td_custom">Tính năng này cần phải kết nối với internet để hoạt động bình thường.</string>
-    <string name="declaration_content">1. Bằng cách sử dụng dịch vụ này, bạn đồng ý với <a href="file:///android_asset/terms.html">Điều khoản Dịch vụ</a>" của Sohu Video, iQiyi, và các nhà cung cấp nội dung khác.
+    <string name="declaration_content">1. Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href="file:///android_asset/terms.html">Điều khoản Dịch vụ&lt;/a>" của Sohu Video, iQiyi, và các nhà cung cấp nội dung khác.
 2. Giúp cải thiện sản phẩm này, bằng cách tự động gửi dữ liệu chẩn đoán và việc sử dụng sữ dụng dữ liệu cho Mi.
 3. Plug-in Video HD của chúng tôi sẽ được cài đặt tự động.
 4. Tính năng này cần phải kết nối với internet để hoạt động bình thường."</string>
@@ -684,7 +684,7 @@
     <string name="single_pay">Thanh toán 1 lần</string>
     <string name="go_to_cinema">Đến rạp chiếu phim</string>
     <string name="no_vip_product">Không hỗ trợ dịch vụ VIP</string>
-    <string name="video_pre_play_tip">Bạn có thể xem trước miễn phí %1$d phút, để xem bản đầy đủ vui lòng <Data>&lt;font color=#04b4fd>Mua ngay >&lt;/font></Data></string>
+    <string name="video_pre_play_tip">Bạn có thể xem trước miễn phí %1$d phút, để xem bản đầy đủ vui lòng &lt;Data>&lt;font color=#04b4fd>Mua ngay >&lt;/font>&lt;/Data></string>
     <string name="current_price">Giá hiện tại</string>
     <string name="ad_countdown">Còn lại %s giây</string>
     <string name="prefix_countdown">"QC còn lại: "</string>

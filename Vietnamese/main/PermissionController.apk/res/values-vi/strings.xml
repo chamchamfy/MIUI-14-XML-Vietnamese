@@ -462,10 +462,10 @@ Cách thức chia sẻ dữ liệu có thể thay đổi tuỳ theo phiên bản
     <string name="permgroupbackgroundrequest_location">Cho phép &lt;b>%1$s&lt;/b> truy cập vào thông tin vị trí của thiết bị này?</string>
     <string name="permgroupbackgroundrequest_microphone">Cho phép &lt;b>%1$s&lt;/b> ghi âm?</string>
     <string name="permgroupbackgroundrequest_sensors">Cho phép &lt;b>%1$s&lt;/b> truy cập vào dữ liệu cảm biến về các dấu hiệu sinh tồn của bạn?</string>
-    <string name="permgroupbackgroundrequestdetail_camera">Ứng dụng này có thể muốn chụp ảnh và quay video mọi lúc, ngay cả khi bạn không dùng ứng dụng. <annotation id="link">Cho phép trong phần cài đặt.</annotation></string>
-    <string name="permgroupbackgroundrequestdetail_location">Ứng dụng này có thể muốn truy cập vào thông tin vị trí của bạn mọi lúc, ngay cả khi bạn không dùng ứng dụng. <annotation id="link">Hãy cho phép trong phần cài đặt.</annotation></string>
-    <string name="permgroupbackgroundrequestdetail_microphone">Ứng dụng này có thể muốn ghi âm mọi lúc, ngay cả khi bạn không dùng ứng dụng. <annotation id="link">Cho phép trong phần cài đặt.</annotation></string>
-    <string name="permgroupbackgroundrequestdetail_sensors">Để cho phép ứng dụng này truy cập vào dữ liệu cảm biến cơ thể bất cứ lúc nào, ngay cả khi bạn đang không dùng ứng dụng, <annotation id="link">chuyển đến phần cài đặt.</annotation></string>
+    <string name="permgroupbackgroundrequestdetail_camera">Ứng dụng này có thể muốn chụp ảnh và quay video mọi lúc, ngay cả khi bạn không dùng ứng dụng. &lt;annotation id="link">Cho phép trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupbackgroundrequestdetail_location">Ứng dụng này có thể muốn truy cập vào thông tin vị trí của bạn mọi lúc, ngay cả khi bạn không dùng ứng dụng. &lt;annotation id="link">Hãy cho phép trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupbackgroundrequestdetail_microphone">Ứng dụng này có thể muốn ghi âm mọi lúc, ngay cả khi bạn không dùng ứng dụng. &lt;annotation id="link">Cho phép trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupbackgroundrequestdetail_sensors">Để cho phép ứng dụng này truy cập vào dữ liệu cảm biến cơ thể bất cứ lúc nào, ngay cả khi bạn đang không dùng ứng dụng, &lt;annotation id="link">chuyển đến phần cài đặt.&lt;/annotation></string>
     <string name="permgrouprequest_activityRecognition">Bạn cho phép &lt;b>%1$s&lt;/b> truy cập vào hoạt động thể chất?</string>
     <string name="permgrouprequest_calendar">Cho phép &lt;b>%1$s&lt;/b> truy cập vào lịch của bạn?</string>
     <string name="permgrouprequest_calllog">Cho phép &lt;b>%1$s&lt;/b> truy cập vào nhật ký cuộc gọi điện thoại của bạn?</string>
@@ -496,11 +496,11 @@ Cách thức chia sẻ dữ liệu có thể thay đổi tuỳ theo phiên bản
     <string name="permgroupupgraderequest_location">Thay đổi quyền truy cập vào thông tin vị trí đối với &lt;b>%1$s&lt;/b>?</string>
     <string name="permgroupupgraderequest_microphone">Thay đổi quyền sử dụng micrô của &lt;b>%1$s&lt;/b>?</string>
     <string name="permgroupupgraderequest_sensors">Luôn cho phép &lt;b>%1$s&lt;/b> truy cập vào dữ liệu cảm biến cơ thể trong khi đang dùng ứng dụng?</string>
-    <string name="permgroupupgraderequestdetail_camera">Ứng dụng này muốn chụp ảnh và quay video mọi lúc, ngay cả khi bạn không dùng ứng dụng. <annotation id="link">Cho phép trong phần cài đặt.</annotation></string>
-    <string name="permgroupupgraderequestdetail_location">Ứng dụng này muốn truy cập vào thông tin vị trí của bạn mọi lúc, ngay cả khi bạn không dùng ứng dụng. <annotation id="link">Hãy cho phép trong phần cài đặt.</annotation></string>
-    <string name="permgroupupgraderequestdetail_microphone">Ứng dụng này muốn ghi âm mọi lúc, ngay cả khi bạn không dùng ứng dụng. <annotation id="link">Cho phép trong phần cài đặt.</annotation></string>
-    <string name="permgroupupgraderequestdetail_nearby_devices">Cho phép &lt;b>%1$s&lt;/b> tìm, kết nối và xác định vị trí tương đối của các thiết bị ở gần? <annotation id="link">Bạn có thể cho phép việc này trong phần cài đặt.</annotation></string>
-    <string name="permgroupupgraderequestdetail_sensors">Ứng dụng này muốn truy cập vào dữ liệu cảm biến về các dấu hiệu sinh tồn của bạn bất cứ lúc nào, ngay cả khi bạn không dùng ứng dụng. Để thay đổi, hãy <annotation id="link">chuyển đến phần cài đặt.</annotation></string>
+    <string name="permgroupupgraderequestdetail_camera">Ứng dụng này muốn chụp ảnh và quay video mọi lúc, ngay cả khi bạn không dùng ứng dụng. &lt;annotation id="link">Cho phép trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupupgraderequestdetail_location">Ứng dụng này muốn truy cập vào thông tin vị trí của bạn mọi lúc, ngay cả khi bạn không dùng ứng dụng. &lt;annotation id="link">Hãy cho phép trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupupgraderequestdetail_microphone">Ứng dụng này muốn ghi âm mọi lúc, ngay cả khi bạn không dùng ứng dụng. &lt;annotation id="link">Cho phép trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupupgraderequestdetail_nearby_devices">Cho phép &lt;b>%1$s&lt;/b> tìm, kết nối và xác định vị trí tương đối của các thiết bị ở gần? &lt;annotation id="link">Bạn có thể cho phép việc này trong phần cài đặt.&lt;/annotation></string>
+    <string name="permgroupupgraderequestdetail_sensors">Ứng dụng này muốn truy cập vào dữ liệu cảm biến về các dấu hiệu sinh tồn của bạn bất cứ lúc nào, ngay cả khi bạn không dùng ứng dụng. Để thay đổi, hãy &lt;annotation id="link">chuyển đến phần cài đặt.&lt;/annotation></string>
     <string name="permission_access_always">Luôn cho phép</string>
     <string name="permission_access_never">Không cho phép</string>
     <string name="permission_access_only_foreground">Chỉ cho phép khi dùng ứng dụng</string>
@@ -527,16 +527,16 @@ Cách thức chia sẻ dữ liệu có thể thay đổi tuỳ theo phiên bản
     <string name="permission_history_category_yesterday">Hôm qua</string>
     <string name="permission_history_title">Nhật ký quyền</string>
     <string name="permission_rationale_data_sharing_device_manufacturer_message">Nhà phát triển đã cung cấp cho nhà sản xuất thiết bị này thông tin về cách thức ứng dụng này chia sẻ dữ liệu. Nhà phát triển có thể cập nhật thông tin này theo thời gian.</string>
-    <string name="permission_rationale_data_sharing_source_message">Nhà phát triển đã cung cấp thông tin cho <annotation id="link"><annotation example="App Store" id="install_source">%1$s</annotation></annotation> về cách thức ứng dụng này chia sẻ dữ liệu. Nhà phát triển có thể cập nhật thông tin này theo thời gian.</string>
+    <string name="permission_rationale_data_sharing_source_message">Nhà phát triển đã cung cấp thông tin cho &lt;annotation id="link">&lt;annotation example="App Store" id="install_source">%1$s&lt;/annotation>&lt;/annotation> về cách thức ứng dụng này chia sẻ dữ liệu. Nhà phát triển có thể cập nhật thông tin này theo thời gian.</string>
     <string name="permission_rationale_data_sharing_source_title">Nguồn cung cấp thông tin về cách thức chia sẻ dữ liệu</string>
-    <string name="permission_rationale_data_sharing_varies_message">Cách thức xử lý dữ liệu có thể thay đổi tuỳ theo phiên bản ứng dụng, cách sử dụng, khu vực và độ tuổi của bạn. <annotation id="link">Tìm hiểu thêm về chế độ chia sẻ dữ liệu</annotation></string>
+    <string name="permission_rationale_data_sharing_varies_message">Cách thức xử lý dữ liệu có thể thay đổi tuỳ theo phiên bản ứng dụng, cách sử dụng, khu vực và độ tuổi của bạn. &lt;annotation id="link">Tìm hiểu thêm về chế độ chia sẻ dữ liệu&lt;/annotation></string>
     <string name="permission_rationale_data_sharing_varies_message_without_link">Cách thức xử lý dữ liệu có thể thay đổi tuỳ theo phiên bản ứng dụng, cách sử dụng, khu vực và độ tuổi của bạn.</string>
     <string name="permission_rationale_location_purpose_title">Ứng dụng này có thể chia sẻ dữ liệu vị trí cho:</string>
     <string name="permission_rationale_location_settings_title">Dữ liệu vị trí của bạn</string>
     <string name="permission_rationale_location_title">Chia sẻ dữ liệu và thông tin vị trí</string>
     <string name="permission_rationale_message_location">Nhà phát triển nêu rõ ứng dụng này có thể chia sẻ dữ liệu vị trí với bên thứ ba</string>
     <string name="permission_rationale_permission_data_sharing_varies_title">Nhiều cách thức chia sẻ dữ liệu</string>
-    <string name="permission_rationale_permission_settings_message">Thay đổi quyền truy cập của ứng dụng này trong <annotation id="link">chế độ cài đặt quyền riêng tư</annotation></string>
+    <string name="permission_rationale_permission_settings_message">Thay đổi quyền truy cập của ứng dụng này trong &lt;annotation id="link">chế độ cài đặt quyền riêng tư&lt;/annotation></string>
     <string name="permission_rationale_purpose_account_management">Quản lý tài khoản</string>
     <string name="permission_rationale_purpose_advertising">Quảng cáo hoặc tiếp thị</string>
     <string name="permission_rationale_purpose_analytics">Số liệu phân tích</string>

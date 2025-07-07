@@ -546,7 +546,7 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_bind_hm_verify_success">Đã xác minh</string>
     <string name="device_bind_legal_information">Thông tin pháp lý</string>
     <string name="device_bind_no_device">Không có thiết bị ghép nối</string>
-    <string name="device_bind_other_des"><u>Đang tìm kiếm</u></string>
+    <string name="device_bind_other_des">&lt;u>Đang tìm kiếm&lt;/u></string>
     <string name="device_bind_out_region">Phiên bản thiết bị này không được hỗ trợ ở khu vực hiện tại</string>
     <string name="device_bind_pair">Ghép nối</string>
     <string name="device_bind_pair_code">Mã</string>
@@ -644,7 +644,7 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_search_add_immediately">Thêm</string>
     <string name="device_search_again">Tìm kiếm</string>
     <string name="device_search_failed_help">Sửa các vấn đề kết nối</string>
-    <string name="device_search_help"><u>Gặp sự cố? Xem trợ giúp</u></string>
+    <string name="device_search_help">&lt;u>Gặp sự cố? Xem trợ giúp&lt;/u></string>
     <string name="device_search_not_mine">Không phải của tôi</string>
     <string name="device_search_open_location">Để thêm thiết bị mới, cho phép truy cập vị trí.</string>
     <string name="device_search_select_tips">Chọn thiết bị của bạn</string>
@@ -2764,7 +2764,7 @@ Nhận được phần thưởng này"</string>
     <string name="nfc_bank_card_status_not_active">Không khả dụng</string>
     <string name="nfc_bank_card_status_time_out">Đã hết hạn</string>
     <string name="nfc_bank_card_support_list_global">&lt;Data>&lt;a href=\"%1$s\">Ngân hàng được hỗ trợ&lt;/a>&lt;/Data></string>
-    <string name="nfc_bank_card_support_list_title"><Data>Ngân hàng đã được hỗ trợ</Data></string>
+    <string name="nfc_bank_card_support_list_title">&lt;Data>Ngân hàng đã được hỗ trợ&lt;/Data></string>
     <string name="nfc_bank_card_valid_date_empty">Nhập ngày hết hạn</string>
     <string name="nfc_bank_contact_us">Liên hệ với chúng tôi</string>
     <string name="nfc_bank_load_err">Xảy ra lỗi</string>
@@ -3015,7 +3015,7 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="passport_error_unknown">Lỗi không xác định</string>
     <string name="passport_error_user_agreement_error">Đồng ý với các điều khoản và điều kiện trước</string>
     <string name="passport_error_user_name">Tên người dùng bạn nhập không hợp lệ</string>
-    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
+    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
     <string name="passport_get_verify_code">Nhận mã</string>
     <string name="passport_getting_verify_code">Vui lòng chờ…</string>
     <string name="passport_identification_expired">Mã xác minh đã hết hạn. Vui lòng bắt đầu lại.</string>

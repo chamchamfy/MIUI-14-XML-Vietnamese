@@ -206,7 +206,7 @@
     <string name="passport_account_label">Tài khoản Mi</string>
     <string name="passport_notification_title">Lỗi đăng nhập %1$s</string>
     <string name="passport_login_prompt">Sử dụng duy nhất một Tài khoản Mi cho tất cả các dịch vụ.</string>
-    <string name="passport_login_using_other_ways"><u>Đăng nhập theo cách khác</u></string>
+    <string name="passport_login_using_other_ways">&lt;u>Đăng nhập theo cách khác&lt;/u></string>
     <string name="passport_login_title">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="passport_login">Đăng nhập</string>
     <string name="passport_relogin">Đăng nhập lại</string>
@@ -221,7 +221,7 @@
     <string name="passport_uplink_slot1_reg">Sử dụng SIM 1</string>
     <string name="passport_uplink_slot2_reg">Sử dụng SIM 2</string>
     <string name="passport_reg_via_sms_alert">Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
-    <string name="passport_reg_using_other_phone"><u>Sử dụng số điện thoại khác</u></string>
+    <string name="passport_reg_using_other_phone">&lt;u>Sử dụng số điện thoại khác&lt;/u></string>
     <string name="passport_reg_btn_using_other_phone">Sử dụng số điện thoại khác</string>
     <string name="passport_downlink_reg">Số điện thoại</string>
     <string name="passport_select_reg_ways_title">Đăng nhập theo cách khác</string>
@@ -256,10 +256,10 @@
     <string name="passport_register_restricted_title">Không thể sử dụng số điện thoại này</string>
     <string name="passport_register_restricted">Số điện thoại này được liên kết với quá nhiều tài khoản, thử sử dụng số điện thoại khác</string>
     <string name="passport_change_phone_number">Thay đổi số điện thoại</string>
-    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
+    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
     <string name="passport_forget_password_no_underline">Quên mật khẩu</string>
     <string name="passport_reg_type_email">Địa chỉ email</string>
-    <string name="passport_register_by_email"><u>Tạo một tài khoản bằng cách sử dụng địa chỉ email</u></string>
+    <string name="passport_register_by_email">&lt;u>Tạo một tài khoản bằng cách sử dụng địa chỉ email&lt;/u></string>
     <string name="passport_account_not_actived">Tài khoản của bạn chưa được kích hoạt</string>
     <string name="passport_active_email_visit">Kiểm tra hộp thư đến của bạn tại %s</string>
     <string name="passport_click_email_to_valid">"
@@ -273,7 +273,7 @@
     <string name="passport_remove_confirm">Đăng xuất</string>
     <string name="passport_skip_register">Bỏ qua Đăng ký</string>
     <string name="passport_account_not_activated">Tài khoản chưa được kích hoạt</string>
-    <string name="passport_change_account"><u>Thay đổi tài khoản</u></string>
+    <string name="passport_change_account">&lt;u>Thay đổi tài khoản&lt;/u></string>
     <string name="passport_register_account_verified_confirm">Đã xác minh tài khoản</string>
     <string name="passport_register_account_goto_email">Vào hộp thư đến</string>
     <string name="passport_error_dup_email">Email bạn nhập đã được liên kết với tài khoản khác.</string>
@@ -369,7 +369,7 @@
     <string name="passport_message_dialog_title">Tin nhắn mã xác minh</string>
     <string name="passport_trust_device">Thêm thiết bị này vào thiết bị đã xác minh</string>
     <string name="passport_barcode_add_account_prompt">Để kết nối đến một tài khoản, quét mã QR một lần nữa sau khi bạn đăng nhập.</string>
-    <string name="passport_quick_register_notice"><u>Không có Tài khoản Mi? Hãy tạo tài khoản.</u></string>
+    <string name="passport_quick_register_notice">&lt;u>Không có Tài khoản Mi? Hãy tạo tài khoản.&lt;/u></string>
     <string name="passport_password_phone_login">Đăng nhập thông qua Tài khoản Mi</string>
     <string name="passport_sms_verification_code_login">Tin nhắn SMS xác minh đăng nhập</string>
     <string name="passport_login_other_account">Tài khoản khác</string>
@@ -1333,7 +1333,7 @@ d MMMM"</string>
     <string name="ai_participation">Sự tham gia của AI</string>
     <string name="ai_recommend_keyword">Kiểu</string>
     <string name="ai_text_limit">"Không thể nhập thêm văn bản"</string>
-    <string name="ai_wallpaper_declare_double_link"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận của người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+    <string name="ai_wallpaper_declare_double_link">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận của người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi bạn tiếp tục.&lt;/Data></string>
     <string name="creation_ai_disable_limit_message">Không còn lượt nào cho ngày hôm nay. Tạo thêm hình nền AI vào ngày mai!</string>
     <string name="creation_ai_disable_message">Tính năng này chỉ dành cho người thử nghiệm Beta. Bạn có thể đăng ký trên Cộng đồng Xiaomi.</string>
     <string name="creation_ai_disable_title">Cần có quyền của người thử nghiệm beta</string>
@@ -1778,7 +1778,7 @@ thẻ tiếp theo"</string>
     <string name="preference_mode_select_title">Trượt sang phải để xem thêm</string>
     <string name="preview">Xem trước</string>
     <string name="privacy_agree">Đồng ý</string>
-    <string name="privacy_content"><Data>Chào mừng sử dụng Khóa tạp chí. Ứng dụng này cung cấp dịch vụ duyệt hình nền tùy chỉnh. Khóa tạp chí cần thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ này. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận người dùng&lt;/a>. Bạn luôn có thể thay đổi cài đặt liên quan trong phần \"Chính sách Riêng tư \" của ứng dụng. Nếu bạn không đồng ý với các điều khoản và điều kiện đó, hãy chọn \"Tắt Khóa tạp chí\". Bằng cách chọn \"Đồng ý\", bạn đồng ý với Chính sách Riêng tư của chúng tôi và bật Khóa tạp chí.</Data></string>
+    <string name="privacy_content">&lt;Data>Chào mừng sử dụng Khóa tạp chí. Ứng dụng này cung cấp dịch vụ duyệt hình nền tùy chỉnh. Khóa tạp chí cần thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ này. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận người dùng&lt;/a>. Bạn luôn có thể thay đổi cài đặt liên quan trong phần \"Chính sách Riêng tư \" của ứng dụng. Nếu bạn không đồng ý với các điều khoản và điều kiện đó, hãy chọn \"Tắt Khóa tạp chí\". Bằng cách chọn \"Đồng ý\", bạn đồng ý với Chính sách Riêng tư của chúng tôi và bật Khóa tạp chí.&lt;/Data></string>
     <string name="privacy_dialog_a_c">Đồng ý</string>
     <string name="privacy_dialog_content">Để truy cập các dịch vụ trên, trước tiên hãy đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của chúng tôi. Bạn có thể thay đổi các cài đặt này bất cứ lúc nào.</string>
     <string name="privacy_dialog_message">Nếu bạn đồng ý và bật Khóa tạp chí, chúng tôi sẽ không sử dụng dữ liệu của bạn để cá nhân mà không có sự đồng ý của bạn. Đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi trước khi sử dụng Khóa tạp chí.</string>
@@ -2003,22 +2003,22 @@ thẻ tiếp theo"</string>
     <string name="generic_error_user_canceled">Người dùng đã hủy thao tác xác thực.</string>
     <string name="help_answer_category1_answer1_1">%d. Làm cách nào để tôi sử dụng ảnh của riêng mình cho Khóa tạp chí?</string>
     <string name="help_answer_category1_answer1_2">Thực hiện theo các bước bên dưới để thêm ảnh của riêng bạn vào Khóa tạp chí:</string>
-    <string name="help_answer_category1_answer1_4"><Data>Bạn có thể chọn ảnh của riêng mình bằng cách vào Cài đặt > Màn hình khóa > Khóa tạp chí > Cài đặt Khóa tạp chí > &lt;a href =%2$s>Quản lý hình nền đã chọn&lt;/a>, sau đó chạm vào "+" để chọn ảnh từ Thư viện.</Data></string>
+    <string name="help_answer_category1_answer1_4">&lt;Data>Bạn có thể chọn ảnh của riêng mình bằng cách vào Cài đặt > Màn hình khóa > Khóa tạp chí > Cài đặt Khóa tạp chí > &lt;a href =%2$s>Quản lý hình nền đã chọn&lt;/a>, sau đó chạm vào "+" để chọn ảnh từ Thư viện.&lt;/Data></string>
     <string name="help_answer_category1_answer1_5">Bạn có thể sử dụng Mix Hình nền để hiển thị sự kết hợp giữa ảnh Khóa tạp chí và ảnh của riêng bạn, ví dụ: hiển thị %1$d ảnh cho mỗi %2$d/%3$d/%4$d/%5$d hình nền Khóa tạp chí.</string>
     <string name="help_answer_category1_answer2_1">%d. Làm cách nào để bật và tắt Khóa tạp chí?</string>
     <string name="help_answer_category1_answer2_2">Thực hiện theo các bước bên dưới để bật hoặc tắt Khóa tạp chí:</string>
-    <string name="help_answer_category1_answer2_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.</Data></string>
-    <string name="help_answer_category1_answer2_4"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.</Data></string>
+    <string name="help_answer_category1_answer2_3">&lt;Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.&lt;/Data></string>
+    <string name="help_answer_category1_answer2_4">&lt;Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.&lt;/Data></string>
     <string name="help_answer_category1_answer2_5">Vui lòng lưu ý rằng nếu tắt Khóa tạp chí, bạn sẽ không còn thấy hình nền và câu chuyện mới trên Màn hình khóa nữa.</string>
     <string name="help_answer_category1_answer3_1">%d. Làm cách nào để ngăn ứng dụng sử dụng dữ liệu di động để cập nhật hình nền?</string>
     <string name="help_answer_category1_answer3_2">Thực hiện theo các bước bên dưới để chỉ cho phép Khóa tạp chí cập nhật hình nền khi sử dụng Wi-Fi:</string>
-    <string name="help_answer_category1_answer3_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.</Data></string>
-    <string name="help_answer_category1_answer3_4"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.</Data></string>
+    <string name="help_answer_category1_answer3_3">&lt;Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.&lt;/Data></string>
+    <string name="help_answer_category1_answer3_4">&lt;Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.&lt;/Data></string>
     <string name="help_answer_category2_answer1_1">%d. Làm thế nào để chọn thể loại nội dung mà tôi quan tâm?</string>
     <string name="help_answer_category2_answer1_2">Khóa tạp chí hiện có %d thể loại nội dung: thực phẩm, phong cách sống, du lịch, sức khỏe, chế độ ăn kiêng, thiết kế nội thất, tập luyện, thời trang &amp; làm đẹp, kinh doanh và tin tức. Thực hiện theo các bước dưới đây để chọn thể loại bạn quan tâm:</string>
-    <string name="help_answer_category2_answer1_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href =%3$s>chọn chủ đề bạn quan tâm nhất&lt;/a>.</Data></string>
+    <string name="help_answer_category2_answer1_3">&lt;Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href =%3$s>chọn chủ đề bạn quan tâm nhất&lt;/a>.&lt;/Data></string>
     <string name="help_answer_category2_answer1_4">Ghi chú: Tính năng này chỉ được hỗ trợ ở một số khu vực.</string>
-    <string name="help_answer_category2_answer1_5"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href =%3$s>chọn chủ đề bạn quan tâm nhất&lt;/a>.</Data></string>
+    <string name="help_answer_category2_answer1_5">&lt;Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href =%3$s>chọn chủ đề bạn quan tâm nhất&lt;/a>.&lt;/Data></string>
     <string name="help_answer_category2_answer2_1">%d. Làm cách nào tôi có thể nhận được kiến nghị phù hợp hơn với sở thích của mình?</string>
     <string name="help_answer_category2_answer2_2">%d) Khi bạn nhìn thấy hình nền bạn thích trong Khóa tạp chí, hãy chạm vào biểu tượng trái tim để thích.</string>
     <string name="help_answer_category2_answer2_3">Nếu bạn không thích hình nền, hãy chạm vào "…" ở góc dưới bên phải và chạm "Không hứng thú".</string>
@@ -2027,9 +2027,9 @@ thẻ tiếp theo"</string>
     <string name="help_answer_category2_answer2_6">%d) Nếu bạn không thích nội dung của một thể loại cụ thể nào đó, hãy thay đổi tùy chọn thể loại của bạn. Chúng tôi sẽ đề xuất nhiều nội dung hơn từ các thể loại mà bạn đã chọn.</string>
     <string name="help_answer_category2_answer2_7">Ghi chú: Tính năng này chỉ được hỗ trợ ở một số khu vực.</string>
     <string name="help_answer_category3_answer1_1">%d. Chính sách Riêng tư</string>
-    <string name="help_answer_category3_answer1_2"><Data>Bạn có thể xem Chính sách Riêng tư của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href =%1$s>Khóa tạp chí&lt;/a> > Chính sách Riêng tư.</Data></string>
+    <string name="help_answer_category3_answer1_2">&lt;Data>Bạn có thể xem Chính sách Riêng tư của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href =%1$s>Khóa tạp chí&lt;/a> > Chính sách Riêng tư.&lt;/Data></string>
     <string name="help_answer_category3_answer2_1">%d. Thỏa thuận Người dùng</string>
-    <string name="help_answer_category3_answer2_2"><Data>Bạn có thể xem Thỏa thuận Người dùng của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href =%1$s>Khóa tạp chí&lt;/a> > Thỏa thuận Người dùng.</Data></string>
+    <string name="help_answer_category3_answer2_2">&lt;Data>Bạn có thể xem Thỏa thuận Người dùng của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href =%1$s>Khóa tạp chí&lt;/a> > Thỏa thuận Người dùng.&lt;/Data></string>
     <string name="help_answer_dialog_1">Gửi phản hồi</string>
     <string name="help_answer_dialog_2">Cảm ơn bạn đã chọn Khóa tạp chí! Phản hồi của bạn rất quan trọng vì giúp chúng tôi liên tục tối ưu các dịch vụ và mang đến cho bạn trải nghiệm tốt hơn.</string>
     <string name="help_answer_dialog_3">Khi bạn gửi email này, địa chỉ email của bạn sẽ được ghi lại. Xin hãy yên tâm, chúng tôi sẽ bảo mật thông tin cá nhân của bạn và sẽ không tiết lộ thông tin của bạn cho bất kỳ bên thứ ba nào.</string>

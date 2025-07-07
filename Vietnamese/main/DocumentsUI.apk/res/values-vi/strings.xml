@@ -85,9 +85,9 @@
     <string name="menu_rename">Đổi tên</string>
     <string name="rename_error">Không đổi được tên tài liệu</string>
     <string name="notification_copy_files_converted_title">Đã chuyển đổi một số tệp</string>
-    <string name="open_external_dialog_request">Cấp cho <b>^1</b> quyền truy cập vào thư mục <i>^2</i> trong <i>^3</i>?</string>
-    <string name="open_external_dialog_request_primary_volume">Cấp cho <b>^1</b> quyền truy cập thư mục <i>^2</i>?</string>
-    <string name="open_external_dialog_root_request">Cấp cho <b>^1</b> quyền truy cập vào dữ liệu của bạn, kể cả ảnh và video trên <i>^2</i>?</string>
+    <string name="open_external_dialog_request">Cấp cho &lt;b>^1&lt;/b> quyền truy cập vào thư mục &lt;i>^2&lt;/i> trong &lt;i>^3&lt;/i>?</string>
+    <string name="open_external_dialog_request_primary_volume">Cấp cho &lt;b>^1&lt;/b> quyền truy cập thư mục &lt;i>^2&lt;/i>?</string>
+    <string name="open_external_dialog_root_request">Cấp cho &lt;b>^1&lt;/b> quyền truy cập vào dữ liệu của bạn, kể cả ảnh và video trên &lt;i>^2&lt;/i>?</string>
     <string name="never_ask_again">Không hỏi lại</string>
     <string name="allow">Cho phép</string>
     <string name="deny">Từ chối</string>

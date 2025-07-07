@@ -803,7 +803,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="wifitrackerlib_hotspot_network_summary_error_generic">Không kết nối được. Hãy thử kết nối lại.</string>
     <string name="wifitrackerlib_hotspot_network_summary_error_settings">{DEVICE_TYPE,select, PHONE{Không kết nối được. Hãy kiểm tra chế độ cài đặt của điện thoại rồi thử lại.}TABLET{Không kết nối được. Hãy kiểm tra chế độ cài đặt của máy tính bảng rồi thử lại.}COMPUTER{Không kết nối được. Hãy kiểm tra chế độ cài đặt của máy tính rồi thử lại.}WATCH{Không kết nối được. Hãy kiểm tra chế độ cài đặt của đồng hồ rồi thử lại.}VEHICLE{Không kết nối được. Hãy kiểm tra chế độ cài đặt của xe rồi thử lại.}other{Không kết nối được. Hãy kiểm tra chế độ cài đặt của thiết bị rồi thử lại.}}</string>
     <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE,select, PHONE{{NETWORK_NAME} trên điện thoại của bạn}TABLET{{NETWORK_NAME} trên máy tính bảng của bạn}COMPUTER{{NETWORK_NAME} trên máy tính của bạn}WATCH{{NETWORK_NAME} trên đồng hồ của bạn}VEHICLE{{NETWORK_NAME} trên xe của bạn}other{{NETWORK_NAME} trên thiết bị của bạn}}</string>
-    <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. <annotation id="url">Tìm hiểu thêm</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. &lt;annotation id="url">Tìm hiểu thêm&lt;/annotation></string>
     <string name="wifitrackerlib_known_network_summary">Nguồn Internet: %1$s</string>
     <string name="wifitrackerlib_link_speed_mbps">%1$d Mb/giây</string>
     <string name="wifitrackerlib_link_speed_on_band">%1$s trên %2$s</string>

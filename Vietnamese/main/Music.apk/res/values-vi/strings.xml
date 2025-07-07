@@ -1289,8 +1289,8 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="nowplaying_scroll_try">Thử cuộn</string>
     <string name="online_video">Video</string>
     <string name="paused_waiting_to_pay">Đang chờ thanh toán</string>
-    <string name="play_all"><Data>Phát tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;</Data></string>
-    <string name="play_all_shuffle"><Data>Trộn tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;</Data></string>
+    <string name="play_all">&lt;Data>Phát tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data></string>
+    <string name="play_all_shuffle">&lt;Data>Trộn tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data></string>
     <string name="play_all_song_with_count">Phát tất cả (%d)</string>
     <string name="play_mode_circle">Chế độ lặp</string>
     <string name="play_mode_shuffle">Chế độ trộn</string>

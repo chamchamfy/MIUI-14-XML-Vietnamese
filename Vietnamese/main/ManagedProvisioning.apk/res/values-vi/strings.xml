@@ -25,7 +25,7 @@
     <string name="delete_profile_title">Xóa hồ sơ công việc?</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Hồ sơ làm việc đã tồn tại và được quản lý bởi:</string>
     <string name="opening_paragraph_delete_profile_known_company">Hồ sơ công việc này được quản lý cho %s bằng:</string>
-    <string name="read_more_delete_profile">Trước khi tiếp tục, <a href="#read_this_link">hãy đọc thông tin sau</a>.</string>
+    <string name="read_more_delete_profile">Trước khi tiếp tục, &lt;a href="#read_this_link">hãy đọc thông tin sau&lt;/a>.</string>
     <string name="sure_you_want_to_delete_profile">Nếu bạn tiếp tục, tất cả ứng dụng và dữ liệu trong hồ sơ này sẽ bị xóa.</string>
     <string name="delete_profile">Xóa</string>
     <string name="cancel_delete_profile">Hủy</string>

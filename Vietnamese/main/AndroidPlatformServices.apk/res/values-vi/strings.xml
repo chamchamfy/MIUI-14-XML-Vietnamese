@@ -73,7 +73,7 @@
     <string name="auth_d2d_target_wait_progress_message">Đang tải tài khoản và dữ liệu...</string>
     <string name="auth_device_management_download_app_icon">Biểu tượng ứng dụng %s</string>
     <string name="auth_device_management_download_description">Tài khoản này cần có ứng dụng quản lý thiết bị di động. Hãy cài đặt ứng dụng ^1 để thực thi các chính sách bảo mật mà tài khoản yêu cầu.</string>
-    <string name="auth_device_management_download_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt <b>^1</b>". 
+    <string name="auth_device_management_download_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt &lt;b>^1&lt;/b>". 
 
 ^1 giúp bạn thiết lập thiết bị này cho con bạn."</string>
     <string name="auth_device_management_download_failed_message">Bạn vẫn có thể tiếp tục thiết lập khi không có ứng dụng này</string>
@@ -95,15 +95,15 @@
 Quản trị viên CNTT sẽ tải xuống và sử dụng một công cụ quản lý để quản lý hồ sơ công việc của bạn."</string>
     <string name="auth_device_management_setup_work_profile_settings_entry">Thiết lập hồ sơ công việc của bạn</string>
     <string name="auth_device_management_start_description">Tài khoản này cần có ứng dụng quản lý thiết bị di động. Khi bạn nhấn vào Tiếp theo, ứng dụng ^1 sẽ giúp bạn thực thi các chính sách bảo mật mà tài khoản yêu cầu.</string>
-    <string name="auth_device_management_start_description_kids">Để thêm tài khoản vào thiết bị này, hãy sử dụng <b>^1</b>". 
+    <string name="auth_device_management_start_description_kids">Để thêm tài khoản vào thiết bị này, hãy sử dụng &lt;b>^1&lt;/b>". 
 
 ^1 giúp bạn thiết lập thiết bị này cho con bạn."</string>
     <string name="auth_device_management_title">Quản lý thiết bị</string>
     <string name="auth_device_management_update_description">Tài khoản này cần có ứng dụng quản lý thiết bị di động. Để đáp ứng các chính sách bảo mật được liên kết với tài khoản, bạn phải cài đặt phiên bản mới hơn của ứng dụng ^1.</string>
-    <string name="auth_device_management_update_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt phiên bản mới nhất của <b>^1</b>". 
+    <string name="auth_device_management_update_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt phiên bản mới nhất của &lt;b>^1&lt;/b>". 
 
 ^1 giúp bạn thiết lập thiết bị này cho con bạn."</string>
-    <string name="auth_doesnt_use_gmail">" "<b>^1</b> không sử dụng Gmail.</string>
+    <string name="auth_doesnt_use_gmail">" "&lt;b>^1&lt;/b> không sử dụng Gmail.</string>
     <string name="auth_error_account_disabled">"Tài khoản này đã bị vô hiệu hóa. 
 
 (Để biết chi tiết, truy cập http://google.com/accounts bằng trình duyệt web)."</string>
@@ -149,21 +149,21 @@ Hãy thử lại sau."</string>
     <string name="auth_frp_start_reenroll_device_title">Thiết bị làm việc</string>
     <string name="auth_get_token_bad_auth_work_service_account_message">Không thể truy cập tài khoản này. Hãy đảm bảo rằng thiết bị của bạn đang tuân thủ chính sách bảo mật của tổ chức bạn. Nếu bạn vẫn gặp lỗi này, hãy liên hệ với quản trị viên của tổ chức.</string>
     <string name="auth_get_token_bad_auth_work_service_account_title">Lỗi tài khoản</string>
-    <string name="auth_gls_dmagent_activity_download_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy cài đặt ứng dụng \"Google Apps Device Policy\" để thực thi những chính sách bảo mật do tài khoản  "<b>^1</b> yêu cầu.</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy cài đặt ứng dụng \"Google Apps Device Policy\" để thực thi những chính sách bảo mật do tài khoản  "&lt;b>^1&lt;/b> yêu cầu.</string>
     <string name="auth_gls_dmagent_activity_download_retry_button">Tải xuống</string>
-    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" có thể chỉ chứa các chữ cái,
+    <string name="auth_gls_hint_illegal_chars">" "&lt;b>^1&lt;/b>" có thể chỉ chứa các chữ cái,
 số và dấu chấm câu."</string>
-    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> không chứa bất kỳ chữ cái nào.</string>
-    <string name="auth_gls_hint_size">" "<b>^1</b> chứa ít hơn 6 hoặc nhiều hơn 30 ký tự.</string>
-    <string name="auth_gls_is_not_available">Tên người dùng <b>^1</b> không khả dụng.</string>
+    <string name="auth_gls_hint_numbers_only">" "&lt;b>^1&lt;/b> không chứa bất kỳ chữ cái nào.</string>
+    <string name="auth_gls_hint_size">" "&lt;b>^1&lt;/b> chứa ít hơn 6 hoặc nhiều hơn 30 ký tự.</string>
+    <string name="auth_gls_is_not_available">Tên người dùng &lt;b>^1&lt;/b> không khả dụng.</string>
     <string name="auth_gls_name_checking_info_title">Đang kiểm tra thông tin…</string>
     <string name="auth_gls_sync_item_title">Đồng bộ hóa %s</string>
-    <string name="auth_gls_third_party_activity_download_message">" Bạn phải thêm tài khoản  "<b>^1</b> vào thiết bị hoặc hồ sơ công việc do tổ chức của bạn quản lý. Vui lòng làm theo hướng dẫn của quản trị viên CNTT để hoàn tất quá trình này.</string>
+    <string name="auth_gls_third_party_activity_download_message">" Bạn phải thêm tài khoản  "&lt;b>^1&lt;/b> vào thiết bị hoặc hồ sơ công việc do tổ chức của bạn quản lý. Vui lòng làm theo hướng dẫn của quản trị viên CNTT để hoàn tất quá trình này.</string>
     <string name="auth_google_title_logo">Biểu trưng Google</string>
     <string name="auth_invalid_login_character">Ký tự không hợp lệ. Chỉ cho phép 0-9, a-z, A-Z và dấu chấm câu.</string>
     <string name="auth_invalid_password_character">Ký tự mật khẩu không hợp lệ.</string>
     <string name="auth_invalid_username">Nội dung bạn đã nhập không phải là tên người dùng hợp lệ.</string>
-    <string name="auth_login_activity_loginfail_text_pwonly">Bạn đã nhập mật khẩu không đúng hoặc tài khoản của bạn đã thay đổi. Hãy nhập lại mật khẩu của bạn. Nếu bạn quên mật khẩu của mình và cần khôi phục tài khoản, hãy nhấp vào <annotation id="help_url">đây</annotation>.</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Bạn đã nhập mật khẩu không đúng hoặc tài khoản của bạn đã thay đổi. Hãy nhập lại mật khẩu của bạn. Nếu bạn quên mật khẩu của mình và cần khôi phục tài khoản, hãy nhấp vào &lt;annotation id="help_url">đây&lt;/annotation>.</string>
     <string name="auth_login_task_title">Đang đăng nhập</string>
     <string name="auth_login_title">Nhập email và mật khẩu</string>
     <string name="auth_minutemaid_ssl_error">"Đã xảy ra sự cố khi kết nối với  %s."</string>
@@ -201,7 +201,7 @@ số và dấu chấm câu."</string>
     <string name="auth_setup_wizard_services_activity_title">Dịch vụ của Google</string>
     <string name="auth_setup_wizard_title">Trình hướng dẫn thiết lập</string>
     <string name="auth_show_error_title">Lỗi</string>
-    <string name="auth_sign_in_agreement">Bằng cách đăng nhập, bạn đồng ý với Chính sách bảo mật của <annotation id="google_privacy">Google</annotation> và Chính sách bảo mật <annotation id="android_privacy">bổ sung</annotation>.</string>
+    <string name="auth_sign_in_agreement">Bằng cách đăng nhập, bạn đồng ý với Chính sách bảo mật của &lt;annotation id="google_privacy">Google&lt;/annotation> và Chính sách bảo mật &lt;annotation id="android_privacy">bổ sung&lt;/annotation>.</string>
     <string name="auth_sign_in_browser">Đăng nhập trình duyệt</string>
     <string name="auth_sign_in_with_google_account_short">Đăng nhập bằng tài khoản Google của bạn:</string>
     <string name="auth_submission_error_text">Đã xảy ra lỗi. Hãy thử lại.</string>
@@ -210,16 +210,16 @@ số và dấu chấm câu."</string>
     <string name="auth_ui_activity_title">Đăng nhập Google</string>
     <string name="auth_ui_activity_title_browser_signin">Đăng nhập</string>
     <string name="auth_ui_add_account_title">Thiết lập tài khoản</string>
-    <string name="auth_uncertified_notification_description"><b>Người dùng đã mua thiết bị này:</b>"
+    <string name="auth_uncertified_notification_description">&lt;b>Người dùng đã mua thiết bị này:&lt;/b>"
 Nhà sản xuất thiết bị đã tải sẵn các dịch vụ và ứng dụng của Google mà không có chứng nhận từ Google. Hãy liên hệ với nhà sản xuất và yêu cầu thiết bị được chứng nhận. Tìm hiểu thêm tại g.co/AndroidCertifiedDevice.
 
-"<b>Nhà sản xuất chưa được cấp phép:</b>"
+"&lt;b>Nhà sản xuất chưa được cấp phép:&lt;/b>"
 Bạn cần giấy phép từ Google để phân phối các dịch vụ và ứng dụng của Google. Đăng ký tại g.co/AndroidGMSContact.
 
-"<b>Nhà sản xuất đã được cấp phép:</b>"
+"&lt;b>Nhà sản xuất đã được cấp phép:&lt;/b>"
 Để sử dụng các dịch vụ và ứng dụng của Google trong giai đoạn phát triển, hãy đăng ký thiết bị. Liên hệ với Giám đốc phát triển kinh doanh của Google để biết thêm thông tin.
 
-"<b>Người dùng ROM tùy chỉnh:</b>"
+"&lt;b>Người dùng ROM tùy chỉnh:&lt;/b>"
 Để sử dụng các dịch vụ và ứng dụng của Google với ROM tùy chỉnh, hãy đăng ký thiết bị này. Tìm hiểu thêm tại g.co/apps-custom."</string>
     <string name="auth_uncertified_notification_title">Thiết bị chưa được Google chứng nhận</string>
     <string name="auth_work_authenticator_label">Tài khoản được quản lý</string>
@@ -478,7 +478,7 @@ Các dịch vụ của Google Play"</string>
     <string name="setupservices_google_privacy_policy_title">Chính sách bảo mật của Google</string>
     <string name="setupservices_google_services_agreement">Bằng cách tiếp tục, bạn đồng ý rằng thiết bị này cũng có thể tự động tải xuống và cài đặt các bản cập nhật và ứng dụng từ Google, nhà cung cấp dịch vụ cũng như nhà sản xuất thiết bị của bạn và có thể dùng dữ liệu di động. Một vài ứng dụng trong số này có thể cung cấp các hình thức mua hàng trong ứng dụng. Bạn có thể xóa những ứng dụng này bất kỳ lúc nào.</string>
     <string name="setupservices_google_services_agreement_dialog_text">Để xóa ứng dụng, hãy chuyển tới Cài đặt > Ứng dụng hoặc Trình quản lý ứng dụng. Sau đó nhấn vào ứng dụng bạn muốn gỡ bỏ (có thể bạn phải vuốt sang phải hoặc trái để tìm ứng dụng). Sau đó nhấn vào gỡ bỏ hoặc Tắt.</string>
-    <string name="setupservices_google_services_agreement_korea">Bằng cách này, bạn cũng đồng ý và cấp quyền truy cập vào thông tin và chức năng trên thiết bị của mình cho các ứng dụng được tải sẵn của Google. Xem <annotation link="app_permissions">trang này</annotation> để biết thêm thông tin về việc sử dụng các quyền này.</string>
+    <string name="setupservices_google_services_agreement_korea">Bằng cách này, bạn cũng đồng ý và cấp quyền truy cập vào thông tin và chức năng trên thiết bị của mình cho các ứng dụng được tải sẵn của Google. Xem &lt;annotation link="app_permissions">trang này&lt;/annotation> để biết thêm thông tin về việc sử dụng các quyền này.</string>
     <string name="setupservices_google_services_agreement_title">Cài đặt bản cập nhật và ứng dụng</string>
     <string name="setupservices_google_services_automatic_storage_manager">Khi bộ nhớ điện thoại của bạn gần đầy, hãy giải phóng dung lượng bằng cách xóa một số dữ liệu, chẳng hạn như video và ảnh đã sao lưu.</string>
     <string name="setupservices_google_services_automatic_storage_manager_details">Khi được kết nối, bạn vẫn có thể truy cập dữ liệu này. Bạn có thể kiểm soát tính năng này cũng như nội dung đã xóa bằng cách đi tới Cài đặt > Bộ nhớ > Bộ nhớ thông minh.</string>
@@ -498,13 +498,13 @@ Dữ liệu sao lưu sẽ không tính vào hạn mức bộ nhớ Drive của b
     <string name="setupservices_google_services_backup_v23">Dễ dàng khôi phục dữ liệu hoặc chuyển đổi điện thoại bất kỳ lúc nào. Bản sao lưu của bạn bao gồm các ứng dụng, dữ liệu ứng dụng, nhật ký cuộc gọi, danh bạ và cài đặt thiết bị (trong đó có cả quyền và mật khẩu Wi‑Fi).</string>
     <string name="setupservices_google_services_backup_v26">Dễ dàng khôi phục dữ liệu hoặc chuyển đổi điện thoại bất kỳ lúc nào. Bản sao lưu của bạn bao gồm các ứng dụng, dữ liệu ứng dụng, nhật ký cuộc gọi, danh bạ, cài đặt thiết bị (trong đó có cả quyền và mật khẩu Wi‑Fi) và SMS.</string>
     <string name="setupservices_google_services_backup_v26_with_photos">Dễ dàng khôi phục dữ liệu hoặc chuyển đổi điện thoại bất kỳ lúc nào. Bản sao lưu của bạn bao gồm các ứng dụng, dữ liệu ứng dụng, nhật ký cuộc gọi, danh bạ, cài đặt thiết bị (trong đó có cả quyền và mật khẩu Wi-Fi), ảnh, video và SMS. Ảnh và video sẽ được đồng bộ hóa với thư viện Google Ảnh của bạn và có thể sử dụng khắp các dịch vụ.</string>
-    <string name="setupservices_google_services_data_policy">Dữ liệu sẽ được sử dụng theo <annotation link="google_privacy">Chính sách bảo mật</annotation> của Google.</string>
-    <string name="setupservices_google_services_data_policy_korea">Dữ liệu sẽ được sử dụng theo <annotation link="google_privacy">Chính sách bảo mật</annotation> của Google (bao gồm <annotation link="additional_privacy">việc thu thập, lưu trữ và sử dụng thông tin cá nhân</annotation>) cũng như <annotation link="location_tos">Điều khoản dịch vụ vị trí</annotation>.</string>
+    <string name="setupservices_google_services_data_policy">Dữ liệu sẽ được sử dụng theo &lt;annotation link="google_privacy">Chính sách bảo mật&lt;/annotation> của Google.</string>
+    <string name="setupservices_google_services_data_policy_korea">Dữ liệu sẽ được sử dụng theo &lt;annotation link="google_privacy">Chính sách bảo mật&lt;/annotation> của Google (bao gồm &lt;annotation link="additional_privacy">việc thu thập, lưu trữ và sử dụng thông tin cá nhân&lt;/annotation>) cũng như &lt;annotation link="location_tos">Điều khoản dịch vụ vị trí&lt;/annotation>.</string>
     <string name="setupservices_google_services_description">Nhấn để tìm hiểu thêm về từng dịch vụ, chẳng hạn như cách bật hoặc tắt dịch vụ vào thời điểm khác. ^1</string>
     <string name="setupservices_google_services_instant_apps_learn_more">"Trong Cửa hàng Play, bạn có thể tìm thấy chi tiết về ứng dụng bao gồm cả mua hàng trong ứng dụng. Dữ liệu và chế độ cài đặt của ứng dụng sẽ đồng bộ hóa với các thiết bị đăng nhập bằng Tài khoản Google của bạn. 
 
-Việc sử dụng ứng dụng tức thì chịu sự chi phối của "<a href="https://play.google.com/about/play-terms.html">Điều khoản dịch vụ của Google Play</a>". 
-"<a href="https://support.google.com/googleplay/?p=instant_apps">Tìm hiểu thêm</a>.</string>
+Việc sử dụng ứng dụng tức thì chịu sự chi phối của "&lt;a href="https://play.google.com/about/play-terms.html">Điều khoản dịch vụ của Google Play&lt;/a>". 
+"&lt;a href="https://support.google.com/googleplay/?p=instant_apps">Tìm hiểu thêm&lt;/a>.</string>
     <string name="setupservices_google_services_instant_apps_summary">Khi bạn nhấn vào liên kết, Google Play sẽ kiểm tra xem Ứng dụng tức thì có tồn tại không và chạy ứng dụng mà không cần cài đặt. Ứng dụng tức thì được lưu giữ tạm thời trên thiết bị của bạn.</string>
     <string name="setupservices_google_services_instant_apps_title">Sử dụng ứng dụng mà không cần cài đặt</string>
     <string name="setupservices_google_services_location_sharing_details_v28">"Dịch vụ vị trí của Google sử dụng các nguồn như mạng Wi‑Fi, mạng di động và cảm biến để giúp ước đoán vị trí của thiết bị.
@@ -523,9 +523,9 @@ Bạn có thể tắt Vị trí bằng cách tắt cài đặt Vị trí chính 
     <string name="setupservices_google_services_play">Liên tục cập nhật cho tôi tin tức và các khuyến mãi từ Google Play.</string>
     <string name="setupservices_google_services_section_backup_and_storage">Bản sao lưu và bộ nhớ</string>
     <string name="setupservices_google_services_section_device_maintenance">Bảo trì thiết bị</string>
-    <string name="setupservices_google_services_tos">Nếu tiếp tục, bạn cũng sẽ đồng ý với <annotation link="tos">Điều khoản dịch vụ của Google</annotation>.</string>
+    <string name="setupservices_google_services_tos">Nếu tiếp tục, bạn cũng sẽ đồng ý với &lt;annotation link="tos">Điều khoản dịch vụ của Google&lt;/annotation>.</string>
     <string name="setupservices_google_services_tos_agree">Bằng việc nhấp vào nút \"Tôi đồng ý\", bạn đồng ý với quá trình xử lý được mô tả ở trên cho các dịch vụ này của Google.</string>
-    <string name="setupservices_google_services_tos_germany">Khi bạn sử dụng thiết bị này, chúng tôi tuân thủ <annotation link="google_privacy">Chính sách bảo mật</annotation> của mình và <annotation link="tos">điều khoản bổ sung</annotation> sẽ được áp dụng.</string>
+    <string name="setupservices_google_services_tos_germany">Khi bạn sử dụng thiết bị này, chúng tôi tuân thủ &lt;annotation link="google_privacy">Chính sách bảo mật&lt;/annotation> của mình và &lt;annotation link="tos">điều khoản bổ sung&lt;/annotation> sẽ được áp dụng.</string>
     <string name="setupservices_google_services_usage_reporting">Giúp cải thiện trải nghiệm Android của bạn bằng cách tự động gửi dữ liệu về mức sử dụng ứng dụng, thiết bị và chẩn đoán cho Google. Việc này sẽ giúp cải thiện tuổi thọ pin, độ ổn định của ứng dụng, khả năng kết nối mạng và hơn thế nữa. Nếu bạn đã bật Hoạt động web và ứng dụng bổ sung, thông tin này sẽ được lưu trữ cùng với tài khoản của bạn để bạn có thể quản lý trong Hoạt động của tôi.</string>
     <string name="setupservices_google_services_usage_reporting_details">"Đây là thông tin chung về thiết bị của bạn và cách sử dụng thiết bị (chẳng hạn như mức pin, mức sử dụng ứng dụng và kết nối mạng). Dữ liệu sẽ dùng để cải thiện các sản phẩm và dịch vụ của Google cho mọi người. Một số thông tin tổng hợp cũng sẽ giúp các đối tác, chẳng hạn như các nhà phát triển Android, cải thiện sản phẩm và ứng dụng của họ.
 
@@ -634,7 +634,7 @@ Việc tắt tính năng này không ảnh hưởng đến khả năng thiết b
     <string name="smartdevice_look_for_other_device">Tìm kiếm tên này trên thiết bị khác của bạn</string>
     <string name="smartdevice_magicwand_cancel_signin">Không đăng nhập</string>
     <string name="smartdevice_magicwand_confirm_signin">Đã bắt đầu đăng nhập</string>
-    <string name="smartdevice_magicwand_consent_detail">Nhấn vào <b>Đăng nhập</b> để hoàn tất quá trình đăng nhập vào thiết bị khác.</string>
+    <string name="smartdevice_magicwand_consent_detail">Nhấn vào &lt;b>Đăng nhập&lt;/b> để hoàn tất quá trình đăng nhập vào thiết bị khác.</string>
     <string name="smartdevice_magicwand_consent_title">Hoàn tất đăng nhập</string>
     <string name="smartdevice_magicwand_error_detail">Đã xảy ra lỗi và Google không thể đăng nhập bạn từ điện thoại này.</string>
     <string name="smartdevice_magicwand_fingerprint_detail">"Bạn đã quét mã QR để đăng nhập vào tài khoản của mình.

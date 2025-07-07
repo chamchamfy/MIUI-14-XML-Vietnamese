@@ -429,7 +429,7 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_protection_next">Tiếp tục</string>
     <string name="traffic_protection_summary">Thiết lập cảnh báo khi sử dụng dữ liệu của bạn đạt đến một mức độ nhất định</string>
     <string name="traffic_protection_text_hint">Thiết lập giới hạn sử dụng dữ liệu cho %s</string>
-    <string name="traffic_protection_unknown"><u>Thiết lập sau</u></string>
+    <string name="traffic_protection_unknown">&lt;u>Thiết lập sau&lt;/u></string>
     <string name="traffic_protection_use_data">Đã bật dữ liệu</string>
     <string name="traffic_purchase_body">Chạm để mua thêm lưu lượng.</string>
     <string name="traffic_purchse_suggestion">Mua dữ liệu di động</string>
@@ -531,19 +531,19 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="network_roaming_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng khi chuyển vùng.</string>
     <string name="network_route_exception_detail">"Dưới đây là vấn đề bạn gặp phải với bộ định tuyến mà bạn đã kết nối:
 
- "<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"
+ "&lt;b>1. Vấn đề với mạng Wi-Fi công cộng&lt;/b>"
 Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.
 
- "<b>2. Vấn đề cung cấp dịch vụ Internet</b>"
+ "&lt;b>2. Vấn đề cung cấp dịch vụ Internet&lt;/b>"
 Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với Nhà cung cấp Dịch vụ Internet.
 
- "<b>3. Vấn đề về phần cứng bộ định tuyến</b>"
+ "&lt;b>3. Vấn đề về phần cứng bộ định tuyến&lt;/b>"
 Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.
 
- "<b>4. Vấn đề về bộ định tuyến khác</b>"
+ "&lt;b>4. Vấn đề về bộ định tuyến khác&lt;/b>"
 Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.
 
- "<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"
+ "&lt;b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng&lt;/b>"
 Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
     <string name="network_sim_exception_detail">"Có vấn đề với thẻ SIM của bạn:
 

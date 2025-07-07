@@ -423,7 +423,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="my_favorite">Ưa thích</string>
     <string name="my_notification">Thông báo</string>
     <string name="my_room">Phòng của tôi</string>
-    <string name="my_room_underline"><u>Phòng của tôi</u></string>
+    <string name="my_room_underline">&lt;u>Phòng của tôi&lt;/u></string>
     <string name="my_setting">Cài đặt</string>
     <string name="network_diagnosis">Kiểm tra mạng</string>
     <string name="network_no_connection">Không thể kết nối mạng. Kiểm tra kết nối mạng và thử lại.</string>
@@ -483,7 +483,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="press_to_continue_match">Chạm để tiếp tục</string>
     <string name="press_to_match">Chạm để ghép nối</string>
     <string name="prev_remote">Điều khiển trước</string>
-    <string name="privacy_content">Đọc <a href="http://www.miui.com/res/doc/privacy/en.html">Chính sách Riêng tư</a> và <a href="http://www.miui.com/res/doc/eula/en.html">Thỏa thuận Người dùng</a> của Xiaomi trước khi sử dụng Điều khiển Mi. Ứng dụng cần truy cập dịch vụ internet và vị trí để làm việc bình thường.</string>
+    <string name="privacy_content">Đọc &lt;a href="http://www.miui.com/res/doc/privacy/en.html">Chính sách Riêng tư&lt;/a> và &lt;a href="http://www.miui.com/res/doc/eula/en.html">Thỏa thuận Người dùng&lt;/a> của Xiaomi trước khi sử dụng Điều khiển Mi. Ứng dụng cần truy cập dịch vụ internet và vị trí để làm việc bình thường.</string>
     <string name="privacy_nohit">Không hiển thị lại</string>
     <string name="privacy_title">Điều khoản và Điều kiện</string>
     <string name="projection_failed_for_disconnect">Thiết bị chưa được kết nối</string>
@@ -737,7 +737,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_bad_authentication">Tên đăng nhập hoặc mật khẩu không hợp lệ</string>
     <string name="passport_btn_return">Quay lại</string>
     <string name="passport_button_cancel">Hủy</string>
-    <string name="passport_change_account"><u>Đổi tài khoản</u></string>
+    <string name="passport_change_account">&lt;u>Đổi tài khoản&lt;/u></string>
     <string name="passport_change_phone_number">Đổi SĐT</string>
     <string name="passport_checking_account">Đang kiểm tra mật khẩu…</string>
     <string name="passport_checking_input">Đang kiểm tra…</string>
@@ -777,7 +777,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_error_verify_code">Mã bạn đã nhập không đúng</string>
     <string name="passport_failed_to_send_activate_email">Không thể gửi email kích hoạt</string>
     <string name="passport_find_password_on_web_msg">Truy cập account.mi.com để đặt lại mật khẩu.</string>
-    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
+    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
     <string name="passport_forget_password_no_underline">Quên mật khẩu</string>
     <string name="passport_get_back_pwd">Lấy lại mật khẩu</string>
     <string name="passport_get_verify_code">Lấy mã</string>
@@ -802,7 +802,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_login_notice">Đang đăng nhập…</string>
     <string name="passport_login_short">Đăng nhập</string>
     <string name="passport_login_title">Đăng nhập vào tài khoản Mi</string>
-    <string name="passport_login_with_email_or_id"><u>Đăng nhập bằng email hoặc ID tài khoản Mi</u></string>
+    <string name="passport_login_with_email_or_id">&lt;u>Đăng nhập bằng email hoặc ID tài khoản Mi&lt;/u></string>
     <string name="passport_next">Tiếp theo</string>
     <string name="passport_notification_title">Lỗi đăng nhập cho %1$s</string>
     <string name="passport_password_req_notice">Mật khẩu phải có 8-16 ký tự (bao gồm cả số, chữ cái, viết hoa và viết thường).</string>
@@ -822,7 +822,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_reg_success">Tài khoản đã được tạo</string>
     <string name="passport_reg_success_summary">Số điện thoại %1$s đã được ràng buộc với tài khoản của bạn. Bạn có thể sử dụng nó để đăng nhập hoặc đặt lại mật khẩu.</string>
     <string name="passport_reg_type_email">Tạo tài khoản bằng email</string>
-    <string name="passport_reg_type_other_ways"><u>Tạo tài khoản bằng cách khác</u></string>
+    <string name="passport_reg_type_other_ways">&lt;u>Tạo tài khoản bằng cách khác&lt;/u></string>
     <string name="passport_reg_type_other_ways_title">Tạo tài khoản bằng cách khác</string>
     <string name="passport_reg_using_other_phone">Đăng ký bằng số điện thoại khác</string>
     <string name="passport_reg_using_other_phone_number_prompt">Đăng ký bằng số điện thoại khác</string>
@@ -832,7 +832,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_register">Tạo tài khoản</string>
     <string name="passport_register_account_goto_email">Đi tới hộp thư của bạn</string>
     <string name="passport_register_account_verified_confirm">Tài khoản của bạn đã được xác minh rồi</string>
-    <string name="passport_register_by_email"><u>Tạo tài khoản bằng email</u></string>
+    <string name="passport_register_by_email">&lt;u>Tạo tài khoản bằng email&lt;/u></string>
     <string name="passport_register_restricted">Có quá nhiều tài khoản có liên kết với SĐT này, hãy thử một số khác.</string>
     <string name="passport_register_restricted_title">Không thể sử dụng SĐT này</string>
     <string name="passport_reject_recycle_account">Không</string>
@@ -920,8 +920,8 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_dspt_provision2">Tìm hiểu thêm</string>
     <string name="passport_input_verify_code_hint">Nhập mã xác minh</string>
     <string name="passport_password">Nhập mật khẩu</string>
-    <string name="passport_provision_skip_login"><u>Bỏ qua bước này</u></string>
+    <string name="passport_provision_skip_login">&lt;u>Bỏ qua bước này&lt;/u></string>
     <string name="passport_remove_account_notice">Sau khi đăng xuất khỏi tài khoản bạn muốn xử lý liên hệ và ghi chú trên điện thoại của bạn như thế nào?</string>
     <string name="passport_vcode">Mã xác minh</string>
-    <string name="passport_welcome_skip_login"><u>Bỏ qua bước này</u></string>
+    <string name="passport_welcome_skip_login">&lt;u>Bỏ qua bước này&lt;/u></string>
 </resources>

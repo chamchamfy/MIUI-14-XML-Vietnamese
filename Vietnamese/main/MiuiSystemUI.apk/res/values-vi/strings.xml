@@ -1280,7 +1280,7 @@ hoàn toàn"</string>
     <string name="keyguard_password_enter_pin_prompt">Mã PIN SIM mới</string>
     <string name="keyguard_password_enter_puk_code">Nhập PUK SIM và mã PIN mới</string>
     <string name="keyguard_password_enter_puk_prompt">Mã PUK SIM</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Chạm để nhập mật khẩu</font></string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font size="17">Chạm để nhập mật khẩu&lt;/font></string>
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
  Liên hệ với nhà cung cấp dịch vụ không dây để cung cấp thẻ SIM khác."</string>
@@ -1428,11 +1428,11 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="phone_locked_foget_password">Quên mật khẩu?</string>
     <string name="phone_locked_foget_password_mehod_back">Quay lại</string>
     <string name="phone_locked_foget_password_method">Quên mật khẩu?</string>
-    <string name="phone_locked_foget_password_method_content"><Data>Bạn phải &lt;font color=#a5220e>xóa tất cả dữ liệu &lt;/font> trên thiết bị, bao gồm ảnh và liên hệ, và thiết lập mật khẩu Màn hình khóa mới.;</Data></string>
+    <string name="phone_locked_foget_password_method_content">&lt;Data>Bạn phải &lt;font color=#a5220e>xóa tất cả dữ liệu &lt;/font> trên thiết bị, bao gồm ảnh và liên hệ, và thiết lập mật khẩu Màn hình khóa mới.;&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">Tiếp theo</string>
     <string name="phone_locked_foget_password_ok">Tôi biết</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Tắt thiết bị, sau đó nhấn giữ nút &lt;font color=#e6e6e6>[Nguồn]&lt;/font> và &lt;font color=#e6e6e6>[Âm lượng +]&lt;/font> cho đến khi bạn thấy &lt;img src=\"\">.</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Làm thế nào để xóa dữ liệu?</string>
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="pip_close">Đóng PiP</string>
@@ -1451,32 +1451,32 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="pip_skip_to_prev">Chuyển đến trang trước</string>
     <string name="power_notification_controls_description">"Với cài đặt thông báo nâng cao, bạn có thể đặt mức độ quan trọng từ cấp 0 tới cấp 5 cho thông báo ứng dụng 
 
-"<b>Cấp 5</b>" 
+"&lt;b>Cấp 5&lt;/b>" 
 - Hiển thị ở đầu danh sách thông báo 
 - Cho phép gián đoạn toàn màn hình 
 - Luôn hiển thị 
 
-"<b>Cấp 4</b>" 
+"&lt;b>Cấp 4&lt;/b>" 
 - Không cho phép gián đoạn toàn màn hình 
 - Luôn hiển thị 
 
-"<b>Cấp 3</b>" 
+"&lt;b>Cấp 3&lt;/b>" 
 - Không cho phép gián đoạn toàn màn hình 
 - Không bao giờ hiển thị 
 
-"<b>Cấp 2</b>" 
+"&lt;b>Cấp 2&lt;/b>" 
 - Không cho phép gián đoạn toàn màn hình 
 - Không bao giờ hiển thị 
 - Không bao giờ tạo âm thanh hoặc rung 
 
-"<b>Cấp 1</b>" 
+"&lt;b>Cấp 1&lt;/b>" 
 - Không cho phép gián đoạn toàn màn hình
 - Không bao giờ hiển thị 
 - Không bao giờ tạo âm thanh hoặc rung 
 - Ẩn khỏi màn hình khóa và thanh thông báo 
 - Hiển thị ở dưới cùng của danh sách thông báo 
 
-"<b>Cấp 0</b>" 
+"&lt;b>Cấp 0&lt;/b>" 
 - Chặn toàn bộ thông báo từ ứng dụng"</string>
     <string name="profile_owned_footer">Hồ sơ có thể được giám sát</string>
     <string name="qs_customize_title">Sửa</string>
@@ -3444,7 +3444,7 @@ dd/MM"</string>
     <string name="accessibility_floating_button_docking_tooltip">Di chuyển nút sang cạnh để ẩn nút tạm thời</string>
     <string name="accessibility_floating_button_migration_tooltip">"Nhấn để mở bộ tính năng hỗ trợ tiếp cận. Tuỳ chỉnh/thay thế nút này trong phần Cài đặt.
 
-"<annotation id="link">Xem chế độ cài đặt</annotation></string>
+"&lt;annotation id="link">Xem chế độ cài đặt&lt;/annotation></string>
     <string name="accessibility_floating_button_undo">Huỷ</string>
     <string name="accessibility_floating_button_undo_message_label_text">Đã xoá phím tắt dành cho %s</string>
     <string name="accessibility_floating_button_undo_message_number_text">{count,plural, =1{Đã xoá # lối tắt}other{Đã xoá # lối tắt}}</string>
@@ -3660,7 +3660,7 @@ Sau khi chúng bị xoá, bạn sẽ cần thiết lập lại tính năng Mở 
     <string name="font_scaling_dialog_title">Cỡ chữ</string>
     <string name="font_scaling_larger">Phóng to</string>
     <string name="font_scaling_smaller">Thu nhỏ</string>
-    <string name="forget_password_string_for_esim"><u>Quên mã PUK</u></string>
+    <string name="forget_password_string_for_esim">&lt;u>Quên mã PUK&lt;/u></string>
     <string name="format_day_desc">Ngày trong tháng: %s</string>
     <string name="format_day_week_desc">Ngày trong tháng: %1$s, %2$s</string>
     <string name="format_lunar_calendar_month_day_desc">Ngày theo lịch Âm: %s</string>
@@ -3943,7 +3943,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="pin_toast">Trượt lên từ phía dưới màn hình và tạm dừng để bỏ ghim ứng dụng này</string>
     <string name="pin_toast_nav">Bấm và giữ phím quay lại và xem trước để bỏ ghim ứng dụng này</string>
     <string name="pip_collapse">Thu gọn</string>
-    <string name="pip_edu_text">Nhấn đúp vào nút <annotation icon="home_icon">MÀN HÌNH CHÍNH</annotation> để mở trình đơn điều khiển</string>
+    <string name="pip_edu_text">Nhấn đúp vào nút &lt;annotation icon="home_icon">MÀN HÌNH CHÍNH&lt;/annotation> để mở trình đơn điều khiển</string>
     <string name="pip_expand">Mở rộng</string>
     <string name="pip_menu_accessibility_title">Trình đơn hình trong hình.</string>
     <string name="pip_move">Di chuyển</string>
@@ -4122,7 +4122,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="weather_no_data">Không có dữ liệu thời tiết</string>
     <string name="wifi_empty_list_wifi_on">Đang tìm mạng…</string>
     <string name="wifi_failed_connect_message">Không kết nối được với mạng</string>
-    <string name="wifi_scan_notify_message">Để cải thiện trải nghiệm khi dùng thiết bị, các ứng dụng và dịch vụ vẫn có thể quét tìm mạng Wi‑Fi bất cứ lúc nào, ngay cả khi Wi‑Fi tắt. Bạn có thể thay đổi chế độ này trong phần cài đặt tính năng Quét tìm Wi‑Fi. <annotation id="link">Thay đổi</annotation></string>
+    <string name="wifi_scan_notify_message">Để cải thiện trải nghiệm khi dùng thiết bị, các ứng dụng và dịch vụ vẫn có thể quét tìm mạng Wi‑Fi bất cứ lúc nào, ngay cả khi Wi‑Fi tắt. Bạn có thể thay đổi chế độ này trong phần cài đặt tính năng Quét tìm Wi‑Fi. &lt;annotation id="link">Thay đổi&lt;/annotation></string>
     <string name="wifi_unavailable_dream_overlay_content_description">Không có Wi-Fi</string>
     <string name="wifi_wont_autoconnect_for_now">Tạm thời, Wi-Fi sẽ không tự động kết nối</string>
     <string name="wifitrackerlib_admin_restricted_network">Không được tổ chức của bạn cho phép</string>
@@ -4676,7 +4676,7 @@ M</string>
     <string name="wifitrackerlib_hotspot_network_summary_error_generic">Không kết nối được. Hãy thử kết nối lại.</string>
     <string name="wifitrackerlib_hotspot_network_summary_error_settings">{DEVICE_TYPE,select, PHONE{Không kết nối được. Hãy kiểm tra chế độ cài đặt của điện thoại rồi thử lại.}TABLET{Không kết nối được. Hãy kiểm tra chế độ cài đặt của máy tính bảng rồi thử lại.}COMPUTER{Không kết nối được. Hãy kiểm tra chế độ cài đặt của máy tính rồi thử lại.}WATCH{Không kết nối được. Hãy kiểm tra chế độ cài đặt của đồng hồ rồi thử lại.}VEHICLE{Không kết nối được. Hãy kiểm tra chế độ cài đặt của xe rồi thử lại.}other{Không kết nối được. Hãy kiểm tra chế độ cài đặt của thiết bị rồi thử lại.}}</string>
     <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE,select, PHONE{{NETWORK_NAME} trên điện thoại của bạn}TABLET{{NETWORK_NAME} trên máy tính bảng của bạn}COMPUTER{{NETWORK_NAME} trên máy tính của bạn}WATCH{{NETWORK_NAME} trên đồng hồ của bạn}VEHICLE{{NETWORK_NAME} trên xe của bạn}other{{NETWORK_NAME} trên thiết bị của bạn}}</string>
-    <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. <annotation id="url">Tìm hiểu thêm</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. &lt;annotation id="url">Tìm hiểu thêm&lt;/annotation></string>
     <string name="wifitrackerlib_known_network_summary">Nguồn Internet: %1$s</string>
     <string name="wifitrackerlib_link_speed_mbps">%1$d Mb/giây</string>
     <string name="wifitrackerlib_link_speed_on_band">%1$s trên %2$s</string>

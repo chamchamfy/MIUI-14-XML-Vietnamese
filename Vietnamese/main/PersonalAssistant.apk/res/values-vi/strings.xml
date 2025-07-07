@@ -298,7 +298,7 @@
     <string name="express_icon_tip">Tra thông tin giao hàng qua số điện thoại và thông tin đặt hàng.</string>
     <string name="express_icon_tip_link">Bảo mật &amp; riêng tư</string>
     <string name="express_install_cainiao_description">%s yêu cầu cài đặt ứng dụng Cainiao. Cài đặt ngay?</string>
-    <string name="express_install_cainiao_hidden">" "<u>Không hiển thị lại</u>" "</string>
+    <string name="express_install_cainiao_hidden">" "&lt;u>Không hiển thị lại&lt;/u>" "</string>
     <string name="express_install_cainiao_ok">Cài đặt</string>
     <string name="express_install_cainiao_title">Cài đặt Cainao</string>
     <string name="express_install_delivery_service">Theo dõi đặt hàng, liên hệ người giao hàng và nhiều dịch vụ khác...</string>
@@ -904,7 +904,7 @@
     <string name="express_inquiry_delete_warning_multiple">Xóa %d mục?</string>
     <string name="express_inquiry_delete_warning_single">Xóa mục này?</string>
     <string name="express_inquiry_delivered">Đã giao</string>
-    <string name="express_install_provider_app_hidden"><u>Không hiển thị lại</u></string>
+    <string name="express_install_provider_app_hidden">&lt;u>Không hiển thị lại&lt;/u></string>
     <string name="express_install_provider_app_ok">Cài đặt</string>
     <string name="express_install_provider_app_title">Cài đặt %s</string>
     <string name="login_before_use">Bạn cần đăng nhập trước</string>

@@ -303,7 +303,7 @@
     <string name="express_update_cainiao_title">Phiên bản Cainiao quá cũ</string>
     <string name="express_update_cainiao_description">Cập nhật Cainiao để sử dụng tính năng này.</string>
     <string name="express_update_cainiao_ok">Cập nhật</string>
-    <string name="express_install_cainiao_hidden"><u>Không hiển thị lại</u></string>
+    <string name="express_install_cainiao_hidden">&lt;u>Không hiển thị lại&lt;/u></string>
     <string name="search_add_header">Thêm ảnh bìa</string>
     <string name="search_clear_header">Xóa ảnh bìa</string>
     <string name="search_change_header">Thay thế ảnh bìa</string>
