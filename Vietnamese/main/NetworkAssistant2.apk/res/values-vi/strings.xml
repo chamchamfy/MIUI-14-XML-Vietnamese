@@ -313,7 +313,7 @@ Hàng ngày: %1$s%2$s | Đã dùng %3$s"</string>
     <string name="pref_traffic_saving_whitelist_hint">Không giới hạn sử dụng dữ liệu cho các ứng dụng đã chọn</string>
     <string name="pref_version">Phiên bản %s</string>
     <string name="pref_whitelist_setting">Quản lý danh sách ngoại lệ</string>
-    <string name="privacy_declare_dialog_message">Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=%s> Điều khoản Dịch vụ&lt;/a> của Opera.</string>
+    <string name="privacy_declare_dialog_message">Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href="%s"> Điều khoản Dịch vụ&lt;/a> của Opera.</string>
     <string name="privacy_declare_dialog_title">Điều khoản Dịch vụ</string>
     <string name="privacy_prompt_tc_sms_report_message">Chi tiết số điện và nhà cung cấp của bạn sẽ được mã hóa và tải lên máy chủ của Mi để cập nhật thông tin sử dụng dữ liệu của bạn.</string>
     <string name="privacy_prompt_traffic_adjust_message">Tính năng này cần mã hóa và gửi số IMEI, số điện thoại, và thông tin nhà mạng của thiết bị tới máy chủ của Mi để nhận thống kê sử dụng dữ liệu.</string>
@@ -429,7 +429,7 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_protection_next">Tiếp tục</string>
     <string name="traffic_protection_summary">Thiết lập cảnh báo khi sử dụng dữ liệu của bạn đạt đến một mức độ nhất định</string>
     <string name="traffic_protection_text_hint">Thiết lập giới hạn sử dụng dữ liệu cho %s</string>
-    <string name="traffic_protection_unknown">&lt;u>Thiết lập sau&lt;/u></string>
+    <string name="traffic_protection_unknown"><u>Thiết lập sau</u></string>
     <string name="traffic_protection_use_data">Đã bật dữ liệu</string>
     <string name="traffic_purchase_body">Chạm để mua thêm lưu lượng.</string>
     <string name="traffic_purchse_suggestion">Mua dữ liệu di động</string>
@@ -531,19 +531,19 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="network_roaming_exception_tips">Không thể sử dụng dữ liệu di động để kết nối mạng khi chuyển vùng.</string>
     <string name="network_route_exception_detail">"Dưới đây là vấn đề bạn gặp phải với bộ định tuyến mà bạn đã kết nối:
 
- "&lt;b>1. Vấn đề với mạng Wi-Fi công cộng&lt;/b>"
+ "<b>1. Vấn đề với mạng Wi-Fi công cộng</b>"
 Nếu bạn đã kết nối với mạng Wi-Fi công cộng, số lượng người dùng kết nối mạng có thể làm chậm hoặc tạo ra các vấn đề kết nối. Chuyển sang mạng khác và thử lại.
 
- "&lt;b>2. Vấn đề cung cấp dịch vụ Internet&lt;/b>"
+ "<b>2. Vấn đề cung cấp dịch vụ Internet</b>"
 Đảm bảo rằng tài khoản của bạn ở trạng thái tốt với Nhà cung cấp Dịch vụ Internet.
 
- "&lt;b>3. Vấn đề về phần cứng bộ định tuyến&lt;/b>"
+ "<b>3. Vấn đề về phần cứng bộ định tuyến</b>"
 Thử khởi động lại bộ định tuyến hoặc kiểm tra các thiết lập quản lý cho bộ định tuyến của bạn.
 
- "&lt;b>4. Vấn đề về bộ định tuyến khác&lt;/b>"
+ "<b>4. Vấn đề về bộ định tuyến khác</b>"
 Đọc hướng dẫn đi kèm với bộ định tuyến và khôi phục về cài đặt gốc.
 
- "&lt;b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng&lt;/b>"
+ "<b>5. Đảm bảo rằng bộ định tuyến của bạn được kết nối đúng</b>"
 Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của bạn. Nếu bạn nghi ngờ có vấn đề với kết nối trong nhà, liên hệ với nhà cung cấp dịch vụ Internet của bạn."</string>
     <string name="network_sim_exception_detail">"Có vấn đề với thẻ SIM của bạn:
 

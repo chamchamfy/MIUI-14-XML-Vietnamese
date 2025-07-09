@@ -720,7 +720,7 @@
     <string name="confirm_install_scanner_message">Máy quét cho phép bạn quét mã QR, mã vạch và nhiều loại mã khác. Bạn không cần kết nối internet để cài đặt.</string>
     <string name="confirm_install_scanner_title">Cài đặt Máy quét</string>
     <string name="confirm_location_alert">Nhớ vị trí bức ảnh</string>
-    <string name="confirm_location_message">&lt;Data>Chào mừng tới Máy ảnh! Gắn thẻ ảnh và video của bạn bằng vị trí nó được chụp sẽ khiến Thư viện quản lý tốt hơn và giúp bạn tìm kiếm nhanh hơn. Một vài tính năng có thể không khả dụng nếu bạn hạn chế thêm thông tin vị trí.&lt;br/>&lt;br/>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.&lt;/Data></string>
+    <string name="confirm_location_message"><Data>Chào mừng tới Máy ảnh! Gắn thẻ ảnh và video của bạn bằng vị trí nó được chụp sẽ khiến Thư viện quản lý tốt hơn và giúp bạn tìm kiếm nhanh hơn. Một vài tính năng có thể không khả dụng nếu bạn hạn chế thêm thông tin vị trí.&lt;br/>&lt;br/>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.</Data></string>
     <string name="confirm_location_title">Nhớ vị trí bức ảnh?</string>
     <string name="confirm_recording_fail_calling_alert">Không thể quay phim khi đang gọi.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Ứng dụng khác có thể sử dụng micro của thiết bị để ghi âm.</string>
@@ -747,7 +747,7 @@
     <string name="crop_saved">Ảnh đã cắt được lưu vào %s.</string>
     <string name="cta_mimoji_msg">Chào mừng sử dụng Fun Cam! Bạn có thể sử dụng ứng dụng này để chụp ảnh và quay video. Để có thể hoạt động bình thường, ứng dụng này cần kết nối mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:</string>
     <string name="cta_mimoji_perm_type">Quyền bắt buộc (sử dụng cho các tính năng và dịch vụ cơ bản của ứng dụng này)</string>
-    <string name="cta_mimoji_user_links">&lt;Data>Đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.&lt;/Data></string>
+    <string name="cta_mimoji_user_links"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.</Data></string>
     <string name="cta_mimoji_user_tips">Nếu bạn không đồng ý cấp các quyền bắt buộc hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Nếu bạn không cấp các quyền tùy chọn, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, tính năng cơ bản vẫn sẽ khả dụng cho bạn. Bạn luôn có thể giới hạn quyền hoặc rút lại chấp thuận của mình trong Cài đặt.</string>
     <string name="cta_msg">Chào mừng tới Máy ảnh! Bạn có thể sử dụng ứng dụng này để chụp ảnh và quay video. Ứng dụng này cần kết nối mạng và các quyền tùy chọn dưới đây:</string>
     <string name="cta_perm_cam">Sử dụng máy ảnh</string>
@@ -759,7 +759,7 @@
     <string name="cta_perm_type">Quyền tùy chọn (Sử dụng cho tính năng bổ sung khi bạn sử dụng)</string>
     <string name="cta_perm_voice">Sử dụng micrô</string>
     <string name="cta_perm_voice_desc">Để ghi âm khi quay video</string>
-    <string name="cta_user_tips">&lt;Data>Để hiểu đầy đủ quyền của bạn với tư cách người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi.&lt;/Data></string>
+    <string name="cta_user_tips"><Data>Để hiểu đầy đủ quyền của bạn với tư cách người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</Data></string>
     <string name="custom_sound_art">Cổ điển</string>
     <string name="custom_sound_default">Mặc định</string>
     <string name="custom_sound_modern">Hiện đại</string>
@@ -1524,10 +1524,10 @@
     <string name="multi_window_mode_not_supported">Máy ảnh không làm việc trong chế độ Chia màn hình</string>
     <string name="music_hint_tt">Nguồn cấp dịch vụ</string>
     <string name="network_access_user_notice_agree">Đồng ý</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>Máy ảnh cần kết nối mạng để cung cấp hiệu ứng, âm nhạc và các tính năng khác cho video ngắn.&lt;br/>&lt;br/>Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi, và cho phép Máy ảnh kết nối mạng.&lt;/Data></string>
-    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>Chào mừng tới video ngắn! Dịch vụ của chúng tôi cần kết nối mạng để cung cấp nhạc và các tính năng khác cho bạn. &lt;br/>&lt;br/>Trước khi sử dụng dịch vụ của chúng tôi, bạn cần đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi, cũng như cho phép ứng dụng kết nối mạng.&lt;/Data></string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data>Máy ảnh cần kết nối mạng để cung cấp nhãn dán cho tính năng này.&lt;br/>&lt;br/>Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi, và cho phép Máy ảnh kết nối mạng.&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>Máy ảnh cần kết nối mạng để cung cấp tính năng xuất giọng nói thành văn bản.&lt;br/>&lt;br/>Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi, và cho phép Máy ảnh kết nối mạng.&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video"><Data>Máy ảnh cần kết nối mạng để cung cấp hiệu ứng, âm nhạc và các tính năng khác cho video ngắn.&lt;br/>&lt;br/>Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi, và cho phép Máy ảnh kết nối mạng.</Data></string>
+    <string name="network_access_user_notice_message_mi_live_video"><Data>Chào mừng tới video ngắn! Dịch vụ của chúng tôi cần kết nối mạng để cung cấp nhạc và các tính năng khác cho bạn. &lt;br/>&lt;br/>Trước khi sử dụng dịch vụ của chúng tôi, bạn cần đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi, cũng như cho phép ứng dụng kết nối mạng.</Data></string>
+    <string name="network_access_user_notice_message_sticker"><Data>Máy ảnh cần kết nối mạng để cung cấp nhãn dán cho tính năng này.&lt;br/>&lt;br/>Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi, và cho phép Máy ảnh kết nối mạng.</Data></string>
+    <string name="network_access_user_notice_message_voice_caption"><Data>Máy ảnh cần kết nối mạng để cung cấp tính năng xuất giọng nói thành văn bản.&lt;br/>&lt;br/>Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi, và cho phép Máy ảnh kết nối mạng.</Data></string>
     <string name="network_access_user_notice_title">Đang kết nối mạng</string>
     <string name="network_connection_failed">Kết nối thất bại</string>
     <string name="network_connection_ongoing">Đang kết nối</string>

@@ -48,7 +48,7 @@
 	<string name="ai_call_in">Mới đến</string>
 	<string name="ai_call_make_picture_error">Không thể tạo hình ảnh</string>
 	<string name="ai_call_out">Hướng ngoại</string>
-	<string name="ai_call_satisfaction_survey">&lt;Data>Khảo sát mức độ hài lòng của người dùng Trợ lý cuộc gọi Mi AI:&lt;br/>&lt;font color=#3482FF>http://s.mi.cn/TEa1fADB&lt;/font>&lt;/Data></string>
+	<string name="ai_call_satisfaction_survey"><Data>Khảo sát mức độ hài lòng của người dùng Trợ lý cuộc gọi Mi AI:&lt;br/>&lt;font color=#3482FF>http://s.mi.cn/TEa1fADB&lt;/font></Data></string>
 	<string name="ai_call_selection_tone_from_xiaoai_voice_store">Sử dụng âm sắc đã chọn từ kho âm thanh Mi AI</string>
 	<string name="ai_call_share_error">Không thể chia sẻ</string>
 	<string name="ai_call_share_save_error">Không thể lưu</string>
@@ -824,7 +824,7 @@
 	<string name="pm">CH</string>
 	<string name="policy_language_local">trong chúng ta</string>
 	<string name="policy_update_dialog_title">Chính sách bảo mật được cập nhật</string>
-	<string name="policy_update_tip">&lt;Data>Chính sách quyền riêng tư của Trợ lý cuộc gọi Mi AI đã được cập nhật:&lt;br/>%1$s&lt;br/>Bạn sẽ không thể tiếp tục sử dụng Trợ lý cuộc gọi Mi AI trừ khi bạn đồng ý với phiên bản mới của &lt;a href= \"%2$s\">Chính sách quyền riêng tư&lt;/a>. Đồng ý với Chính sách quyền riêng tư được cập nhật ngay bây giờ?&lt;/Data></string>
+	<string name="policy_update_tip"><Data>Chính sách quyền riêng tư của Trợ lý cuộc gọi Mi AI đã được cập nhật:&lt;br/>%1$s&lt;br/>Bạn sẽ không thể tiếp tục sử dụng Trợ lý cuộc gọi Mi AI trừ khi bạn đồng ý với phiên bản mới của &lt;a href= \"%2$s\">Chính sách quyền riêng tư&lt;/a>. Đồng ý với Chính sách quyền riêng tư được cập nhật ngay bây giờ?</Data></string>
 	<string name="preference_copied">Đã sao chép \"%1$s\" vào bảng nhớ tạm.</string>
 	<string name="prologue_am_incall_btn_title">Lời chào ngoại tuyến</string>
 	<string name="prologue_auto_pick_radio_btn_title">Tự động trả lời lời chào</string>
@@ -957,9 +957,9 @@
 	<string name="sunday">Chủ nhật</string>
 	<string name="sunday_short">CN</string>
 	<string name="sunday_shortest">CN</string>
-	<string name="system_permission_declare_double_link_tips">&lt;Data>Tôi đã đọc và đồng ý với Trợ lý cuộc gọi Mi AI &lt;a href=\"%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s>Chính sách quyền riêng tư&lt;/a>.&lt;/Data></string>
+	<string name="system_permission_declare_double_link_tips"><Data>Tôi đã đọc và đồng ý với Trợ lý cuộc gọi Mi AI &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a>.</Data></string>
 	<string name="temporary_not_available">tạm thời không có sẵn</string>
-	<string name="text_cta_dialog">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng Trợ lý cuộc gọi Mi AI. Để hoạt động bình thường, các dịch vụ của chúng tôi cần kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập danh bạ và thông tin vị trí cũng như thu thập và xử lý thông tin cá nhân của bạn. Đồng ý?&lt;/Data></string>
+	<string name="text_cta_dialog"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng Trợ lý cuộc gọi Mi AI. Để hoạt động bình thường, các dịch vụ của chúng tôi cần kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập danh bạ và thông tin vị trí cũng như thu thập và xử lý thông tin cá nhân của bạn. Đồng ý?</Data></string>
 	<string name="text_edit">Nhập văn bản</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>

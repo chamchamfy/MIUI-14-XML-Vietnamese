@@ -630,7 +630,7 @@
     <string name="url_fraud_risky_alert">"Trang web mà bạn đang cố gắng truy cập có thể nguy hiểm. Vẫn tiếp tục?
 %s"</string>
     <string name="url_fraud_title">Trang web này có thể là giả mạo</string>
-    <string name="url_fraud_visit">&lt;u>Vẫn truy cập&lt;/u></string>
+    <string name="url_fraud_visit"><u>Vẫn truy cập</u></string>
     <string name="url_result_safe">URL này an toàn</string>
     <string name="url_scanning">Đang kiểm tra URL…</string>
     <string name="verification_code_list_title">Mã xác minh</string>

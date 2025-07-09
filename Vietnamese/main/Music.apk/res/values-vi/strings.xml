@@ -360,7 +360,7 @@
     <string name="hungama_subscribe_positive_button">Thanh toán</string>
     <string name="hungama_subscribe_title">Tải xuống</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
+    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en">Thỏa thuận Người dùng&lt;/a> và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
     <string name="impunity_declaration_ignore">Không hiển thị lại</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="impunity_declaration_positive_text">Đồng ý</string>
@@ -1289,8 +1289,8 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="nowplaying_scroll_try">Thử cuộn</string>
     <string name="online_video">Video</string>
     <string name="paused_waiting_to_pay">Đang chờ thanh toán</string>
-    <string name="play_all">&lt;Data>Phát tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data></string>
-    <string name="play_all_shuffle">&lt;Data>Trộn tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;&lt;/Data></string>
+    <string name="play_all"><Data>Phát tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;</Data></string>
+    <string name="play_all_shuffle"><Data>Trộn tất cả&lt;font color=#999999&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_all_song_with_count">Phát tất cả (%d)</string>
     <string name="play_mode_circle">Chế độ lặp</string>
     <string name="play_mode_shuffle">Chế độ trộn</string>
@@ -1920,8 +1920,8 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="info_app_package_name">Tên gói:</string>
 	<string name="toast_playmode_shuffle_play">Danh sách phát đã được trộn</string>
 	<string name="info_product">Thiết bị:</string>
-	<string name="privacy_request_desc">"Mi Music cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ phát trực tuyến. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt;. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Mi Music trong phần Cài đặt bất kỳ lúc nào.
-Đọc và đồng ý với &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Music.
+	<string name="privacy_request_desc">"Mi Music cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ phát trực tuyến. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href="%1$s"&gt;Chính sách Riêng tư&lt;/a&gt;. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của Mi Music trong phần Cài đặt bất kỳ lúc nào.
+Đọc và đồng ý với &lt;a href="%2$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%1$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Music.
 Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ khả dụng cho bạn."</string>
 	<string name="privacy_request_subtitle">"Chào mừng đến với Mi Music! Ứng dụng này cung cấp các dịch vụ sau:
 
@@ -2136,7 +2136,7 @@ ID:%s
 Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="change_password">Thay đổi mật khẩu</string>
 	<string name="voiceroom_set_workdata_hint_thisweek">Tuần này</string>
-	<string name="user_agreement_hint_with_telecom">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a&gt;.&lt;/Data&gt;</string>
+	<string name="user_agreement_hint_with_telecom"><Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%3$s"&gt;Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a&gt;.</Data&gt;</string>
 	<string name="resend_email_success">Gửi thành công</string>
 	<string name="task_done_button">Xong</string>
 	<string name="password_toast_unsame">Mật khẩu không khớp</string>
@@ -2283,7 +2283,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="destroy_room_sure">Xác nhận</string>
 	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, &gt;, hoặc /"</string>
 	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
-	<string name="passport_user_agreement_link">"&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.&lt;/Data&gt;"</string>
+	<string name="passport_user_agreement_link">"<Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data&gt;"</string>
 	<string name="apppush_button_follow">Theo dõi</string>
 	<string name="input_new_pwd">Nhập mật khẩu mới</string>
 	<string name="error_invalid_bind_address">Nhập địa chỉ email</string>
@@ -2309,7 +2309,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="me_button_term">Điều khoản Dịch vụ</string>
 	<string name="goto_sign_up">Tạo tài khoản</string>
 	<string name="userpopup_button_block">Chặn</string>
-	<string name="user_agreement_hint_with_unicom">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a&gt;.&lt;/Data&gt;</string>
+	<string name="user_agreement_hint_with_unicom"><Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%3$s"&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a&gt;.</Data&gt;</string>
 	<string name="mute_chat_setting">Tắt tiếng</string>
 	<string name="edit">Sửa</string>
 	<string name="marquee_price">Giá</string>
@@ -2340,7 +2340,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="cr_skin">Đẹp da</string>
 	<string name="cr_save">Lưu</string>
 	<string name="passport_error_device_id">Không thể nhận ID thiết bị</string>
-	<string name="user_agreement_hint_with_mobile">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a&gt;.&lt;/Data&gt;</string>
+	<string name="user_agreement_hint_with_mobile"><Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt;, &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%3$s"&gt;Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a&gt;.</Data&gt;</string>
 	<string name="passport_can_not_receive_verification_code">"Không nhận được mã xác thực?"</string>
 	<string name="ticket_hint">Mã xác minh</string>
 	<string name="login_by_local_phone_short_text">Đăng nhập</string>
@@ -2404,7 +2404,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="request_error_network">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
 	<string name="room_setting">Cài đặt</string>
 	<string name="signout_popup_button_no">Hủy</string>
-	<string name="passport_user_agreement_link_more">"&lt;Data&gt;Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%4$s&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+	<string name="passport_user_agreement_link_more">"<Data&gt;Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data&gt;"</string>
 	<string name="brvah_load_failed">Tải không thành công, vui lòng nhấp vào đây để thử lại</string>
 	<string name="rule">Quy tắc</string>
 	<string name="description">Mô tả</string>
@@ -2524,7 +2524,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="userpopup_button_unblock">Bỏ chặn</string>
 	<string name="home_voiceroomlist_hot">Nóng</string>
 	<string name="password_hint_recreat">Xác nhận mật khẩu</string>
-	<string name="user_agreement_hint_default">&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư.&lt;/a&gt;&lt;/Data&gt;</string>
+	<string name="user_agreement_hint_default"><Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư.&lt;/a&gt;</Data&gt;</string>
 	<string name="userpopup_button_chat">Trò chuyện</string>
 	<string name="chat_audio_tip_1">Trượt lên để hủy</string>
 	<string name="request_error_unknown">Đã xảy ra lỗi hệ thống. Quay lại rồi thử lại.</string>

@@ -276,7 +276,7 @@
     <string name="resource_menu_refresh">Làm mới</string>
     <string name="resource_mute">Không</string>
     <string name="resource_my">Trên máy</string>
-    <string name="resource_network_diagnostics">&lt;u>Kiểm tra mạng&lt;/u></string>
+    <string name="resource_network_diagnostics"><u>Kiểm tra mạng</u></string>
     <string name="resource_no_match_app">Không tìm thấy ứng dụng để xử lý tác vụ này.</string>
     <string name="resource_no_network_text">Không thể kết nối mạng.</string>
     <string name="resource_no_result">Không tìm thấy kết quả nào</string>
@@ -1723,8 +1723,8 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="theme_component_title_large_icon">Siêu biểu tượng</string>
     <string name="phone_log_in_theme">Đăng nhập vào Chủ đề</string>
     <string name="login_theme">Đăng nhập vào Chủ đề</string>
-    <string name="phone_log_in_theme_detail">&lt;Data>"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."&lt;/Data></string>
-    <string name="read_and_agree_account_privacy">&lt;Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."&lt;/Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Tôi đã đọc và đồng ý với Chủ đề &lt;font color=#37A5FF>&lt;a href="%1$s">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#37A5FF>&lt;a href="%2$s">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=#37A5FF>&lt;a href="%3$s">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=#37A5FF> and &lt;a href="%4$s">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=#37A5FF>&lt;a href="%3$s">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#37A5FF>&lt;a href="%4$s">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
     <string name="local_mode">Chế độ ngoại tuyến</string>
     <string name="local_mode_close">Tắt chế độ ngoại tuyến?</string>
     <string name="local_mode_close_desc">Tắt chế độ ngoại tuyến nếu bạn muốn sử dụng các dịch vụ trực tuyến. Tắt ngay bây giờ?</string>
@@ -1939,7 +1939,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="lock_screen_template_unsupported_super_wallpaper_tip">Mẫu Màn hình khóa này không hỗ trợ Siêu hình nền. Sau khi áp dụng, Màn hình khóa của bạn sẽ trở về mặc định và hình nền Màn hình khóa và Màn hình chính của bạn sẽ được thay thế. Áp dụng ngay?</string>
     <string name="lock_screen_template_unsupported_tip">Do mẫu bạn đang sử dụng, nếu bạn tiếp tục, Màn hình khóa của bạn sẽ được khôi phục về mặc định. Vẫn tiếp tục?</string>
     <string name="lockscreen_magazine_dialog_agree">Đồng ý</string>
-    <string name="lockscreen_magazine_dialog_close">&lt;u>Tắt Mix Hình nền&lt;/u></string>
+    <string name="lockscreen_magazine_dialog_close"><u>Tắt Mix Hình nền</u></string>
     <string name="lockscreen_magazine_dialog_disagree">Không đồng ý</string>
     <string name="lockscreen_magazine_dialog_keep">Tiếp tục</string>
     <string name="lockscreen_magazine_dialog_keep_choose">Nhớ lựa chọn của tôi</string>
@@ -2014,7 +2014,7 @@ mm"</string>
     <string name="payment_coins_balance">(Số dư: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Số dư không đủ)</string>
     <string name="payment_data_move_tips">Dữ liệu tài khoản của bạn sẽ được chuyển đến máy chủ trong khu vực của bạn để tuân thủ các quy định về riêng tư. Có nguy cơ mất dữ liệu trong quá trình chuyển.</string>
-    <string name="payment_instructions">&lt;Data>Bằng cách hoàn tất thanh toán, bạn sẽ đồng ý với &lt;a href=\"%1$s\">Thông báo về mua hàng trong ứng dụng&lt;/a>.&lt;/Data></string>
+    <string name="payment_instructions"><Data>Bằng cách hoàn tất thanh toán, bạn sẽ đồng ý với &lt;a href="%1$s">Thông báo về mua hàng trong ứng dụng&lt;/a>.</Data></string>
     <string name="payment_method">Phương thức thanh toán</string>
     <string name="permission_desc">Để lưu chủ đề đã lưu và các mục khác</string>
     <string name="permission_pop_desc">Để có thể thay đổi tùy chọn cá nhân và lưu các mục đã tải xuống, trước tiên cho phép Chủ đề truy cập lưu trữ.</string>
@@ -2085,7 +2085,7 @@ mm"</string>
     <string name="rewarded_ad_pop_title">Chủ đề cao cấp</string>
     <string name="rewarded_ad_watch_again_pop">Xem hết video để tải xuống chủ đề cao cấp này. Xem ngay?</string>
     <string name="rewarded_ad_watch_again_pop_for_lw">Xem hết video để tải xuống hình nền này. Xem ngay?</string>
-    <string name="ringtone_agreement_message">Trước khi sử dụng nhạc chuông từ Chủ đề, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
+    <string name="ringtone_agreement_message">Trước khi sử dụng nhạc chuông từ Chủ đề, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
     <string name="ringtone_preset">Nhạc chuông cài sẵn</string>
     <string name="scroll_switch">Trượt để chuyển giữa các mục</string>
     <string name="show_incompatible_font">Hiển thị phông chữ không tương thích</string>
@@ -2135,15 +2135,15 @@ mm"</string>
     <string name="user_authorization_dialog_agree">Đồng ý</string>
     <string name="user_authorization_dialog_agree_a">Đồng ý</string>
     <string name="user_authorization_dialog_disagree">Thoát</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin mà chúng tôi thu thập trong &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi. Đọc và đồng ý với &lt;a href=\"%2$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%3$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Chủ đề.
-Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Chủ đề trong Cài đặt bất kỳ lúc nào.&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>Đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.&lt;/Data></string>
+    <string name="user_authorization_dialog_message">"<Data>Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin mà chúng tôi thu thập trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> của chúng tôi. Đọc và đồng ý với &lt;a href="%2$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%3$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Chủ đề.
+Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Chủ đề trong Cài đặt bất kỳ lúc nào.</Data>"</string>
+    <string name="user_authorization_dialog_message_a"><Data>Đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.</Data></string>
     <string name="user_authorization_dialog_title">Điều khoản và Điều kiện</string>
     <string name="uvi_format">UVI %1$s %2$s</string>
     <string name="uvi_format_desc">Chỉ số tia cực tím: %1$s, %2$s</string>
     <string name="video_cancel">Hủy</string>
     <string name="video_not_support_message">Video này có thể được hiển thị không chính xác hoặc làm chậm thiết bị của bạn. Vẫn áp dụng?</string>
-    <string name="wallpaper_agreement_message">Trước khi sử dụng hình nền từ Chủ đề, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
+    <string name="wallpaper_agreement_message">Trước khi sử dụng hình nền từ Chủ đề, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
     <string name="wallpaper_and_personal">Hình nền &amp; cá nhân</string>
     <string name="wallpaper_desc">Hình nền giúp Màn hình chính trông mới mẻ hơn.</string>
     <string name="wallpaper_group_black_gobi_title">Cát Gobi</string>
@@ -2242,8 +2242,8 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="ai_inquire_apply_wallpaper">Áp dụng hình nền này?</string>
     <string name="ai_moving_your_wallpaper">Xem cách AI có thể làm cho hình nền của bạn trở nên sống động</string>
     <string name="personalize_aod_notify_style_title">Hiển thị thông báo</string>
-    <string name="ai_read_the_privacy_policy">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
-    <string name="ai_read_the_privacy_policy_pad">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật hình nền và cá nhân hóa&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="ai_read_the_privacy_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách bảo mật&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="ai_read_the_privacy_policy_pad"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách bảo mật hình nền và cá nhân hóa&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="ai_select_again">Chọn</string>
     <string name="ai_select_message">Chỉ chọn hình ảnh phong cảnh, thành phố, cây cối và ô tô, và đảm bảo rằng chủ thể chính của hình ảnh rõ ràng và không bị cản trở.</string>
     <string name="ai_select_title">"Không thể xử lý hình ảnh"</string>

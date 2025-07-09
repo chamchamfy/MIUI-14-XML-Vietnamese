@@ -371,7 +371,7 @@ Không thể gửi phản hồi"</string>
     <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Đang tải xuống:</string>
     <string name="downloading_desc">Đang tải xuống, kiểm tra trạng thái trong khu vực thông báo.</string>
-    <string name="install_desc">Thiết bị sẽ khởi động lại để vào recovery và cài đặt tập tin đã chọn:&lt;b> %1$s&lt;/b>"
+    <string name="install_desc">Thiết bị sẽ khởi động lại để vào recovery và cài đặt tập tin đã chọn:<b> %1$s</b>"
 Dữ liệu sẽ không bị xóa."</string>
     <string name="install_title">Bạn có chắc muốn tiếp tục?</string>
     <string name="message_checkbox">Ẩn thông báo trong tương lai từ đội ngũ Xiaomi.eu</string>

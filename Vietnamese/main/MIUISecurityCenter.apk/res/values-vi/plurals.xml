@@ -178,8 +178,8 @@
 		<item quantity="one">Đang bảo vệ %d ứng dụng</item>
 	</plurals>
 	<plurals name="card_uninstall_title">
-		<item quantity="other">&lt;Data>Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data></item>
-		<item quantity="one">&lt;Data>Bạn có thể gỡ cài đặt ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data></item>
+		<item quantity="other">&lt;Data&gt;Bạn có thể gỡ cài đặt &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data&gt;</item>
+		<item quantity="one">&lt;Data&gt;Bạn có thể gỡ cài đặt ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data&gt;</item>
 	</plurals>
 	<plurals name="daily_sim_over_limit_dialog_message">
 		<item quantity="other">Bạn đã sử dụng giới hạn dữ liệu hàng ngày %s.\n\nNếu bạn bật lại dữ liệu di động, nhà cung cấp dịch vụ của bạn có thể tính phí dữ liệu bổ sung cho bạn.</item>
@@ -1284,8 +1284,8 @@
 		<item quantity="one">%1$d mục được bảo mật</item>
 	</plurals>
 	<plurals name="title_app_update_cn">
-		<item quantity="other">&lt;Data>Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data></item>
-		<item quantity="one">&lt;Data>Cập nhật ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data></item>
+		<item quantity="other">&lt;Data&gt;Cập nhật &lt;font color=#F22424>%d&lt;/font> ứng dụng&lt;/Data&gt;</item>
+		<item quantity="one">&lt;Data&gt;Cập nhật ứng dụng &lt;font color=#F22424>%d&lt;/font>&lt;/Data&gt;</item>
 	</plurals>
 	<plurals name="title_virus_clean">
 		<item quantity="other">Đã xóa %d vi-rút</item>

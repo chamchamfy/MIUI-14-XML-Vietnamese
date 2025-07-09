@@ -48,7 +48,7 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
     <string name="cloud_app_check_data">Đang trao đổi với Xiaomi Cloud…</string>
     <string name="cloud_app_no_network">Không thể kết nối mạng</string>
     <string name="button_delete">Xóa</string>
-    <string name="customization">&lt;u>Tùy chỉnh&lt;/u></string>
+    <string name="customization"><u>Tùy chỉnh</u></string>
     <string name="self_phone">Điện thoại này</string>
     <string name="process_whole_recovery">Đang khôi phục \"%s\"</string>
     <string name="device_xiaomi">Điện thoại Mi</string>

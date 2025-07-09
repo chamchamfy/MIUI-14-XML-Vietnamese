@@ -332,7 +332,7 @@
 	<string name="public_lite_cloud_dialog_message">Sử dụng WPS Office, tận hưởng dịch vụ %s</string>
 	<string name="ppt_memery_tips">Đi đến vị trí được xem lần cuối</string>
 	<string name="public_pdf_label">Trình xem PDF Mi</string>
-	<string formatted="false" name="public_secre_dialog_content_2">&lt;Data&gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo &lt;a href=\"%s\"&gt;Thỏa thuận Người dùng&lt;/a &gt; và &lt;a href=\"%s\"&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string formatted="false" name="public_secre_dialog_content_2"><Data&gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo &lt;a href="%s"&gt;Thỏa thuận Người dùng&lt;/a &gt; và &lt;a href="%s"&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi.</Data&gt;</string>
 	<string name="public_secre_dialog_content_1">Để cung cấp cho bạn các dịch vụ của chúng tôi và cải thiện sản phẩm của chúng tôi, chúng tôi cần có quyền truy cập bộ nhớ và thu thập thông tin mô tả cách bạn sử dụng các tính năng của chúng tôi.</string>
 	<string name="feedback_subject">Phản hồi người dùng</string>
 	<string name="reader_writer_hide">Ít hơn</string>
@@ -440,7 +440,7 @@
 	<string name="feedback_save_subject_zh">Nội dung đã lưu bị mất</string>
 	<string name="feedback_other_subject_jp">Khác</string>
 	<string name="public_writer_font_narrow">Giảm kích thước phông chữ</string>
-	<string formatted="false" name="oppo_scre_dialog_message">\"Trình xem Tài liệu WPS\" là một phần mềm được sử dụng để xem các tài liệu văn phòng của người dùng, phần mềm này yêu cầu bạn cung cấp quyền lưu trữ tệp để sử dụng bình thường. Để cải thiện trải nghiệm sản phẩm tốt hơn, WPS Office sẽ thu thập thông tin sử dụng chức năng và sẽ tuân thủ nghiêm ngặt &lt;a href=\"%s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%s\"&gt;Chính sách Riêng tư&lt;/a&gt;, các hướng dẫn để bảo vệ an toàn thông tin của bạn.</string>
+	<string formatted="false" name="oppo_scre_dialog_message">"Trình xem Tài liệu WPS" là một phần mềm được sử dụng để xem các tài liệu văn phòng của người dùng, phần mềm này yêu cầu bạn cung cấp quyền lưu trữ tệp để sử dụng bình thường. Để cải thiện trải nghiệm sản phẩm tốt hơn, WPS Office sẽ thu thập thông tin sử dụng chức năng và sẽ tuân thủ nghiêm ngặt &lt;a href="%s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%s"&gt;Chính sách Riêng tư&lt;/a&gt;, các hướng dẫn để bảo vệ an toàn thông tin của bạn.</string>
 	<string name="public_online_security_permission_denied">Tài liệu được mã hóa và lưu bằng định dạng bảo mật trực tuyến WPS. Không thể thực hiện thao tác này do tài khoản của bạn không đủ thẩm quyền.</string>
 	<string name="public_iat_addAudioComment_error">Không thể thêm nhận xét tại vị trí này</string>
 	<string name="public_default_sheet_lable_name">Trình xem biểu mẫu WPS</string>
@@ -449,5 +449,5 @@
 	<string name="public_search_prev">Trước</string>
 	<string name="public_scre_dialog_title">Câu lệnh "Trình xem tài liệu WPS"</string>
 	<string name="public_scre_dialog_smallTip">Bằng cách nhấp vào Đồng ý, bạn đồng ý với nội dung trên.</string>
-	<string formatted="false" name="public_scre_dialog_message">“"Trình xem Tài liệu WPS" là phần mềm được sử dụng để xem các tài liệu văn phòng của người dùng. Phần mềm này yêu cầu bạn cung cấp quyền lưu trữ tệp để sử dụng bình thường. Để cải thiện trải nghiệm sản phẩm tốt hơn, WPS Office sẽ thu thập thông tin sử dụng chức năng và tuân thủ nghiêm ngặt &lt;a href=\"%s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%s\"&gt;Chính sách Riêng tư&lt;/a&gt; và các hướng dẫn khác để bảo vệ an toàn thông tin của bạn.</string>
+	<string formatted="false" name="public_scre_dialog_message">“"Trình xem Tài liệu WPS" là phần mềm được sử dụng để xem các tài liệu văn phòng của người dùng. Phần mềm này yêu cầu bạn cung cấp quyền lưu trữ tệp để sử dụng bình thường. Để cải thiện trải nghiệm sản phẩm tốt hơn, WPS Office sẽ thu thập thông tin sử dụng chức năng và tuân thủ nghiêm ngặt &lt;a href="%s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%s"&gt;Chính sách Riêng tư&lt;/a&gt; và các hướng dẫn khác để bảo vệ an toàn thông tin của bạn.</string>
 </resources>

@@ -161,7 +161,7 @@
 	<string name="bank_card_not_supported">Không được hỗ trợ</string>
 	<string name="bank_card_open_cancel">Tất cả các thay đổi sẽ bị mất. Dù sao cũng quay lại?</string>
 	<string name="bank_card_open_success_hint">Liên kết thẻ thành công</string>
-	<string name="bank_card_open_success_password_hint">\"Bạn có thể cần nhập mật khẩu thanh toán khi thanh toán bằng thẻ này.\nLiên hệ với ngân hàng của bạn để biết chi tiết: \"&lt;a href=\"tel:\">%1$s&lt;/a></string>
+	<string name="bank_card_open_success_password_hint">"Bạn có thể cần nhập mật khẩu thanh toán khi thanh toán bằng thẻ này.nLiên hệ với ngân hàng của bạn để biết chi tiết: "&lt;a href="tel:">%1$s&lt;/a></string>
 	<string name="bank_card_pan">Số thẻ ngân hàng</string>
 	<string name="bank_card_password_input_tips">%1$s được cung cấp bởi cơ quan kiểm soát dịch vụ bảo mật UnionPay, Chỉ dành cho xác minh ngân hàng</string>
 	<string name="bank_card_result_delete_finish">Xóa thẻ ngân hàng thành công</string>
@@ -655,7 +655,7 @@
 	<string name="door_card_update_dialog_retry_btn_msg">Thử lại</string>
 	<string name="door_card_update_dialog_title">Cập nhật dữ liệu thẻ không thành công</string>
 	<string name="door_card_verify_tip">Xác thực thông tin thẻ, vui lòng không di chuyển thẻ</string>
-	<string name="double_press_power_guide_subtitle">&lt;Data>&lt;font color=#9B9B9B>Nhấn đúp vào nút Nguồn sẽ mở&lt;/font> &lt;font color=#FF7700>Mi Wallet&lt;/font>&lt;font color=#9B9B9B> ngay bây giờ. Bạn có thể thay đổi điều này trong Cài đặt > Phím tắt cử chỉ và nút.&lt;/font>&lt;/Data></string>
+	<string name="double_press_power_guide_subtitle"><Data>&lt;font color=#9B9B9B>Nhấn đúp vào nút Nguồn sẽ mở&lt;/font> &lt;font color=#FF7700>Mi Wallet&lt;/font>&lt;font color=#9B9B9B> ngay bây giờ. Bạn có thể thay đổi điều này trong Cài đặt > Phím tắt cử chỉ và nút.&lt;/font></Data></string>
 	<string name="double_press_power_guide_title">Nhấn đúp vào nút Nguồn để mở Mi Wallet</string>
 	<string name="early_morning">Buổi sáng</string>
 	<string name="earthly_branches_chen">Trần</string>
@@ -1191,7 +1191,7 @@
 	<string name="paynext_result_issue_success_footer_op_recharge_text">Vào nạp tiền, sử dụng ngay</string>
 	<string name="paynext_result_issue_success_footer_op_text">Cách sử dụng thẻ giao thông của bạn</string>
 	<string name="paynext_result_issue_success_new_setting_quick_card_hint">Thẻ đã được thiết lập làm thẻ nhanh giúp bạn vuốt nhanh bên cạnh đầu đọc không dây ở bất kỳ trạng thái nào.\nBạn cũng có thể nhấn đúp vào nút Nguồn để chuyển đổi giữa các thẻ.</string>
-	<string name="paynext_result_issue_success_new_unsetting_quick_card_hint">Sau khi bật điện thoại di động, hãy mang thiết bị của bạn&lt;Data>&lt;font color=#0D84FF>bên cạnh đầu đọc không dây &lt;/font>&lt;/Data> để quẹt thẻ ở bất kỳ trạng thái nào;&lt;br>&lt;br>Bạn có thể đồng thời&lt;Data>&lt;font color=#0D84FF>nhấn đúp vào nút Nguồn&lt;/font>&lt;/Data>để chuyển đổi giữa các thẻ</string>
+	<string name="paynext_result_issue_success_new_unsetting_quick_card_hint">Sau khi bật điện thoại di động, hãy mang thiết bị của bạn<Data>&lt;font color=#0D84FF>bên cạnh đầu đọc không dây &lt;/font></Data> để quẹt thẻ ở bất kỳ trạng thái nào;&lt;br>&lt;br>Bạn có thể đồng thời<Data>&lt;font color=#0D84FF>nhấn đúp vào nút Nguồn&lt;/font></Data>để chuyển đổi giữa các thẻ</string>
 	<string name="paynext_result_issue_success_setting_quick_card_hint">Thẻ đã được thiết lập làm thẻ nhanh giúp bạn vuốt nhanh bên cạnh đầu đọc không dây ở bất kỳ trạng thái nào.\nBạn cũng có thể nhấn đúp vào nút Nguồn để chuyển đổi giữa các thẻ.</string>
 	<string name="paynext_result_issue_success_unsetting_quick_card_hint">Sau khi bật điện thoại di động, hãy mang thiết bị của bạn đến gần đầu đọc không dây để quẹt thẻ ở bất kỳ trạng thái nào.\nBạn cũng có thể nhấn đúp vào nút Nguồn để chuyển đổi giữa các thẻ.</string>
 	<string name="paynext_result_receive_fail_content">Xác nhận quyền sở hữu không thành công</string>

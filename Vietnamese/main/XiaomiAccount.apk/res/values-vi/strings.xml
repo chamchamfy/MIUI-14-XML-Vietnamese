@@ -3,7 +3,7 @@
     <string name="passport_account_label">Tài khoản Mi</string>
     <string name="passport_notification_title">Lỗi đăng nhập %1$s</string>
     <string name="passport_login_prompt">Sử dụng duy nhất một Tài khoản Mi cho tất cả các dịch vụ.</string>
-    <string name="passport_login_using_other_ways">&lt;u>Đăng nhập theo cách khác&lt;/u></string>
+    <string name="passport_login_using_other_ways"><u>Đăng nhập theo cách khác</u></string>
     <string name="passport_login_title">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="passport_login">Đăng nhập</string>
     <string name="passport_relogin">Đăng nhập lại</string>
@@ -18,7 +18,7 @@
     <string name="passport_uplink_slot1_reg">Sử dụng SIM 1</string>
     <string name="passport_uplink_slot2_reg">Sử dụng SIM 2</string>
     <string name="passport_reg_via_sms_alert">Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
-    <string name="passport_reg_using_other_phone">&lt;u>Sử dụng số điện thoại khác&lt;/u></string>
+    <string name="passport_reg_using_other_phone"><u>Sử dụng số điện thoại khác</u></string>
     <string name="passport_reg_btn_using_other_phone">Sử dụng số điện thoại khác</string>
     <string name="passport_downlink_reg">Số điện thoại</string>
     <string name="passport_select_reg_ways_title">Đăng nhập theo cách khác</string>
@@ -53,10 +53,10 @@
     <string name="passport_register_restricted_title">Không thể sử dụng số điện thoại này</string>
     <string name="passport_register_restricted">Số điện thoại này được liên kết với quá nhiều tài khoản, thử sử dụng số điện thoại khác</string>
     <string name="passport_change_phone_number">Thay đổi số điện thoại</string>
-    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
     <string name="passport_forget_password_no_underline">Quên mật khẩu</string>
     <string name="passport_reg_type_email">Địa chỉ email</string>
-    <string name="passport_register_by_email">&lt;u>Tạo một tài khoản bằng cách sử dụng địa chỉ email&lt;/u></string>
+    <string name="passport_register_by_email"><u>Tạo một tài khoản bằng cách sử dụng địa chỉ email</u></string>
     <string name="passport_account_not_actived">Tài khoản của bạn chưa được kích hoạt</string>
     <string name="passport_active_email_visit">Kiểm tra hộp thư đến của bạn tại %s</string>
     <string name="passport_click_email_to_valid">"Để kích hoạt tài khoản, chạm vào liên kết chúng tôi gửi đến hộp thư của bạn."</string>
@@ -68,7 +68,7 @@
     <string name="passport_remove_confirm">Đăng xuất</string>
     <string name="passport_skip_register">Bỏ qua Đăng ký</string>
     <string name="passport_account_not_activated">Tài khoản chưa được kích hoạt</string>
-    <string name="passport_change_account">&lt;u>Thay đổi tài khoản&lt;/u></string>
+    <string name="passport_change_account"><u>Thay đổi tài khoản</u></string>
     <string name="passport_register_account_verified_confirm">Đã xác minh tài khoản</string>
     <string name="passport_register_account_goto_email">Vào hộp thư đến</string>
     <string name="passport_error_dup_email">Email bạn nhập đã được liên kết với tài khoản khác.</string>
@@ -164,7 +164,7 @@
     <string name="passport_message_dialog_title">Tin nhắn mã xác minh</string>
     <string name="passport_trust_device">Thêm thiết bị này vào thiết bị đã xác minh</string>
     <string name="passport_barcode_add_account_prompt">Để kết nối đến một tài khoản, quét mã QR một lần nữa sau khi bạn đăng nhập.</string>
-    <string name="passport_quick_register_notice">&lt;u>Không có Tài khoản Mi? Hãy tạo tài khoản.&lt;/u></string>
+    <string name="passport_quick_register_notice"><u>Không có Tài khoản Mi? Hãy tạo tài khoản.</u></string>
     <string name="passport_password_phone_login">Đăng nhập thông qua Tài khoản Mi</string>
     <string name="passport_sms_verification_code_login">Tin nhắn SMS xác minh đăng nhập</string>
     <string name="passport_login_other_account">Tài khoản khác</string>
@@ -490,10 +490,10 @@
     <string name="passport_error_no_sms_service">Không thể gửi tin nhắn văn bản. Mạng điện thoại di động không khả dụng.</string>
     <string name="passport_error_verify_code">Mã bạn nhập không chính xác.</string>
     <string name="passport_login_notice">Đang đăng nhập…</string>
-    <string name="passport_login_with_email_or_id">&lt;u>Đăng nhập bằng địa chỉ email hoặc ID Tài khoản Mi&lt;/u></string>
+    <string name="passport_login_with_email_or_id"><u>Đăng nhập bằng địa chỉ email hoặc ID Tài khoản Mi</u></string>
     <string name="passport_reg_new">Tạo Tài khoản Mi miễn phí</string>
     <string name="passport_reg_sms_send_prompt">Gửi mã xác minh đến %s</string>
-    <string name="passport_reg_type_other_ways">&lt;u>Sử dụng địa chỉ email hoặc số điện thoại thay thế&lt;/u></string>
+    <string name="passport_reg_type_other_ways"><u>Sử dụng địa chỉ email hoặc số điện thoại thay thế</u></string>
     <string name="passport_reg_type_other_ways_title">Tạo Tài khoản Mi</string>
     <string name="passport_sim_index_info">Thẻ SIM %1$d - %2$s</string>
     <string name="passport_xiaomi_account_dspt">Sử dụng Tài khoản Mi của bạn để đăng nhập Xiaomi Cloud, Cửa hàng Chủ đề MIUI, và Cửa hàng Mi từ bất kỳ nơi đâu.</string>
@@ -518,7 +518,7 @@
     <string name="passport_identitfication_expired">Mã xác minh đã hết hạn, vui lòng bắt đầu lại</string>
     <string name="passport_wrong_password">Mật khẩu không chính xác</string>
     <string name="passport_login_short">Đăng nhập</string>
-    <string name="provision_skip_login">&lt;u>Bỏ qua bước này&lt;/u></string>
+    <string name="provision_skip_login"><u>Bỏ qua bước này</u></string>
     <string name="passport_login_check_find_device">Đang kiểm tra trạng thái Tìm thiết bị…</string>
     <string name="passport_login_check_find_device_failed">Không thể kiểm tra trạng thái Tìm thiết bị. Hãy kiểm tra kết nối mạng.</string>
     <string name="passport_login_find_device_bind">Thiết bị này đã được liên kết với ID Tài khoản Mi (%s).</string>
@@ -688,7 +688,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="system_ad_list">Xem ứng dụng liên quan.</string>
 	<string name="system_ad_summary">"Bật tính năng này để cho phép hiển thị một số lượng nhỏ quảng cáo trong các ứng dụng hệ thống. Những quảng cáo này giúp chúng tôi phát triển và cải thiện các sản phẩm và dịch vụ của chúng tôi. Bạn có thể chọn tắt tính năng này bất cứ lúc nào. Cảm ơn sự hỗ trợ của bạn!"</string>
 	<string name="system_ad_switch">Quảng cáo trong Ứng dụng hệ thống</string>
-	<string name="passport_user_agreement_link">&lt;Data&gt;"Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách riêng tư&lt;/a&gt; của Xiaomi."&lt;/Data&gt;</string>
+	<string name="passport_user_agreement_link"><Data&gt;"Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách riêng tư&lt;/a&gt; của Xiaomi."</Data&gt;</string>
 	<string name="system_ad">Quảng cáo trong Ứng dụng hệ thống</string>
 	<string name="passport_ticket_login_select_sim_card_cancel">Hủy</string>
 	<string name="passport_ticket_login_select_sim_card">Chọn thẻ SIM</string>
@@ -1135,9 +1135,9 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="about_mi_account">Giới thiệu về tài khoản Mi</string>
 	<string name="revoke_privacy_policy_instructions">"Nếu bạn tiếp tục, bạn sẽ rút lại sự đồng ý của mình đối với Chính sách quyền riêng tư của tài khoản Xiaomi. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì Tài khoản Xiaomi cung cấp các dịch vụ của mình dựa trên việc thu thập thông tin cá nhân cần thiết, nên việc bạn rút lại sự đồng ý sẽ được coi là từ chối chấp nhận các dịch vụ của Tài khoản Xiaomi. Rút lại sự đồng ý ngay bây giờ?"</string>
 	<string name="mi_account">Tài khoản của tôi</string>
-	<string name="user_license_with_3rd_app_no_operator">&lt;Data>"Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a> của ứng dụng này và Tài khoản Xiaomi &lt;a href=%3$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%4$s>Chính sách quyền riêng tư&lt;/a>."&lt;/Data></string>
-	<string name="user_license_with_out_3rd_app_no_operator">&lt;Data>"Tôi đã đọc và đồng ý với Tài khoản Xiaomi &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a>."&lt;/Data></string>
-    <string name="user_license_without_3rd_app">&lt;Data>"Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a> của Tài khoản Xiaomi."&lt;/Data></string>
+	<string name="user_license_with_3rd_app_no_operator"><Data>"Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a> của ứng dụng này và Tài khoản Xiaomi &lt;a href="%3$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%4$s">Chính sách quyền riêng tư&lt;/a>."</Data></string>
+	<string name="user_license_with_out_3rd_app_no_operator"><Data>"Tôi đã đọc và đồng ý với Tài khoản Xiaomi &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_app"><Data>"Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a> của Tài khoản Xiaomi."</Data></string>
 	<string name="use_google_account_login">Đăng nhập bằng Google</string>
 	<string name="keep_phone_ticket_login">Đăng nhập bằng mã xác minh</string>
     <string name="user_agreement_device_permission_desc">Để đảm bảo tính bảo mật của môi trường đăng nhập</string>
@@ -1197,7 +1197,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="fido2_err_service_exception">Xảy ra lỗi máy chủ. Chờ một hoặc hai phút và thử lại.</string>
     <string name="fido2_err_timeout">Yêu cầu hết giờ. Chờ một hoặc hai phút và thử lại.</string>
     <string name="fido2_fingerprint_auth">Xác minh vân tay</string>
-    <string name="fido2_fingerprint_auth_desc">&lt;Data>Sử dụng vân tay của bạn để đăng nhập vào Tài khoản Xiaomi và xác minh danh tính &lt;a href=>Tìm hiểu thêm&lt;/a>&lt;/Data></string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Sử dụng vân tay của bạn để đăng nhập vào Tài khoản Xiaomi và xác minh danh tính &lt;a href=>Tìm hiểu thêm&lt;/a></Data></string>
     <string name="fido2_fingerprint_changed_and_afresh_register">Vân tay thiết bị của bạn đã thay đổi. Xác minh lại tài khoản để có thể bật xác minh vân tay.</string>
     <string name="fido2_fingerprint_verify">Xác minh vân tay</string>
     <string name="fido2_psw_changed_and_afresh_register">Mật khẩu của bạn đã thay đổi. Xác minh lại vân tay của bạn.</string>
@@ -1357,28 +1357,28 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="passport_tz_invalid">Tìm thấy nguy cơ bảo mật. Thiết bị này có thể đã được root hoặc flash. Hãy thử tùy chọn đăng nhập khác.</string>
     <string name="passport_unknown_error">Lỗi không xác định</string>
     <string name="passport_unknown_host_network_error">Kiểm tra cài đặt mạng và thử lại</string>
-    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_default">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.</Data></string>
     <string name="passport_user_agreement_hint_first_login">Chúng tôi sẽ tự động tạo tài khoản nếu bạn sử dụng số điện thoại của mình lần đầu tiên.</string>
-    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.</Data></string>
     <string name="passport_user_avatar_update_title">Thay đổi ảnh hồ sơ</string>
     <string name="passport_user_avatar_uploading">Vui lòng chờ…</string>
     <string name="passport_user_id_hint">Email/Số điện thoại/ID Tài khoản Xiaomi</string>
     <string name="passport_user_name_phone_number">Số điện thoại</string>
     <string name="passport_user_password_hint">Mật khẩu</string>
-    <string name="passport_vcode_email_send_prompt">&lt;Data>Mã xác minh đã được gửi đến &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a>&lt;/Data></string>
+    <string name="passport_vcode_email_send_prompt"><Data>Mã xác minh đã được gửi đến &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_what_app_send_prompt">Mã xác minh WhatsApp của bạn sẽ được gửi đến điện thoại khôi phục &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_wechat_not_install">Cài đặt WeChat trước</string>
     <string name="passport_weibo_login_btn_content_description">Đăng nhập bằng Weibo</string>
     <string name="passport_weixin_login_btn_content_description">Đăng nhập bằng WeChat</string>
     <string name="phone_ticket_register">Tạo tài khoản bằng số điện thoại</string>
-    <string name="privacy_policy_reject_confirm_msg">Bạn sẽ không thể tiếp tục sử dụng Tài khoản Xiaomi trừ khi bạn đồng ý với phiên bản mới của Chính sách Riêng tư. Đồng ý với &lt;a href=%1$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi đã cập nhật ngay?</string>
-    <string name="privacy_policy_update_msg">Chính sách Riêng tư Tài khoản Xiaomi đã được cập nhật:&lt;br/>%1$s&lt;br/>Đọc và đồng ý với phiên bản mới của &lt;a href=%2$s>&lt;u>Chính sách Riêng tư&lt;/u>&lt;/a> trước khi bạn tiếp tục.</string>
+    <string name="privacy_policy_reject_confirm_msg">Bạn sẽ không thể tiếp tục sử dụng Tài khoản Xiaomi trừ khi bạn đồng ý với phiên bản mới của Chính sách Riêng tư. Đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi đã cập nhật ngay?</string>
+    <string name="privacy_policy_update_msg">Chính sách Riêng tư Tài khoản Xiaomi đã được cập nhật:&lt;br/>%1$s&lt;br/>Đọc và đồng ý với phiên bản mới của &lt;a href="%2$s">&lt;u>Chính sách Riêng tư&lt;/u>&lt;/a> trước khi bạn tiếp tục.</string>
     <string name="privacy_policy_update_title">Cập nhật Chính sách Riêng tư</string>
     <string name="qr_code_login_hint">Không thể đăng nhập.
 Quét mã bên dưới bằng ứng dụng Xiaomi.</string>
@@ -1386,9 +1386,9 @@ Quét mã bên dưới bằng ứng dụng Xiaomi.</string>
     <string name="qr_code_login_is_reloading">Vui lòng chờ…</string>
     <string name="qr_code_login_load_failed">Đang tải lại mã QR…</string>
     <string name="qr_code_login_userid_hint">Tài khoản Xiaomi: %s</string>
-    <string name="qrcode_login_entry_text">&lt;Data>Đã đăng nhập trên một thiết bị khác? Sử dụng &lt;a href=>đăng nhập nhanh&lt;/a>&lt;/Data></string>
-    <string name="qrcode_login_load_refresh">&lt;Data>Mã QR này đã hết hạn. Chạm để &lt;a href=>làm mới&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_load_retry">&lt;Data>Không thể tải. &lt;a href=>Thử lại&lt;/a>.&lt;/Data></string>
+    <string name="qrcode_login_entry_text"><Data>Đã đăng nhập trên một thiết bị khác? Sử dụng &lt;a href=>đăng nhập nhanh&lt;/a></Data></string>
+    <string name="qrcode_login_load_refresh"><Data>Mã QR này đã hết hạn. Chạm để &lt;a href=>làm mới&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>Không thể tải. &lt;a href=>Thử lại&lt;/a>.</Data></string>
     <string name="qrcode_login_message">Vào Cài đặt > Tài khoản Xiaomi trên thiết bị Xiaomi và quét mã QR để đăng nhập hoặc sử dụng máy quét mã QR khác</string>
     <string name="qrcode_login_title">Quét để đăng nhập</string>
     <string name="range_end">Điểm kết thúc phạm vi</string>
@@ -1405,19 +1405,19 @@ Quét mã bên dưới bằng ứng dụng Xiaomi.</string>
     <string name="time_picker_label_minute">Phút</string>
     <string name="unit_gb"> GB</string>
     <string name="unit_mb"> MB</string>
-    <string name="user_license_with_3rd_app">&lt;Data>Bằng cách đăng nhập Tài khoản Xiaomi, tôi xác nhận đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.&lt;/Data></string>
-    <string name="user_license_with_3rd_app_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của ứng dụng này, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản Dịch vụ Xác thực China Mobile&lt;/a>.
-&lt;/Data></string>
-    <string name="user_license_with_3rd_app_telcom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của ứng dụng này, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản Dịch vụ Xác thực China Telecom&lt;/a>.
-&lt;/Data></string>
-    <string name="user_license_with_3rd_app_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của ứng dụng này, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản Dịch vụ Xác thực China Unicom&lt;/a>.
-&lt;/Data></string>
-    <string name="user_license_without_3rd_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href=%3$s>Điều khoản Dịch vụ Xác Thực China Mobile&lt;/a>.
-&lt;/Data></string>
-    <string name="user_license_without_3rd_telcom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href=%3$s>Điều khoản Dịch vụ Xác Thực China Telecom&lt;/a>.
-&lt;/Data></string>
-    <string name="user_license_without_3rd_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href=%3$s>Điều khoản Dịch vụ Xác Thực China Unicom&lt;/a>.
-&lt;/Data></string>
+    <string name="user_license_with_3rd_app"><Data>Bằng cách đăng nhập Tài khoản Xiaomi, tôi xác nhận đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của ứng dụng này, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản Dịch vụ Xác thực China Mobile&lt;/a>.
+</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của ứng dụng này, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản Dịch vụ Xác thực China Telecom&lt;/a>.
+</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của ứng dụng này, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản Dịch vụ Xác thực China Unicom&lt;/a>.
+</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href="%3$s">Điều khoản Dịch vụ Xác Thực China Mobile&lt;/a>.
+</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href="%3$s">Điều khoản Dịch vụ Xác Thực China Telecom&lt;/a>.
+</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> Tài khoản Xiaomi và &lt;a href="%3$s">Điều khoản Dịch vụ Xác Thực China Unicom&lt;/a>.
+</Data></string>
     <string name="wear_account_auth_failed_message">Thực hiện theo các bước sau để đăng nhập lại:
 %1$d. Kết nối điện thoại và thiết bị đeo của bạn.
 %2$d. Mở Mi Fitness và đăng nhập.</string>

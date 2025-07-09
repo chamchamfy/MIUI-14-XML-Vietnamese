@@ -775,7 +775,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="o4">Chuyển nhanh mà không cần kết nối internet</string>
     <string name="o5">IU trực quan không có quảng cáo</string>
     <string name="o6">Được yêu thích bởi hàng triệu người dùng</string>
-    <string name="o7">&lt;Data>Trước khi sử dụng ShareMe, bạn phải đọc và đồng ý với &lt;a id=agreement href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a id=privacy href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.&lt;/Data></string>
+    <string name="o7"><Data>Trước khi sử dụng ShareMe, bạn phải đọc và đồng ý với &lt;a id=agreement href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a id=privacy href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</Data></string>
     <string name="o8">Chia sẻ tập tin. Không cần internet.</string>
     <string name="o9">ĐỒNG Ý</string>
     <string name="o_">Điểm phát sóng di động</string>

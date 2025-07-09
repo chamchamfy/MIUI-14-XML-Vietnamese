@@ -503,10 +503,10 @@
 	<string name="morning">Buổi sáng</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="new_common_expressions">Thêm vào</string>
-	<string name="new_permission_agree">&lt;Data>Trước khi sử dụng dịch vụ của chúng tôi, hãy đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> của chúng tôi.&lt;/Data></string>
+	<string name="new_permission_agree"><Data>Trước khi sử dụng dịch vụ của chúng tôi, hãy đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a> của chúng tôi.</Data></string>
 	<string name="new_permission_agree_explain">Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy.</string>
 	<string name="new_permission_content_first_line">Chào mừng đến với Mi Ditto! Bạn có thể sử dụng ứng dụng này để phiên âm âm thanh và tạo giọng nói dựa trên nội dung nhập văn bản của bạn.\nChúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.\nLưu ý rằng ứng dụng này cần kết nối với internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:</string>
-	<string name="new_permission_message">&lt;Data>Chính sách quyền riêng tư của Mi Ditto đã được cập nhật:&lt;br/>%1$s&lt;br/>Đọc và đồng ý với phiên bản mới của &lt;a href=\"%2$s\">Chính sách quyền riêng tư&lt;/a> trước khi bạn tiếp tục .&lt;/Data></string>
+	<string name="new_permission_message"><Data>Chính sách quyền riêng tư của Mi Ditto đã được cập nhật:&lt;br/>%1$s&lt;br/>Đọc và đồng ý với phiên bản mới của &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a> trước khi bạn tiếp tục .</Data></string>
 	<string name="new_phrase">Thêm một cụm từ</string>
 	<string name="new_phrase_hint">Nhập cụm từ vào đây</string>
 	<string name="new_voice_recognized_summary">Thiết bị của bạn đã nghe thấy điều này: %1$s</string>
@@ -785,7 +785,7 @@
 	<string name="up_scroll_message">Trượt lên</string>
 	<string name="use_introduction_title">Giới thiệu sử dụng</string>
 	<string name="user_instructions">Chú ý</string>
-	<string name="user_instructions_message">&lt;Data>\"Bạn sẽ không thể tiếp tục sử dụng Mi Ditto trừ khi bạn đồng ý với phiên bản mới của &lt;a href=\"%s\">Chính sách quyền riêng tư&lt;/a> của nó. Đồng ý với Chính sách quyền riêng tư được cập nhật ngay bây giờ?\"&lt;/Data></string>
+	<string name="user_instructions_message"><Data>"Bạn sẽ không thể tiếp tục sử dụng Mi Ditto trừ khi bạn đồng ý với phiên bản mới của &lt;a href="%s">Chính sách quyền riêng tư&lt;/a> của nó. Đồng ý với Chính sách quyền riêng tư được cập nhật ngay bây giờ?"</Data></string>
 	<string name="v7_preference_off">TẮT</string>
 	<string name="v7_preference_on">BẬT</string>
 	<string name="valid_instruction_title">Hướng dẫn hợp lệ</string>

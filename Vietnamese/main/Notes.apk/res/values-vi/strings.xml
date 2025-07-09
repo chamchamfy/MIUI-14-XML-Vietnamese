@@ -354,7 +354,7 @@ Cho phép Ghi chú ghi âm."</string>
     <string name="todo_user_guide_fw_pop">Thêm Lối tắt Màn hình chính</string>
     <string name="todo_user_guide_tip5">Ở trên ứng dụng khác và không bỏ lỡ điều quan trọng!</string>
     <string name="app_notification_info">Ghi chú đang chạy trong nền</string>
-    <string name="permission_xiaoai_desc">&lt;Data>Mi AI sẽ thu thập ghi âm giọng nói của bạn và ID thiết bị để phiên âm và tạo ghi chú âm thanh. Tìm hiểu thêm trong &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của Mi AI.&lt;/Data></string>
+    <string name="permission_xiaoai_desc"><Data>Mi AI sẽ thu thập ghi âm giọng nói của bạn và ID thiết bị để phiên âm và tạo ghi chú âm thanh. Tìm hiểu thêm trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> của Mi AI.</Data></string>
     <string name="permission_network_for_cloud_desc">Để đồng bộ ghi chú với đám mây, bạn cần kết nối mạng. Dữ liệu di động có thể được sử dụng để đồng bộ các mục. Kết nối ngay?</string>
     <string name="remind_title">Nhắc nhở</string>
     <string name="confirm_cancel">Không đồng ý</string>

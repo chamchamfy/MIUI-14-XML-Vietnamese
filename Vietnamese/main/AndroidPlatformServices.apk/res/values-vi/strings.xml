@@ -73,7 +73,7 @@
     <string name="auth_d2d_target_wait_progress_message">Đang tải tài khoản và dữ liệu...</string>
     <string name="auth_device_management_download_app_icon">Biểu tượng ứng dụng %s</string>
     <string name="auth_device_management_download_description">Tài khoản này cần có ứng dụng quản lý thiết bị di động. Hãy cài đặt ứng dụng ^1 để thực thi các chính sách bảo mật mà tài khoản yêu cầu.</string>
-    <string name="auth_device_management_download_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt &lt;b>^1&lt;/b>". 
+    <string name="auth_device_management_download_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt <b>^1</b>". 
 
 ^1 giúp bạn thiết lập thiết bị này cho con bạn."</string>
     <string name="auth_device_management_download_failed_message">Bạn vẫn có thể tiếp tục thiết lập khi không có ứng dụng này</string>
@@ -95,15 +95,15 @@
 Quản trị viên CNTT sẽ tải xuống và sử dụng một công cụ quản lý để quản lý hồ sơ công việc của bạn."</string>
     <string name="auth_device_management_setup_work_profile_settings_entry">Thiết lập hồ sơ công việc của bạn</string>
     <string name="auth_device_management_start_description">Tài khoản này cần có ứng dụng quản lý thiết bị di động. Khi bạn nhấn vào Tiếp theo, ứng dụng ^1 sẽ giúp bạn thực thi các chính sách bảo mật mà tài khoản yêu cầu.</string>
-    <string name="auth_device_management_start_description_kids">Để thêm tài khoản vào thiết bị này, hãy sử dụng &lt;b>^1&lt;/b>". 
+    <string name="auth_device_management_start_description_kids">Để thêm tài khoản vào thiết bị này, hãy sử dụng <b>^1</b>". 
 
 ^1 giúp bạn thiết lập thiết bị này cho con bạn."</string>
     <string name="auth_device_management_title">Quản lý thiết bị</string>
     <string name="auth_device_management_update_description">Tài khoản này cần có ứng dụng quản lý thiết bị di động. Để đáp ứng các chính sách bảo mật được liên kết với tài khoản, bạn phải cài đặt phiên bản mới hơn của ứng dụng ^1.</string>
-    <string name="auth_device_management_update_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt phiên bản mới nhất của &lt;b>^1&lt;/b>". 
+    <string name="auth_device_management_update_description_kids">Để thêm tài khoản vào thiết bị này, trước tiên, hãy cài đặt phiên bản mới nhất của <b>^1</b>". 
 
 ^1 giúp bạn thiết lập thiết bị này cho con bạn."</string>
-    <string name="auth_doesnt_use_gmail">" "&lt;b>^1&lt;/b> không sử dụng Gmail.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> không sử dụng Gmail.</string>
     <string name="auth_error_account_disabled">"Tài khoản này đã bị vô hiệu hóa. 
 
 (Để biết chi tiết, truy cập http://google.com/accounts bằng trình duyệt web)."</string>
@@ -149,16 +149,16 @@ Hãy thử lại sau."</string>
     <string name="auth_frp_start_reenroll_device_title">Thiết bị làm việc</string>
     <string name="auth_get_token_bad_auth_work_service_account_message">Không thể truy cập tài khoản này. Hãy đảm bảo rằng thiết bị của bạn đang tuân thủ chính sách bảo mật của tổ chức bạn. Nếu bạn vẫn gặp lỗi này, hãy liên hệ với quản trị viên của tổ chức.</string>
     <string name="auth_get_token_bad_auth_work_service_account_title">Lỗi tài khoản</string>
-    <string name="auth_gls_dmagent_activity_download_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy cài đặt ứng dụng \"Google Apps Device Policy\" để thực thi những chính sách bảo mật do tài khoản  "&lt;b>^1&lt;/b> yêu cầu.</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy cài đặt ứng dụng \"Google Apps Device Policy\" để thực thi những chính sách bảo mật do tài khoản  "<b>^1</b> yêu cầu.</string>
     <string name="auth_gls_dmagent_activity_download_retry_button">Tải xuống</string>
-    <string name="auth_gls_hint_illegal_chars">" "&lt;b>^1&lt;/b>" có thể chỉ chứa các chữ cái,
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" có thể chỉ chứa các chữ cái,
 số và dấu chấm câu."</string>
-    <string name="auth_gls_hint_numbers_only">" "&lt;b>^1&lt;/b> không chứa bất kỳ chữ cái nào.</string>
-    <string name="auth_gls_hint_size">" "&lt;b>^1&lt;/b> chứa ít hơn 6 hoặc nhiều hơn 30 ký tự.</string>
-    <string name="auth_gls_is_not_available">Tên người dùng &lt;b>^1&lt;/b> không khả dụng.</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> không chứa bất kỳ chữ cái nào.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> chứa ít hơn 6 hoặc nhiều hơn 30 ký tự.</string>
+    <string name="auth_gls_is_not_available">Tên người dùng <b>^1</b> không khả dụng.</string>
     <string name="auth_gls_name_checking_info_title">Đang kiểm tra thông tin…</string>
     <string name="auth_gls_sync_item_title">Đồng bộ hóa %s</string>
-    <string name="auth_gls_third_party_activity_download_message">" Bạn phải thêm tài khoản  "&lt;b>^1&lt;/b> vào thiết bị hoặc hồ sơ công việc do tổ chức của bạn quản lý. Vui lòng làm theo hướng dẫn của quản trị viên CNTT để hoàn tất quá trình này.</string>
+    <string name="auth_gls_third_party_activity_download_message">" Bạn phải thêm tài khoản  "<b>^1</b> vào thiết bị hoặc hồ sơ công việc do tổ chức của bạn quản lý. Vui lòng làm theo hướng dẫn của quản trị viên CNTT để hoàn tất quá trình này.</string>
     <string name="auth_google_title_logo">Biểu trưng Google</string>
     <string name="auth_invalid_login_character">Ký tự không hợp lệ. Chỉ cho phép 0-9, a-z, A-Z và dấu chấm câu.</string>
     <string name="auth_invalid_password_character">Ký tự mật khẩu không hợp lệ.</string>
@@ -210,16 +210,16 @@ số và dấu chấm câu."</string>
     <string name="auth_ui_activity_title">Đăng nhập Google</string>
     <string name="auth_ui_activity_title_browser_signin">Đăng nhập</string>
     <string name="auth_ui_add_account_title">Thiết lập tài khoản</string>
-    <string name="auth_uncertified_notification_description">&lt;b>Người dùng đã mua thiết bị này:&lt;/b>"
+    <string name="auth_uncertified_notification_description"><b>Người dùng đã mua thiết bị này:</b>"
 Nhà sản xuất thiết bị đã tải sẵn các dịch vụ và ứng dụng của Google mà không có chứng nhận từ Google. Hãy liên hệ với nhà sản xuất và yêu cầu thiết bị được chứng nhận. Tìm hiểu thêm tại g.co/AndroidCertifiedDevice.
 
-"&lt;b>Nhà sản xuất chưa được cấp phép:&lt;/b>"
+"<b>Nhà sản xuất chưa được cấp phép:</b>"
 Bạn cần giấy phép từ Google để phân phối các dịch vụ và ứng dụng của Google. Đăng ký tại g.co/AndroidGMSContact.
 
-"&lt;b>Nhà sản xuất đã được cấp phép:&lt;/b>"
+"<b>Nhà sản xuất đã được cấp phép:</b>"
 Để sử dụng các dịch vụ và ứng dụng của Google trong giai đoạn phát triển, hãy đăng ký thiết bị. Liên hệ với Giám đốc phát triển kinh doanh của Google để biết thêm thông tin.
 
-"&lt;b>Người dùng ROM tùy chỉnh:&lt;/b>"
+"<b>Người dùng ROM tùy chỉnh:</b>"
 Để sử dụng các dịch vụ và ứng dụng của Google với ROM tùy chỉnh, hãy đăng ký thiết bị này. Tìm hiểu thêm tại g.co/apps-custom."</string>
     <string name="auth_uncertified_notification_title">Thiết bị chưa được Google chứng nhận</string>
     <string name="auth_work_authenticator_label">Tài khoản được quản lý</string>
@@ -634,7 +634,7 @@ Việc tắt tính năng này không ảnh hưởng đến khả năng thiết b
     <string name="smartdevice_look_for_other_device">Tìm kiếm tên này trên thiết bị khác của bạn</string>
     <string name="smartdevice_magicwand_cancel_signin">Không đăng nhập</string>
     <string name="smartdevice_magicwand_confirm_signin">Đã bắt đầu đăng nhập</string>
-    <string name="smartdevice_magicwand_consent_detail">Nhấn vào &lt;b>Đăng nhập&lt;/b> để hoàn tất quá trình đăng nhập vào thiết bị khác.</string>
+    <string name="smartdevice_magicwand_consent_detail">Nhấn vào <b>Đăng nhập</b> để hoàn tất quá trình đăng nhập vào thiết bị khác.</string>
     <string name="smartdevice_magicwand_consent_title">Hoàn tất đăng nhập</string>
     <string name="smartdevice_magicwand_error_detail">Đã xảy ra lỗi và Google không thể đăng nhập bạn từ điện thoại này.</string>
     <string name="smartdevice_magicwand_fingerprint_detail">"Bạn đã quét mã QR để đăng nhập vào tài khoản của mình.

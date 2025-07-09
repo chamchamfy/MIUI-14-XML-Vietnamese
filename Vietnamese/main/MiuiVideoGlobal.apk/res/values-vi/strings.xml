@@ -603,7 +603,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_back">Quay lại</string>
     <string name="passport_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
     <string name="passport_barcode_add_account_prompt">Để kết nối đến một tài khoản, quét mã QR một lần nữa sau khi bạn đăng nhập.</string>
-    <string name="passport_change_account">&lt;u>Thay đổi tài khoản&lt;/u></string>
+    <string name="passport_change_account"><u>Thay đổi tài khoản</u></string>
     <string name="passport_change_phone_number">Thay đổi số điện thoại</string>
     <string name="passport_checking_account">Đang kiểm tra mật khẩu…</string>
     <string name="passport_checking_input">Đang kiểm tra nhập vào…</string>
@@ -641,7 +641,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_error_user_name">Tên người dùng bạn nhập vào không hợp lệ.</string>
     <string name="passport_failed_to_send_activate_email">Không thể gửi email kích hoạt</string>
     <string name="passport_find_password_on_web_msg">Truy cập vào account.mi.com để đặt lại mật khẩu của bạn.</string>
-    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
     <string name="passport_forget_password_no_underline">Quên mật khẩu</string>
     <string name="passport_get_back_pwd">Lấy lại mật khẩu tài khoản</string>
     <string name="passport_get_verify_code">Lấy mã kích hoạt</string>
@@ -663,7 +663,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_login_instead_reg_with_email">Dùng email này</string>
     <string name="passport_login_prompt">Sử dụng duy nhất một Tài khoản Mi cho tất cả các dịch vụ.</string>
     <string name="passport_login_title">Đăng nhập vào Tài khoản Mi của bạn</string>
-    <string name="passport_login_using_other_ways">&lt;u>Đăng nhập theo cách khác&lt;/u></string>
+    <string name="passport_login_using_other_ways"><u>Đăng nhập theo cách khác</u></string>
     <string name="passport_message_dialog_title">Tin nhắn mã xác minh</string>
     <string name="passport_next">Tiếp theo</string>
     <string name="passport_notification_title">Đang nhập %1$s lỗi</string>
@@ -686,7 +686,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_reg_success">Tài khoản đã được tạo</string>
     <string name="passport_reg_success_summary">%1$s đã được liên kết với tài khoản của bạn. Bạn có thể dùng để đăng nhập hoặc đặt lại mật khẩu.</string>
     <string name="passport_reg_type_email">Sử dụng địa chỉ email</string>
-    <string name="passport_reg_using_other_phone">&lt;u>Sử dụng số điện thoại khác&lt;/u></string>
+    <string name="passport_reg_using_other_phone"><u>Sử dụng số điện thoại khác</u></string>
     <string name="passport_reg_using_other_phone_number_prompt">"Tạo một tài khoản mới bằng "</string>
     <string name="passport_reg_using_phone_number_prompt">Tạo tài khoản bằng cách sử dụng số điện thoại</string>
     <string name="passport_reg_via_sms_alert">Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
@@ -694,7 +694,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="passport_register">Tạo một tài khoản</string>
     <string name="passport_register_account_goto_email">Vào hộp thư đến</string>
     <string name="passport_register_account_verified_confirm">Đã xác minh tài khoản</string>
-    <string name="passport_register_by_email">&lt;u>Tạo một tài khoản bằng cách sử dụng địa chỉ email&lt;/u></string>
+    <string name="passport_register_by_email"><u>Tạo một tài khoản bằng cách sử dụng địa chỉ email</u></string>
     <string name="passport_register_restricted">Số điện thoại này được liên kết với quá nhiều tài khoản, thử sử dụng số điện thoại khác</string>
     <string name="passport_register_restricted_title">Không thể sử dụng số điện thoại này</string>
     <string name="passport_registered_phone_user_ID">ID người dùng: %s</string>
@@ -943,7 +943,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="common_signin_button_text">Đăng nhập</string>
 	<string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
 	<string name="data_empty">Không có mục nào ở đây</string>
-	<string name="dialog_privacy_info_new2">Để có thể sử dụng dịch vụ, bạn phải đồng ý rằng %1$s sẽ thu thập, xử lý và sử dụng thông tin cá nhân của bạn. Bạn sẽ được coi là đã đọc và đồng ý với &lt;a href=%2$s&gt; Chính sách Riêng tư &lt;/a&gt; của chúng tôi khi bạn chạm \"Đồng ý\" bên dưới.</string>
+	<string name="dialog_privacy_info_new2">Để có thể sử dụng dịch vụ, bạn phải đồng ý rằng %1$s sẽ thu thập, xử lý và sử dụng thông tin cá nhân của bạn. Bạn sẽ được coi là đã đọc và đồng ý với &lt;a href="%2$s"&gt; Chính sách Riêng tư &lt;/a&gt; của chúng tôi khi bạn chạm \"Đồng ý\" bên dưới.</string>
 	<string name="dialog_privacy_title">Điều khoản và Điều kiện</string>
 	<string name="dialog_revoke_privacy_info_new2">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và tất cả dữ liệu liên quan sẽ bị xóa khỏi máy chủ. Điều này có thể làm cho ứng dụng hầu như không sử dụng được. Vẫn tiếp tục hủy?</string>
 	<string name="dialog_revoke_privacy_title">Hủy ủy quyền</string>
@@ -1585,7 +1585,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="sign_in_progress">Đang đăng nhập…</string>
 	<string name="upload_error_log">Tải lên nhật ký</string>
 	<string name="passport_error_user_agreement_error">Đồng ý với Điều khoản và Điều kiện trước</string>
-	<string name="passport_user_agreement_link_more">"&lt;Data&gt;Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%4$s&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+	<string name="passport_user_agreement_link_more">"<Data&gt;Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data&gt;"</string>
 	<string name="sns_bind_limit">Thử quá nhiều lần. Thử cách đăng nhập khác.</string>
 	<string name="account_none_bind_info">Không</string>
 	<string name="account_user_details">Thông tin cá nhân</string>
@@ -1676,7 +1676,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="confirm_unbundled_phone_dialog_message">Số điện thoại này được liên kết với Tài khoản Mi %2$s trên %1$s. Nó sẽ không còn được kết nối với Tài khoản Mi %3$s nếu bạn tiếp tục. Tiếp tục?</string>
 	<string name="passport_error_auth_fail">Phiên hết hạn. Đăng nhập lại.</string>
 	<string name="collect_diagnosis_log">Thu thập nhật ký</string>
-	<string name="passport_user_agreement_link">"&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.&lt;/Data&gt;"</string>
+	<string name="passport_user_agreement_link">"<Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data&gt;"</string>
 	<string name="sns_access_token_expired_warning">Phiên hết hạn. Đăng nhập lại để kết nối lại với tài khoản này.</string>
 	<string name="account_user_base_info">Thông tin cơ bản</string>
 	<string name="account_user_other_info">Chi tiết</string>
@@ -1935,7 +1935,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="file_cant_rename">Tệp tin với tên %1$s đã tồn tại. Vui lòng đổi tên</string>
 	<string name="tip_author_click">Chạm để xem thêm video từ tài khoản này</string>
 	<string name="download_unable_tip">"Không thể tải xuống mục này"</string>
-	<string name="dialog_privacy_info_new3">"Để có thể sử dụng dịch vụ này, bạn cần đồng ý để %1$s thu thập, xử lý, và sử dụng thông tin cá nhân của bạn theo Chính sách Riêng tư. Bằng cách nhấn nút \"Đồng ý\" bên dưới, bạn đồng ý với &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=%3$s&gt;Thỏa thuận Người dùng&lt;/a&gt; của Xiaomi."</string>
+	<string name="dialog_privacy_info_new3">"Để có thể sử dụng dịch vụ này, bạn cần đồng ý để %1$s thu thập, xử lý, và sử dụng thông tin cá nhân của bạn theo Chính sách Riêng tư. Bằng cách nhấn nút \"Đồng ý\" bên dưới, bạn đồng ý với &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%3$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của Xiaomi."</string>
 	<string name="cast_expanded_controller_live_head_description">Vị trí hiện tại ở đầu tiên của phát trực tuyến</string>
 	<string name="galleryplus_already_cloud_member">Sử dụng Thành viên VIP để phát</string>
 	<string name="galleryplus_fr_unsupport_restore_speed">Không hỗ trợ tốc độ khung hình. Đã chuyển sang tốc độ thông thường.</string>
@@ -1980,7 +1980,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="playlist_name">Nhập tên danh sách phát</string>
 	<string name="cloud_online_player">Trình phát</string>
 	<string name="off_tip_firework_recommend">"Bạn sẽ không nhận được đề xuất nội dung cá nhân hóa từ Firework"</string>
-	<string name="tip_pop">Nội dung từ Khoảnh khắc được cung cấp bởi Firework. Để cải thiện trải nghiệm xem của bạn và nhận được các đề xuất nội dung phù hợp hơn, hãy cho phép Firework thu thập, xử lý và sử dụng thông tin cá nhân của bạn theo Chính sách quyền riêng tư của họ. Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư Firework&lt;/a&gt; trước khi sử dụng dịch vụ của họ.</string>
+	<string name="tip_pop">Nội dung từ Khoảnh khắc được cung cấp bởi Firework. Để cải thiện trải nghiệm xem của bạn và nhận được các đề xuất nội dung phù hợp hơn, hãy cho phép Firework thu thập, xử lý và sử dụng thông tin cá nhân của bạn theo Chính sách quyền riêng tư của họ. Đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách Riêng tư Firework&lt;/a&gt; trước khi sử dụng dịch vụ của họ.</string>
 	<string name="firework_privacy">Chính sách Riêng tư Firework</string>
 	<string name="galleryplus_subtitle_edit_reminder">Văn bản bạn nhập quá dài</string>
 	<string name="galleryplus_chose_play_speed_2">Đang phát ở tốc độ %1$.2fX</string>
@@ -2039,13 +2039,13 @@ Gửi mã này cho người giám sát."</string>
 	<string name="video_download_play_video_guide">Trước tiên, phát video.</string>
 	<string name="video_download_floating_guide">Tải xuống video miễn phí</string>
 	<string name="dialog_disagree_privacychange_info">"Bạn sẽ không thể sử dụng các dịch vụ phát trực tuyến của Mi Video nếu bạn không đồng ý với Chính sách quyền riêng tư của chúng tôi. Chạm \"Hủy\" để quay lại hoặc \"Không đồng ý\" để tiếp tục và sử dụng Mi Video như trình phát video cục bộ."</string>
-	<string name="dialog_privacy_info_new4">"Chào mừng bạn đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br&gt;&lt;/br&gt; - Dịch vụ stream trực tuyến&lt;br&gt;&lt;/br&gt;- Trình phát video cục bộ&lt;br&gt;&lt;/br&gt;Mi Video cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong Chính sách Riêng tư của chúng tôi. Bạn sẽ có thể thay đổi các cài đặt liên quan trong Cài đặt &gt; Mật khẩu &amp; bảo mật.&lt;br&gt;&lt;/br&gt;Đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Video."</string>
+	<string name="dialog_privacy_info_new4">"Chào mừng bạn đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br&gt;&lt;/br&gt; - Dịch vụ stream trực tuyến&lt;br&gt;&lt;/br&gt;- Trình phát video cục bộ&lt;br&gt;&lt;/br&gt;Mi Video cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong Chính sách Riêng tư của chúng tôi. Bạn sẽ có thể thay đổi các cài đặt liên quan trong Cài đặt &gt; Mật khẩu &amp; bảo mật.&lt;br&gt;&lt;/br&gt;Đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Video."</string>
 	<string name="video_download_forbidden">"Không thể tải xuống từ trang web này"</string>
 	<string name="privacy_revoke_setting">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Mi Video.</string>
 	<string name="dialog_privacy_revoke_success">Rút lại thành công</string>
 	<string name="video_download_source">Tải xuống từ web</string>
 	<string name="ytb_login_hint">Đăng nhập để xem kênh Youtube đăng ký của bạn</string>
-	<string name="dialog_privacy_change_info">"Chúng tôi đã cập nhật Chính sách quyền riêng tư của Mi Video do những điều chỉnh trong các dịch vụ mà chúng tôi cung cấp. Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng ứng dụng."</string>
+	<string name="dialog_privacy_change_info">"Chúng tôi đã cập nhật Chính sách quyền riêng tư của Mi Video do những điều chỉnh trong các dịch vụ mà chúng tôi cung cấp. Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng ứng dụng."</string>
 	<string name="dialog_privacy_change_title">Cập nhật Chính sách Riêng tư</string>
 	<string name="video_download_play_video_guide2">Sau đó nhấn nút để tải xuống.</string>
 	<string name="month_november_short">Tháng 11</string>
@@ -2648,7 +2648,7 @@ Gửi mã này cho người giám sát."</string>
     <string name="dialog_disagree_info">"Nếu bạn không đồng ý với Chính sách quyền riêng tư của Mi Video, bạn sẽ không thể sử dụng các dịch vụ trực tuyến của chúng tôi và sẽ chỉ có thể xem các video được lưu trữ trên thiết bị của mình. Vẫn tiếp tục?"</string>
     <string name="dialog_disagree_title">Chính sách riêng tư</string>
 	<string name="local_empty_guide">Các video bạn quay sẽ xuất hiện ở đây</string>
-    <string name="dialog_privacy_info_new5">Chào mừng đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br>&lt;/br> - Dịch vụ phát trực tuyến&lt;br>&lt;/br>- Trình phát video cục bộ&lt;br>&lt;/br>Để cung cấp các dịch vụ cơ bản, ứng dụng này cần thu thập thông tin cá nhân cần thiết. Để biết chi tiết, hãy xem Chính sách quyền riêng tư của chúng tôi. Bạn có thể thay đổi cài đặt của mình bất kỳ lúc nào trong Hồ sơ > Cài đặt.&lt;br>&lt;/br>Đọc và đồng ý với &lt;a href=%1$s>thoả thuận người dùng&lt;/a> and &lt;a href=%2$s>Chính sách riêng tư&lt;/a> của chúng tôi trước khi sử dụng Mi Video.</string>
+    <string name="dialog_privacy_info_new5">Chào mừng đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br>&lt;/br> - Dịch vụ phát trực tuyến&lt;br>&lt;/br>- Trình phát video cục bộ&lt;br>&lt;/br>Để cung cấp các dịch vụ cơ bản, ứng dụng này cần thu thập thông tin cá nhân cần thiết. Để biết chi tiết, hãy xem Chính sách quyền riêng tư của chúng tôi. Bạn có thể thay đổi cài đặt của mình bất kỳ lúc nào trong Hồ sơ > Cài đặt.&lt;br>&lt;/br>Đọc và đồng ý với &lt;a href="%1$s">thoả thuận người dùng&lt;/a> and &lt;a href="%2$s">Chính sách riêng tư&lt;/a> của chúng tôi trước khi sử dụng Mi Video.</string>
 	<string name="local_diversion_moments_videos">Xem khoảnh khắc</string>
 	<string name="galleryplus_globalvideo_controller_tip">Xem các tính năng bổ sung</string>
 	<string name="add_local_shortcut_des">Thêm \"Video của tôi\" vào Màn hình chính để truy cập các tệp video cục bộ chỉ bằng một lần nhấn.</string>

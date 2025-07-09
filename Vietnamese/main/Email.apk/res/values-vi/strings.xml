@@ -922,7 +922,7 @@ Hãy thử hộp thư khác."</string>
     <string name="ser_resp_err_map_pserr">Tên người dùng hoặc mật khẩu không chính xác</string>
     <string name="ser_resp_err_map_serclosed">%s máy chủ đã đóng</string>
     <string name="ser_resp_err_map_ssl">Chọn \"SSL/TLS (Chấp nhận tất cả chứng nhận)\" trong \"Loại bảo mật\"</string>
-    <string name="service_protocol_discribe">&lt;u>Tôi đã đọc và đồng ý với Thỏa thuận Dịch vụ Thư WPS&lt;/u></string>
+    <string name="service_protocol_discribe"><u>Tôi đã đọc và đồng ý với Thỏa thuận Dịch vụ Thư WPS</u></string>
     <string name="service_protocol_title">Thỏa thuận Dịch vụ</string>
     <string name="set_network">Thiết lập mạng</string>
     <string name="settings_activity_title">Cài đặt</string>
@@ -1021,7 +1021,7 @@ Tiếp tục xóa tài khoản?"</string>
     <string name="via_domain">qua %1$s</string>
     <string name="view_more_conversations">Xem thêm hội thoại</string>
     <string name="wait_for_manual_sync_body">"Tài khoản này không được thiết lập để đồng bộ tự động.
-Chạm "&lt;b>Đồng bộ bây giờ&lt;/b> để đồng bộ email một lần, hoặc &lt;b>Thay đổi Cài đặt Đồng bộ&lt;/b> để thiết lập tài khoản này tự động đồng bộ.</string>
+Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, hoặc <b>Thay đổi Cài đặt Đồng bộ</b> để thiết lập tài khoản này tự động đồng bộ.</string>
     <string name="wait_for_sync_title">Đang chờ đồng bộ</string>
     <string name="webview_logout">Bạn có thể thử đăng nhập lại</string>
     <string name="webview_logout_cancel">Lần tới</string>

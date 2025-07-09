@@ -149,7 +149,7 @@
     <string name="dialog_button_update">Cập nhật</string>
     <string name="dialog_content_stop">Dừng kiểm tra phần cứng khi nó chưa kết thúc?</string>
     <string name="dialog_content_update">Hãy thử lại sau khi cập nhật.</string>
-    <string name="done_download_invoice">&lt;u>Tải xuống hóa đơn&lt;/u></string>
+    <string name="done_download_invoice"><u>Tải xuống hóa đơn</u></string>
     <string name="done_how_claim">Làm thế nào để yêu cầu bồi thường?</string>
     <string name="done_info_expired">NGÀY HẾT HẠN:</string>
     <string name="done_info_model">LOẠI ĐIỆN THOẠI:</string>
@@ -184,7 +184,7 @@
     <string name="network_unaccessable">"Chưa kết nối mạng. Vui lòng mở "</string>
     <string name="oa_buy_privacy_content">Xiaomi sẽ gửi thời gian kích hoạt OneAssist của thiết bị của bạn nhằm đảm bảo cho bạn ưu đãi tốt hơn. Dịch vụ được cung cấp bởi OneAssist. Tất cả trách nhiệm sẽ do OneAssist chịu. Liên hệ với OneAssist nếu bạn có bất kỳ câu hỏi nào.</string>
     <string name="oa_buy_unsupport_content">Thiết bị đã qua ngày mua hợp lệ hoặc không được hỗ trợ</string>
-    <string name="oa_buy_privacy_description">Nhấn Tiếp tục có nghĩa là bạn đồng ý với Điều khoản và Điều kiện cung cấp bởi &lt;u>&lt;font color="#3F87EA">&lt;a href="http://www.miui.com/res/doc/privacy/en.html">Xiaomi&lt;/a>&lt;/font>&lt;/u> và &lt;u>&lt;font color="#3F87EA">&lt;a href="https://oneassist.in/privacypolicy/">OneAssist&lt;/a>&lt;/font>&lt;/u>.</string>
+    <string name="oa_buy_privacy_description">Nhấn Tiếp tục có nghĩa là bạn đồng ý với Điều khoản và Điều kiện cung cấp bởi <u>&lt;font color="#3F87EA">&lt;a href="http://www.miui.com/res/doc/privacy/en.html">Xiaomi&lt;/a>&lt;/font></u> và <u>&lt;font color="#3F87EA">&lt;a href="https://oneassist.in/privacypolicy/">OneAssist&lt;/a>&lt;/font></u>.</string>
     <string name="show_order_detail">Chi tiết đơn hàng</string>
     <string name="show_pickup_date">Ngày đặt hàng:</string>
     <string name="show_pickup_detail">Chi tiết đặt hàng</string>
@@ -194,7 +194,7 @@
     <string name="text_have_coupon">Có mã giảm giá?</string>
     <string name="text_support_help">Có bất kỳ yêu cầu đơn đặt hàng nào, vui lòng liên hệ đội hỗ trợ Cashify</string>
     <string name="cs_buy_privacy_content">Xiaomi sẽ gửi thời gian kích hoạt Cashify của thiết bị của bạn nhằm đảm bảo cho bạn ưu đãi tốt hơn. Dịch vụ được cung cấp bởi Cashify. Tất cả trách nhiệm sẽ do Cashify chịu. Liên hệ với Cashify nếu bạn có bất kỳ câu hỏi nào.</string>
-    <string name="cs_buy_privacy_description">Nhấn Tiếp tục có nghĩa là bạn đồng ý với Điều khoản và Điều kiện cung cấp bởi &lt;u>&lt;font color="#3F87EA">&lt;a href="http://www.miui.com/res/doc/privacy/en.html">Xiaomi&lt;/a>&lt;/font>&lt;/u> và &lt;u>&lt;font color="#3F87EA">&lt;a href="https://www.cashify.in/privacy-policy">Cashify&lt;/a>&lt;/font>&lt;/u>.</string>
+    <string name="cs_buy_privacy_description">Nhấn Tiếp tục có nghĩa là bạn đồng ý với Điều khoản và Điều kiện cung cấp bởi <u>&lt;font color="#3F87EA">&lt;a href="http://www.miui.com/res/doc/privacy/en.html">Xiaomi&lt;/a>&lt;/font></u> và <u>&lt;font color="#3F87EA">&lt;a href="https://www.cashify.in/privacy-policy">Cashify&lt;/a>&lt;/font></u>.</string>
     <string name="done_claim_ps">*Khách hàng được yêu cầu thanh toán các khoản phí phát sinh theo Điều khoản và điều kiện</string>
     <string name="done_summary_four">Sửa chữa không tiền mặt* với 100%% sản phẩm chính hãng</string>
     <string name="done_summary_one">Gửi chi tiết hỏng &amp; tải lên tài liệu yêu cầu</string>
@@ -204,7 +204,7 @@
     <string name="done_title_four">Điện thoại được sửa ở trung tâm Mi ủy quyền</string>
     <string name="done_title_two">Chúng tôi xác thực tài liệu &amp; nhận thiết bị hỏng của bạn tận nhà</string>
     <string name="done_title_three">Chúng tôi nhận được sự chấp thuận từ đối tác Bảo hiểm</string>
-    <string name="done_title_one">Đăng nhập vào &lt;u>&lt;font color="#3F87EA">&lt;a href="https://oneassist.in/">OneAssist.in&lt;/a>&lt;/font>&lt;/u>" hoặc gọi 1800 123
+    <string name="done_title_one">Đăng nhập vào <u>&lt;font color="#3F87EA">&lt;a href="https://oneassist.in/">OneAssist.in&lt;/a>&lt;/font></u>" hoặc gọi 1800 123
 3330 để gửi khiếu nại"</string>
 	<string name="main_entrance">Bán điện thoại của bạn</string>
 	<string name="cs_go_check_order">Xem trong Cashify</string>

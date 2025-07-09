@@ -727,12 +727,12 @@ Nguyên nhân: \"%s\""</string>
     <string name="noFavoritesHelpText">"\"Bạn không có mục yêu thích nào.
 
 Để thêm liên hệ đến danh sách yêu thích của bạn:
- "&lt;li>Chạm vào &lt;b>Liên hệ&lt;/b>" tab
-"&lt;/li>" 
-"&lt;li>"Chạm vào liên hệ mà bạn muốn thêm vào danh sách yêu thích
-"&lt;/li>" 
-"&lt;li>"Chạm vào ngôi sao bên cạnh tên của liên hệ
-"&lt;/li>\"     </string>
+ "<li>Chạm vào <b>Liên hệ</b>" tab
+"</li>" 
+"<li>"Chạm vào liên hệ mà bạn muốn thêm vào danh sách yêu thích
+"</li>" 
+"<li>"Chạm vào ngôi sao bên cạnh tên của liên hệ
+"</li>\"     </string>
     <string name="noGroups">Không có nhóm</string>
     <string name="noMatchingContacts">Không tìm thấy liên hệ phù hợp nào.</string>
     <string name="noRecentContacts">Không có liên hệ gần đây</string>
@@ -1193,50 +1193,50 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="solar_calendar">Dương lịch</string>
     <string name="noContactsHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm liên hệ, chạm "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm:
+Để thêm liên hệ, chạm "<b>&lt;font fgcolor="#ffffffff">Menu&lt;/font></b>", sau đó chạm:
  
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
+"<b>&lt;font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"</li>&lt;/font></b>"\" "</string>
     <string name="noContactsHelpTextForCreateShortcut">Bạn không có bất kỳ liên hệ nào để hiển thị.</string>
     <string name="noContactsHelpTextWithSync">"\"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "<b>&lt;font fgcolor="#ffffffff">Menu&lt;/font></b>", sau đó chạm vào:
  
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
+"<b>&lt;font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"</li>&lt;/font></b>"\" "</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)</string>
     <string name="noContactsNoSimHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm địa chỉ liên hệ, chạm vào "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm vào:
+Để thêm địa chỉ liên hệ, chạm vào "<b>&lt;font fgcolor="#ffffffff">Menu&lt;/font></b>", sau đó chạm vào:
  
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
-"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
+"<b>&lt;font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
+"</li>&lt;/font></b>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "&lt;b>&lt;font fgcolor="#ffffffff">Menu&lt;/font>&lt;/b>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "<b>&lt;font fgcolor="#ffffffff">Menu&lt;/font></b>", sau đó chạm vào:
  
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Liên hệ mới  để tạo liên hệ mới từ đầu 
-"&lt;/li>&lt;/font>&lt;/b>" 
-"&lt;b>&lt;font fgcolor="#ffffffff">&lt;li>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
-"&lt;/li>&lt;/font>&lt;/b>"\" "</string>
+"<b>&lt;font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Liên hệ mới  để tạo liên hệ mới từ đầu 
+"</li>&lt;/font></b>" 
+"<b>&lt;font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
+"</li>&lt;/font></b>"\" "</string>
     <string name="close_dial_pad">Đóng trình quay số</string>
     <string name="date_picker_label">Nhắc nhở tôi trước 3 ngày và nhắc lại vào ngày</string>
     <string name="device_brand_title">Chọn thương hiệu</string>
@@ -2041,7 +2041,7 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="bh_contact_number">%1$s từ liên hệ</string>
 	<string name="call_record_content_type_audio_text">Âm thanh và văn bản</string>
 	<string name="cta_content_seg1">"&lt;strong&gt;Chú ý quan trọng
-Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với &lt;font color=#33aaff&gt;&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&gt;Thỏa thuận Dịch vụ Tài khoản Mi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&gt;Thỏa thuận Người dùng Chuyển vùng Mi&lt;/a&gt;&lt;/font&gt;, và &lt;font color=#33aaff&gt;&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi. Đọc kỹ các tài liệu này và hiểu đầy đủ tất cả các điều khoản và điều kiện liên quan trước khi bạn đồng ý.&lt;/strong&gt;"</string>
+Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với &lt;font color=#33aaff&gt;&lt;a href="https://static.account.xiaomi.com/html/agreement/account/en.html"&gt;Thỏa thuận Dịch vụ Tài khoản Mi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href="https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html"&gt;Thỏa thuận Người dùng Chuyển vùng Mi&lt;/a&gt;&lt;/font&gt;, và &lt;font color=#33aaff&gt;&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi. Đọc kỹ các tài liệu này và hiểu đầy đủ tất cả các điều khoản và điều kiện liên quan trước khi bạn đồng ý.&lt;/strong&gt;"</string>
 	<string name="bh_perm_ask_read_contacts">Cho phép Dịch vụ Nhà mạng Mi truy cập danh bạ của bạn trước.</string>
 	<string name="cta_content_seg2">"
 Chuyển vùng Mi cần kết nối Internet và truy cập thông tin vị trí của bạn để hoạt động bình thường. Ngoài ra, Chuyển vùng Mi có thể thu thập, sử dụng và chia sẻ thông tin cá nhân của bạn. Thông tin cá nhân của bạn sẽ được bảo vệ theo luật và quy định của địa phương."</string>

@@ -310,7 +310,7 @@
     <string name="privacy_authorize_revoke_time">Hủy (%1$d giây)</string>
     <string name="privacy_authorize_title">Đang cấp ủy quyền</string>
     <string name="privacy_authorize_privacy_policy">Chính sách Riêng tư</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data>Để sử dụng các tính năng cơ bản của dịch vụ Xiaomi Cloud, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý có nghĩa là bạn đã đọc và đồng ý với chúng tôi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Thỏa thuận Người dùng&lt;/a>.​&lt;/Data></string>
+    <string name="privacy_authorize_dialog_message"><Data>Để sử dụng các tính năng cơ bản của dịch vụ Xiaomi Cloud, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý có nghĩa là bạn đã đọc và đồng ý với chúng tôi &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Thỏa thuận Người dùng&lt;/a>.​</Data></string>
     <string name="privacy_authorize_dialog_exit">Thoát</string>
     <string name="privacy_authorize_dialog_agree">Đồng ý</string>
     <string name="privacy_authorize_network_error">Kết nối mạng và thử lại.</string>
@@ -1188,11 +1188,11 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_skipped_message">CẢNH BÁO: Nếu bạn bỏ qua Wi‑Fi, điện thoại của bạn sẽ chỉ sử dụng dữ liệu di động cho bản cập nhật và tải xuống ban đầu. Để không phải trả phí dữ liệu, hãy kết nối với Wi‑Fi.</string>
     <string name="wifi_and_mobile_skipped_message">"Nếu bạn bỏ qua Wi‑Fi:
 
-"&lt;li>Điện thoại của bạn sẽ không có kết nối Internet.&lt;/li>"
+"<li>Điện thoại của bạn sẽ không có kết nối Internet.</li>"
 
-"&lt;li>Bạn sẽ không nhận được bản cập nhật phần mềm cho đến khi kết nối với Internet.&lt;/li>"
+"<li>Bạn sẽ không nhận được bản cập nhật phần mềm cho đến khi kết nối với Internet.</li>"
 
-"&lt;li>Tại thời điểm này, bạn không thể kích hoạt tính năng bảo vệ thiết bị.&lt;/li></string>
+"<li>Tại thời điểm này, bạn không thể kích hoạt tính năng bảo vệ thiết bị.</li></string>
     <string name="wifi_saved_access_points_titlebar">Mạng đã lưu</string>
     <string name="wifi_advanced_titlebar">Wi-Fi nâng cao</string>
     <string name="wifi_configure_titlebar">Định cấu hình Wi‑Fi</string>
@@ -1496,12 +1496,12 @@ Có thể mã PIN không đúng."</string>
 
 Tất cả dữ liệu trên ^1 này sẽ bị xóa. Trước tiên, hãy cân nhắc việc sao lưu. 
 
-"&lt;b>Sao lưu ảnh và các phương tiện khác&lt;/b>" 
+"<b>Sao lưu ảnh và các phương tiện khác</b>" 
 Di chuyển tệp phương tiện sang bộ nhớ khác trên thiết bị này hoặc chuyển chúng sang máy tính bằng cáp USB. 
 
-"&lt;b>Sao lưu ứng dụng&lt;/b>" 
+"<b>Sao lưu ứng dụng</b>" 
 Tất cả ứng dụng được lưu trữ trên ^1 này sẽ bị gỡ bỏ và dữ liệu ứng dụng sẽ bị xóa. Để lưu giữ các ứng dụng này, hãy di chuyển chúng sang bộ nhớ khác trên thiết bị này."</string>
-    <string name="storage_internal_unmount_details">&lt;b>Khi bạn tháo ^1 này, các ứng dụng được lưu trữ trên đó sẽ ngừng hoạt động, đồng thời các tệp phương tiện được lưu trữ trên đó sẽ không khả dụng cho tới khi lắp lại.&lt;/b>" 
+    <string name="storage_internal_unmount_details"><b>Khi bạn tháo ^1 này, các ứng dụng được lưu trữ trên đó sẽ ngừng hoạt động, đồng thời các tệp phương tiện được lưu trữ trên đó sẽ không khả dụng cho tới khi lắp lại.</b>" 
 
 ^1 này được định dạng để chỉ hoạt động trên thiết bị này. Nó sẽ không hoạt động trên bất kỳ thiết bị nào khác."</string>
     <string name="storage_internal_forget_details">"Để sử dụng ứng dụng, ảnh hoặc dữ liệu có trong ^1 này, hãy cắm lại thiết bị đó. 
@@ -1536,10 +1536,10 @@ Bạn có thể cài đặt lại ứng dụng sau nhưng dữ liệu của ứn
 
 Sau khi định dạng, ^1 này sẽ chỉ hoạt động trong thiết bị này. 
 
-"&lt;b>Định dạng sẽ xóa tất cả dữ liệu hiện được lưu trữ trên ^1.&lt;/b> Để tránh mất dữ liệu, bạn nên sao lưu.</string>
+"<b>Định dạng sẽ xóa tất cả dữ liệu hiện được lưu trữ trên ^1.</b> Để tránh mất dữ liệu, bạn nên sao lưu.</string>
     <string name="storage_wizard_format_confirm_public_title">Định dạng làm bộ nhớ di động</string>
     <string name="storage_wizard_format_confirm_public_body">"Yêu cầu định dạng^1. 
-"&lt;b>Định dạng sẽ xóa tất cả dữ liệu hiện được lưu trữ trên^1.&lt;/b>" Để tránh mất dữ liệu, nên sao lưu trước. "</string>
+"<b>Định dạng sẽ xóa tất cả dữ liệu hiện được lưu trữ trên^1.</b>" Để tránh mất dữ liệu, nên sao lưu trước. "</string>
     <string name="storage_wizard_format_confirm_next">Xóa và định dạng</string>
     <string name="storage_wizard_format_progress_title">Đang định dạng ^1…</string>
     <string name="storage_wizard_format_progress_body">Không tháo ^1 khi đang định dạng.</string>
@@ -1549,7 +1549,7 @@ Việc di chuyển này mất khoảng ^2 và sẽ giải phóng ^3 trên bộ n
     <string name="storage_wizard_migrate_now">Di chuyển ngay bây giờ</string>
     <string name="storage_wizard_migrate_later">Di chuyển sau</string>
     <string name="storage_wizard_migrate_confirm_title">Di chuyển dữ liệu ngay bây giờ</string>
-    <string name="storage_wizard_migrate_confirm_body">&lt;b>Quá trình di chuyển mất khoảng ^1. Quá trình này sẽ giải phóng ^2 trên ^3.&lt;/b></string>
+    <string name="storage_wizard_migrate_confirm_body"><b>Quá trình di chuyển mất khoảng ^1. Quá trình này sẽ giải phóng ^2 trên ^3.</b></string>
     <string name="storage_wizard_migrate_confirm_next">Di chuyển</string>
     <string name="storage_wizard_migrate_progress_title">Đang di chuyển dữ liệu…</string>
     <string name="storage_wizard_migrate_details">"Trong khi di chuyển: 
@@ -1620,9 +1620,9 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="reset_network_title">Đặt lại Wi-Fi, mạng di động &amp; Bluetooth</string>
     <string name="reset_network_desc">"Điều này sẽ đặt lại tất cả cài đặt mạng, bao gồm:
 
-"&lt;li>Wi‑Fi&lt;/li>"
-"&lt;li>Dữ liệu di động&lt;/li>"
-"&lt;li>Bluetooth&lt;/li></string>
+"<li>Wi‑Fi</li>"
+"<li>Dữ liệu di động</li>"
+"<li>Bluetooth</li></string>
     <string name="reset_network_button_text">Đặt lại cài đặt</string>
     <string name="reset_network_final_desc">Đặt lại tất cả cài đặt mạng? Điều này có thể mất vài giây. Bạn không thể hoàn tác thao tác này!</string>
     <string name="reset_network_final_button_text">Đặt lại cài đặt</string>
@@ -1631,11 +1631,11 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="reset_network_complete_toast">Cài đặt mạng đã được đặt lại</string>
     <string name="device_reset_title">Đặt lại thiết bị</string>
     <string name="master_clear_title">Đặt lại về dữ liệu gốc</string>
-    <string name="master_clear_desc">Tác vụ này sẽ xóa tất cả dữ liệu từ &lt;b>bộ nhớ trong&lt;/b>" của điện thoại, bao gồm:
+    <string name="master_clear_desc">Tác vụ này sẽ xóa tất cả dữ liệu từ <b>bộ nhớ trong</b>" của điện thoại, bao gồm:
 
-"&lt;li>Tài khoản Google của bạn&lt;/li>"
-"&lt;li>Dữ liệu và cài đặt hệ thống và ứng dụng&lt;/li>"
-"&lt;li>Ứng dụng đã tải xuống&lt;/li></string>
+"<li>Tài khoản Google của bạn</li>"
+"<li>Dữ liệu và cài đặt hệ thống và ứng dụng</li>"
+"<li>Ứng dụng đã tải xuống</li></string>
     <string name="master_clear_accounts">"
 
 Bạn hiện đã đăng nhập vào các tài khoản sau đây:
@@ -1644,12 +1644,12 @@ Bạn hiện đã đăng nhập vào các tài khoản sau đây:
 
 Có người dùng khác trên thiết bị này.
 "</string>
-    <string name="master_clear_desc_also_erases_external">&lt;li>Nhạc&lt;/li>"
-"&lt;li>Ảnh&lt;/li>"
-"&lt;li>Dữ liệu người dùng khác&lt;/li></string>
+    <string name="master_clear_desc_also_erases_external"><li>Nhạc</li>"
+"<li>Ảnh</li>"
+"<li>Dữ liệu người dùng khác</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Để xóa nhạc, hình ảnh và dữ liệu người dùng khác, cần xóa "&lt;b>bộ lưu trữ USB&lt;/b>.</string>
+Để xóa nhạc, hình ảnh và dữ liệu người dùng khác, cần xóa "<b>bộ lưu trữ USB</b>.</string>
     <string name="erase_external_storage">Xóa bộ nhớ USB</string>
     <string name="erase_external_storage_description">Xóa tất cả dữ liệu trên bộ nhớ trong USB, chẳng hạn như nhạc hoặc ảnh</string>
     <string name="master_clear_button_text">Đặt lại điện thoại</string>
@@ -1869,11 +1869,11 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="reset_app_preferences_title">Đặt lại tùy chọn ứng dụng?</string>
     <string name="reset_app_preferences_desc">"Thao tác này sẽ đặt lại tất cả tùy chọn cho:
 
- "&lt;li>Ứng dụng bị tắt&lt;/li>"
- "&lt;li>Thông báo ứng dụng bị tắt&lt;/li>"
- "&lt;li>Ứng dụng mặc định cho các tác vụ&lt;/li>"
- "&lt;li>Giới hạn dữ liệu nền cho ứng dụng&lt;/li>"
- "&lt;li>Bất kỳ giới hạn về quyền nào&lt;/li>"
+ "<li>Ứng dụng bị tắt</li>"
+ "<li>Thông báo ứng dụng bị tắt</li>"
+ "<li>Ứng dụng mặc định cho các tác vụ</li>"
+ "<li>Giới hạn dữ liệu nền cho ứng dụng</li>"
+ "<li>Bất kỳ giới hạn về quyền nào</li>"
 
  Bạn sẽ không mất bất kỳ dữ liệu ứng dụng nào."</string>
     <string name="reset_app_preferences_button">Đặt lại ứng dụng</string>
@@ -2089,8 +2089,8 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"&lt;ul>&lt;li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"&lt;li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.&lt;/li>&lt;/li>&lt;/ul>"
+"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -2455,9 +2455,9 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="wifi_setup_status_eap_not_supported">EAP không được hỗ trợ.</string>
     <string name="wifi_setup_eap_not_supported">Bạn không thiết lập cấu hình kết nối EAP WiFi trong khi cài đặt. Sau khi cài đặt, bạn có thể thực hiện việc đó trong Cài đặt >Không dây &amp; Mạng.</string>
     <string name="wifi_setup_description_connecting">Kết nối có thể mất vài phút…</string>
-    <string name="wifi_setup_description_connected">Chạm &lt;b>Tiếp theo&lt;/b>" để tiếp tục cài đặt.
+    <string name="wifi_setup_description_connected">Chạm <b>Tiếp theo</b>" để tiếp tục cài đặt.
 
-Chạm "&lt;b>Quay lại&lt;/b> để kết nối với mạng Wi-Fi khác.</string>
+Chạm "<b>Quay lại</b> để kết nối với mạng Wi-Fi khác.</string>
     <string name="time_zone_auto_stub">Chọn múi giờ</string>
     <string name="accessibility_sync_enabled">Đồng bộ hóa đã được bật</string>
     <string name="accessibility_sync_disabled">Đồng bộ hóa đã bị tắt</string>
@@ -4090,8 +4090,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="button_text_ok_timer">OK(%d)</string>
     <string name="button_text_cancel">Hủy</string>
     <string name="master_clear_apply_title">Chú ý</string>
-    <string name="master_clear_apply_step_1">&lt;b>Đặt lại về dữ liệu gốc sẽ xóa tất cả dữ liệu trên điện thoại&lt;/b>, bao gồm cả hình ảnh, bài hát, ghi chú và dữ liệu cá nhân khác. Hãy chắc chắn rằng bạn đã sao lưu tất cả các mục quan trọng vào máy tính.</string>
-    <string name="master_clear_apply_step_2">Hãy chắc chắn rằng tất cả các mục quan trọng đã được sao lưu vào máy tính. Tất cả dữ liệu trên thiết bị này sẽ bị xóa khi đặt lại. &lt;b>Bạn sẽ không thể khôi phục lại các mục mà bạn chưa sao lưu.&lt;/b></string>
+    <string name="master_clear_apply_step_1"><b>Đặt lại về dữ liệu gốc sẽ xóa tất cả dữ liệu trên điện thoại</b>, bao gồm cả hình ảnh, bài hát, ghi chú và dữ liệu cá nhân khác. Hãy chắc chắn rằng bạn đã sao lưu tất cả các mục quan trọng vào máy tính.</string>
+    <string name="master_clear_apply_step_2">Hãy chắc chắn rằng tất cả các mục quan trọng đã được sao lưu vào máy tính. Tất cả dữ liệu trên thiết bị này sẽ bị xóa khi đặt lại. <b>Bạn sẽ không thể khôi phục lại các mục mà bạn chưa sao lưu.</b></string>
     <string name="master_clear_erase_application_progress">Đang xóa ứng dụng…</string>
     <string name="erase_internal_storage">Xóa bộ nhớ máy</string>
     <string name="erase_internal_storage_description">Xóa nhạc, ảnh, video và dữ liệu người dùng khác</string>
@@ -4842,7 +4842,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="lock_settings_with_fingerprint">Màn hình khóa &amp; mật khẩu</string>
     <string name="master_clear_summary">Bộ nhớ trong và tất cả các dữ liệu sẽ được đặt lại</string>
     <string name="onekey_migrate">Mi Mover</string>
-    <string name="forget_password_button_text">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="forget_password_button_text"><u>Quên mật khẩu</u></string>
     <string name="storage_usb">Lưu trữ USB</string>
     <string name="usb_eject">Gỡ lưu trữ USB</string>
     <string name="usb_eject_summary">Gỡ lưu trữ USB để ngắt kết nối thiết bị an toàn</string>
@@ -5119,7 +5119,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="fingerprint_for_keyguard_disabled">Vân tay đã bị vô hiệu hóa bởi cài đặt bảo mật.</string>
     <string name="fingerprint_lock_second">Mở khóa Không gian thứ hai</string>
     <string name="fingerprint_lock_first">Mở khóa Không gian thứ nhất</string>
-    <string name="forget_pattern">&lt;u>Quên hình mở khóa?&lt;/u></string>
+    <string name="forget_pattern"><u>Quên hình mở khóa?</u></string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Quá nhiều lần thử không thành công</string>
     <string name="privacy_password_title">Mật khẩu bảo vệ Cá nhân</string>
     <string name="privacy_password_settings">Sử dụng mật khẩu bảo vệ Cá nhân</string>
@@ -5284,13 +5284,13 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="accessibility_screen_magnification_navbar_short_summary">Nhấn vào nút để thu phóng</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Khi tính năng phóng đại được bật, sử dụng nút Trợ năng ở cuối màn hình để phóng đại nhanh.
 
-"&lt;b>Để thu phóng&lt;/b>", nhấn vào nút Trợ năng, sau đó nhấn bất kỳ chỗ nào trên màn hình.
-"&lt;ul>&lt;li>Kéo 2 hoặc nhiều ngón tay để cuộn&lt;/li>"
-"&lt;li>Chụm 2 hoặc nhiều ngón tay để điều chỉnh mức thu phóng&lt;/li>&lt;/ul>"
+"<b>Để thu phóng</b>", nhấn vào nút Trợ năng, sau đó nhấn bất kỳ chỗ nào trên màn hình.
+"<ul><li>Kéo 2 hoặc nhiều ngón tay để cuộn</li>"
+"<li>Chụm 2 hoặc nhiều ngón tay để điều chỉnh mức thu phóng</li></ul>"
 
-"&lt;b>Để thu phóng tạm thời&lt;/b>", nhấn vào nút Trợ năng, sau đó chạm và giữ bất kỳ chỗ nào trên màn hình.
-"&lt;ul>&lt;li>Kéo để di chuyển quanh màn hình&lt;/li>"
-"&lt;li>Nhấc ngón tay để thu nhỏ&lt;/li>&lt;/ul>"
+"<b>Để thu phóng tạm thời</b>", nhấn vào nút Trợ năng, sau đó chạm và giữ bất kỳ chỗ nào trên màn hình.
+"<ul><li>Kéo để di chuyển quanh màn hình</li>"
+"<li>Nhấc ngón tay để thu nhỏ</li></ul>"
 
 Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</string>
     <string name="accessibility_screen_magnification_navbar_title">Phóng đại bằng nút</string>
@@ -5955,7 +5955,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="auto_startup_count">%d ứng dụng được phép tự khởi chạy</string>
     <string name="lockpassword_pin_fixed_length">Mã PIN phải chứa %d chữ số</string>
     <string name="internal_media_format_final_desc">Xóa bộ nhớ trong? Bạn không thể hoàn tác hành động này! Điện thoại sẽ khởi động lại sau khi bộ nhớ trong bị xóa.</string>
-    <string name="internal_media_format_desc">Xóa bộ nhớ trong? &lt;b>Tất cả&lt;/b> dữ liệu của bạn sẽ bị xóa. Điện thoại sẽ khởi động lại sau khi bộ nhớ trong bị xóa.</string>
+    <string name="internal_media_format_desc">Xóa bộ nhớ trong? <b>Tất cả</b> dữ liệu của bạn sẽ bị xóa. Điện thoại sẽ khởi động lại sau khi bộ nhớ trong bị xóa.</string>
     <string name="internal_media_format_button_text">Xóa bộ nhớ trong</string>
     <string name="internal_media_format_title">Xóa bộ nhớ trong</string>
     <string name="internal_format">Xóa bộ nhớ trong</string>
@@ -6019,8 +6019,8 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="uicc_media_format_title">Xóa lưu trữ UICC</string>
     <string name="usb_media_format_summary">Xóa tất cả dữ liệu trên lưu trữ USB</string>
     <string name="uicc_media_format_summary">Xóa tất cả dữ liệu trên lưu trữ UICC</string>
-    <string name="usb_media_format_desc">Xóa lưu trữ USB? Bạn sẽ mất &lt;b>tất cả&lt;/b> dữ liệu lưu ở đó.</string>
-    <string name="uicc_media_format_desc">Xóa lưu trữ UICC? Bạn sẽ mất &lt;b>tất cả&lt;/b> dữ liệu lưu ở đó.</string>
+    <string name="usb_media_format_desc">Xóa lưu trữ USB? Bạn sẽ mất <b>tất cả</b> dữ liệu lưu ở đó.</string>
+    <string name="uicc_media_format_desc">Xóa lưu trữ UICC? Bạn sẽ mất <b>tất cả</b> dữ liệu lưu ở đó.</string>
     <string name="usb_media_format_button_text">Xóa lưu trữ USB</string>
     <string name="uicc_media_format_button_text">Xóa lưu trữ UICC</string>
     <string name="uicc_media_format_final_desc">Tất cả tập tin trên lưu trữ UICC sẽ bị xóa vĩnh viễn.</string>
@@ -6383,14 +6383,14 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="start_vip_mode">Bật chế độ VIP</string>
     <string name="vip_mode_info">Trong Chế độ Im lặng, danh sách liên hệ VIP trong cuộc gọi hoặc tin nhắn vẫn đổ chuông nhắc nhở</string>
     <string name="wifi_eap_info_reconnect">Xác thực thất bại, vui lòng kiểm lại!</string>
-    <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data>&lt;font color=#000000>Mật khẩu&lt;/font>&lt;/Data></string>
-    <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data>&lt;font color=#009dff>Mật khẩu&lt;/font>&lt;/Data></string>
-    <string name="setup_choose_unlock_password_color_normal">&lt;Data>&lt;font color=#000000>PIN&lt;/font>&lt;/Data></string>
-    <string name="setup_choose_unlock_password_color_pressed">&lt;Data>&lt;font color=#009dff>PIN&lt;/font>&lt;/Data></string>
-    <string name="setup_choose_unlock_pattern_color_normal">&lt;Data>&lt;font color=#000000>Hình mở khóa&lt;/font>&lt;/Data></string>
-    <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data>&lt;font color=#009dff>Hình mở khóa&lt;/font>&lt;/Data></string>
+    <string name="setup_choose_unlock_mixed_password_color_normal"><Data>&lt;font color=#000000>Mật khẩu&lt;/font></Data></string>
+    <string name="setup_choose_unlock_mixed_password_color_pressed"><Data>&lt;font color=#009dff>Mật khẩu&lt;/font></Data></string>
+    <string name="setup_choose_unlock_password_color_normal"><Data>&lt;font color=#000000>PIN&lt;/font></Data></string>
+    <string name="setup_choose_unlock_password_color_pressed"><Data>&lt;font color=#009dff>PIN&lt;/font></Data></string>
+    <string name="setup_choose_unlock_pattern_color_normal"><Data>&lt;font color=#000000>Hình mở khóa&lt;/font></Data></string>
+    <string name="setup_choose_unlock_pattern_color_pressed"><Data>&lt;font color=#009dff>Hình mở khóa&lt;/font></Data></string>
     <string name="title_jeejen">Màn hình chính Jeejen</string>
-    <string name="use_media_format_desc">Xóa Lưu trữ USB? &lt;b>Tất cả&lt;/b> tập tin sẽ bị xóa vĩnh viễn.</string>
+    <string name="use_media_format_desc">Xóa Lưu trữ USB? <b>Tất cả</b> tập tin sẽ bị xóa vĩnh viễn.</string>
     <string name="usb_dlg_confirm_unmount_title">Ngắt kết nối lưu trữ USB?</string>
     <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
     <string name="accessibility_wifi_security_type_none">Mở mạng</string>
@@ -6472,7 +6472,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="bootloader_device_bind_sim_invalid">Thẻ SIM không khả dụng. Hãy thay thế và thử lại.</string>
     <string name="bootloader_locked_answer_2_no_sim">"1. Chạm \"Thêm tài khoản\" bên dưới để liên kết Tài khoản Mi với thiết bị này
 2. Tải xuống công cụ mở khóa từ trang web của chúng tôi. Lưu ý rằng bạn phải sử dụng máy tính để mở khóa thiết bị. Tải xuống tại đây:"</string>
-    <string name="bootloader_status_privacy_dialog_message">Mở khóa Mi cần Tài khoản Mi, CPU ID, IMEI, IMSI để làm việc bình thường. Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi. Đồng ý?</string>
+    <string name="bootloader_status_privacy_dialog_message">Mở khóa Mi cần Tài khoản Mi, CPU ID, IMEI, IMSI để làm việc bình thường. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> của chúng tôi. Đồng ý?</string>
     <string name="bootloader_status_privacy_dialog_no">Hủy</string>
     <string name="bootloader_status_privacy_dialog_title">Yêu cầu quyền</string>
     <string name="bootloader_status_privacy_dialog_url_text">Chính sách Riêng tư</string>
@@ -6531,7 +6531,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="font_setting_title">Kiểu chữ</string>
     <string name="forget_password_dialog_button_text">Quay lại</string>
     <string name="forget_password_dialog_content_four">2. Chọn [Wipe data], và chờ đến khi thiết bị khởi động lại.</string>
-    <string name="forget_password_dialog_content_one">&lt;Data>Nếu bạn quên mật khẩu, bạn sẽ không thể khôi phục. Tuy nhiên, bạn có thể đặt lại mật khẩu sau khi bạn &lt;font color=#ec2700>xóa tất cả dữ liệu trên thiết bị&lt;/font> (bao gồm ảnh, liên hệ v.v...). Sao lưu tất cả dữ liệu quan trọng trước khi thực hiện điều này.&lt;/Data></string>
+    <string name="forget_password_dialog_content_one"><Data>Nếu bạn quên mật khẩu, bạn sẽ không thể khôi phục. Tuy nhiên, bạn có thể đặt lại mật khẩu sau khi bạn &lt;font color=#ec2700>xóa tất cả dữ liệu trên thiết bị&lt;/font> (bao gồm ảnh, liên hệ v.v...). Sao lưu tất cả dữ liệu quan trọng trước khi thực hiện điều này.</Data></string>
     <string name="forget_password_dialog_content_three">1. Tắt thiết bị. Bấm nút [Nguồn] và [Âm lượng+] đồng thời, giữ đến khi bạn nhìn thấy biểu tượng *</string>
     <string name="forget_password_dialog_content_two">Thực hiện theo các bước sau để xóa dữ liệu:</string>
     <string name="forget_password_dialog_title">Đặt lại mật khẩu</string>
@@ -7452,8 +7452,8 @@ Nó sẽ giải phóng ^2 của bộ nhớ điện thoại và mất khoảng ^3
     <string name="storage_wizard_migrate_v2_title">Chuyển nội dung tới ^1?</string>
     <string name="storage_wizard_move_unlock">Để chuyển dữ liệu bạn cần mở khóa người dùng ^1.</string>
     <string name="storage_wizard_ready_v2_external_body">Bạn có thể chuyển nội dung đến ^1</string>
-    <string name="storage_wizard_ready_v2_internal_body">Để chuyển nội dung đến ^1, vào &lt;b>Cài đặt > Bộ nhớ &lt;/b></string>
-    <string name="storage_wizard_ready_v2_internal_moved_body">Nội dung của bạn đã chuyển đến ^1. Để quản lý ^2, vào &lt;b>Cài đặt > Lưu trữ&lt;/b></string>
+    <string name="storage_wizard_ready_v2_internal_body">Để chuyển nội dung đến ^1, vào <b>Cài đặt > Bộ nhớ </b></string>
+    <string name="storage_wizard_ready_v2_internal_moved_body">Nội dung của bạn đã chuyển đến ^1. Để quản lý ^2, vào <b>Cài đặt > Lưu trữ</b></string>
     <string name="storage_wizard_slow_v2_body">Bạn vẫn có thể sử dụng ^1 này, nhưng nó có thể chậm.
 Các ứng dụng lưu trữ trên ^2 có thể hoạt động không bình thường, và thời gian chuyển nội dung sẽ lâu.
 Thử sử dụng ^3 nhanh hơn, hoặc sử dụng ^4 này làm bộ nhớ di động.</string>
@@ -8088,7 +8088,7 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
     <string name="color_led_start_time">Thời gian bắt đầu</string>
     <string name="color_led_title">Ánh sáng LED</string>
     <string name="long_press_power_key">Nhấn giữ nút nguồn</string>
-    <string name="long_press_power_key_tips">&lt;Data>Nhấn giữ nút nguồn &lt;font color=#999999>Nhanh và thuận tiện hơn&lt;/font>&lt;/Data></string>
+    <string name="long_press_power_key_tips"><Data>Nhấn giữ nút nguồn &lt;font color=#999999>Nhanh và thuận tiện hơn&lt;/font></Data></string>
     <string name="toggle_auto_speaker_preference_summary">Thiết bị sẽ chuyển sang loa ngoài khi bạn di chuyển nó xa khỏi tai khi đang nghe điện thoại. Tính năng này chỉ hoạt động khi bật TalkBack.</string>
     <string name="toggle_auto_speaker_preference_title">Tự động chuyển sang loa ngoài</string>
     <string name="miui_touch_filtered_touchassistant_warning">Hộp thoại Quyền đang bị che bởi Phím ảo. Di chuyển Phím ảo sang chỗ khác hoặc tắt tính năng đó.</string>
@@ -10115,7 +10115,7 @@ Tiếp tục truy cập cài đặt bổ sung."</string>
 • Theo dõi trạng thái thiết bị
 Để phát ghi âm SOS khi liên lạc khẩn cấp của bạn nhận
 Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể chọn tắt tính năng này."</string>
-    <string name="nfc_repair_action_desc">Chạm \"&lt;b>Khôi phục&lt;/b>"\" để khắc phục các sự cố khiến bạn không thể sử dụng tính năng NFC. Đừng rời khỏi trang hiện tại trong khi chức năng NFC đang được khôi phục. Khởi động lại thiết bị của bạn để áp dụng các thay đổi."</string>
+    <string name="nfc_repair_action_desc">Chạm \"<b>Khôi phục</b>"\" để khắc phục các sự cố khiến bạn không thể sử dụng tính năng NFC. Đừng rời khỏi trang hiện tại trong khi chức năng NFC đang được khôi phục. Khởi động lại thiết bị của bạn để áp dụng các thay đổi."</string>
     <string name="multi_face_input_success_name_title">Tên</string>
     <string name="nfc_repair_confirm_desc">"Bạn có gặp bất kỳ vấn đề nào dưới đây không?
 %1$d. Bạn không thể thêm hoặc ghi thẻ NFC.
@@ -12377,14 +12377,14 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
     <string name="accessibility_button_summary">Truy cập nhanh các tính năng trợ năng</string>
     <string name="accessibility_button_opacity_title">Độ trong suốt khi không sử dụng</string>
     <string name="accessibility_button_or_gesture_title">Sử dụng nút hoặc cử chỉ</string>
-    <string name="accessibility_button_description">&lt;b>Để bắt đầu&lt;/b>"
+    <string name="accessibility_button_description"><b>Để bắt đầu</b>"
 1. Chuyển đến cài đặt trợ năng
 2. Chọn một tính năng và nhấn vào phím tắt
 3. Chọn nút để truy cập tính năng"</string>
     <string name="accessibility_button_fade_summary">Mất dần sau vài giây để bạn dễ nhìn màn hình hơn</string>
     <string name="accessibility_button_fade_title">Làm mờ dần khi không sử dụng</string>
     <string name="accessibility_button_gesture_about_title">Giới thiệu về nút trợ năng &amp; cử chỉ</string>
-    <string name="accessibility_button_gesture_description">&lt;b>Để bắt đầu&lt;/b>"
+    <string name="accessibility_button_gesture_description"><b>Để bắt đầu</b>"
 1. Chuyển đến cài đặt trợ năng
 2. Chọn một tính năng và nhấn vào phím tắt
 3. Chọn xem bạn muốn sử dụng nút hay cử chỉ để truy cập tính năng"</string>
@@ -12591,8 +12591,8 @@ Tính năng này chỉ hoạt động khi điều hướng hệ thống được
     <string name="bluetooth_inband_ringing_summary">Cho phép phát nhạc chuông điện thoại qua tai nghe Bluetooth. Tính năng này chỉ có thể được sử dụng khi một thiết bị được kết nối và có thể không tương thích với một số thiết bị.</string>
     <string name="bt_half_close_switch_summary">Nếu bạn tắt Bluetooth, Bluetooth sẽ tự động bật lại vào ngày hôm sau và thiết bị của bạn sẽ kết nối lại</string>
     <string name="bt_half_close_switch_title">Luôn bật Bluetooth</string>
-    <string name="view_face_privacy_policy">&lt;Data>Đọc và đồng ý với &lt;a href =https://privacy.mi.com/Facial-recognition/%1$s/>\"Dữ liệu khuôn mặt &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.&lt;/Data></string>
-    <string name="view_fingerprint_privacy_policy">&lt;Data>Đọc và đồng ý với &lt;a href =https://privacy.mi.com/setting-fingerprint/%1$s/>\"Vân tay &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="view_face_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=https://privacy.mi.com/Facial-recognition/%1$s/>\"Dữ liệu khuôn mặt &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+    <string name="view_fingerprint_privacy_policy"><Data>Đọc và đồng ý với &lt;a href=https://privacy.mi.com/setting-fingerprint/%1$s/>\"Vân tay &amp;#038; khóa màn hình\" Cam kết bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
     <string name="bluetooth_device_button_accept_permission">Đồng ý</string>
     <string name="face_data_siggesstion_next_cn">Đồng ý</string>
     <string name="notification_volume_control">Kiểm soát âm thanh thông báo</string>
@@ -13742,7 +13742,7 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="long_background_tasks_switch_title">Cho phép chạy tác vụ trong nền dài hạn</string>
     <string name="long_background_tasks_title">Tác vụ trong nền dài hạn</string>
     <string name="low_dc_light_title">Chế độ chống nhấp nháy ánh sáng yếu</string>
-    <string name="main_clear_desc_also_erases_esim">&lt;li>eSIM&lt;/li></string>
+    <string name="main_clear_desc_also_erases_esim"><li>eSIM</li></string>
     <string name="manage_notification_access_summary">Kiểm soát những ứng dụng và thiết bị nào có thể đọc thông báo</string>
     <string name="manage_trust_agents_summary_on">{count,plural, =1{1 tác nhân tin cậy đang hoạt động}other{# tác nhân tin cậy đang hoạt động}}</string>
     <string name="managed_profile_settings_footer">Khi bị tắt, các ứng dụng công việc sẽ tạm dừng, đồng thời không truy cập được hoặc gửi thông báo cho bạn</string>
@@ -13987,7 +13987,7 @@ Nếu quyền này không được cấp, hệ thống sẽ giới hạn thời 
     <string name="one_handed_action_pull_down_screen_title">Kéo màn hình vào tầm tay</string>
     <string name="one_handed_action_show_notification_summary">Thông báo và chế độ cài đặt sẽ xuất hiện.</string>
     <string name="one_handed_mode_enabled">Sử dụng chế độ một tay</string>
-    <string name="one_handed_mode_footer_text">" "&lt;b>Cách dùng chế độ một tay&lt;/b>"
+    <string name="one_handed_mode_footer_text">" "<b>Cách dùng chế độ một tay</b>"
  • Đảm bảo rằng bạn đã chọn chế độ thao tác bằng cử chỉ trong phần cài đặt thao tác hệ thống
  • Vuốt xuống ở gần phần cạnh dưới màn hình"</string>
     <string name="one_handed_mode_intro_text">Kéo xuống từ nửa trên của màn hình để dễ dàng thao tác bằng một tay</string>
@@ -14103,7 +14103,7 @@ Nhấn đồng thời nút nguồn và nút tăng âm lượng"</string>
     <string name="request_manage_bluetooth_permission_dont_allow">Không cho phép</string>
     <string name="request_manage_credentials_description">Các chứng chỉ này sẽ xác minh danh tính của bạn bằng cách chia sẻ mã nhận dạng duy nhất của thiết bị mà bạn dùng với các ứng dụng và URL ở bên dưới</string>
     <string name="request_manage_credentials_dont_allow">Không cho phép</string>
-    <string name="request_manage_credentials_title">Cho phép &lt;b>^1&lt;/b> cài đặt các chứng chỉ trên thiết bị này?</string>
+    <string name="request_manage_credentials_title">Cho phép <b>^1</b> cài đặt các chứng chỉ trên thiết bị này?</string>
     <string name="require_cellular_encryption_summary">Phương thức mã hoá sẽ an toàn hơn, nhưng bạn có thể không kết nối được ở một số vị trí. Tuyệt đối không yêu cầu mã hoá các cuộc gọi khẩn cấp</string>
     <string name="require_cellular_encryption_title">Yêu cầu mã hoá</string>
     <string name="reset_bluetooth_wifi_button_text">Đặt lại</string>

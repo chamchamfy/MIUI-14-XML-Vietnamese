@@ -489,10 +489,10 @@
 	<string name="privacy_revoke_dialog_title_cn">Rút lại sự đồng ý</string>
 	<string name="privacy_revoke_failed_dialog_content">Đã xảy ra lỗi máy chủ. Đợi một hoặc hai phút và thử lại.</string>
 	<string name="privacy_revoke_failed_dialog_title">Không thể rút lại sự đồng ý</string>
-	<string name="privacy_revoke_tip_dialog_content">&lt;Data>\"Bạn sẽ không thể tiếp tục sử dụng %1$s trừ khi bạn đồng ý với phiên bản mới của Chính sách quyền riêng tư của nó. Đồng ý với &lt;a href=\"%3$s\">Chính sách quyền riêng tư&lt;/a> được cập nhật của %2$s bây giờ?\"&lt;/Data></string>
+	<string name="privacy_revoke_tip_dialog_content"><Data>"Bạn sẽ không thể tiếp tục sử dụng %1$s trừ khi bạn đồng ý với phiên bản mới của Chính sách quyền riêng tư của nó. Đồng ý với &lt;a href="%3$s">Chính sách quyền riêng tư&lt;/a> được cập nhật của %2$s bây giờ?"</Data></string>
 	<string name="privacy_revoke_tip_dialog_title">Không thể sử dụng ứng dụng</string>
 	<string name="privacy_update_dialog_content_1">Chính sách quyền riêng tư của %s đã được cập nhật:</string>
-	<string name="privacy_update_dialog_content_2">&lt;Data>Đọc và đồng ý với phiên bản mới của &lt;a href=\"%1$s\">Chính sách quyền riêng tư&lt;/a> trước khi bạn tiếp tục.&lt;/Data></string>
+	<string name="privacy_update_dialog_content_2"><Data>Đọc và đồng ý với phiên bản mới của &lt;a href="%1$s">Chính sách quyền riêng tư&lt;/a> trước khi bạn tiếp tục.</Data></string>
 	<string name="privacy_update_dialog_title">Chính sách bảo mật được cập nhật</string>
 	<string name="required_permissions">;</string>
 	<string name="retry_refresh">Thử lại</string>
@@ -581,8 +581,8 @@
 	<string name="sunday_shortest">CN</string>
 	<string name="support_settings_title">Hỗ trợ</string>
 	<string name="taplus_cta_agree">Đồng ý</string>
-	<string name="taplus_cta_agree_network_and_other_privacy">Cho phép tính năng này kết nối với Internet và cấp các quyền bắt buộc để tiếp tục. Đọc và đồng ý với &lt;font color=#0D84FF>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#0D84FF>&lt;a href=\"%2$s của chúng tôi \">Chính sách quyền riêng tư&lt;/a>&lt;/font> trước khi sử dụng tính năng này.</string>
-	<string name="taplus_cta_agree_network_privacy">Cho phép tính năng này kết nối với internet để tiếp tục. Đọc và đồng ý với &lt;font color=#0D84FF>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#0D84FF>&lt;a href=\"%2$s của chúng tôi \">Chính sách quyền riêng tư&lt;/a>&lt;/font> trước khi sử dụng tính năng này.</string>
+	<string name="taplus_cta_agree_network_and_other_privacy">Cho phép tính năng này kết nối với Internet và cấp các quyền bắt buộc để tiếp tục. Đọc và đồng ý với &lt;font color=#0D84FF>&lt;a href="%1$s">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#0D84FF>&lt;a href="%2$s của chúng tôi ">Chính sách quyền riêng tư&lt;/a>&lt;/font> trước khi sử dụng tính năng này.</string>
+	<string name="taplus_cta_agree_network_privacy">Cho phép tính năng này kết nối với internet để tiếp tục. Đọc và đồng ý với &lt;font color=#0D84FF>&lt;a href="%1$s">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#0D84FF>&lt;a href="%2$s của chúng tôi ">Chính sách quyền riêng tư&lt;/a>&lt;/font> trước khi sử dụng tính năng này.</string>
 	<string name="taplus_cta_des">Chào mừng bạn đến với \"Chọn để tìm kiếm\" do Taplus cung cấp! Bạn có thể sử dụng tính năng này để thực hiện tìm kiếm nhanh trong khi đọc tin tức. Để bật và tắt tính năng này, hãy mở cài đặt của Mi Browser và đi tới Cài đặt bổ sung > Chọn để tìm kiếm. Để có thể hoạt động bình thường, tính năng này cần kết nối internet và yêu cầu các quyền sau:</string>
 	<string name="taplus_cta_necessary_permission">Quyền bắt buộc (được sử dụng cho các tính năng và dịch vụ cơ bản)</string>
 	<string name="taplus_cta_network_des">Chào mừng bạn đến với \"Chọn để tìm kiếm\" do Taplus cung cấp! Bạn có thể sử dụng tính năng này để thực hiện tìm kiếm nhanh trong khi đọc tin tức. Để bật và tắt tính năng này, hãy mở cài đặt của Mi Browser và đi tới Cài đặt bổ sung > Chọn để tìm kiếm. Để có thể hoạt động bình thường, tính năng này cần phải kết nối internet.</string>

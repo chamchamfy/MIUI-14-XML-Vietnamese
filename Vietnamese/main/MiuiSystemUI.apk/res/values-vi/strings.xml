@@ -1428,11 +1428,11 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="phone_locked_foget_password">Quên mật khẩu?</string>
     <string name="phone_locked_foget_password_mehod_back">Quay lại</string>
     <string name="phone_locked_foget_password_method">Quên mật khẩu?</string>
-    <string name="phone_locked_foget_password_method_content">&lt;Data>Bạn phải &lt;font color=#a5220e>xóa tất cả dữ liệu &lt;/font> trên thiết bị, bao gồm ảnh và liên hệ, và thiết lập mật khẩu Màn hình khóa mới.;&lt;/Data></string>
+    <string name="phone_locked_foget_password_method_content"><Data>Bạn phải &lt;font color=#a5220e>xóa tất cả dữ liệu &lt;/font> trên thiết bị, bao gồm ảnh và liên hệ, và thiết lập mật khẩu Màn hình khóa mới.;</Data></string>
     <string name="phone_locked_foget_password_method_next">Tiếp theo</string>
     <string name="phone_locked_foget_password_ok">Tôi biết</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Tắt thiết bị, sau đó nhấn giữ nút &lt;font color=#e6e6e6>[Nguồn]&lt;/font> và &lt;font color=#e6e6e6>[Âm lượng +]&lt;/font> cho đến khi bạn thấy &lt;img src=\"\">.</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Làm thế nào để xóa dữ liệu?</string>
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="pip_close">Đóng PiP</string>
@@ -1451,32 +1451,32 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="pip_skip_to_prev">Chuyển đến trang trước</string>
     <string name="power_notification_controls_description">"Với cài đặt thông báo nâng cao, bạn có thể đặt mức độ quan trọng từ cấp 0 tới cấp 5 cho thông báo ứng dụng 
 
-"&lt;b>Cấp 5&lt;/b>" 
+"<b>Cấp 5</b>" 
 - Hiển thị ở đầu danh sách thông báo 
 - Cho phép gián đoạn toàn màn hình 
 - Luôn hiển thị 
 
-"&lt;b>Cấp 4&lt;/b>" 
+"<b>Cấp 4</b>" 
 - Không cho phép gián đoạn toàn màn hình 
 - Luôn hiển thị 
 
-"&lt;b>Cấp 3&lt;/b>" 
+"<b>Cấp 3</b>" 
 - Không cho phép gián đoạn toàn màn hình 
 - Không bao giờ hiển thị 
 
-"&lt;b>Cấp 2&lt;/b>" 
+"<b>Cấp 2</b>" 
 - Không cho phép gián đoạn toàn màn hình 
 - Không bao giờ hiển thị 
 - Không bao giờ tạo âm thanh hoặc rung 
 
-"&lt;b>Cấp 1&lt;/b>" 
+"<b>Cấp 1</b>" 
 - Không cho phép gián đoạn toàn màn hình
 - Không bao giờ hiển thị 
 - Không bao giờ tạo âm thanh hoặc rung 
 - Ẩn khỏi màn hình khóa và thanh thông báo 
 - Hiển thị ở dưới cùng của danh sách thông báo 
 
-"&lt;b>Cấp 0&lt;/b>" 
+"<b>Cấp 0</b>" 
 - Chặn toàn bộ thông báo từ ứng dụng"</string>
     <string name="profile_owned_footer">Hồ sơ có thể được giám sát</string>
     <string name="qs_customize_title">Sửa</string>
@@ -3660,7 +3660,7 @@ Sau khi chúng bị xoá, bạn sẽ cần thiết lập lại tính năng Mở 
     <string name="font_scaling_dialog_title">Cỡ chữ</string>
     <string name="font_scaling_larger">Phóng to</string>
     <string name="font_scaling_smaller">Thu nhỏ</string>
-    <string name="forget_password_string_for_esim">&lt;u>Quên mã PUK&lt;/u></string>
+    <string name="forget_password_string_for_esim"><u>Quên mã PUK</u></string>
     <string name="format_day_desc">Ngày trong tháng: %s</string>
     <string name="format_day_week_desc">Ngày trong tháng: %1$s, %2$s</string>
     <string name="format_lunar_calendar_month_day_desc">Ngày theo lịch Âm: %s</string>

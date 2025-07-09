@@ -148,7 +148,7 @@ tính năng này sẽ được thêm vào Không gian thứ hai tự động."</
     <string name="create_work_space">Tạo Không gian làm việc</string>
     <string name="creating_app_icon">Đang tạo biểu tượng…</string>
     <string name="cta_declaration_agree_and_continue">Đồng ý</string>
-    <string name="cta_declaration_message_format" formatted="false">Bạn phải đọc và đồng ý với &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> của chúng tôi trước khi sử dụng chế độ Doanh nghiệp. Thiết bị của bạn cần kết nối với internet để kích hoạt chế độ này. Đồng ý?</string>
+    <string name="cta_declaration_message_format" formatted="false">Bạn phải đọc và đồng ý với &lt;font color=%s>&lt;a href="%s">%s&lt;/a>&lt;/font> của chúng tôi trước khi sử dụng chế độ Doanh nghiệp. Thiết bị của bạn cần kết nối với internet để kích hoạt chế độ này. Đồng ý?</string>
     <string name="cta_declaration_title">Điều khoản và Điều kiện</string>
     <string name="current_space">Không gian hiện tại</string>
     <string name="custom_gesture_title">Tùy chỉnh cử chỉ</string>
@@ -525,7 +525,7 @@ Nếu bạn giữ phím trong %s giây, bạn sẽ mở menu tắt máy."</strin
     <string name="long_press_power_key">Bấm giữ phím Nguồn</string>
     <string name="long_press_power_key_half_of_second">Bấm và giữ phím Nguồn trong 0,5 giây để bật Trợ lý Google</string>
     <string name="long_press_power_key_half_second">Bấm và giữ phím Nguồn %sgiây</string>
-    <string name="long_press_power_key_tips">&lt;Data>Bấm giữ phím Nguồn &lt;font color=#999999>nhanh hơn và thuận tiện hơn&lt;/font>&lt;/Data></string>
+    <string name="long_press_power_key_tips"><Data>Bấm giữ phím Nguồn &lt;font color=#999999>nhanh hơn và thuận tiện hơn&lt;/font></Data></string>
     <string name="long_press_volume_down">Bấm giữ phím Giảm âm lượng</string>
     <string name="master_clear_apply_step_1">Hủy ủy quyền yêu cầu thiết bị khôi phục về cài đặt gốc. Tất cả các tập tin và dữ liệu, bao gồm tài khoản, danh bạ, ảnh và ứng dụng sẽ bị xóa vĩnh viễn. Sao lưu tất cả các mục quan trọng vào máy tính trước khi hủy ủy quyền.</string>
     <string name="master_clear_apply_step_2">"Đảm bảo bạn đã sao lưu tất cả các mục quan trọng vào máy tính. Sau khi bạn chạm ''OK\", thiết bị sẽ được khôi phục về cài đặt gốc, xóa vĩnh viễn tất cả các tập tin và dữ liệu, bao gồm tài khoản, danh bạ, ảnh và ứng dụng."</string>

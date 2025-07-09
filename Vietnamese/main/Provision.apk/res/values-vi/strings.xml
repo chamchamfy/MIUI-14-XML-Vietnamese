@@ -59,15 +59,15 @@
     <string name="calculator_introduction">Bạn có thể sử dụng ứng dụng này để tính toán, chuyển đổi đơn vị và tiền tệ, và ước tính khoản thanh toán thế chấp của bạn.</string>
     <string name="camera_application_introduction">Bạn có thể dùng ứng dụng này để chụp ảnh và quay video.</string>
     <string name="camera_introduction">Bạn có thể sử dụng Máy ảnh để chụp ảnh và quay video.</string>
-    <string name="carousel_cookies_content">&lt;Data>Khi bạn chạm hình ảnh và câu chuyện trong Khóa tạp chí, phiên bản đầy đủ sẽ được mở trong trình duyệt. Sau đó, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi có thể kiến nghị nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, họ sẽ đặt cookie trong trình duyệt, như được mô tả trong &lt;a href=\"%1$s\">Chính sách Cookie&lt;/a>. Nếu bạn từ chối cookie, Khóa tạp chí sẽ vẫn hoạt động nhưng nội dung và kiến nghị có thể không còn phù hợp với bạn. Bạn luôn có thể thay đổi tùy chọn của mình trong Cài đặt.&lt;/Data></string>
+    <string name="carousel_cookies_content"><Data>Khi bạn chạm hình ảnh và câu chuyện trong Khóa tạp chí, phiên bản đầy đủ sẽ được mở trong trình duyệt. Sau đó, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi có thể kiến nghị nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, họ sẽ đặt cookie trong trình duyệt, như được mô tả trong &lt;a href="%1$s">Chính sách Cookie&lt;/a>. Nếu bạn từ chối cookie, Khóa tạp chí sẽ vẫn hoạt động nhưng nội dung và kiến nghị có thể không còn phù hợp với bạn. Bạn luôn có thể thay đổi tùy chọn của mình trong Cài đặt.</Data></string>
     <string name="carousel_cookies_subtitle">Cookie cho phép chúng tôi cá nhân hóa trải nghiệm Màn hình khóa của bạn.</string>
     <string name="carousel_cookies_title">Nội dung và cookie được cá nhân hóa</string>
-    <string name="carousel_privacy">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"%2$s\">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi trước khi sử dụng Khóa tạp chí.&lt;/Data></string>
+    <string name="carousel_privacy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi trước khi sử dụng Khóa tạp chí.</Data></string>
     <string name="carousel_setting">Thiết lập Màn hình khóa</string>
     <string name="carousel_setting_sub">Khóa tạp chí sẽ hiển thị câu chuyện thú vị mỗi khi bạn mở khóa thiết bị của mình</string>
     <string name="carrier_introduction">"Nhằm mục đích cung cấp cho bạn dịch vụ tốt hơn, thiết bị của bạn có thể gửi định kỳ thông tin phiên bản thiết bị của bạn, dữ liệu thông tin thiết bị (bao gồm IMEI/IMSI/MSISDN/địa chỉ MAC, MEID/ICCID), và thong tin vị trí gần đúng(bao gồm ID trạm gốc) tới nhà cung cấp qua Wi-Fi, mạng dữ liệu di đông, hoặc SMS miễn phí. Nhà cung cấp hứa sẽ chỉ phân tích thông tin liên quan để cải thiện chất lượng dịch vụ hoặc cung cấp dịch vụ hoặc công nghệ tùy chỉnh và sẽ không tiết lộ thông tin liên quan cho bên thứ ba dưới bất kỳ hình thức nào nhận dạng cá nhân bạn. Những tuyên bố cụ thể của nhà cung cấp sẽ được áp dụng. Tham khảo ý kiến nhà cung cấp dịch vụ của bạn về chi phí sử dụng dịch vụ này."</string>
     <string name="carrier_introduction_china">"Để cung cấp cho bạn các dịch vụ tốt hơn, các quy trình chạy trên thiết bị của bạn (bao gồm SystemHelper, RegService và Carrier Services) có thể gửi định kỳ thông tin liên quan đến thiết bị và thẻ SIM của bạn (bao gồm IMEI, IMSI, MSISDN, MEID, ICCID, MAC address , phiên bản OS, phiên bản Android, kiểu thiết bị và thông số kỹ thuật phần cứng cơ bản), cũng như thông tin vị trí gần đúng (bao gồm khu vực, tọa độ, số nhận dạng khu vực và ID trạm gốc) cho nhà cung cấp dịch vụ qua Wi-Fi, mạng dữ liệu di động hoặc miễn phí TIN NHẮN. Nhà cung cấp dịch vụ hứa hẹn chỉ phân tích thông tin liên quan để cải thiện chất lượng dịch vụ hoặc cung cấp các dịch vụ hoặc công nghệ tùy chỉnh và sẽ không tiết lộ thông tin liên quan cho bên thứ ba dưới bất kỳ hình thức nào nhận dạng cá nhân bạn. Tuyên bố cụ thể của nhà cung cấp dịch vụ sẽ được ưu tiên. Tham khảo ý kiến nhà cung cấp dịch vụ của bạn về chi phí sử dụng dịch vụ này."</string>
-    <string name="check_box_label">"&lt;Data>Bằng cách bật tính năng này, bạn đồng ý với &lt;a href=%1$s>Chính sách bảo mật của Kết nối Xiaomi&lt;/a >.&lt;/Data>"</string>
+    <string name="check_box_label">"<Data>Bằng cách bật tính năng này, bạn đồng ý với &lt;a href="%1$s">Chính sách bảo mật của Kết nối Xiaomi&lt;/a >.</Data>"</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -153,7 +153,7 @@
     <string name="content_description_start">Bắt đầu</string>
     <string name="content_introduction">Trung tâm Nội dung tổng hợp nội dung và dịch vụ từ nhiều kênh. Tại đây bạn có thể đọc bài viết, xem video, xem các mục nổi bật hàng ngày và nhận đề xuất nội dung.</string>
     <string name="continue_to_enable_accessibility">Bấm giữ hai ngón tay để bật khả năng truy cập.</string>
-    <string name="cookies_content_one">"Khi bạn nhấn vào hình ảnh và câu chuyện trong Băng chuyền hình nền, chúng tôi sẽ mở phiên bản đầy đủ của chúng trong trình duyệt của bạn. Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể đề xuất nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Taboola sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href =%1$s>Chính sách cookie&lt;/a> của Taboola. Nếu bạn từ chối sử dụng cookie, các mục Băng chuyền hình nền sẽ tiếp tục xuất hiện trên Màn hình khóa của bạn và toàn bộ câu chuyện sẽ được mở trong trình duyệt của bạn nhưng các đề xuất bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt."</string>
+    <string name="cookies_content_one">"Khi bạn nhấn vào hình ảnh và câu chuyện trong Băng chuyền hình nền, chúng tôi sẽ mở phiên bản đầy đủ của chúng trong trình duyệt của bạn. Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể đề xuất nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Taboola sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href="%1$s">Chính sách cookie&lt;/a> của Taboola. Nếu bạn từ chối sử dụng cookie, các mục Băng chuyền hình nền sẽ tiếp tục xuất hiện trên Màn hình khóa của bạn và toàn bộ câu chuyện sẽ được mở trong trình duyệt của bạn nhưng các đề xuất bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt."</string>
     <string name="cookies_content_two">Quyết định xem bạn có muốn nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi sử dụng cookie để cá nhân hóa kiến nghị nội dung và quảng cáo dựa trên sở thích của bạn hay không.</string>
     <string name="cookies_title">Nội dung và cookie được cá nhân hóa</string>
     <string name="copy">Sao chép</string>
@@ -299,7 +299,7 @@
     <string name="install_preinstall_app">Đang tải ứng dụng…</string>
     <string name="interconnection_communication_introduction">Dịch vụ Truyền thông Internet của Xiaomi cho phép bạn khám phá, kết nối và liên lạc với các thiết bị khác.</string>
     <string name="interconnection_service_global_item_title">Kết nối Xiaomi</string>
-    <string name="interconnection_service_global_label">"&lt;Data>Kết nối Xiaomi cho phép các thiết bị của bạn tương tác không dây với nhau. Bằng cách bật công tắc này, bạn đồng ý với &lt;a href=%1$s>Chính sách quyền riêng tư của kết nối Xiaomi&lt;/a >.&lt;/Data>"</string>
+    <string name="interconnection_service_global_label">"<Data>Kết nối Xiaomi cho phép các thiết bị của bạn tương tác không dây với nhau. Bằng cách bật công tắc này, bạn đồng ý với &lt;a href="%1$s">Chính sách quyền riêng tư của kết nối Xiaomi&lt;/a >.</Data>"</string>
     <string name="interconnection_service_summary_china">Dịch vụ kết nối Xiaomi cho phép các thiết bị của bạn tương tác với nhau không dây. %1$s .Các dịch vụ kết nối khả dụng có thể khác nhau tùy theo phiên bản hệ thống và kiểu thiết bị của bạn. Tìm thêm thông tin tại%2$s.</string>
     <string name="interconnection_service_summary_china_fragment1">Các dịch vụ này bao gồm Mi Smart Play, truyền, chuyển giao ứng dụng, Màn hình chính+, bảng tạm chia sẻ, chia sẻ kết nối không dây (bao gồm đồng bộ hóa mạng), điều khiển trên nhiều thiết bị, camera trên nhiều thiết bị và Mi Smart Hub. Để có thể hoạt động bình thường, Dịch vụ kết nối Xiaomi cần kết nối với internet và yêu cầu các quyền sau:</string>
     <string name="interconnection_service_summary_china_fragment10">Để truy cập thông tin của các thiết bị lân cận</string>
@@ -492,7 +492,7 @@
     <string name="other_settings_ad_enable_summary">Kiến nghị quảng cáo cá nhân dựa trên dữ liệu hành vi</string>
     <string name="other_settings_alarm_assistance">Vị trí khẩn cấp</string>
     <string name="other_settings_alarm_assistance_privacy">Chính sách bảo mật</string>
-    <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href=\"%1$s\">Thoả thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi sử dụng tính năng này."</string>
+    <string name="other_settings_alarm_assistance_summary">"Bạn có thể tự động gửi thông tin vị trí của mình cho cảnh sát bằng SMS hoặc dữ liệu di động khi bạn gọi 110, 120, 119 hoặc 122. Đọc và đồng ý với &lt;a href="%1$s">Thoả thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách bảo mật&lt;/a> trước khi sử dụng tính năng này."</string>
     <string name="other_settings_alarm_assistance_user">Thỏa thuận người dùng</string>
     <string name="other_settings_auto_update">Cài đặt tự động</string>
     <string name="other_settings_auto_update_summary">Hệ thống sẽ chọn thời điểm tốt nhất để tải xuống và cài đặt các bản cập nhật. Thiết bị của bạn sẽ được khởi động lại tự động để áp dụng các thay đổi.</string>
@@ -649,7 +649,7 @@
     <string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
     <string name="pref_title_data_slot">Ưu tiên thẻ SIM dữ liệu</string>
     <string name="pref_title_voice_slot">Ưu tiên thẻ SIM thoại</string>
-    <string name="privacy_content_one">Kiến nghị Khóa tạp chí được cung cấp bởi Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi. Để cung cấp nội dung này, Taboola cần truy cập và lưu trữ dữ liệu phi cá nhân từ thiết bị của bạn, bao gồm ngôn ngữ hệ thống và loại trình duyệt. Bạn có thể tìm hiểu cách Taboola sử dụng dữ liệu thu thập được trong &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của Taboola. Đọc và đồng ý với các điều khoản và điều kiện được cung cấp trong các tài liệu này trước khi bạn tiếp tục. Nếu bạn không đồng ý, dịch vụ Khóa tạp chí sẽ bị vô hiệu hóa.</string>
+    <string name="privacy_content_one">Kiến nghị Khóa tạp chí được cung cấp bởi Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi. Để cung cấp nội dung này, Taboola cần truy cập và lưu trữ dữ liệu phi cá nhân từ thiết bị của bạn, bao gồm ngôn ngữ hệ thống và loại trình duyệt. Bạn có thể tìm hiểu cách Taboola sử dụng dữ liệu thu thập được trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của Taboola. Đọc và đồng ý với các điều khoản và điều kiện được cung cấp trong các tài liệu này trước khi bạn tiếp tục. Nếu bạn không đồng ý, dịch vụ Khóa tạp chí sẽ bị vô hiệu hóa.</string>
     <string name="privacy_policy">Chính sách Riêng tư</string>
     <string name="privacy_provision_more">Tìm hiểu thêm về bảo vệ quyền riêng tư</string>
     <string name="privacy_provision_summary">Bảo vệ quyền riêng tư là cam kết đằng sau thiết kế các sản phẩm của chúng tôi</string>
@@ -661,7 +661,7 @@
     <string name="provision_back">Quay lại</string>
     <string name="provision_finish">Đồng ý</string>
     <string name="provision_finish_restart">Khởi động lại</string>
-    <string name="provision_inputmethod_policy_description">Xem &lt;a href=%1$s>Chính sách Riêng tư&lt;/a > của bàn phím đã chọn.</string>
+    <string name="provision_inputmethod_policy_description">Xem &lt;a href="%1$s">Chính sách Riêng tư&lt;/a > của bàn phím đã chọn.</string>
     <string name="provision_inputmethod_policy_description1">Chính sách Riêng tư</string>
     <string name="provision_next">Tiếp theo</string>
     <string name="provision_skip_underline">Bỏ qua</string>
@@ -693,9 +693,9 @@
     <string name="servicestate_title">Tuyên bố về các dịch vụ cơ bản</string>
     <string name="service_agreement">"Tôi đã đọc và đồng ý với Điều khoản và Điều kiện."</string>
     <string name="service_company_adjust_content">Thỏa thuận Người dùng Dịch vụ Mạng Xunlei</string>
-    <string name="service_fast_pairing_policy">&lt;Data>Đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư Liên kết Mi&lt;/a > trước khi tiếp tục.&lt;/Data></string>
+    <string name="service_fast_pairing_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư Liên kết Mi&lt;/a > trước khi tiếp tục.</Data></string>
     <string name="service_interconnection_communication">Dịch vụ Truyền thông Internet Xiaomi</string>
-    <string name="service_location_share_policy">&lt;Data>Đọc và đồng ý với &lt;a href=%1$s>Tuyên bố Riêng tư Dịch vụ Vị trí&lt;/a > trước khi tiếp tục.&lt;/Data></string>
+    <string name="service_location_share_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Tuyên bố Riêng tư Dịch vụ Vị trí&lt;/a > trước khi tiếp tục.</Data></string>
     <string name="service_mi_account">Tài khoản Mi</string>
     <string name="service_name_address_dialing">Liên hệ và Điện thoại</string>
     <string name="service_name_album">Thư viện</string>
@@ -726,11 +726,11 @@
     <string name="service_name_security">Bảo mật</string>
     <string name="service_name_service_framework">Khung Dịch vụ Mi</string>
     <string name="service_name_systemdesktop">Trình cắm dịch vụ màn hình chính</string>
-    <string name="service_policy">&lt;Data>Đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư&lt;/a > của chúng tôi.&lt;/Data></string>
+    <string name="service_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a > của chúng tôi.</Data></string>
     <string name="service_policy_adjust_content">Chính sách Riêng tư Xunlei</string>
-    <string name="service_policy_download">&lt;Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư Xunlei&lt;/a &gt;.&lt;/Data&gt;</string>
+    <string name="service_policy_download"><Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách Riêng tư Xunlei&lt;/a &gt;.</Data&gt;</string>
     <string name="service_privacy_index">Chính sách Riêng tư</string>
-    <string name="service_security_over_r">"Đọc và đồng ý với &lt;a href=%1$s&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/>&lt;br/>Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó."</string>
+    <string name="service_security_over_r">"Đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/>&lt;br/>Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó."</string>
     <string name="service_sim_activation">Kích hoạt thẻ SIM</string>
     <string name="setting_locale">Đang thiết lập khu vực…</string>
     <string name="shut_down">Tắt máy</string>
@@ -858,7 +858,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="terms_of_use_lable_xmsf">Khung dịch vụ Mi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Chính sách Riêng tư Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Chính sách Riêng tư Kika</string>
-    <string name="term_condition_detail">Nhận những hình ảnh tuyệt đẹp và những câu chuyện thú vị được gửi đến Màn hình khóa của bạn mỗi ngày. Tính năng này sẽ không sử dụng dữ liệu của bạn để cá nhân hóa mà không có sự chấp thuận của bạn. Đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này.</string>
+    <string name="term_condition_detail">Nhận những hình ảnh tuyệt đẹp và những câu chuyện thú vị được gửi đến Màn hình khóa của bạn mỗi ngày. Tính năng này sẽ không sử dụng dữ liệu của bạn để cá nhân hóa mà không có sự chấp thuận của bạn. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này.</string>
     <string name="the_anniversary_of_lifting_martial_law">Kỷ niệm Ngày Thiết quân Luật</string>
     <string name="the_anti_aggression_day">Ngày phản chiến</string>
     <string name="the_arbor_day">Tết Trồng Cây</string>
@@ -937,7 +937,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="wc_double_check_reject">Không, cảm ơn</string>
     <string name="wc_double_check_summary">Bạn có thể bật Tạp chí hình nền để xem nó có phù hợp với bạn không. Hãy nhớ rằng bạn luôn có thể bật và tắt Tạp chí hình nền trong Cài đặt &gt; Màn hình khóa.</string>
     <string name="wc_double_check_title">Thử Tạp chí hình nền</string>
-    <string name="wc_notice_link_announcement_summary">"Đọc và đồng ý &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này."</string>
+    <string name="wc_notice_link_announcement_summary">"Đọc và đồng ý &lt;a href="%1$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%2$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này."</string>
     <string name="wednesday">Thứ Tư</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>
@@ -963,7 +963,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="accessibility_sliding_button_state_description_on">Đã bật</string>
     <string name="accessibility_tab_state_description_unselect">Chưa chọn</string>
     <string name="carrier_introduction_china_rothko">Để cải thiện chất lượng dịch vụ cung cấp cho bạn, các chương trình chạy trên thiết bị này (bao gồm SystemHelper, RegService và Dịch vụ nhà cung cấp) có thể gửi thông tin về thiết bị này hoặc thẻ SIM (bao gồm IMEI, IMSI, MSISDN, MEID, ICCID, địa chỉ MAC, phiên bản hệ thống, phiên bản Android, mẫu máy, cấu hình phần cứng cơ bản và số điện thoại), cũng như vị trí gần đúng của bạn (bao gồm khu vực, tọa độ, mã định danh khu phố và ID trạm gốc) đến nhà cung cấp qua WLAN, mạng di động hoặc SMS. Khi thực hiện cuộc gọi, DCService sẽ kết nối với mạng. Các nhà cung cấp di động đảm bảo thông tin này sẽ chỉ được sử dụng để phân tích, cải thiện chất lượng dịch vụ hoặc cung cấp các dịch vụ hoặc công nghệ tùy chỉnh và sẽ không bao giờ được chia sẻ với bất kỳ ai theo cách có thể cho phép nhận dạng cá nhân bạn. Tham khảo tuyên bố có liên quan từ nhà cung cấp để biết chi tiết. Bạn có thể truy vấn về tất cả các khoản phí dịch vụ liên quan trực tiếp từ nhà cung cấp.</string>
-    <string name="check_box_label_new">&lt;Data>Bạn có thể sử dụng Liên thông Xiaomi để kiểm soát và chuyển dữ liệu giữa các thiết bị. Đồng ý với &lt;a href=%1$s>Chính sách Riêng tư&lt;/a > của Liên thông Xiaomi trước khi sử dụng tính năng. Ứng dụng này cần kết nối với internet và yêu cầu các quyền sau:&lt;/Data></string>
+    <string name="check_box_label_new"><Data>Bạn có thể sử dụng Liên thông Xiaomi để kiểm soát và chuyển dữ liệu giữa các thiết bị. Đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a > của Liên thông Xiaomi trước khi sử dụng tính năng. Ứng dụng này cần kết nối với internet và yêu cầu các quyền sau:</Data></string>
     <string name="get_audio_and_video_information_settings">Truy cập ảnh, video và âm thanh được lưu trữ trên thiết bị</string>
     <string name="get_contact_information_settings">Truy cập liên hệ</string>
     <string name="image_brain_configuration_service">Dịch vụ cấu hình Công cụ Ảnh Xiaomi</string>
@@ -1020,7 +1020,7 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="miuix_stretchablewidget_collapsed">Thu gọn</string>
     <string name="miuix_stretchablewidget_expanded">Mở rộng</string>
     <string name="other_settings_minor_mode">Chế độ trẻ em</string>
-    <string name="other_settings_minor_mode_summary">&lt;Data>Giúp trẻ vị thành niên phát triển thói quen sử dụng thiết bị lành mạnh. Khi chế độ Trẻ em được bật, một phím tắt tính năng sẽ được thêm vào Cài đặt và trên Màn hình chính. Bằng cách bật tính năng này, bạn đồng ý với &lt;a href=%1$s>Chính sách bảo mật chế độ trẻ em&lt;/a >.&lt;/Data></string>
+    <string name="other_settings_minor_mode_summary"><Data>Giúp trẻ vị thành niên phát triển thói quen sử dụng thiết bị lành mạnh. Khi chế độ Trẻ em được bật, một phím tắt tính năng sẽ được thêm vào Cài đặt và trên Màn hình chính. Bằng cách bật tính năng này, bạn đồng ý với &lt;a href="%1$s">Chính sách bảo mật chế độ trẻ em&lt;/a >.</Data></string>
     <string name="permission_get_audio_and_video_summary_settings">Để thiết lập ảnh hồ sơ và xem trước nhạc chuông (bao gồm Cài đặt)</string>
     <string name="permission_reminder_mode_summary_settings">Để chọn loại nhắc nhở cuộc gọi đến</string>
     <string name="prompt_fingerprint">Đã bật bảo vệ dữ liệu nâng cao cho tài khoản của bạn. Đặt khóa màn hình cho thiết bị này.</string>

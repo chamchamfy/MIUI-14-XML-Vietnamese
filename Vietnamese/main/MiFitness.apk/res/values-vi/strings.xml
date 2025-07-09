@@ -131,13 +131,13 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="access_misport_dialog_content_faile_in">Do các hạn chế về bảo vệ dữ liệu, không thể chuyển dữ liệu cá nhân được lưu trữ trên máy chủ ở Ấn Độ sang các khu vực khác.</string>
     <string name="access_misport_dialog_content_faile_russia">Do các hạn chế về bảo vệ dữ liệu, không thể chuyển dữ liệu cá nhân được lưu trữ trên máy chủ ở Nga sang các khu vực khác.</string>
     <string name="access_misport_dialog_title_faile">Không thể chuyển</string>
-    <string name="access_misport_import_desc">&lt;Data>Chạm để &lt;a href=\"%1$s\">tìm hiểu chuyển dữ liệu từ Mi Fit.&lt;/a>&lt;/Data></string>
+    <string name="access_misport_import_desc"><Data>Chạm để &lt;a href="%1$s">tìm hiểu chuyển dữ liệu từ Mi Fit.&lt;/a></Data></string>
     <string name="access_misport_import_faile">Không thể chuyển. Thử lại.</string>
     <string name="access_misport_import_faile_notification_bar">Không thể chuyển. Thử lại.</string>
-    <string name="access_misport_import_failed_partof">&lt;Data>Không thể chuyển. Thử lại sau.&lt;br/>Chạm để &lt;a href=\"%1$s\">tìm hiểu chuyển dữ liệu từ Mi Fit.&lt;/a>&lt;/Data></string>
+    <string name="access_misport_import_failed_partof"><Data>Không thể chuyển. Thử lại sau.&lt;br/>Chạm để &lt;a href="%1$s">tìm hiểu chuyển dữ liệu từ Mi Fit.&lt;/a></Data></string>
     <string name="access_misport_import_immediately">Chuyển</string>
     <string name="access_misport_import_title_mainpage">Chuyển từ Mi Fit</string>
-    <string name="access_misport_importing_desc">&lt;Data>Chuyển dữ liệu trong một năm mất khoảng 10 phút. Bạn có thể rời khỏi trang này.&lt;br/>Chạm để &lt;a href=\"%1$s\">tìm hiểu chuyển dữ liệu từ Mi Fit.&lt;/a>&lt;/Data></string>
+    <string name="access_misport_importing_desc"><Data>Chuyển dữ liệu trong một năm mất khoảng 10 phút. Bạn có thể rời khỏi trang này.&lt;br/>Chạm để &lt;a href="%1$s">tìm hiểu chuyển dữ liệu từ Mi Fit.&lt;/a></Data></string>
     <string name="access_misport_importing_process">Để kiểm tra tiến trình chuyển, vào Hồ sơ > Chuyển từ Mi Fit.</string>
     <string name="access_misport_last_import_time">Đã chuyển: %1$s</string>
     <string name="access_misport_setting_item">Chuyển từ Mi Fit</string>
@@ -536,7 +536,7 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_bind_complete">Hoàn tất</string>
     <string name="device_bind_connect_device">Kết nối thiết bị</string>
     <string name="device_bind_connect_device_failure">Không thể kết nối</string>
-    <string name="device_bind_connect_failure">&lt;Data>Không thể kết nối. &lt;a href=\"%1$s\">Xem trợ giúp&lt;/a>.&lt;/Data></string>
+    <string name="device_bind_connect_failure"><Data>Không thể kết nối. &lt;a href="%1$s">Xem trợ giúp&lt;/a>.</Data></string>
     <string name="device_bind_connect_success">Đã kết nối</string>
     <string name="device_bind_connecting">Đang kết nối…</string>
     <string name="device_bind_des">Không nhận được mã? Kiểm tra Thanh thông báo.</string>
@@ -546,16 +546,16 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_bind_hm_verify_success">Đã xác minh</string>
     <string name="device_bind_legal_information">Thông tin pháp lý</string>
     <string name="device_bind_no_device">Không có thiết bị ghép nối</string>
-    <string name="device_bind_other_des">&lt;u>Đang tìm kiếm&lt;/u></string>
+    <string name="device_bind_other_des"><u>Đang tìm kiếm</u></string>
     <string name="device_bind_out_region">Phiên bản thiết bị này không được hỗ trợ ở khu vực hiện tại</string>
     <string name="device_bind_pair">Ghép nối</string>
     <string name="device_bind_pair_code">Mã</string>
-    <string name="device_bind_pair_failure">&lt;Data>Không thể ghép nối. &lt;a href=\"%1$s\">Xem trợ giúp&lt;/a>.&lt;/Data></string>
+    <string name="device_bind_pair_failure"><Data>Không thể ghép nối. &lt;a href="%1$s">Xem trợ giúp&lt;/a>.</Data></string>
     <string name="device_bind_pair_success">Đã ghép nối</string>
     <string name="device_bind_security_verify">Xác minh bảo mật</string>
-    <string name="device_bind_send_failure">&lt;Data>Không thể thêm. &lt;a href=\"%1$s\">Xem trợ giúp&lt;/a>.&lt;/Data></string>
+    <string name="device_bind_send_failure"><Data>Không thể thêm. &lt;a href="%1$s">Xem trợ giúp&lt;/a>.</Data></string>
     <string name="device_bind_success">Đã thêm thành công</string>
-    <string name="device_bind_verify_failure">&lt;Data>Không thể xác minh. &lt;a href=\"%1$s\">Xem trợ giúp.&lt;/a>&lt;/Data></string>
+    <string name="device_bind_verify_failure"><Data>Không thể xác minh. &lt;a href="%1$s">Xem trợ giúp.&lt;/a></Data></string>
     <string name="device_bind_verify_success">Đã xác minh thành công</string>
     <string name="device_binding">Đang ghép nối…</string>
     <string name="device_ble_pair_failure">Không thể ghép nối</string>
@@ -565,7 +565,7 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_ble_unpair_success">Hủy ghép nối thành công</string>
     <string name="device_ble_unpairing">Đang hủy ghép nối…</string>
     <string name="device_bluetooth_broadcast">Chế độ hiển thị với thiết bị khác</string>
-    <string name="device_bond_miss_alert">&lt;Data>1. Tắt Bluetooth và bật lại.&lt;br\\>2. Khởi động lại thiết bị của bạn. Nếu đang cập nhật, hãy thử lại khi cập nhật hoàn tất.&lt;br\\>3. Nếu sự cố vẫn tiếp diễn, &lt;a href=\"%1$s\">xem trợ giúp&lt;/a>.&lt;/Data></string>
+    <string name="device_bond_miss_alert"><Data>1. Tắt Bluetooth và bật lại.&lt;br>2. Khởi động lại thiết bị của bạn. Nếu đang cập nhật, hãy thử lại khi cập nhật hoàn tất.&lt;br>3. Nếu sự cố vẫn tiếp diễn, &lt;a href="%1$s">xem trợ giúp&lt;/a>.</Data></string>
     <string name="device_bond_miss_title">Không thể kết nối thiết bị</string>
     <string name="device_call_notify">Cuộc gọi đến</string>
     <string name="device_cancel">Hủy</string>
@@ -626,7 +626,7 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_permission_not_agree_tips">Bạn sẽ không thể sử dụng dịch vụ này trừ khi bạn cấp các quyền đã yêu cầu, nhưng nó sẽ không ảnh hưởng đến việc sử dụng các dịch vụ khác. Bạn luôn có thể giới hạn quyền trong Cài đặt.</string>
     <string name="device_photograph_setting">Camera</string>
     <string name="device_please_to_connect">Kết nối thiết bị của bạn</string>
-    <string name="device_privacy_message">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a>.&lt;/Data></string>
+    <string name="device_privacy_message"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a>.</Data></string>
     <string name="device_rebind_fail_alert">Hủy ghép nối với thiết bị và thử lại.</string>
     <string name="device_rebind_fail_message">Hủy ghép nối với thiết bị và thử lại.</string>
     <string name="device_rebind_fail_title">Không thể thêm</string>
@@ -635,8 +635,8 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_remove_device_in_other">Vào trang Thiết bị và chạm Hủy ghép nối.</string>
     <string name="device_remove_fail">Không thể xóa</string>
     <string name="device_remove_fail_many_time">Để hủy ghép nối thiết bị, vào trang Thiết bị và nhấn Hủy ghép nối.</string>
-    <string name="device_required_agree_collect_info">&lt;Data>Tôi đồng ý với &lt;a href=\"%1$s\">Thu thập và Sử dụng Thông tin Cá nhân&lt;/a> (bắt buộc)&lt;/Data></string>
-    <string name="device_required_agree_use_location">&lt;Data>Tôi đồng ý với &lt;a href=\"%1$s\">Thu thập Thông tin Vị trí&lt;/a> (bắt buộc)&lt;/Data></string>
+    <string name="device_required_agree_collect_info"><Data>Tôi đồng ý với &lt;a href="%1$s">Thu thập và Sử dụng Thông tin Cá nhân&lt;/a> (bắt buộc)</Data></string>
+    <string name="device_required_agree_use_location"><Data>Tôi đồng ý với &lt;a href="%1$s">Thu thập Thông tin Vị trí&lt;/a> (bắt buộc)</Data></string>
     <string name="device_retry">Thử lại</string>
     <string name="device_scan_login">Máy quét</string>
     <string name="device_scan_qr_add_device">Thêm thiết bị</string>
@@ -644,7 +644,7 @@ Nếu bạn đổi ý, trước khi sử dụng dịch vụ, bạn cần đồng
     <string name="device_search_add_immediately">Thêm</string>
     <string name="device_search_again">Tìm kiếm</string>
     <string name="device_search_failed_help">Sửa các vấn đề kết nối</string>
-    <string name="device_search_help">&lt;u>Gặp sự cố? Xem trợ giúp&lt;/u></string>
+    <string name="device_search_help"><u>Gặp sự cố? Xem trợ giúp</u></string>
     <string name="device_search_not_mine">Không phải của tôi</string>
     <string name="device_search_open_location">Để thêm thiết bị mới, cho phép truy cập vị trí.</string>
     <string name="device_search_select_tips">Chọn thiết bị của bạn</string>
@@ -2491,22 +2491,22 @@ Bắt đầu lại."</string>
     <string name="login_open_sport_health_cloud_sync_des">Đồng bộ dữ liệu tập luyện và sức khỏe của bạn trên tất cả các thiết bị.</string>
     <string name="login_other">Tài khoản Mi khác</string>
     <string name="login_personalize_mode">Cổ điển</string>
-    <string name="login_privacy_add_experience_tips">&lt;Data>Tham gia &lt;a href=\"%1$s\">Chương trình Trải nghiệm Người dùng&lt;/a> để giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình bằng cách chia sẻ số liệu thống kê.&lt;/Data></string>
-    <string name="login_privacy_add_experience_tips_korea">&lt;Data>Tham gia &lt;a href=\"%1$s\">Chương trình Trải nghiệm Người dùng&lt;/a> để giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình bằng cách chia sẻ số liệu thống kê (bổ sung).&lt;/Data></string>
+    <string name="login_privacy_add_experience_tips"><Data>Tham gia &lt;a href="%1$s">Chương trình Trải nghiệm Người dùng&lt;/a> để giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình bằng cách chia sẻ số liệu thống kê.</Data></string>
+    <string name="login_privacy_add_experience_tips_korea"><Data>Tham gia &lt;a href="%1$s">Chương trình Trải nghiệm Người dùng&lt;/a> để giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình bằng cách chia sẻ số liệu thống kê (bổ sung).</Data></string>
     <string name="login_privacy_agree_all">Tôi đồng ý với tất cả</string>
-    <string name="login_privacy_agree_protocol_and_policy">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a>.&lt;/Data></string>
+    <string name="login_privacy_agree_protocol_and_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>.</Data></string>
     <string name="login_privacy_agree_tips">Bạn luôn có thể điều chỉnh tùy chọn quyền của mình trong Cài đặt.</string>
     <string name="login_privacy_agree_to_terms_kr">Điều khoản và Điều kiện</string>
     <string name="login_privacy_common_agree">Đồng ý</string>
     <string name="login_privacy_common_cancel">Hủy</string>
     <string name="login_privacy_necessary_authority">Để cung cấp cho bạn các dịch vụ bổ sung khi sử dụng ứng dụng, chúng tôi có thể cần các quyền sau:</string>
-    <string name="login_privacy_optional_agree_use_location">&lt;Data>Tôi đồng ý với &lt;a href=\"%1$s\">Thu thập Thông tin Vị trí&lt;/a> (tùy chọn).&lt;/Data></string>
-    <string name="login_privacy_required_agree_collect_info">&lt;Data>Tôi đồng ý với &lt;a href=\"%1$s\">Thu thập và Sử dụng Thông tin Cá nhân&lt;/a> (bắt buộc).&lt;/Data></string>
-    <string name="login_privacy_required_agree_policy">&lt;Data>Tôi đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> (bắt buộc).&lt;/Data></string>
+    <string name="login_privacy_optional_agree_use_location"><Data>Tôi đồng ý với &lt;a href="%1$s">Thu thập Thông tin Vị trí&lt;/a> (tùy chọn).</Data></string>
+    <string name="login_privacy_required_agree_collect_info"><Data>Tôi đồng ý với &lt;a href="%1$s">Thu thập và Sử dụng Thông tin Cá nhân&lt;/a> (bắt buộc).</Data></string>
+    <string name="login_privacy_required_agree_policy"><Data>Tôi đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> (bắt buộc).</Data></string>
     <string name="login_privacy_rights_des">Chào mừng sử dụng Mi Fitness. Bạn có thể sử dụng ứng dụng này để quản lý thiết bị, theo dõi tập luyện và xem dữ liệu sức khỏe. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách riêng tư có liên quan. Để có thể hoạt động bình thường, ứng dụng này cần kết nối internet.</string>
     <string name="login_privacy_rights_kr_des">Chào mừng đến với Mi Fitness. Bạn có thể sử dụng ứng dụng này để quản lý thiết bị, theo dõi tập luyện và xem dữ liệu sức khỏe. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật, quy định và chính sách riêng tư có liên quan.</string>
     <string name="login_privacy_rights_statement">Điều khoản và Điều kiện</string>
-    <string name="login_privacy_update_tips">&lt;Data>&lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi đã được cập nhật. Để hiểu đầy đủ quyền với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu, hãy đọc và đồng ý với phiên bản mới của Chính sách Riêng tư trước khi tiếp tục.&lt;/Data></string>
+    <string name="login_privacy_update_tips"><Data>&lt;a href="%1$s">Chính sách Riêng tư&lt;/a> của chúng tôi đã được cập nhật. Để hiểu đầy đủ quyền với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu, hãy đọc và đồng ý với phiên bản mới của Chính sách Riêng tư trước khi tiếp tục.</Data></string>
     <string name="login_privacy_update_title">Cập nhật Chính sách Riêng tư</string>
     <string name="login_record_title">Ghi âm</string>
     <string name="login_record_title_des">Để ghi lại tiếng ngáy và nói mơ khi phân tích chu kỳ giấc ngủ</string>
@@ -2532,7 +2532,7 @@ Bắt đầu lại."</string>
     <string name="main_common_open">OK</string>
     <string name="main_go_now">Mở</string>
     <string name="main_goto_common_app">Kết nối thiết bị của bạn</string>
-    <string name="main_goto_common_app_desc">&lt;Data>Mở Xiaomi Wear để kết nối thiết bị của bạn.&lt;br>&lt;a href=\"%1$s\">Tìm hiểu thêm&lt;/a>&lt;/Data></string>
+    <string name="main_goto_common_app_desc"><Data>Mở Xiaomi Wear để kết nối thiết bị của bạn.&lt;br>&lt;a href="%1$s">Tìm hiểu thêm&lt;/a></Data></string>
     <string name="main_open_sport_health_cloud_sync">Bật đồng bộ?</string>
     <string name="main_open_sport_health_cloud_sync_des">Đồng bộ dữ liệu tập luyện và sức khỏe của bạn trên tất cả các thiết bị.</string>
     <string name="main_sync_dialog_desc1">Nhận phần thưởng tập luyện</string>
@@ -2763,8 +2763,8 @@ Nhận được phần thưởng này"</string>
     <string name="nfc_bank_card_status_error">Lỗi</string>
     <string name="nfc_bank_card_status_not_active">Không khả dụng</string>
     <string name="nfc_bank_card_status_time_out">Đã hết hạn</string>
-    <string name="nfc_bank_card_support_list_global">&lt;Data>&lt;a href=\"%1$s\">Ngân hàng được hỗ trợ&lt;/a>&lt;/Data></string>
-    <string name="nfc_bank_card_support_list_title">&lt;Data>Ngân hàng đã được hỗ trợ&lt;/Data></string>
+    <string name="nfc_bank_card_support_list_global"><Data>&lt;a href="%1$s">Ngân hàng được hỗ trợ&lt;/a></Data></string>
+    <string name="nfc_bank_card_support_list_title"><Data>Ngân hàng đã được hỗ trợ</Data></string>
     <string name="nfc_bank_card_valid_date_empty">Nhập ngày hết hạn</string>
     <string name="nfc_bank_contact_us">Liên hệ với chúng tôi</string>
     <string name="nfc_bank_load_err">Xảy ra lỗi</string>
@@ -2806,9 +2806,9 @@ Nhận được phần thưởng này"</string>
     <string name="nfc_common_success">Hoàn tất</string>
     <string name="nfc_common_time_out">Hết giờ. Hãy thử lại.</string>
     <string name="nfc_common_waiting">Vui lòng chờ…</string>
-    <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Liên hệ với chúng tôi&lt;/a>&lt;/Data></string>
+    <string name="nfc_contact_us_url"><Data>&lt;a href="%1$s">Liên hệ với chúng tôi&lt;/a></Data></string>
     <string name="nfc_cvc2_help_info">CVC2 là 3 chữ số cuối cùng ở mặt sau của thẻ</string>
-    <string name="nfc_cvc2_protocl">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">Điều khoản và Điều kiện&lt;/a>.&lt;/Data></string>
+    <string name="nfc_cvc2_protocl"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Điều khoản và Điều kiện&lt;/a>.</Data></string>
     <string name="nfc_default_card_set_failure">Không thể đặt</string>
     <string name="nfc_delete_card_confim_hint_bank">Bạn không thể sử dụng thẻ này để thanh toán nữa. Vẫn tiếp tục?</string>
     <string name="nfc_delete_card_msg">Mất khoảng 2 phút.</string>
@@ -2841,8 +2841,8 @@ Nhận được phần thưởng này"</string>
     <string name="nfc_master_translations_empty">Không có dữ liệu</string>
     <string name="nfc_mastercard_add_number_dialog_msg">Mất khoảng 2 phút.</string>
     <string name="nfc_mi_pay_not_support">Tính năng này chỉ được hỗ trợ trên điện thoại chạy Android 6.0 trở lên</string>
-    <string name="nfc_mi_pay_proto_new">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">%2$s Chính sách Riêng tư&lt;/a>.&lt;/Data></string>
-    <string name="nfc_mi_pay_user_proto_master_new">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=\"%1$s\">%2$s Chính sách Riêng tư&lt;/a> và &lt;a href=\"%3$s\">%4$s Điều khoản Sử dụng&lt;/a>.&lt;/Data></string>
+    <string name="nfc_mi_pay_proto_new"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">%2$s Chính sách Riêng tư&lt;/a>.</Data></string>
+    <string name="nfc_mi_pay_user_proto_master_new"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">%2$s Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">%4$s Điều khoản Sử dụng&lt;/a>.</Data></string>
     <string name="nfc_mi_pay_user_proto_privacy">Chính sách Riêng tư</string>
     <string name="nfc_mi_pay_user_proto_user">Thỏa thuận Người dùng</string>
     <string name="nfc_nextpay_more_settings_help">Câu hỏi thường gặp</string>
@@ -2873,7 +2873,7 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="nfc_settings_update_card_succeed">Cập nhật thành công</string>
     <string name="nfc_show_unset_wear_pwd">Để bảo mật thanh toán, đặt mã PIN cho thiết bị.</string>
     <string name="nfc_syncese_btn_txt_global">Bắt đầu</string>
-    <string name="nfc_syncese_content_mastercard_url">Nếu bạn gặp sự cố với thẻ của mình, chúng tôi có thể cố gắng khắc phục. Nếu sự cố vẫn tiếp tục, hãy liên hệ với &lt;a href=\"%1$s\">bộ phận hỗ trợ khách hàng&lt;/a>.</string>
+    <string name="nfc_syncese_content_mastercard_url">Nếu bạn gặp sự cố với thẻ của mình, chúng tôi có thể cố gắng khắc phục. Nếu sự cố vẫn tiếp tục, hãy liên hệ với &lt;a href="%1$s">bộ phận hỗ trợ khách hàng&lt;/a>.</string>
     <string name="nfc_syncese_dialog_content">Mất khoảng 1 phút. Giữ điện thoại của bạn kết nối mạng và không rời khỏi trang này.</string>
     <string name="nfc_syncese_loading_content_global">Vui lòng chờ…</string>
     <string name="nfc_syncese_sync_success">Sửa thành công</string>
@@ -2894,7 +2894,7 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="nfc_valid_date_help_info_global">Ngày hết hạn được in nổi trên mặt trước của thẻ</string>
     <string name="nfc_validate_code_alert_email">Xác minh email</string>
     <string name="nfc_validate_code_alert_global">Mã xác minh SMS</string>
-    <string name="nfc_validate_code_no_received_help_global">&lt;Data>&lt;a href=\"\">Không nhận được mã?&lt;/a>&lt;/Data></string>
+    <string name="nfc_validate_code_no_received_help_global"><Data>&lt;a href="">Không nhận được mã?&lt;/a></Data></string>
     <string name="nfc_validate_code_no_received_help_title">Không nhận được mã?</string>
     <string name="nfc_validate_code_send_email">Đã gửi mã đến email của bạn</string>
     <string name="nfc_validate_code_send_error">Không thể gửi mã. Thử lại.</string>
@@ -3015,7 +3015,7 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="passport_error_unknown">Lỗi không xác định</string>
     <string name="passport_error_user_agreement_error">Đồng ý với các điều khoản và điều kiện trước</string>
     <string name="passport_error_user_name">Tên người dùng bạn nhập không hợp lệ</string>
-    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
     <string name="passport_get_verify_code">Nhận mã</string>
     <string name="passport_getting_verify_code">Vui lòng chờ…</string>
     <string name="passport_identification_expired">Mã xác minh đã hết hạn. Vui lòng bắt đầu lại.</string>
@@ -3059,8 +3059,8 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="passport_unknow_error">Xảy ra lỗi không xác định</string>
     <string name="passport_unknow_host_network_error">Kiểm tra cài đặt mạng và thử lại</string>
     <string name="passport_unknow_network_error">Lỗi kết nối mạng</string>
-    <string name="passport_user_agreement_link">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Tôi đã đọc và đồng ý với: &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a> của Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Xiaomi.</Data></string>
+    <string name="passport_user_agreement_link_more"><Data>Tôi đã đọc và đồng ý với: &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%2$s">%3$s&lt;/a> của Xiaomi.</Data></string>
     <string name="passport_user_id_intro">Nhập mật khẩu cho %1$s</string>
     <string name="passport_v_code_error">Mã xác minh không chính xác</string>
     <string name="passport_vcode_notification_title">Xác minh đăng nhập của bạn là không đầy đủ</string>
@@ -3128,7 +3128,7 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="privacy_permission_read_phone_state">Truy cập thông tin thiết bị</string>
     <string name="privacy_permission_write_read_file">Truy cập lưu trữ</string>
     <string name="privacy_sensitive_notify_des">Để theo dõi quá trình tập luyện và sức khỏe, chúng tôi thu thập và xử lý thông tin của bạn bao gồm lộ trình tập luyện, dữ liệu giấc ngủ, nhịp tim và cân nặng.</string>
-    <string name="privacy_sensitive_notify_msg">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thu thập và Sử dụng Dữ liệu Nhạy cảm&lt;/a> của chúng tôi để hiểu rõ hơn cách chúng tôi thu thập và xử lý thông tin của bạn. Bạn sẽ không thể sử dụng dịch vụ này nếu bạn không chấp thuận việc thu thập và xử lý của chúng tôi.&lt;/Data></string>
+    <string name="privacy_sensitive_notify_msg"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thu thập và Sử dụng Dữ liệu Nhạy cảm&lt;/a> của chúng tôi để hiểu rõ hơn cách chúng tôi thu thập và xử lý thông tin của bạn. Bạn sẽ không thể sử dụng dịch vụ này nếu bạn không chấp thuận việc thu thập và xử lý của chúng tôi.</Data></string>
     <string name="privacy_sensitive_notify_title">Quyền dữ liệu</string>
     <string name="privacy_system_permission">Quyền ứng dụng</string>
     <string name="privacy_system_permission_granted">Đã cấp</string>
@@ -3916,10 +3916,10 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="update_phone_notice">Thay đổi cài đặt bảo mật</string>
     <string name="update_progress_expression">Đã tải xuống %1$d%%</string>
     <string name="upload_error_log">Tải lên nhật ký</string>
-    <string name="user_agreement_hint_default">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư.&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a>, &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a>, &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a>, &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_hint_default"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư.&lt;/a></Data></string>
+    <string name="user_agreement_hint_with_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a>, &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a>, &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a>, &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.</Data></string>
     <string name="user_avatar_update_title">Thay đổi ảnh hồ sơ</string>
     <string name="user_avatar_uploading">Vui lòng chờ…</string>
     <string name="user_id_hint">Email/Điện thoại/ID Tài khoản Mi</string>

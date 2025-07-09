@@ -314,8 +314,8 @@
         <item quantity="other">Bạn có thể nhập đến %1$d ký tự</item>
     </plurals>
     <plurals name="nfc_issue_card_hold_on_">
-        <item quantity="other">&lt;Data>"Giữ thiết bị kết nối với điện thoại.
-Mất khoảng %1$d phút."&lt;/Data></item>
+        <item quantity="other">&lt;Data&gt;"Giữ thiết bị kết nối với điện thoại.
+Mất khoảng %1$d phút."&lt;/Data&gt;</item>
     </plurals>
     <plurals name="notify_sms_reply_delay_time">
         <item quantity="other">%1$d giây</item>

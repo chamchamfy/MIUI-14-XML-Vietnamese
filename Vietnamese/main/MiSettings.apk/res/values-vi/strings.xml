@@ -304,7 +304,7 @@
     <string name="steady_on_screen_setting">Giới hạn thời gian cho các phiên không bị gián đoạn</string>
     <string name="steady_on_screen_notify">Thông báo về việc sử dụng không bị gián đoạn</string>
     <string name="cu_confirm">Đặt</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=\"%1s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data&gt;"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data&gt;</string>
     <string name="chinese_day_20">20</string>
     <string name="month_november_short">Tháng 11</string>
     <string name="v7_preference_off">Tắt</string>
@@ -629,7 +629,7 @@
     <string name="anti_flicker_mode_categroy">Chế độ</string>
     <string name="usage_optional_summary">"Các quyền này được yêu cầu khi bạn sử dụng tính năng bổ sung."</string>
     <string name="usage_new_home_date_day_title">%s | Thời lượng sử dụng</string>
-    <string formatted="false" name="usage_permission_double_link">&lt;Data&gt;"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href=\"%1s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+    <string formatted="false" name="usage_permission_double_link"><Data&gt;"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data&gt;</string>
     <string name="focus_mode_timer_delete">Xóa</string>
     <string name="usage_new_home_show_more_data_summary">Bạn cũng có thể giới hạn thời gian màn hình cho từng ứng dụng</string>
     <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d đến %d phút</string>
@@ -1302,7 +1302,7 @@
     <string name="msc_bind_xiaomi_account_summary">Đặt lại mật khẩu thông qua Tài khoản Xiaomi nếu bạn quên</string>
     <string name="msc_bind_xiaomi_account_title">Thêm Tài khoản Xiaomi</string>
     <string name="msc_change_password_type_title">Thay đổi loại mật khẩu</string>
-    <string name="msc_change_password_type_underline">&lt;u>Thay đổi loại mật khẩu&lt;/u></string>
+    <string name="msc_change_password_type_underline"><u>Thay đổi loại mật khẩu</u></string>
     <string name="msc_close_app_password_confirm">Tắt</string>
     <string name="msc_close_healthy_pad_control">Tắt mật khẩu</string>
     <string name="msc_close_healthy_phone_control">Tắt mật khẩu</string>
@@ -1318,7 +1318,7 @@
     <string name="msc_forget_password_hint_message">Bạn chỉ có thể đặt lại mật khẩu sau khi thực hiện đặt lại cài đặt gốc trong Cài đặt.</string>
     <string name="msc_forget_password_hint_title">Đặt lại mật khẩu của bạn</string>
     <string name="msc_forget_password_pattern_confirm">Cài đặt</string>
-    <string name="msc_forget_password_underline">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="msc_forget_password_underline"><u>Quên mật khẩu</u></string>
     <string name="msc_give_up_account">Xóa</string>
     <string name="msc_healthy_pad_bind_account_dialog_content">Sau khi xóa Tài khoản Xiaomi, bạn sẽ không thể thay đổi cài đặt sử dụng thiết bị Lành mạnh nếu quên mật khẩu. Vẫn xóa Tài khoản Xiaomi?</string>
     <string name="msc_healthy_pad_control_password">Mật khẩu sử dụng thiết bị lành mạnh</string>
@@ -1337,8 +1337,8 @@
     <string name="msc_mixed_password_recording_intro_header">Nhập %1$s–%2$s ký tự</string>
     <string name="msc_mixed_pattern_entered_header">Đặt mật khẩu thành công</string>
     <string name="msc_modify_password">Đổi mật khẩu</string>
-    <string name="msc_not_add_account">&lt;u>Lần tới&lt;/u></string>
-    <string name="msc_not_add_account_underline">&lt;u>Lần tới&lt;/u></string>
+    <string name="msc_not_add_account"><u>Lần tới</u></string>
+    <string name="msc_not_add_account_underline"><u>Lần tới</u></string>
     <string name="msc_not_login_account">Chưa đăng nhập</string>
     <string name="msc_numeric_password_confirmed_header_confirm">Đặt thành công. Chạm để xác nhận.</string>
     <string name="msc_numeric_password_confirmed_header_continue">Đặt thành công. Chạm "Tiếp theo".</string>
@@ -1426,7 +1426,7 @@
     <string name="pcl_delete_input">Xóa</string>
     <string name="pcl_email_address_error_empty_vcode">Nhập địa chỉ email</string>
     <string name="pcl_email_address_input_hint">Nhập địa chỉ email</string>
-    <string name="pcl_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="pcl_forget_password"><u>Quên mật khẩu</u></string>
     <string name="pcl_forget_password_bind_email_ok">OK</string>
     <string name="pcl_forget_password_dialog_summary">Email: </string>
     <string name="pcl_forget_password_dialog_title">Xác minh địa chỉ email</string>
@@ -1456,7 +1456,7 @@
     <string name="pcl_net_email_invalid">Địa chỉ email không hợp lệ</string>
     <string name="pcl_net_request_common_error">Lỗi yêu cầu mạng</string>
     <string name="pcl_net_time_error">Lỗi thời gian hệ thống. Sử dụng thời gian mặc định cho vị trí của bạn.</string>
-    <string name="pcl_not_add_account">&lt;u>Lần tới&lt;/u></string>
+    <string name="pcl_not_add_account"><u>Lần tới</u></string>
     <string name="pcl_not_login_account">Thêm email để có thể đặt lại mật khẩu trong trường hợp quên mật khẩu.</string>
     <string name="pcl_numeric_need_to_confirm">Nhập lại để xác nhận</string>
     <string name="pcl_numeric_password_confirmed_header_confirm">Đặt thành công. Chạm để xác nhận.</string>
@@ -1467,7 +1467,7 @@
     <string name="pcl_passport_get_verify_code">Nhận mã</string>
     <string name="pcl_passport_input_vcode_hint">Nhập mã</string>
     <string name="pcl_passport_re_get_verify_code">Gửi lại</string>
-    <string name="pcl_password_type_underline">&lt;u>Thay đổi loại mật khẩu&lt;/u></string>
+    <string name="pcl_password_type_underline"><u>Thay đổi loại mật khẩu</u></string>
     <string name="pcl_pattern_confirmed_header">Hình mở khóa mới của bạn</string>
     <string name="pcl_pattern_entered_header">Đã ghi hình mở khóa</string>
     <string name="pcl_pattern_retry">Xóa</string>
@@ -1480,7 +1480,7 @@
 Rút lại chấp thuận ngay?</string>
     <string name="pcl_provision_bind_email_title">Thêm email vào Kiểm soát phụ huynh</string>
     <string name="pcl_provision_start_desc">Chào mừng sử dụng Kiểm soát phụ huynh! Ứng dụng này có thể giúp bạn quản lý và giám sát việc sử dụng thiết bị của con bạn cũng như đảm bảo con bạn sử dụng thiết bị một cách an toàn và có trách nhiệm.</string>
-    <string name="pcl_provision_system_permission_declare_double_link">&lt;Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="pcl_provision_system_permission_declare_double_link"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
     <string name="pcl_recording_inprogress">Thả ngón tay khi hoàn tất</string>
     <string name="pcl_set_complete">Hoàn tất</string>
     <string name="pcl_set_mixed_password_name">Đặt mật khẩu</string>

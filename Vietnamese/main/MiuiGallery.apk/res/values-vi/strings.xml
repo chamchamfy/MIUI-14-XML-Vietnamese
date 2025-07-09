@@ -369,10 +369,10 @@ khả dụng"</string>
     <string name="confirm_merge_face_albums">Hợp nhất album này với %s?</string>
     <string name="confirm_merge_many_face_albums">Hợp nhất các album này với %s?</string>
     <string name="confirm_not_face">Không khớp</string>
-    <string name="confirm_recommandation_face_is">" "&lt;Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. &lt;/Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "&lt;Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. &lt;/Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? &lt;/Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="contact_tip">Liên hệ</string>
     <string name="context_menu_add_contact">Thêm vào liên hệ</string>
     <string name="context_menu_copy">Sao chép</string>
@@ -1145,7 +1145,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
     <string name="user_agreement4">Chính sách Riêng tư</string>
     <string name="user_alias_self">Tôi</string>
-    <string name="user_notice_identify_summary_format">&lt;Data>"Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=\"%1$s\">\"Điều khoản Dịch vụ\"&lt;/a> và &lt;a href=\"%2$s\">\"Chính sách Riêng tư\"&lt;/a> của Xiaomi."&lt;/Data></string>
+    <string name="user_notice_identify_summary_format"><Data>"Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href="%1$s">"Điều khoản Dịch vụ"&lt;/a> và &lt;a href="%2$s">"Chính sách Riêng tư"&lt;/a> của Xiaomi."</Data></string>
     <string name="user_notice_title">Điều khoản và Điều kiện</string>
     <string name="video_edit_file_not_exits_tip">Tải xuống video trước</string>
     <string name="video_editor_abandon_changes_tip_message">Hủy tất cả thay đổi?</string>
@@ -3431,7 +3431,7 @@ Hãy chọn những ảnh khác và thử lại."</string>
     <string name="ai_image_over_limit_button_cancel">Tôi biết</string>
     <string name="ai_image_over_limit_button_create">Tiếp tục</string>
     <string name="ai_image_over_limit_title">Không thể tạo ảnh AI</string>
-    <string name="ai_image_privacy_message">&lt;Data>Chào mừng bạn sử dụng chân dung AI&lt;br/>Để có thể cung cấp dịch vụ cho bạn, chúng tôi cần thu thập thông tin cá nhân cần thiết:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Để tạo chân dung AI, bạn sẽ phải tải &lt;b>ảnh của mọi người&lt;/b> lên máy chủ của chúng tôi. Chúng tôi sẽ thu thập và xử lý thông tin về &lt;b>khuôn mặt&lt;/b> của họ để tạo mô hình AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Khi bạn tải lên &lt;b>ảnh của mọi người&lt;/b>, chúng tôi sẽ đồng bộ &lt;b>tên và ảnh hồ sơ của họ&lt;/b> từ các album tương ứng và liên kết thông tin này với ảnh AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Khi bạn tạo ảnh AI dựa trên văn bản, chúng tôi sẽ thu thập &lt;b>mô tả&lt;/b> mà bạn cung cấp để tạo ảnh.&lt;br/>Chúng tôi chỉ thu thập thông tin cá nhân cần thiết cho các tính năng cụ thể của sản phẩm và dịch vụ của chúng tôi mà bạn sử dụng. Bạn có thể tìm hiểu cách chúng tôi thu thập và xử lý thông tin cá nhân trong &lt;a href=\"%4$s\">Chính sách Riêng tư Chân dung AI&lt;/a>.&lt;br/>Đọc và đồng ý với &lt;a href=\"%5$s\">Thỏa thuận Người dùng Chân dung AI&lt;/a> và &lt;a href=\"%6$s\">Chính sách Riêng tư Chân dung AI&lt;/a> trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="ai_image_privacy_message"><Data>Chào mừng bạn sử dụng chân dung AI&lt;br/>Để có thể cung cấp dịch vụ cho bạn, chúng tôi cần thu thập thông tin cá nhân cần thiết:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Để tạo chân dung AI, bạn sẽ phải tải &lt;b>ảnh của mọi người&lt;/b> lên máy chủ của chúng tôi. Chúng tôi sẽ thu thập và xử lý thông tin về &lt;b>khuôn mặt&lt;/b> của họ để tạo mô hình AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Khi bạn tải lên &lt;b>ảnh của mọi người&lt;/b>, chúng tôi sẽ đồng bộ &lt;b>tên và ảnh hồ sơ của họ&lt;/b> từ các album tương ứng và liên kết thông tin này với ảnh AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Khi bạn tạo ảnh AI dựa trên văn bản, chúng tôi sẽ thu thập &lt;b>mô tả&lt;/b> mà bạn cung cấp để tạo ảnh.&lt;br/>Chúng tôi chỉ thu thập thông tin cá nhân cần thiết cho các tính năng cụ thể của sản phẩm và dịch vụ của chúng tôi mà bạn sử dụng. Bạn có thể tìm hiểu cách chúng tôi thu thập và xử lý thông tin cá nhân trong &lt;a href="%4$s">Chính sách Riêng tư Chân dung AI&lt;/a>.&lt;br/>Đọc và đồng ý với &lt;a href="%5$s">Thỏa thuận Người dùng Chân dung AI&lt;/a> và &lt;a href="%6$s">Chính sách Riêng tư Chân dung AI&lt;/a> trước khi bạn tiếp tục.</Data></string>
     <string name="ai_input_name_hint">Nhập tên</string>
     <string name="ai_loading">Vui lòng chờ…</string>
     <string name="ai_multi_window_tip">Không thể xem trang này ở chế độ Chia màn hình</string>
@@ -3535,7 +3535,7 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="continue_migration_ok">Tiếp tục</string>
     <string name="continue_migration_title">Tiếp tục chuyển</string>
     <string name="create_album_failed_because_dup">Album này đã tồn tại. Thêm các mục vào album này ngay?</string>
-    <string name="cta_agreement_declare">&lt;Data>Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.&lt;/Data></string>
+    <string name="cta_agreement_declare"><Data>Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng.</Data></string>
     <string name="cta_hybrid_feedback_network_declare">Để xem các giải pháp cho các vấn đề phổ biến nhất, trước tiên hãy cho phép ứng dụng này kết nối với mạng.</string>
     <string name="cta_screenthrow_declare">Để có thể chiếu màn hình của thiết bị này sang màn hình ngoài, ứng dụng này cần kết nối với internet.</string>
     <string name="device_storage_space_low_dialog_des">Lưu trữ ảnh và video gốc trên đám mây trong khi vẫn giữ bản sao dung lượng nhỏ hơn chất lượng cao trên thiết bị này để giải phóng %s lưu trữ.</string>
@@ -3627,8 +3627,8 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="map_grant_position_permission_subtitle">Để hiển thị ảnh và video lân cận trên bản đồ</string>
     <string name="map_location">Chuyển đến vị trí hiện tại</string>
     <string name="map_positioning_failed_tip">Không thể nhận thông tin vị trí do tín hiệu yếu</string>
-    <string name="map_privacy_dialog_content">&lt;Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý &lt;a href=\"%1$s\">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> trước khi tiếp tục.&lt;/Data></string>
-    <string name="map_privacy_dialog_message">&lt;Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Open SDK Bản đồ Baidu để cung cấp cho bạn dịch vụ này. Đọc &lt;a href=\"%1$s\">Chính sách Riêng tư của Bản đồ Baidu dành cho các Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> để tìm hiểu thêm.&lt;/Data></string>
+    <string name="map_privacy_dialog_content"><Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý &lt;a href="%1$s">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> trước khi tiếp tục.</Data></string>
+    <string name="map_privacy_dialog_message"><Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Open SDK Bản đồ Baidu để cung cấp cho bạn dịch vụ này. Đọc &lt;a href="%1$s">Chính sách Riêng tư của Bản đồ Baidu dành cho các Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> để tìm hiểu thêm.</Data></string>
     <string name="map_privacy_dialog_title">Bản đồ Thư viện</string>
     <string name="map_privacy_policy">Chính sách Riêng tư Bản đồ Thư viện</string>
     <string name="media_type_cinematic">Chế độ phim</string>
@@ -3793,15 +3793,15 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="passport_to_verify_code_login">Đăng nhập bằng SMS</string>
     <string name="passport_unknown_error">Lỗi không xác định</string>
     <string name="passport_unknown_host_network_error">Kiểm tra cài đặt mạng và thử lại</string>
-    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a>, &lt;a href=%3$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%5$s>Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_default">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>, &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%5$s">Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi.</Data></string>
     <string name="passport_user_agreement_hint_first_login">Chúng tôi sẽ tự động tạo tài khoản nếu bạn sử dụng số điện thoại của mình lần đầu tiên.</string>
-    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Tài khoản Xiaomi, cũng như &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.</Data></string>
     <string name="passport_user_avatar_update_title">Thay đổi ảnh hồ sơ</string>
     <string name="passport_user_avatar_uploading">Vui lòng chờ…</string>
     <string name="passport_user_id_hint">Email/Số điện thoại/ID Tài khoản Xiaomi</string>
@@ -3829,11 +3829,11 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="photodetail_rename_invalid_prefix">Tên tập tin không thể bắt đầu bằng \".\"</string>
     <string name="picture_not_support_privacy_watermark">Không thể thêm dấu chìm. Ảnh này quá nhỏ.</string>
     <string name="privacy_cloud_confirm_content1">Chính sách Riêng tư Xiaomi Cloud</string>
-    <string name="privacy_cloud_confirm_detail">&lt;Data>Sau khi bạn bật đồng bộ, ảnh và video từ thiết bị này sẽ được tải lên Xiaomi Cloud và hợp nhất với các mục đã đồng bộ trước đó (nếu có). Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> Xiaomi Cloud trước khi tiếp tục.&lt;/Data></string>
+    <string name="privacy_cloud_confirm_detail"><Data>Sau khi bạn bật đồng bộ, ảnh và video từ thiết bị này sẽ được tải lên Xiaomi Cloud và hợp nhất với các mục đã đồng bộ trước đó (nếu có). Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> Xiaomi Cloud trước khi tiếp tục.</Data></string>
     <string name="privacy_cloud_confirm_rejected">Chấp thuật rút lại Chính sách Riêng tư của Xiaomi Cloud đối với tài khoản này. Hãy thử sử dụng tài khoản khác.</string>
     <string name="privacy_detail_map">Xem Chính sách Riêng tư Bản đồ Thư viện</string>
     <string name="privacy_map">Bản đồ Thư viện</string>
-    <string name="privacy_map_detail">&lt;Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư Baidu Map đối với Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> trước khi tiếp tục.&lt;/Data></string>
+    <string name="privacy_map_detail"><Data>Dịch vụ này cho phép bạn xem ảnh và video với thông tin vị trí trên bản đồ. Chúng tôi sử dụng Baidu Map Open SDK để cung cấp cho bạn dịch vụ này. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư Baidu Map đối với Sản phẩm và Dịch vụ Nền tảng Mở&lt;/a> trước khi tiếp tục.</Data></string>
     <string name="privacy_map_detail_content">Chính sách Riêng tư Baidu Map đối với Sản phẩm và Dịch vụ Nền tảng Mở</string>
     <string name="privacy_permission_account_detail">Để đăng nhập và đồng bộ các mục với đám mây</string>
     <string name="privacy_permission_clip">Truy cập bộ nhớ tạm</string>
@@ -3842,12 +3842,12 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="privacy_permission_clip_write_detail">Sao chép mục</string>
     <string name="privacy_permission_contact_detail">Để đặt tên người trên ảnh và video</string>
     <string name="privacy_permission_shotcut_detail">Để tạo lối tắt Màn hình chính</string>
-    <string name="privacy_reject_map_detail_new">&lt;Data>Rút lại chấp thuận của bạn đối với &lt;a href=\"%1$s\">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> sẽ được xem là từ chối chấp nhận dịch vụ của Bản đồ Thư viện. Bạn vẫn có thể sử dụng bình thường tính năng khác của Thư viện. Rút lại chấp thuận ngay?&lt;/Data></string>
+    <string name="privacy_reject_map_detail_new"><Data>Rút lại chấp thuận của bạn đối với &lt;a href="%1$s">Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện&lt;/a> sẽ được xem là từ chối chấp nhận dịch vụ của Bản đồ Thư viện. Bạn vẫn có thể sử dụng bình thường tính năng khác của Thư viện. Rút lại chấp thuận ngay?</Data></string>
     <string name="privacy_rejected_map">Rút lại chấp thuận Chính sách Riêng tư Bản đồ Thư viện</string>
     <string name="privacy_rejected_map_detail">Việc bạn rút lại sự đồng ý đối với Chính sách Riêng tư Bản đồ Thư viện sẽ được xem là từ chối chấp nhận các dịch vụ liên quan. Tính năng và dịch vụ cơ bản khác của Thư viện sẽ không bị ảnh hưởng. Vẫn rút lại?</string>
     <string name="privacy_rejected_map_new">Rút lại chấp thuận đối với Tuyên bố Chia sẻ Dữ liệu của Bên thứ ba về Bản đồ Thư viện</string>
     <string name="privacy_share_album_confirm">Điều khoản và Điều kiện</string>
-    <string name="privacy_share_album_confirm_detail">Album chia sẻ được cung cấp bởi Xiaomi Cloud. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Thỏa thuận Người dùng&lt;/a>&lt;/font> và &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi.</string>
+    <string name="privacy_share_album_confirm_detail">Album chia sẻ được cung cấp bởi Xiaomi Cloud. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;font color="#ff32b4ff">&lt;a href="%1$s" style="color:#ff32b4ff;">Thỏa thuận Người dùng&lt;/a>&lt;/font> và &lt;font color="#ff32b4ff">&lt;a href="%2$s" style="color:#ff32b4ff;">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi.</string>
     <string name="qr_invite_scan_hint">Quét mã QR</string>
     <string name="qr_invite_time_hint">Mã QR hiệu lực trong %d ngày</string>
     <string name="qr_invite_title">Mã QR lời mời</string>
@@ -3862,7 +3862,7 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="scan_qr_code">Quét mã QR</string>
     <string name="scan_qr_to_accept_invitation">Quét mã QR để chấp nhận lời mời</string>
     <string name="scope_storage_dialog_description">Quyền Thư viện đã được cập nhật. Cho phép Thư viện truy cập vào thư mục này để có thể xem nội dung.</string>
-    <string name="scope_storage_dialog_guide_content">&lt;Data>Chạm &lt;b>\"%1$s\"&lt;/b> và sau đó chọn &lt;b>\"%2$s\"&lt;/b>.&lt;/Data></string>
+    <string name="scope_storage_dialog_guide_content"><Data>Chạm &lt;b>\"%1$s\"&lt;/b> và sau đó chọn &lt;b>\"%2$s\"&lt;/b>.</Data></string>
     <string name="scope_storage_dialog_guide_title">Làm thế nào để cấp quyền</string>
     <string name="scope_storage_operation_btn_2">Truy cập thư mục này</string>
     <string name="search_domestic_edit_hint">Tìm kiếm ảnh và video</string>
@@ -3961,7 +3961,7 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="size_suffix">%1$s%2$s</string>
     <string name="slim_auto_backup_cloud_confirm_detail">Bật đồng bộ với đám mây để có thể tải ảnh và video từ thiết bị lên đám mây.</string>
     <string name="slim_auto_backup_cloud_confirm_title">Đồng bộ với đám mây</string>
-    <string name="slim_finish_upgrade_tip">&lt;Data>Nâng cấp gói lưu trữ đám mây để đồng bộ nhiều mục với đám mây hơn. Chạm để &lt;a href=\"%1$s\">nâng cấp ngay&lt;/a>.&lt;/Data></string>
+    <string name="slim_finish_upgrade_tip"><Data>Nâng cấp gói lưu trữ đám mây để đồng bộ nhiều mục với đám mây hơn. Chạm để &lt;a href="%1$s">nâng cấp ngay&lt;/a>.</Data></string>
     <string name="slim_function_summery_first">Giữ ảnh được tối ưu trên thiết bị và lưu ảnh gốc vào đám mây</string>
     <string name="slim_function_summery_second">Tập tin được tạo trong %d ngày qua sẽ được lưu vào thiết bị</string>
     <string name="slim_subtitle_slim_space_prefix">Giải phóng %1$s %2$s</string>
@@ -4090,7 +4090,7 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="picker_exit_dialog_confirm_button">Tiếp tục</string>
     <string name="picker_exit_dialog_message">Tất cả các thay đổi chưa lưu sẽ bị mất nếu bạn tiếp tục. Vẫn tiếp tục?</string>
     <string name="picker_exit_dialog_title">Hủy thay đổi</string>
-    <string name="map_privacy_dialog_content_new">&lt;Data>Dịch vụ này hiển thị ảnh và video được sắp xếp theo vị trí, tạo album chuyến đi và cho phép bạn tìm kiếm các mục theo vị trí. Để cung cấp cho bạn các dịch vụ trên, chúng tôi sử dụng Baidu Maps Open Platform SDK. Đọc và đồng ý với &lt;a href=\"%1$s\">Tuyên bố chia sẻ dữ liệu Bản đồ thư viện của bên thứ ba&lt;/a> trước khi sử dụng dịch vụ này.&lt;/Data></string>
+    <string name="map_privacy_dialog_content_new"><Data>Dịch vụ này hiển thị ảnh và video được sắp xếp theo vị trí, tạo album chuyến đi và cho phép bạn tìm kiếm các mục theo vị trí. Để cung cấp cho bạn các dịch vụ trên, chúng tôi sử dụng Baidu Maps Open Platform SDK. Đọc và đồng ý với &lt;a href="%1$s">Tuyên bố chia sẻ dữ liệu Bản đồ thư viện của bên thứ ba&lt;/a> trước khi sử dụng dịch vụ này.</Data></string>
 	<string name="ai_cta_refuse_btn">Không, cảm ơn</string>
 	<string name="ai_process_grogress_tip">Phân tích các mục trong Thư viện %1$s </string>
     <string name="ai_process_grogress_tip_search">Phân tích hình ảnh Thư viện %1$s </string>

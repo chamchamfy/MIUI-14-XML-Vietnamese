@@ -555,7 +555,7 @@ Hãy cập nhật lên phiên bản mới nhất để có thể sử dụng tí
 	<string name="multi_entry_toast_one">Trước tiên hãy tắt phiên âm phụ đề</string>
 	<string name="multi_entry_toast_two">Trước tiên hãy tắt phụ đề thông minh</string>
 	<string name="new_common_expressions">Thêm</string>
-	<string name="new_permission_agree">Trước khi sử dụng dịch vụ của chúng tôi, hãy đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng &lt;/a> và &lt;a href=\"%2$s\">Chính sách quyền riêng tư của chúng tôi &lt;/a>.</string>
+	<string name="new_permission_agree">Trước khi sử dụng dịch vụ của chúng tôi, hãy đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng &lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư của chúng tôi &lt;/a>.</string>
 	<string name="new_permission_agree_explain">Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy.</string>
 	<string name="new_permission_content_first_line">"Chào mừng đến với Mi Ditto! Bạn có thể sử dụng ứng dụng này để phiên âm âm thanh và tạo giọng nói dựa trên nội dung nhập văn bản của bạn.
 Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.

@@ -71,7 +71,7 @@ Sức khỏe Mi sẽ chỉ thông báo cho bạn các mục quan trọng."</stri
     <string name="dialog_exercise_purpose">Chào mừng sử dụng Sức khỏe Mi! \"Bộ đếm bước\" cho phép bạn xem có bao nhiêu bước bạn đã thực hiện trong ngày, cũng như cho phép bạn đặt và quản lý các mục tiêu hoạt động của mình. Tất cả dữ liệu liên quan được lưu trữ cục bộ trên thiết bị, cho phép bạn dễ dàng quản lý dữ liệu.</string>
     <string name="dialog_exit">Thoát</string>
     <string name="dialog_juveniles_details">Theo Chính sách Riêng tư của chúng tôi, độ tuổi tối thiểu để sử dụng sản phẩm này là 18 tuổi.</string>
-    <string name="dialog_juveniles_link">Theo &lt;font color=\"#FE6D67\">&lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi, độ tuổi tối thiểu để sử dụng sản phẩm này là 18 tuổi.</string>
+    <string name="dialog_juveniles_link">Theo &lt;font color="#FE6D67">&lt;a href="%1$s">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi, độ tuổi tối thiểu để sử dụng sản phẩm này là 18 tuổi.</string>
     <string name="dialog_known">Tôi biết</string>
     <string name="dialog_menstruation_purpose">Chào mừng sử dụng Sức khỏe Mi! \"Kinh nguyệt\" cho phép bạn ghi lại kỳ kinh nguyệt, dự đoán kỳ kinh nguyệt sắp tới và nhận nhắc nhở. Tất cả dữ liệu liên quan được lưu trữ cục bộ trên thiết bị, cho phép bạn dễ dàng quản lý dữ liệu.</string>
     <string name="dialog_no_more_prompt">Không hiển thị lại</string>
@@ -319,8 +319,8 @@ Kích thước: %2$s"</string>
 	<string name="dialog_privacy_link">"Chào mừng tới Sức khỏe Mi! Bạn có thể sử dụng ứng dụng này để ghi lại hoạt động của bạn, theo dõi giấc ngủ, và hơn thế nữa.
     Sức khỏe Mi cần kết nối mạng, cũng như thu thập, xử lý, và sử dụng thông tin cá nhân của bạn để hoạt động bình thường.&lt;/br&gt;
     Thông tin cá nhân của bạn sẽ được thu thập, xử lý, và sử dụng theo luật pháp và quy định có liên quan.
-    Tham khảo &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a &gt;&lt;/font&gt; và
-    &lt;font color=\"#0000FF\"&gt;&lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a &gt;&lt;/font&gt; của chúng tôi để biết thêm chi tiết."</string>
+    Tham khảo &lt;font color="#0000FF"&gt;&lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a &gt;&lt;/font&gt; và
+    &lt;font color="#0000FF"&gt;&lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a &gt;&lt;/font&gt; của chúng tôi để biết thêm chi tiết."</string>
 	<string name="mtrl_picker_range_header_title">Chọn một khoảng ngày</string>
 	<string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
 	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
@@ -1866,7 +1866,7 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="sleep_state_this_week">"Giấc ngủ tuần này"</string>
 	<string name="course_level_title">Độ khó</string>
 	<string name="hr_report_active_higher_desc">Nhịp tim hiện tại của bạn là nhịp tim tập thể dục cường độ cao. Chức năng tim và phổi bị kích thích mạnh, đồng thời chú ý đến tình trạng thể chất, nếu có biểu hiện khó chịu nên ngừng tập càng sớm càng tốt..</string>
-	<string name="auth_dialog_link">Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi.</string>
+	<string name="auth_dialog_link">Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;font color=\"#0D84FF\"&gt;&lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=\"#0D84FF\"&gt;&lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi.</string>
 	<string name="course_source_fit_desc">Các khóa học do Fit Fitness cung cấp</string>
 	<string name="mcv2_video_quality_button_desc">Lựa chọn chất lượng video</string>
 	<string name="course_start_and_download">Tải xuống và bắt đầu đào tạo (%1$dMB)</string>
@@ -1959,6 +1959,6 @@ Nếu bạn không muốn tham gia các lớp học được đề xuất, bạn
 	<string name="dialog_upgrade_positive_btn">Cập nhật</string>
 	<string name="exercise_recog_confirm_ridding">Có phải bạn đã đạp xe giữa %1$s và %2$s?</string>
 	<string name="sport_data_use_subtitle">Để theo dõi quá trình tập luyện và thể chất của bạn, chúng tôi thu thập và xử lý thông tin của bạn bao gồm lộ trình tập luyện, dữ liệu về giấc ngủ, nhịp tim và cân nặng.</string>
-    <string name="sport_data_use_tip">"Đọc và đồng ý với &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Chính sách sử dụng dữ liệu hoạt động và sức khỏe&lt;/a>&lt;/font> của chúng tôi để hiểu rõ hơn cách chúng tôi thu thập và xử lý thông tin của bạn. Bạn sẽ không thể sử dụng dịch vụ này nếu bạn không đồng ý với việc chúng tôi thu thập và xử lý."</string>
+    <string name="sport_data_use_tip">"Đọc và đồng ý với &lt;font color=\"#0D84FF\">&lt;a href="%1$s">Chính sách sử dụng dữ liệu hoạt động và sức khỏe&lt;/a>&lt;/font> của chúng tôi để hiểu rõ hơn cách chúng tôi thu thập và xử lý thông tin của bạn. Bạn sẽ không thể sử dụng dịch vụ này nếu bạn không đồng ý với việc chúng tôi thu thập và xử lý."</string>
     <string name="sport_data_use_title">Quyền dữ liệu</string>
 </resources>

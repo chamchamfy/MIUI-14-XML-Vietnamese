@@ -161,7 +161,7 @@
     <string name="cta_cancel">Hủy</string>
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Gửi báo cáo</string>
-	<string name="submit_dialog_content">&lt;Data&gt;Bạn cần đồng ý với &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&gt;Thỏa thuận người dùng&lt;/a&gt; của chúng tôi để có thể sử dụng Phản hồi. Các vấn đề bạn báo cáo cùng với tệp đính kèm (có thể chứa thông tin cá nhân, cũng như thông tin về thiết bị và mạng của bạn) sẽ được tải lên máy chủ MIUI. Điều này sẽ giúp chúng tôi xác định và giải quyết vấn đề mà bạn báo cáo.&lt;/Data&gt;</string>
+	<string name="submit_dialog_content"><Data&gt;Bạn cần đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận người dùng&lt;/a&gt; của chúng tôi để có thể sử dụng Phản hồi. Các vấn đề bạn báo cáo cùng với tệp đính kèm (có thể chứa thông tin cá nhân, cũng như thông tin về thiết bị và mạng của bạn) sẽ được tải lên máy chủ MIUI. Điều này sẽ giúp chúng tôi xác định và giải quyết vấn đề mà bạn báo cáo.</Data&gt;</string>
     <string name="submit_dialog_cancel">Hủy</string>
     <string name="submit_dialog_confirm">Gửi</string>
     <string name="mobile_data_note_dialog_title">Cảnh báo sử dụng dữ liệu</string>
@@ -178,7 +178,7 @@
     <string name="modem_tool_log_start_toast">Đang lưu modem log vào %s</string>
     <string name="modem_tool_log_stop_toast">Đã dừng lưu modem log vào %s</string>
     <string name="bugreport_dialog_not_show_again">Không hiển thị lại</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt;Bạn đang lưu nhật ký trên thiết bị này. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Không chia sẻ nhật ký với bất kỳ ai nếu bạn không muốn thông tin bị lộ. Chọn \"Đồng ý\" nghĩa là bạn đã đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&gt;Thỏa thuận người dùng&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content"><Data&gt;Bạn đang lưu nhật ký trên thiết bị này. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Không chia sẻ nhật ký với bất kỳ ai nếu bạn không muốn thông tin bị lộ. Chọn "Đồng ý" nghĩa là bạn đã đọc và đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận người dùng&lt;/a&gt; của chúng tôi.</Data&gt;</string>
     <string name="bugreport_dump_start_notification_title">Đang tạo báo cáo lỗi…</string>
     <string name="bugreport_dump_start_notification_summary">Quá trình này cần một vài phút, vui lòng chờ...</string>
     <string name="bugreport_dump_complete_notification_title">Đã tạo báo cáo lỗi</string>
@@ -301,7 +301,7 @@
     <string name="bugreport_feedback_from">Từ: %s</string>
     <string name="michat_mesage_resend_error_network">Không thể kết nối mạng</string>
     <string name="michat_mesage_send_error_network">Không thể gửi, kiểm tra kết nối mạng</string>
-	<string name="submit_dialog_content_global">&lt;Data&gt;Phản hồi của bạn, cùng với tệp đính kèm (nếu có) và nhật ký (bạn có thể bỏ chọn ô checkbox nếu không muốn tải lên) sẽ được gửi lên máy chủ MIUI và một phần hạn chế Diễn đàn MIUI dành cho các nhà phát triển. Thông tin về hoạt động diễn đàn của bạn cũng được thu thập để phân tích và liên lạc. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Chọn \"Đồng ý\" có nghĩa là bạn đã đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&gt;Thỏa thuận người dùng&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
+	<string name="submit_dialog_content_global"><Data&gt;Phản hồi của bạn, cùng với tệp đính kèm (nếu có) và nhật ký (bạn có thể bỏ chọn ô checkbox nếu không muốn tải lên) sẽ được gửi lên máy chủ MIUI và một phần hạn chế Diễn đàn MIUI dành cho các nhà phát triển. Thông tin về hoạt động diễn đàn của bạn cũng được thu thập để phân tích và liên lạc. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Chọn "Đồng ý" có nghĩa là bạn đã đọc và đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận người dùng&lt;/a&gt; của chúng tôi.</Data&gt;</string>
 	<string name="app_search">Tìm kiếm ứng dụng</string>
     <string name="bugreport_tool_log_dumping_desc">Mất khoảng một phút</string>
     <string name="bugreport_tool_log_dumping_title">Đang tạo báo cáo lỗi</string>
@@ -410,7 +410,7 @@
     <string name="passport_back">Quay lại</string>
     <string name="passport_bad_authentication">Tên người dùng hoặc mật khẩu không hợp lệ</string>
     <string name="passport_barcode_add_account_prompt">Để kết nối đến một tài khoản, quét mã QR một lần nữa sau khi bạn đăng nhập.</string>
-    <string name="passport_change_account">&lt;u>Thay đổi tài khoản&lt;/u></string>
+    <string name="passport_change_account"><u>Thay đổi tài khoản</u></string>
     <string name="passport_change_phone_number">Thay đổi số điện thoại</string>
     <string name="passport_checking_account">Đang kiểm tra mật khẩu…</string>
     <string name="passport_checking_input">Đang kiểm tra nhập vào…</string>
@@ -449,7 +449,7 @@
     <string name="passport_error_user_name">Tên người dùng bạn nhập vào không hợp lệ.</string>
     <string name="passport_failed_to_send_activate_email">Không thể gửi email kích hoạt</string>
     <string name="passport_find_password_on_web_msg">Truy cập vào account.mi.com để đặt lại mật khẩu của bạn.</string>
-    <string name="passport_forget_password">&lt;u>Quên mật khẩu&lt;/u></string>
+    <string name="passport_forget_password"><u>Quên mật khẩu</u></string>
     <string name="passport_forget_password_no_underline">Quên mật khẩu</string>
     <string name="passport_get_back_pwd">Lấy lại mật khẩu tài khoản</string>
     <string name="passport_get_verify_code">Lấy mã kích hoạt</string>
@@ -471,7 +471,7 @@
     <string name="passport_login_instead_reg_with_email">Dùng email này</string>
     <string name="passport_login_prompt">Sử dụng duy nhất một Tài khoản Mi cho tất cả các dịch vụ.</string>
     <string name="passport_login_title">Đăng nhập vào Tài khoản Mi của bạn</string>
-    <string name="passport_login_using_other_ways">&lt;u>Đăng nhập theo cách khác&lt;/u></string>
+    <string name="passport_login_using_other_ways"><u>Đăng nhập theo cách khác</u></string>
     <string name="passport_message_dialog_title">Tin nhắn mã xác minh</string>
     <string name="passport_next">Tiếp theo</string>
     <string name="passport_notification_title">Lỗi đăng nhập %1$s</string>
@@ -494,7 +494,7 @@
     <string name="passport_reg_success">Tài khoản đã được tạo</string>
     <string name="passport_reg_success_summary">%1$s đã được liên kết với tài khoản của bạn. Bạn có thể dùng để đăng nhập hoặc đặt lại mật khẩu.</string>
     <string name="passport_reg_type_email">Sử dụng địa chỉ email</string>
-    <string name="passport_reg_using_other_phone">&lt;u>Sử dụng số điện thoại khác&lt;/u></string>
+    <string name="passport_reg_using_other_phone"><u>Sử dụng số điện thoại khác</u></string>
     <string name="passport_reg_using_other_phone_number_prompt">"Tạo một tài khoản mới bằng "</string>
     <string name="passport_reg_using_phone_number_prompt">Tạo tài khoản bằng cách sử dụng số điện thoại</string>
     <string name="passport_reg_via_sms_alert">Một tin nhắn SMS được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
@@ -502,7 +502,7 @@
     <string name="passport_register">Tạo một tài khoản</string>
     <string name="passport_register_account_goto_email">Vào hộp thư đến</string>
     <string name="passport_register_account_verified_confirm">Đã xác minh tài khoản</string>
-    <string name="passport_register_by_email">&lt;u>Tạo một tài khoản bằng cách sử dụng địa chỉ email&lt;/u></string>
+    <string name="passport_register_by_email"><u>Tạo một tài khoản bằng cách sử dụng địa chỉ email</u></string>
     <string name="passport_register_restricted">Số điện thoại này được liên kết với quá nhiều tài khoản, thử sử dụng số điện thoại khác</string>
     <string name="passport_register_restricted_title">Không thể sử dụng số điện thoại này</string>
     <string name="passport_registered_phone_user_ID">ID người dùng: %s</string>

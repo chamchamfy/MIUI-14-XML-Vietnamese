@@ -810,7 +810,7 @@
     <string name="pm">BUỔI CHIỀU</string>
     <string name="policy_language_local">trong chúng ta</string>
     <string name="policy_update_dialog_title">Cập nhật chính sách quyền riêng tư</string>
-    <string name="policy_update_tip">&lt;Data>Để tăng cường bảo vệ thông tin cá nhân của bạn, chúng tôi đã cập nhật chính sách quyền riêng tư của các cuộc gọi AI theo các yêu cầu quy định mới nhất và qua đây giải thích cho bạn những điều sau.:&lt;br/>%1$s&lt;br/ > Chính sách quyền riêng tư của cuộc gọi AI đã được cập nhật, vui lòng đọc và đồng ý &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a> Nếu không, nó sẽ không thể cung cấp cho bạn Dịch vụ cuộc gọi AI.&lt;/Data></string>
+    <string name="policy_update_tip"><Data>Để tăng cường bảo vệ thông tin cá nhân của bạn, chúng tôi đã cập nhật chính sách quyền riêng tư của các cuộc gọi AI theo các yêu cầu quy định mới nhất và qua đây giải thích cho bạn những điều sau.:&lt;br/>%1$s&lt;br/ > Chính sách quyền riêng tư của cuộc gọi AI đã được cập nhật, vui lòng đọc và đồng ý &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a> Nếu không, nó sẽ không thể cung cấp cho bạn Dịch vụ cuộc gọi AI.</Data></string>
     <string name="preference_copied">%1$s đã được sao chép.</string>
     <string name="prologue_auto_pick_radio_btn_title">Lời chào bằng thư trả lời tự động</string>
     <string name="prologue_bottom_tip">*Khuyến nghị: Khi chặn cuộc gọi theo cách thủ công, hãy để AI Call Assistant trả lời giúp bạn để người kia không kết thúc cuộc gọi</string>
@@ -942,12 +942,12 @@
     <string name="sunday">Chủ Nhật</string>
     <string name="sunday_short">Tất cả</string>
     <string name="sunday_shortest">Tất cả</string>
-    <string name="system_permission_declare_double_link">&lt;Data>Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s >Chính sách quyền riêng tư&lt;/a> trước khi sử dụng Trợ lý cuộc gọi. Để hoạt động bình thường, các dịch vụ của chúng tôi phải kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập danh bạ cũng như thu thập và xử lý thông tin cá nhân của bạn. Bạn có đồng ý không?&lt;/Data></string>
-    <string name="system_permission_declare_double_link_tips">&lt;Data>Tôi đã đọc &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s>Chính sách quyền riêng tư&lt;/a>. &lt;/Data> Trợ lý cuộc gọi</string>
+    <string name="system_permission_declare_double_link"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s" >Chính sách quyền riêng tư&lt;/a> trước khi sử dụng Trợ lý cuộc gọi. Để hoạt động bình thường, các dịch vụ của chúng tôi phải kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập danh bạ cũng như thu thập và xử lý thông tin cá nhân của bạn. Bạn có đồng ý không?</Data></string>
+    <string name="system_permission_declare_double_link_tips"><Data>Tôi đã đọc &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách quyền riêng tư&lt;/a>. </Data> Trợ lý cuộc gọi</string>
     <string name="system_permission_link_1">https://api.aiasst.xiaomi.com/gangplank/url/tipscall-agreement</string>
     <string name="system_permission_link_2">https://api.aiasst.xiaomi.com/gangplank/url/tipscall-privacy</string>
     <string name="temporary_not_available">Tạm thời không có</string>
-    <string name="text_cta_dialog">&lt;Data>Đọc và chấp nhận &lt;a href=%1$s>Thỏa thuận người dùng&lt;/a> và &lt;a href=%2$s >Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng Trợ lý cuộc gọi. Để hoạt động bình thường, các dịch vụ của chúng tôi phải kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập thông tin liên hệ và vị trí cũng như thu thập và xử lý thông tin cá nhân của bạn. Bạn có đồng ý không?&lt;/Data></string>
+    <string name="text_cta_dialog"><Data>Đọc và chấp nhận &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s" >Chính sách quyền riêng tư&lt;/a> của chúng tôi trước khi sử dụng Trợ lý cuộc gọi. Để hoạt động bình thường, các dịch vụ của chúng tôi phải kết nối với Internet, thực hiện cuộc gọi, ghi âm, truy cập thông tin liên hệ và vị trí cũng như thu thập và xử lý thông tin cá nhân của bạn. Bạn có đồng ý không?</Data></string>
     <string name="text_edit">Nhập văn bản</string>
     <string name="the_anniversary_of_lifting_martial_law">Kỷ niệm dỡ bỏ thiết quân luật</string>
     <string name="the_anti_aggression_day">Ngày chống xâm lược</string>
