@@ -332,7 +332,7 @@
 	<string name="public_lite_cloud_dialog_message">Sử dụng WPS Office, tận hưởng dịch vụ %s</string>
 	<string name="ppt_memery_tips">Đi đến vị trí được xem lần cuối</string>
 	<string name="public_pdf_label">Trình xem PDF Mi</string>
-	<string formatted="false" name="public_secre_dialog_content_2"><Data&gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo &lt;a href="%s"&gt;Thỏa thuận Người dùng&lt;/a &gt; và &lt;a href="%s"&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi.</Data&gt;</string>
+	<string formatted="false" name="public_secre_dialog_content_2"><Data>Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo &lt;a href="%s"&gt;Thỏa thuận Người dùng&lt;/a &gt; và &lt;a href="%s"&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi.</Data></string>
 	<string name="public_secre_dialog_content_1">Để cung cấp cho bạn các dịch vụ của chúng tôi và cải thiện sản phẩm của chúng tôi, chúng tôi cần có quyền truy cập bộ nhớ và thu thập thông tin mô tả cách bạn sử dụng các tính năng của chúng tôi.</string>
 	<string name="feedback_subject">Phản hồi người dùng</string>
 	<string name="reader_writer_hide">Ít hơn</string>

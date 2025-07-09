@@ -233,7 +233,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
 	<string name="added_to_bookmarks">Đã thêm vào dấu trang</string>
 	<string name="vote_already">Bạn đã bình chọn</string>
 	<string name="noti_web_push">Thông báo trang web</string>
-	<string name="passport_user_agreement_link">"<Data&gt;Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data&gt;"</string>
+	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data>"</string>
 	<string name="mw_abc_action_mode_done">Xong</string>
 	<string name="user_experience_title">Chương trình Trải nghiệm Người dùng</string>
 	<string name="delete_result_success">Xóa thành công</string>
@@ -849,7 +849,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="action_menu_text_nightmode_off">Chế độ ban đêm</string>
 	<string name="current_version_phone">Điện thoại</string>
-	<string name="passport_user_agreement_link_more">"<Data&gt;Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data&gt;"</string>
+	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data>"</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="update">Cập nhật</string>
 	<string name="video_download_complete">Đã tải xuống thành công</string>

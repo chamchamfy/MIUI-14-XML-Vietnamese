@@ -920,7 +920,7 @@ LPR một năm và năm năm sẽ được trích dẫn vào ngày 20 mỗi thá
 	<string name="disallow">"Không đồng ý"</string>
 	<string name="permission_remove_desc">Bạn có thể chọn gỡ bỏ ứng dụng, hoặc hạn chế quyền và thu hồi ủy quyền trong Cài đặt.</string>
 	<string name="permission_phone_desc">Để nhận diện các thiết bị khác nhau</string>
-	<string name="permission_privacy_link"><Data&gt;Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</Data&gt;</string>
+	<string name="permission_privacy_link"><Data>Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</Data></string>
 	<string name="permission_location">Truy cập vị trí</string>
 	<string name="permission_purpose">"Chào mừng tới Máy tính! Bên cạnh các tính năng cơ bản, Máy tính cho phép bạn chuyển đổi tiền tệ và đơn vị đo, tính toán nợ thế chấp, và hơn thế nữa. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.
 Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</string>

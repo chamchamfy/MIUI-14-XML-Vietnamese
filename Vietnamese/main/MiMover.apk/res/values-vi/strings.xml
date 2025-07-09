@@ -840,7 +840,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="prompt_before_transmission_message2_title">"Bạn ssang sử dụng ứng dụng kép cho các mục dưới đây"</string>
 	<string name="prompt_before_transmission_message2_summary">"Ứng dụng kép không thể chuyển. Tuy nhiên, bạn có thể chuyển ứng dụng gốc."</string>
 	<string name="ble_wait_verify_code">Đang tạo mã trên thiết bị mới…</string>
-	<string formatted="false" name="dialog_request_permission_message_link"><Data&gt;"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data&gt;</string>
+	<string formatted="false" name="dialog_request_permission_message_link"><Data>"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data></string>
 	<string name="restore_data_to_device_title">Khôi phục các mục vào thiết bị này</string>
 	<string name="sync_data_to_mi_cloud_content2">%d. Chạm \"Sao lưu ngay\" trên tab \"Ảnh\".</string>
 	<string name="sync_data_to_mi_cloud_content1">%d. Chạm \"Đồng bộ ngay\" trên tab \"Liên hệ\".</string>

@@ -31,7 +31,7 @@
 	<string name="permission_storage">Lưu trữ</string>
 	<string name="miservice_channel_guide_name">Hướng dẫn</string>
 	<string name="miui_main_bottom_bar_guide">"Hướng dẫn người dùng mới"</string>
-	<string name="miui_feedback_edit_submit_dialog_content"><Data&gt;"Bạn cần đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi để có thể sử dụng Phản hồi. Vấn đề bạn báo cáo cùng với các mục bạn đính kèm (có thể chứa thông tin cá nhân, cũng như thông tin về thiết bị và mangj) sẽ được tải lên máy chủ của MIUI. Điều này giúp chúng tôi xác định và giải quyết vấn đề mà bạn báo cáo."</Data&gt;</string>
+	<string name="miui_feedback_edit_submit_dialog_content"><Data>"Bạn cần đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi để có thể sử dụng Phản hồi. Vấn đề bạn báo cáo cùng với các mục bạn đính kèm (có thể chứa thông tin cá nhân, cũng như thông tin về thiết bị và mangj) sẽ được tải lên máy chủ của MIUI. Điều này giúp chúng tôi xác định và giải quyết vấn đề mà bạn báo cáo."</Data></string>
 	<string name="miui_feedback_edit_title_reproductivity">Chọn năng suất</string>
 	<string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Chờ Wi-Fi</string>
 	<string name="miui_feedback_edit_need_storage_permission">Cho phép ứng dụng truy cập lưu trữ thiết bị để có thể đính kèm ảnh và video vào phản hồi của bạn. Chạm \"OK\" để mở Cài đặt.</string>
@@ -98,7 +98,7 @@
 	<string name="permission_select_all">Chọn tất cả</string>
 	<string name="miui_feedback_answer_detail_community">Bạn có thể tìm câu trả lời cho câu hỏi của bạn trong Cộng đồng Mi</string>
 	<string name="miui_feedback_edit_toast_module_required">Chọn mục</string>
-	<string name="permission_china_version_msg"><Data&gt;Trước khi sử dụng \"Dịch vụ &amp; phản hồi\", bạn phải đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Ứng dụng này cũng cần kết nối mạng để hoạt động bình thường.</Data&gt;</string>
+	<string name="permission_china_version_msg"><Data>Trước khi sử dụng \"Dịch vụ &amp; phản hồi\", bạn phải đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Ứng dụng này cũng cần kết nối mạng để hoạt động bình thường.</Data></string>
 	<string name="permission_privacy">Chính sách Riêng tư (bắt buộc)</string>
 	<string name="miui_feedback_edit_choose_reproductivity">Năng suất</string>
 	<string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Ở đây</string>
@@ -116,7 +116,7 @@
 	<string name="miui_feedback_edit_hint_gone">Tin nhắn đã đóng</string>
 	<string name="permission_device_introduce">Để xác định thời gian bảo hành có giới hạn</string>
 	<string name="miui_main_pre_page">Quay lại</string>
-	<string name="permission_region_version_msg"><Data&gt;Trước khi sử dụng \"Dịch vụ &amp; phản hồi\", bạn phải đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</Data&gt;</string>
+	<string name="permission_region_version_msg"><Data>Trước khi sử dụng \"Dịch vụ &amp; phản hồi\", bạn phải đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</Data></string>
 	<string name="public_net_error_title">"Không thể kết nối mạng"</string>
 	<string name="miui_feedback_edit_select_suggestion_select_desc">Đã chọn \"Gợi ý\"</string>
 	<string name="permission_exit">Thoát</string>
@@ -130,7 +130,7 @@
 	<string name="miui_feedback_answer_detail_menu_phone_service">Gọi hỗ trợ khách hàng</string>
 	<string name="miui_main_shortcut_label_submit_feedback">Gửi phản hồi</string>
 	<string name="permission_user_protocol">Thỏa thuận Người dùng (bắt buộc)</string>
-	<string name="miui_feedback_edit_submit_dialog_content_global"><Data&gt;"Phản hồi của bạn, cùng với tệp đính kèm (nếu có) và nhật ký (bạn có thể bỏ chọn ô tương ứng với mục bạn không muốn tải lên) sẽ được gửi tới máy chủ MIUI. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Chọn "Đồng ý" có nghĩa rằng bạn đã đọc và đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi."</Data&gt;</string>
+	<string name="miui_feedback_edit_submit_dialog_content_global"><Data>"Phản hồi của bạn, cùng với tệp đính kèm (nếu có) và nhật ký (bạn có thể bỏ chọn ô tương ứng với mục bạn không muốn tải lên) sẽ được gửi tới máy chủ MIUI. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Chọn "Đồng ý" có nghĩa rằng bạn đã đọc và đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của chúng tôi."</Data></string>
 	<string name="miui_feedback_main_search_issue">Nhập từ khóa để tìm kiếm</string>
 	<string name="miui_main_update_success_title">Trao quyền cho năng suất cao</string>
 	<string name="permission_agree">Đồng ý</string>

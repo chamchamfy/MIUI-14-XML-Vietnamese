@@ -56,7 +56,7 @@
 	<string name="detail_how_to_save_messages">Bạn có thể chạm nút bên dưới màn hình để lưu mục đã phiên âm vào Ghi chú.</string>
 	<string name="dialog_install_notes_message">"Có vẻ như bạn đã gỡ bỏ Ghi chú. Tải và cài lại Ghi chú."</string>
 	<string name="dialog_update_notes_title">Cập nhật Ghi chú</string>
-	<string name="new_permission_agree"><Data&gt;Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</Data&gt;</string>
+	<string name="new_permission_agree"><Data>Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</Data></string>
 	<string name="iv_fw_resize_content_description">Điều chỉnh kích thước của ứng dụng đã thu nhỏ</string>
 	<string name="sound_recording_permission_describe">Để phiên âm giọng nói</string>
 	<string name="preference_authorization_title">Chính sách Riêng tư</string>
