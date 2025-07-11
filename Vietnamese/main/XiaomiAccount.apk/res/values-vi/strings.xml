@@ -650,7 +650,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="common_open_on_phone">Mở trên điện thoại</string>
     <string name="common_signin_button_text">Đăng nhập</string>
     <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
-    <string name="com_facebook_device_auth_instructions">Truy cập &lt;b>facebook.com/device&lt;/b> và nhập mã được hiển thị bên trên.</string>
+    <string name="com_facebook_device_auth_instructions">Truy cập <b>facebook.com/device</b> và nhập mã được hiển thị bên trên.</string>
     <string name="com_facebook_image_download_unknown_error">Lỗi không mong muốn khi tải hình ảnh xuống.</string>
     <string name="com_facebook_internet_permission_error_message">Đăng nhập chế độ xem web yêu cầu quyền INTERNET</string>
     <string name="com_facebook_internet_permission_error_title">Lỗi AndroidManifest</string>
@@ -688,7 +688,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="system_ad_list">Xem ứng dụng liên quan.</string>
 	<string name="system_ad_summary">"Bật tính năng này để cho phép hiển thị một số lượng nhỏ quảng cáo trong các ứng dụng hệ thống. Những quảng cáo này giúp chúng tôi phát triển và cải thiện các sản phẩm và dịch vụ của chúng tôi. Bạn có thể chọn tắt tính năng này bất cứ lúc nào. Cảm ơn sự hỗ trợ của bạn!"</string>
 	<string name="system_ad_switch">Quảng cáo trong Ứng dụng hệ thống</string>
-	<string name="passport_user_agreement_link"><Data>"Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách riêng tư&lt;/a&gt; của Xiaomi."</Data></string>
+	<string name="passport_user_agreement_link"><Data>"Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách riêng tư&lt;/a> của Xiaomi."</Data></string>
 	<string name="system_ad">Quảng cáo trong Ứng dụng hệ thống</string>
 	<string name="passport_ticket_login_select_sim_card_cancel">Hủy</string>
 	<string name="passport_ticket_login_select_sim_card">Chọn thẻ SIM</string>
@@ -762,7 +762,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="provision_back">Quay lại</string>
 	<string name="passport_login_other_phone">Sử dụng tài khoản khác</string>
 	<string name="passport_provision_input_email_register_prompt">Dữ liệu cá nhân của bạn sẽ được lưu trữ theo luật và quy định của khu vực bạn chọn.</string>
-	<string name="passport_provision_password_req_notice">&lt;xliff id="min_pwd_len" refersto="8"&gt;%1$d&lt;/xliff&gt;-&lt;xliff id="max_pwd_len" refersto="16"&gt;%2$d&lt;/xliff&gt; ký tự của ít nhất &lt;xliff id="min_pwd_type" refersto="2"&gt;%3$d&lt;/xliff&gt; loại dưới đây: chữ cái, chữ số, ký tự đặc biệt</string>
+	<string name="passport_provision_password_req_notice">&lt;xliff id="min_pwd_len" refersto="8">%1$d&lt;/xliff>-&lt;xliff id="max_pwd_len" refersto="16">%2$d&lt;/xliff> ký tự của ít nhất &lt;xliff id="min_pwd_type" refersto="2">%3$d&lt;/xliff> loại dưới đây: chữ cái, chữ số, ký tự đặc biệt</string>
 	<string name="passport_login_other_way">Đăng nhập bằng cách khác</string>
 	<string name="password_view_show_password">Hiển thị mật khẩu</string>
 	<string name="password_view_hide_password">Ẩn mật khẩu</string>
@@ -1332,7 +1332,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="passport_register_dialog_positive">Tạo</string>
     <string name="passport_register_dialog_title">Tạo Tài khoản Xiaomi</string>
     <string name="passport_request_agree">Cho phép</string>
-    <string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật và quy định có liên quan. Ứng dụng này cần các quyền sau để hoạt động bình thường:&lt;br>&lt;br>&lt;b>Sử dụng camera (để cài đặt ảnh hồ sơ của bạn)&lt;/b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền như vậy, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản vẫn sẽ khả dụng. Bạn luôn có thể giới hạn quyền hoặc hủy ủy quyền của mình trong Cài đặt.</string>
+    <string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật và quy định có liên quan. Ứng dụng này cần các quyền sau để hoạt động bình thường:&lt;br>&lt;br><b>Sử dụng camera (để cài đặt ảnh hồ sơ của bạn)</b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền như vậy, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản vẫn sẽ khả dụng. Bạn luôn có thể giới hạn quyền hoặc hủy ủy quyền của mình trong Cài đặt.</string>
     <string name="passport_request_cancel">Hủy</string>
     <string name="passport_request_error_invalid_token">Không thể xác minh</string>
     <string name="passport_request_error_network">Lỗi mạng. Kiểm tra cài đặt mạng và thử lại.</string>

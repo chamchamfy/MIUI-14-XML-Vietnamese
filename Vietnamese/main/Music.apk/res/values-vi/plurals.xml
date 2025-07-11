@@ -55,13 +55,13 @@
         <item quantity="other">Xóa %d bài hát khỏi Xiaomi Cloud? Chúng cũng sẽ bị xóa khỏi danh sách phát.</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">&amp;amp;lt;font color=\"red\">%d bài hát&amp;amp;lt;/font> đã tải xuống</item>
+        <item quantity="other">&amp;&lt;font color=\"red\">%d bài hát&lt;/font> đã tải xuống</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">Đã xóa %d tải xuống</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&amp;amp;lt;font color=\"red\">%d bài hát&amp;amp;lt;/font> đang tải xuống</item>
+        <item quantity="other">&amp;&lt;font color=\"red\">%d bài hát&lt;/font> đang tải xuống</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d mục được chọn</item>

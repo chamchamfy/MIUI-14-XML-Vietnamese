@@ -216,7 +216,7 @@
 	<string name="bind_bank_card_phone_hint">được liên kết với tài khoản ngân hàng của bạn.</string>
 	<string name="bind_bank_card_phone_title">Số điện thoại</string>
 	<string name="bind_bank_card_reserved_phone_number_tips">Nếu bạn đã thay đổi số điện thoại do ngân hàng lưu giữ, vui lòng bấm vào đây</string>
-	<string name="bind_bank_card_sms_cancel_msg">Thẻ Mi Pay chỉ có thể được sử dụng bình thường sau khi hoàn tất xác minh SMS. Bạn cũng có thể tiếp tục hoàn tất việc xác minh sau trong danh sách thẻ. &lt;b>&lt;font color=#EA1A25>Nếu quá trình xác minh không được hoàn tất trong vòng 24 giờ sau khi thêm thẻ, thẻ sẽ không được xác minh lại&lt;/font>&lt;/b></string>
+	<string name="bind_bank_card_sms_cancel_msg">Thẻ Mi Pay chỉ có thể được sử dụng bình thường sau khi hoàn tất xác minh SMS. Bạn cũng có thể tiếp tục hoàn tất việc xác minh sau trong danh sách thẻ. <b>&lt;font color=#EA1A25>Nếu quá trình xác minh không được hoàn tất trong vòng 24 giờ sau khi thêm thẻ, thẻ sẽ không được xác minh lại&lt;/font></b></string>
 	<string name="bind_bank_card_sms_cancel_negative">Lối ra</string>
 	<string name="bind_bank_card_sms_cancel_positive">Tiếp tục xác minh</string>
 	<string name="bind_bank_card_sms_cancel_title">Thoát xác thực</string>
@@ -1232,7 +1232,7 @@
 	<string name="phone_number_validate_alert_number_not_null">Nhập số điện thoại của bạn</string>
 	<string name="phone_number_validate_code_get_again">Nhận lại</string>
 	<string name="phone_number_validate_protocol">Thỏa thuận dịch vụ %1$s</string>
-	<string name="phone_number_validate_sms_code_desc">Mã được nhận bởi &lt;b>&lt;font color=%1$s>%2$s&lt;/font>&lt;/b></string>
+	<string name="phone_number_validate_sms_code_desc">Mã được nhận bởi <b>&lt;font color=%1$s>%2$s&lt;/font></b></string>
 	<string name="phone_number_validate_sms_hint_sequence_1_details">Đảm bảo rằng số điện thoại bạn đang sử dụng được liên kết với tài khoản ngân hàng của bạn.</string>
 	<string name="phone_number_validate_sms_hint_sequence_2_details">Đảm bảo rằng không có phần mềm nào chạy trên thiết bị của bạn chặn SMS bằng mã xác minh.</string>
 	<string name="phone_number_validate_sms_hint_sequence_3_details">Liên hệ với ngân hàng của bạn nếu số điện thoại được liên kết với tài khoản ngân hàng của bạn không còn hoạt động.</string>

@@ -3149,7 +3149,7 @@ Bước này là bắt buộc để thanh toán bằng thiết bị."</string>
     <string name="register_by_local_phone_long_text">Tạo tài khoản</string>
     <string name="register_by_local_phone_short_text">Tạo tài khoản</string>
     <string name="reject">Từ chối</string>
-    <string name="request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật và quy định có liên quan. Ứng dụng này cần các quyền sau để hoạt động bình thường:&lt;br>&lt;br>&lt;b>Sử dụng camera (để cài đặt ảnh hồ sơ của bạn)&lt;/b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền như vậy, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản vẫn sẽ khả dụng. Bạn luôn có thể giới hạn quyền hoặc hủy ủy quyền của mình trong Cài đặt.</string>
+    <string name="request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật và quy định có liên quan. Ứng dụng này cần các quyền sau để hoạt động bình thường:&lt;br>&lt;br><b>Sử dụng camera (để cài đặt ảnh hồ sơ của bạn)</b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền như vậy, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản vẫn sẽ khả dụng. Bạn luôn có thể giới hạn quyền hoặc hủy ủy quyền của mình trong Cài đặt.</string>
     <string name="request_error_invalid_token">Không thể xác minh</string>
     <string name="request_error_network">Lỗi mạng. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="request_error_unknown">Lỗi hệ thống. Quay lại và thử lại.</string>

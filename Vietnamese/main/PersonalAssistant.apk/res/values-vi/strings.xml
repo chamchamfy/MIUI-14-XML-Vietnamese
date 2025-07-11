@@ -1008,7 +1008,7 @@
     <string name="express_select_send_providers">Chọn một nhà cung cấp dịch vụ chuyển phát nhanh</string>
     <string name="express_select_sender">Từ</string>
     <string name="express_send">Giao hàng</string>
-    <string name="express_send_history">Lịch sử giao hàng &gt;</string>
+    <string name="express_send_history">Lịch sử giao hàng ></string>
     <string name="express_send_mms">Gửi</string>
     <string name="express_send_mms_format">Gói hàng đã được vận chuyển bởi %1$s | Mã vận đơn: %2$s</string>
     <string name="express_send_not_available">Dịch vụ tạm thời không khả dụng, vui lòng thử lại sau</string>
@@ -1260,7 +1260,7 @@
     <string name="payment_setting">Cài đặt</string>
     <string name="payment_report_failed_record_dialog_ok">Báo cáo</string>
     <string name="payment_report_failed_record_dialog_message">Báo cáo hóa đơn chưa xử lý để giúp chúng tôi tính toán chính xác hơn
-&lt;b&gt;Mục bạn chia sẻ sẽ chỉ dùng để cải thiện App vault.&lt;/b&gt;</string>
+<b>Mục bạn chia sẻ sẽ chỉ dùng để cải thiện App vault.</b></string>
     <string name="payment_report_failed_record_dialog_cancel">Hủy</string>
     <string name="payment_record_menu_select">Chọn</string>
     <string name="payment_record_menu_delete">Xóa</string>

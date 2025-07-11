@@ -724,7 +724,7 @@ Tải và cài đặt Mi Mover."</string>
 	<string name="cannot_use_mi_huanji_summary">Có vẻ như MIUI đang sao lưu các mục. Dừng sao lưu liên tục hoặc khởi động lại thiết bị của bạn để cho phép Mi Mover bắt đầu chuyển.</string>
 	<string name="close_twice_auth_step_2">2. Đăng nhập vào Apple ID mà bạn muốn tắt xác thực hai bước, vào phần \"Bảo mật\" của cài đặt tài khoản và chọn \"Sửa\".</string>
 	<string name="scanner_quit_alert_btn_positive">"Đừng thoát"</string>
-	<string name="time_spent">Thời gian: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
+	<string name="time_spent">Thời gian: &lt;g id="time">%1$s&lt;/g></string>
 	<string name="transfer_bottom_tip">"Bạn sẽ không thể sử dụng Wi-Fi hoặc Bluetooth khi đang chuyển. Đừng rời khỏi trang này."</string>
 	<string name="guest_unfinished_task_alert_message">Hình như bạn có tác vụ chuyển đang dang dở. Tiếp tục chuyển?</string>
 	<string name="host_dialog_message">Đảm bảo phiên bản mới nhất của Mi Mover được cài đặt trên thiết bị khác; nếu không, hai thiết bị có thể không thể kết nối.</string>
@@ -764,7 +764,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="transfer_quit_alert_btn_positive">"Đừng thoát"</string>
 	<string name="new_wait_link_message_2">Nút "\"Tôi là người gửi\" ở ngay trang bắt đầu của Mi Mover."</string>
 	<string name="select_empty">Chọn mục để nhập</string>
-	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b&gt;%s&lt;/b&gt;.</string>
+	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: <b>%s</b>.</string>
 	<string name="host_boot_installation_tips">"Không thể tìm thấy Mi Mover? Chạm để tải xuống."</string>
 	<string name="transfer_quit_alert_message">"Mi Mover đang hoạt động. Vẫn thoát?
 
@@ -840,7 +840,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="prompt_before_transmission_message2_title">"Bạn ssang sử dụng ứng dụng kép cho các mục dưới đây"</string>
 	<string name="prompt_before_transmission_message2_summary">"Ứng dụng kép không thể chuyển. Tuy nhiên, bạn có thể chuyển ứng dụng gốc."</string>
 	<string name="ble_wait_verify_code">Đang tạo mã trên thiết bị mới…</string>
-	<string formatted="false" name="dialog_request_permission_message_link"><Data>"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data></string>
+	<string formatted="false" name="dialog_request_permission_message_link"><Data>"Đồng thời, để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2s">Chính sách Riêng tư&lt;/a> của chúng tôi."</Data></string>
 	<string name="restore_data_to_device_title">Khôi phục các mục vào thiết bị này</string>
 	<string name="sync_data_to_mi_cloud_content2">%d. Chạm \"Sao lưu ngay\" trên tab \"Ảnh\".</string>
 	<string name="sync_data_to_mi_cloud_content1">%d. Chạm \"Đồng bộ ngay\" trên tab \"Liên hệ\".</string>
@@ -853,7 +853,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 	<string name="prompt_before_transmission_message5_summary">"Chuyển một lượng lớn dữ liệu có thể khiến thiết bị nóng lên, điều đó là bình thường. Thiết bị của bạn sẽ sớm mát trở lại khi chuyển hoàn tất."</string>
 	<string name="scanner_not_support_data_transfer_tip">Không hỗ trợ di chuyển dữ liệu ứng dụng từ các điện thoại không phải của Xiaomi (bao gồm cả lịch sử trò chuyện WeChat và QQ)</string>
 	<string name="dialog_wechat_data_transfer_fail_message">"Do giới hạn của phiên bản WeChat, dữ liệu liên quan (bao gồm cả lịch sử trò chuyện) chưa được di chuyển thành công. Bạn nên sử dụng các chức năng sao lưu và di chuyển lịch sử trò chuyện trong APP WeChat để di chuyển.
-Các bước: Mở APP WeChat&gt;My&gt;Cài đặt&gt;Chung&gt;Sao lưu và di chuyển lịch sử trò chuyện."</string>
+Các bước: Mở APP WeChat>My>Cài đặt>Chung>Sao lưu và di chuyển lịch sử trò chuyện."</string>
 	<string name="dialog_wechat_data_transfer_fail_title">Di chuyển dữ liệu WeChat không thành công</string>
 	<string name="prompt_before_transmission_message5_title">Thiết bị có thể nóng lên trong quá trình chuyển.</string>
 	<string name="dialog_connect_ap_timeout_title">Kết nối thủ công</string>

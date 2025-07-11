@@ -395,7 +395,7 @@
 	<string name="notification_aggregate_description2">"Các thuật toán của chúng tôi phân tích nội dung thông báo và không áp dụng tính năng này cho các cảnh báo và thông báo quan trọng từ các trình nhắn tin tức thời. Nếu bạn thấy rằng các thông báo quan trọng được nhóm lại do nhầm lẫn, hãy báo cáo sự cố bạn gặp phải bằng tính năng \"Phản hồi\"."</string>
 	<string name="notification_aggregate_title">Nhóm thông báo</string>
 	<string name="notification_setting_menu_feedback_text">"Thông báo này không nên ở đây?
-Báo cáo vấn đề này &gt;"</string>
+Báo cáo vấn đề này >"</string>
 	<string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
 	<string name="back">Quay lại</string>
 	<string name="lockscreen_notifications_short">Màn hình khóa</string>

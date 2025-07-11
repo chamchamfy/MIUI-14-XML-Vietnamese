@@ -301,7 +301,7 @@ Hàng ngày: %1$s%2$s | Đã dùng %3$s"</string>
     <string name="pref_traffic_saving_auto_add_whitelist_hint">Tự động thêm các ứng dụng có tính năng tiết kiệm dữ liệu vào danh sách ngoại lệ</string>
     <string name="pref_traffic_saving_compressed">Đã nén</string>
     <string name="pref_traffic_saving_issue">HỎI ĐÁP</string>
-    <string name="pref_traffic_saving_issue_content">&lt;b> 1. Bật Tiết kiệm dữ liệu ảnh hưởng đến quyền riêng tư của tôi? &lt;/b>&lt;br />&lt;br />&lt;br />Không. Dữ liệu của bạn sẽ được giữ riêng và sẽ không được chia sẻ với bên thứ ba. &lt;br />&lt;br />&lt;br />&lt;b> Tại sao Tiết kiệm dữ liệu không làm việc? &lt;/b>&lt;br />&lt;br /> Tiết kiệm Dữ liệu chỉ làm việc khi bạn sử dụng mạng của nhà cung cấp để gửi hoặc tải xuống nội dung.</string>
+    <string name="pref_traffic_saving_issue_content"><b> 1. Bật Tiết kiệm dữ liệu ảnh hưởng đến quyền riêng tư của tôi? </b>&lt;br/>&lt;br/>&lt;br/>Không. Dữ liệu của bạn sẽ được giữ riêng và sẽ không được chia sẻ với bên thứ ba. &lt;br/>&lt;br/>&lt;br/><b> Tại sao Tiết kiệm dữ liệu không làm việc? </b>&lt;br/>&lt;br/> Tiết kiệm Dữ liệu chỉ làm việc khi bạn sử dụng mạng của nhà cung cấp để gửi hoặc tải xuống nội dung.</string>
     <string name="pref_traffic_saving_no_compress">Chưa nén</string>
     <string name="pref_traffic_saving_notify_switch">Hiển thị trên thanh thông báo</string>
     <string name="pref_traffic_saving_notify_switch_hint">Hiển thị thống kê sử dụng dữ liệu trên thanh thông báo</string>
@@ -464,10 +464,10 @@ Bạn sẽ sử dụng dữ liệu này?"</string>
     <string name="traffic_saving_ratio_low">Không thể làm giảm đáng kể sử dụng dữ liệu</string>
     <string name="traffic_saving_recommanded_close">Tắt</string>
     <string name="traffic_saving_recommanded_open">Bật</string>
-    <string name="traffic_saving_start_tip_context">"&lt;big>&lt;font color='#7F000000'>Tự động kích hoạt Tiết kiệm dữ liệu để giảm sử dụng dữ liệu di động cho ứng dụng.&lt;/font>&lt;/big>&lt;br />&lt;br />&lt;font color='#FF000000'>Nếu bạn đăng ký dữ liệu hàng tháng, nhớ bật Tiết kiệm dữ liệu cho các ứng dụng cá nhân để tránh bị tính phí bổ sung từ nhà cung cấp.&lt;/font>"</string>
+    <string name="traffic_saving_start_tip_context">"<big>&lt;font color='#7F000000'>Tự động kích hoạt Tiết kiệm dữ liệu để giảm sử dụng dữ liệu di động cho ứng dụng.&lt;/font></big>&lt;br/>&lt;br/>&lt;font color='#FF000000'>Nếu bạn đăng ký dữ liệu hàng tháng, nhớ bật Tiết kiệm dữ liệu cho các ứng dụng cá nhân để tránh bị tính phí bổ sung từ nhà cung cấp.&lt;/font>"</string>
     <string name="traffic_saving_start_tip_title">Kích hoạt</string>
     <string name="traffic_saving_tecsupport">Được hỗ trợ bởi Opera</string>
-    <string name="traffic_saving_tecsupport_international">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="traffic_saving_tecsupport_international">chamchamfy</string>
     <string name="traffic_saving_title">Tiết kiệm dữ liệu</string>
     <string name="traffic_saving_toast_start_mobile">Đã bật tiết kiệm dữ liệu</string>
     <string name="traffic_saving_toast_start_none_mobile">Tiết kiệm dữ liệu sẽ kích hoạt khi bạn sử dụng dữ liệu di động</string>

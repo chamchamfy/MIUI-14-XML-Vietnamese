@@ -727,12 +727,12 @@
     <string name="passport_register_restricted">Quá nhiều tài khoản đã được liên kết với số này. Hãy thử một cái khác.</string>
     <string name="passport_relogin_notice">Bạn cần đăng nhập lại</string>
     <string name="passport_request_agree">Cho phép</string>
-    <string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp và quy định có liên quan. Ứng dụng này cần có các quyền sau để hoạt động bình thường:&lt;br>&lt;br>&lt;b>Sử dụng máy ảnh (để cài đặt ảnh hồ sơ của bạn)&lt;/b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể hạn chế quyền hoặc thu hồi ủy quyền của mình trong Cài đặt.</string>
+    <string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp và quy định có liên quan. Ứng dụng này cần có các quyền sau để hoạt động bình thường:&lt;br>&lt;br><b>Sử dụng máy ảnh (để cài đặt ảnh hồ sơ của bạn)</b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể hạn chế quyền hoặc thu hồi ủy quyền của mình trong Cài đặt.</string>
     <string name="passport_request_cancel">Hủy bỏ</string>
     <string name="passport_request_error_invalid_token">Không thể xác minh</string>
     <string name="passport_request_error_network">Đã xảy ra lỗi mạng. Hãy kiểm tra cài đặt mạng của bạn và thử lại.</string>
     <string name="passport_request_error_unknown">Đã xảy ra lỗi hệ thống. Hãy quay lại và thử lại.</string>
-    <string name="passport_request_gallery_permission_message">Cho phép truy cập vào Thư viện:&lt;br />Để cài đặt ảnh hồ sơ</string>
+    <string name="passport_request_gallery_permission_message">Cho phép truy cập vào Thư viện:&lt;br/>Để cài đặt ảnh hồ sơ</string>
     <string name="passport_resend_email_reach_limit_message">Bạn đã yêu cầu quá nhiều email xác minh. Đảm bảo rằng email xác minh không có trong thư mục Spam trong hộp thư đến của bạn.</string>
     <string name="passport_resend_email_reach_limit_title">Quá nhiều lần thử</string>
     <string name="passport_resend_ticket">Mã gửi lại</string>
@@ -1146,7 +1146,7 @@ hoạt động đáng ngờ"</string>
     <string name="uninstall_activity_text">%1$s là một phần của ứng dụng sau:</string>
     <string name="uninstall_all_blocked_profile_owner">Ứng dụng này là bắt buộc đối với một số người dùng hoặc hồ sơ và đã được gỡ cài đặt đối với những người khác</string>
     <string name="uninstall_application_text">Bạn có muốn gỡ cài đặt ứng dụng này không?</string>
-    <string name="uninstall_application_text_all_users">Bạn có muốn gỡ cài đặt ứng dụng này cho &lt;b>tất cả&lt;/b> người dùng không? Ứng dụng và dữ liệu của ứng dụng sẽ bị xóa khỏi &lt;b>tất cả&lt;/b> người dùng trên thiết bị.</string>
+    <string name="uninstall_application_text_all_users">Bạn có muốn gỡ cài đặt ứng dụng này cho <b>tất cả</b> người dùng không? Ứng dụng và dữ liệu của ứng dụng sẽ bị xóa khỏi <b>tất cả</b> người dùng trên thiết bị.</string>
     <string name="uninstall_application_text_user">Bạn có muốn gỡ cài đặt ứng dụng này cho người dùng %1$s không?</string>
     <string name="uninstall_application_title">Gỡ cài đặt ứng dụng</string>
     <string name="uninstall_blocked_device_owner">Ứng dụng này được quản trị viên thiết bị của bạn yêu cầu và không thể gỡ cài đặt được.</string>
@@ -1417,7 +1417,7 @@ Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</str
     <string name="permission_send_sms_descx">Ứng dụng này có thể gửi SMS và MMS</string>
     <string name="permission_summary_enforced_by_policy">Yêu cầu theo chính sách</string>
     <string name="permission_title">%1$s quyền</string>
-    <string name="permission_warning_template">Cho phép &lt;b>%1$s&lt;/b> %2$s?</string>
+    <string name="permission_warning_template">Cho phép <b>%1$s</b> %2$s?</string>
     <string name="permlab_togglePermissions">Chuyển đổi quyền</string>
     <string name="pref_key_antivirus">Kiểm tra bảo mật</string>
     <string name="pref_key_antivirus_summary">Quét vi-rút trước khi cài đặt</string>

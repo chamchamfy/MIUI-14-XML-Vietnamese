@@ -91,7 +91,7 @@
     <string name="btn_connected_stb">Đầu thu</string>
     <string name="bullet_hint">Hiển thị thông báo này trên màn hình</string>
     <string name="bulletin">Bản tin</string>
-    <string name="by">"๖ۣۜßεℓ™ - MIUI.VN - "</string>
+    <string name="by">"chamchamfy "</string>
     <string name="by_position">Theo vị trí</string>
     <string name="camera_shoot">Màn trập</string>
     <string name="cancel">Hủy</string>
@@ -627,11 +627,11 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="succeed_finish">Hoàn tất</string>
     <string name="succeed_title">Đã ghép nối</string>
     <string name="suggest_use_wifi_rc">* Điều khiển Wi-Fi cũng có các tính năng như truyền video, ứng dụng, vv.</string>
-    <string name="supported_by_kookong">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="supported_by_kookong">chamchamfy</string>
     <string name="supporting_soon">Sẽ ra mắt sớm</string>
     <string name="swipe_loading">Chờ 1 lát…</string>
     <string name="switch_place">Chọn thành phố</string>
-    <string name="technical_support">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="technical_support">chamchamfy</string>
     <string name="temperature">Nhiệt độ</string>
     <string name="temprature_frame">%1$d℃</string>
     <string name="time_error">Hình như thời gian sai</string>

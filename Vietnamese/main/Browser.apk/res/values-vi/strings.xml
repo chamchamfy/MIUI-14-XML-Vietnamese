@@ -2068,7 +2068,7 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="tt_permission_denied">Bạn đã chặn ủy quyền, vui lòng cấp quyền</string>
 	<string name="tt_comment_num">%1$s bình luận</string>
 	<string name="tt_request_permission_descript_location">Thông tin vị trí</string>
-	<string name="appdownloader_download_unknown_title">&lt;Chưa đặt tên&gt;</string>
+	<string name="appdownloader_download_unknown_title">&lt;Chưa đặt tên></string>
 	<string name="tt_confirm_download">Bạn đang sử dụng mạng không có Wi-Fi. Bạn có chắc chắn muốn tải xuống không?</string>
 	<string name="appdownloader_notification_download_resume">Tiếp tục</string>
 	<string name="tt_full_screen_skip_tx">Bỏ qua sau 5 giây</string>
@@ -3070,7 +3070,7 @@ Thay đổi vị trí ~ "</string>
 	<string name="leto_mgc_failed_get_coin_config">Không lấy được cấu hình chung</string>
 	<string name="store__shared__read">Đọc</string>
 	<string name="leto_mgc_claim">Xác nhận quyền sở hữu</string>
-	<string name="leto_game_click_to_play">Nhấp để chơi &gt;</string>
+	<string name="leto_game_click_to_play">Nhấp để chơi ></string>
 	<string name="store__book_detail_score_view__recommend_count">Tất cả %d đề xuất ...</string>
 	<string name="store__choose_uality_view__desc">Vui lòng chọn giới tính</string>
 	<string name="leto_mgc_dialog_newer_task_title">Hoàn thành nhiệm vụ mới bắt đầu</string>
@@ -3372,7 +3372,7 @@ Không được liệt kê "</string>
 	<string name="store__fiction_detail_view__freeread">Đọc miễn phí</string>
 	<string name="store_comment__comment_header_view__my_score">Xếp hạng của tôi:</string>
 	<string name="store__fiction_purchase_view__second">Sau %d chương</string>
-	<string name="leto_mgc_service">Dịch vụ khách hàng &gt;</string>
+	<string name="leto_mgc_service">Dịch vụ khách hàng ></string>
 	<string name="bookcity_store__shared__fail_to_create_order_as_network_error">Không thể tạo được tác vụ, có thể không kết nối được, vui lòng thử lại sau</string>
 	<string name="leto_game_play_number">%d triệu người đang chơi</string>
 	<string name="surfing__video_list_refresh_success">Làm mới thành công</string>

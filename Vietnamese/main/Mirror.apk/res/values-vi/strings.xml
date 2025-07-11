@@ -359,7 +359,7 @@
 	<string name="settings_connect">Cách kết nối</string>
 	<string name="worker_authorized">%1$s đã chấp nhận yêu cầu của bạn</string>
 	<string name="settings_feature_pc_edit_files_summary">Click chuột phải vào mục trong Thư viện hoặc Quản lý tệp tin để sửa trên máy tính.</string>
-	<string name="settings_connect_more_help">&lt;u&gt;Trợ giúp&lt;/u&gt;</string>
+	<string name="settings_connect_more_help">&lt;u>Trợ giúp&lt;/u></string>
 	<string name="privacy_describe_storage">Để gửi và nhận tệp tin</string>
 	<string name="settings_home_tips">"Tổ hợp Màn hình đặt một bản sao màn hình điện thoại của bạn trên máy tính đã kết nối, cho phép bạn truyền tệp và tương tác với thiết bị di động của bạn."</string>
 	<string name="settings_feature_multi_window_title">Mở nhiều cửa sổ</string>

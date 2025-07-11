@@ -233,7 +233,7 @@ Hãy nhớ rằng các tập tin tải xuống và dấu trang mà bạn thêm s
 	<string name="added_to_bookmarks">Đã thêm vào dấu trang</string>
 	<string name="vote_already">Bạn đã bình chọn</string>
 	<string name="noti_web_push">Thông báo trang web</string>
-	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data>"</string>
+	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Xiaomi.</Data>"</string>
 	<string name="mw_abc_action_mode_done">Xong</string>
 	<string name="user_experience_title">Chương trình Trải nghiệm Người dùng</string>
 	<string name="delete_result_success">Xóa thành công</string>
@@ -382,7 +382,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="mw_save_password_never">Không bao giờ</string>
 	<string name="download_filter_audio">ÂM NHẠC</string>
 	<string name="mw_common_google_play_services_wear_update_text">Cần phiên bản mới của dịch vụ Google Play. Dịch vụ sẽ sớm tự động cập nhật.</string>
-	<string name="privacy_message">Trước khi sử dụng Trình duyệt, bạn cần đồng ý với &lt;font color=#4086f5&gt;&lt;a href="%1$s" style=color:#4086f5;&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#4086f5&gt;&lt;a href="%2$s" style=color:#4086f5;&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi.</string>
+	<string name="privacy_message">Trước khi sử dụng Trình duyệt, bạn cần đồng ý với &lt;font color=#4086f5>&lt;a href="%1$s" style=color:#4086f5;>Thỏa thuận Người dùng&lt;/a>&lt;/font> và &lt;font color=#4086f5>&lt;a href="%2$s" style=color:#4086f5;>Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi.</string>
 	<string name="video_download_pause">Tạm dừng</string>
 	<string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
 	<string name="ytb_login">Đăng nhập</string>
@@ -457,7 +457,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="action_menu_text_speed_test">Kiểm tra mạng</string>
 	<string name="more_recommend">Thêm đề xuất</string>
 	<string name="add_bookmark_group">Thêm nhóm</string>
-	<string name="close_ads_message">Chặn nội dung từ trang web này? Bạn có thể xem các trang web bạn đã chặn trong Cài đặt &gt; Nâng cao &gt; Các trang web bị chặn.</string>
+	<string name="close_ads_message">Chặn nội dung từ trang web này? Bạn có thể xem các trang web bạn đã chặn trong Cài đặt > Nâng cao > Các trang web bị chặn.</string>
 	<string name="the_spring_festival">Tết Nguyên Đán</string>
 	<string name="video_subtitle_last_message1">Còn lại ít hơn 1 phút</string>
 	<string name="history">lịch sử</string>
@@ -553,7 +553,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="heavenly_stems_wu">"Mậu "</string>
 	<string name="mw_miuichromium_error_page_unknown_error">Ộp, đã xảy ra lỗi</string>
 	<string name="loading_tips">Kéo xuống để làm mới</string>
-	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br&gt;&lt;br&gt;&lt;b&gt; Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b&gt;&lt;br&gt;&lt;br&gt; Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
+	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br>&lt;br><b> Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện </b>&lt;br>&lt;br> Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
 	<string name="fmt_weekday_short">e</string>
 	<string name="video_collection_known">Tôi biết</string>
 	<string name="solar_term_great_cold">Đại Hàn</string>
@@ -592,7 +592,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="search_sogou">Sogou</string>
 	<string name="category_document">Tài liệu</string>
 	<string name="add_bookmarks">Dấu trang</string>
-	<string name="snapshot_successed">Mở Dấu trang/Lịch sử-&gt;TRÊN MÁY để xem trang web</string>
+	<string name="snapshot_successed">Mở Dấu trang/Lịch sử->TRÊN MÁY để xem trang web</string>
 	<string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
 	<string name="folder_name_empty">Tên thư mục không được để trống</string>
 	<string name="is_last_tab">Đây là thẻ cuối cùng</string>
@@ -610,7 +610,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="ssl_expired">Chứng chỉ này đã hết hạn.</string>
 	<string name="passport_sign_in_or_sign_up">Đăng nhập/Tạo tài khoản</string>
 	<string name="account_prifix">Tài khoản:</string>
-	<string name="com_facebook_device_auth_instructions">Truy cập &lt;b&gt;facebook.com/device&lt;/b&gt; và nhập mã được hiển thị bên trên.</string>
+	<string name="com_facebook_device_auth_instructions">Truy cập <b>facebook.com/device</b> và nhập mã được hiển thị bên trên.</string>
 	<string name="comment_app_menu">Bình luận</string>
 	<string name="get_ph_ticket">Lấy mã</string>
 	<string name="video_fragment_name_offine">Ngoại tuyến</string>
@@ -849,7 +849,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
 	<string name="action_menu_text_nightmode_off">Chế độ ban đêm</string>
 	<string name="current_version_phone">Điện thoại</string>
-	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data>"</string>
+	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Xiaomi, &lt;a href="%2$s">%3$s&lt;/a>.</Data>"</string>
 	<string name="the_eve_of_the_spring_festival">Giao Thừa</string>
 	<string name="update">Cập nhật</string>
 	<string name="video_download_complete">Đã tải xuống thành công</string>
@@ -1216,7 +1216,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="vpn_privacy_dialog_agress">Đồng ý</string>
 	<string name="action_menu_text_bandwidth_on">Tiết kiệm dữ liệu</string>
 	<string name="media_error_timeout">Thời gian kết nối mạng đã hết</string>
-	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, &gt;, hoặc /"</string>
+	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, >, hoặc /"</string>
 	<string name="voice_title">Nói câu lệnh của bạn…</string>
 	<string name="pref_privacy_clear_cache_summary">Xóa nội dung bộ nhớ đệm và cơ sở dữ liệu trên máy</string>
 	<string name="version_check_button_checking">Đang kiểm tra…</string>
@@ -1344,7 +1344,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="search_file_type_doc">Tài liệu</string>
 	<string name="account_user_avatar_from_camera">Máy ảnh</string>
 	<string name="pref_site_settings_site">Điểm</string>
-	<string name="file_name_invalid">Tên tập tin không được bao gồm các ký tự sau: /\\:*?&lt;&gt;</string>
+	<string name="file_name_invalid">Tên tập tin không được bao gồm các ký tự sau: /\\:*?&lt;></string>
 	<string name="enter_incongnito_mode">Vào chế độ ẩn danh</string>
 	<string name="media_error_source">Không tìm thấy nguồn</string>
 	<string name="the_tw_youth_day">Hội Giới Trẻ</string>
@@ -1969,8 +1969,8 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="pref_privacy_clear_cache_dlg">Xóa nội dung bộ nhớ đệm và cơ sở dữ liệu trên máy?</string>
 	<string name="setting_home_page_show_title">Trang bắt đầu</string>
 	<string name="columbus_player_unit_sec">giây</string>
-	<string name="user_experience_content">"Chương trình Trải nghiệm Người dùng giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình một cách có mục tiêu, cũng như giới thiệu các tính năng và dịch vụ mới hữu ích cho bạn. Chúng tôi sẽ bắt đầu thu thập và phân tích dữ liệu có liên quan (ví dụ: dữ liệu sử dụng sản phẩm) sau khi bạn đăng ký chương trình. Bằng cách nhấn vào \"Đăng ký\" bên dưới, bạn đồng ý với các điều khoản và điều kiện của &lt;font color=#4086f5&gt;&lt;a href="%1$s" style=color:#4086f5;&gt;Chương trình Trải nghiệm Người dùng&lt;/a&gt;&lt;/font&gt;.
-		Bạn luôn có thể chọn không tham gia trong Cài đặt &gt; Riêng tư &amp; bảo mật."</string>
+	<string name="user_experience_content">"Chương trình Trải nghiệm Người dùng giúp chúng tôi cải thiện sản phẩm và dịch vụ của mình một cách có mục tiêu, cũng như giới thiệu các tính năng và dịch vụ mới hữu ích cho bạn. Chúng tôi sẽ bắt đầu thu thập và phân tích dữ liệu có liên quan (ví dụ: dữ liệu sử dụng sản phẩm) sau khi bạn đăng ký chương trình. Bằng cách nhấn vào \"Đăng ký\" bên dưới, bạn đồng ý với các điều khoản và điều kiện của &lt;font color=#4086f5>&lt;a href="%1$s" style=color:#4086f5;>Chương trình Trải nghiệm Người dùng&lt;/a>&lt;/font>.
+		Bạn luôn có thể chọn không tham gia trong Cài đặt > Riêng tư &amp; bảo mật."</string>
 	<string name="ssl_bad_clock_warning" formatted="false">Không thể thiết lập kết nối riêng tư đến %s1 do thời gian (%s2) trên thiết bị không chính xác.</string>
 	<string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
 	<string name="permission_notification">%s muốn gửi thông báo.</string>
@@ -1996,12 +1996,12 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
 	<string name="vpn_detail_guide4">Bạn đã hết lưu lượng. Thử sử dụng gói 12 tháng. Chạm để tìm hiểu thêm về tùy chọn này.</string>
 	<string name="vpn_detail_guide1">Mở khóa tất cả máy chủ để tăng tốc kết nối</string>
 	<string name="vpn_detail_guide2">Đăng ký dịch vụ VPN để truy cập nhiều trang web hơn</string>
-	<string name="pref_site_settings_location_permission">Bật quyền vị trí trong &lt;font color=\"#247BFF\"&gt;Cài đặt Android&lt;/font&gt;.</string>
+	<string name="pref_site_settings_location_permission">Bật quyền vị trí trong &lt;font color=\"#247BFF\">Cài đặt Android&lt;/font>.</string>
 	<string name="pref_site_settings_category_allow_except_third_party">Cho phép (ngoại trừ bên thứ ba)</string>
 	<string name="vpn_detail_guide5">Bạn sắp hết lưu lượng</string>
 	<string name="vpn_detail_guide6">Bạn đã hết lưu lượng</string>
 	<string name="setting_feed_language">Ngôn ngữ nội dung bảng tin</string>
-	<string name="privacy_message_main_tips_first">Trình duyệt Mi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;font color="#4086f5"&gt;&lt;a href="%1$s" style="color:#4086f5;"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi. Bạn luôn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Trình duyệt Mi trong Cài đặt &gt; Riêng tư &amp; bảo mật. Đọc và đồng ý với &lt;font color="#4086f5"&gt;&lt;a href="%2$s" style="color:#4086f5;"&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color="#4086f5"&gt;&lt;a href="%1$s" style="color:#4086f5;"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng Trình duyệt Mi.</string>
+	<string name="privacy_message_main_tips_first">Trình duyệt Mi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;font color="#4086f5">&lt;a href="%1$s" style="color:#4086f5;">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi. Bạn luôn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Trình duyệt Mi trong Cài đặt > Riêng tư &amp; bảo mật. Đọc và đồng ý với &lt;font color="#4086f5">&lt;a href="%2$s" style="color:#4086f5;">Thỏa thuận Người dùng&lt;/a>&lt;/font> và &lt;font color="#4086f5">&lt;a href="%1$s" style="color:#4086f5;">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi trước khi sử dụng Trình duyệt Mi.</string>
 	<string name="incognito_off">Chế độ ẩn danh đã tắt.</string>
 	<string name="vpn_subscribe_tips_3">Trải nghiệm tốc độ cao</string>
 	<string name="vpn_subscribe_tips_2">Truy cập nhiều trang web hơn</string>
@@ -2090,7 +2090,7 @@ Một số trang web sẽ không sử dụng lịch sử duyệt web trước đ
 	<string name="dialog_channel_remove_content">Xóa tất cả các kênh cũng sẽ xóa Nội dung bảng tin.</string>
 	<string name="permission_dialog_msg_midi_sysex">%s muốn điều khiển thiết bị MIDI của bạn</string>
 	<string name="sku_price_everymonth">%1$s mỗi tháng</string>
-	<string name="pref_site_settings_mic_ask_permission">Bật quyền micro trong &lt;font color=\"#247BFF\"&gt;Cài đặt Android&lt;/font&gt;.</string>
+	<string name="pref_site_settings_mic_ask_permission">Bật quyền micro trong &lt;font color=\"#247BFF\">Cài đặt Android&lt;/font>.</string>
 	<string name="has_already_subscribed_tips">Bạn đã đăng ký gói này</string>
 	<string name="ytb_login_to_look_subscribe">Đăng nhập để xem đăng ký YouTube của bạn.</string>
 	<string name="nf_feed_list_refresh_guide">Chạm để tải mục mới</string>
@@ -2099,7 +2099,7 @@ Một số trang web sẽ không sử dụng lịch sử duyệt web trước đ
 	<string name="download_videos_from_here">Bạn có thể tải xuống video từ các dịch vụ này</string>
 	<string name="welcome_to_mi_browser">Chào mừng sử dụng Trình duyệt Mi!</string>
 	<string name="open_whatsapp_status">Kiểm tra trạng thái WhatsApp</string>
-	<string name="edit_bookmark_tips">Thêm dấu trang thành công. &lt;font color=\"#247BFF\"&gt;Sửa&lt;/font&gt;</string>
+	<string name="edit_bookmark_tips">Thêm dấu trang thành công. &lt;font color=\"#247BFF\">Sửa&lt;/font></string>
 	<string name="news_native_see_all">Toàn bộ bài viết</string>
 	<string name="vpn_not_support_by_region">Dịch vụ VPN không khả dụng ở khu vực của bạn</string>
 	<string name="pf_add_dialog_content">Bản ghi lịch sử tải xuống sẽ bị xóa sau khi các mục liên quan được chuyển đến thư mục cá nhân.</string>
@@ -2155,7 +2155,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
 	<string name="pref_privacy_clear_site_settings_dlg">Xóa tất cả cài đặt trang web ngay?</string>
 	<string name="video_collection_click_view">Video yêu thích của bạn ở đây</string>
 	<string name="translation_other">Ngôn ngữ khác</string>
-	<string name="players_still_play">&lt;font color=\"#ff2458\"&gt;%s&lt;/font&gt; game thủ cũng thích</string>
+	<string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> game thủ cũng thích</string>
 	<string name="app_uninstall_description_content">Trình duyệt là ứng dụng hệ thống. Bạn sẽ không thể sử dụng dịch vụ tìm kiếm và duyệt web do ứng dụng cung cấp sau khi gỡ bỏ.</string>
 	<string name="privacy_message_main_tips_second">Để có thể tìm kiếm ứng dụng trên thiết bị này và biết ứng dụng nào đã được cài đặt, Trình duyệt Mi cần truy cập thông tin cài đặt ứng dụng, thông tin này sẽ không được lưu cục bộ hoặc tải lên dưới bất kỳ hình thức nào.</string>
 	<string name="custom_page_guide_content">Dấu trang, cài đặt và công cụ thường dùng đặt tại đây!</string>
@@ -2175,11 +2175,11 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="vpn_data_current_period">Thời gian hiệu lực: %s</string>
 	<string name="translate_page">Dịch trang</string>
 	<string name="fb_login_tips">Đăng nhập để tải xuống video từ Facebook</string>
-	<string name="download_completed_tips">Tải xuống thành công. &lt;font color=\"#0081ff\"&gt;Chạm để xem.&lt;/font&gt;</string>
+	<string name="download_completed_tips">Tải xuống thành công. &lt;font color=\"#0081ff\">Chạm để xem.&lt;/font></string>
 	<string name="hashtag_dialog_confirm_unfollow">Bỏ theo dõi %s ngay?</string>
-	<string name="download_completed_private_tips">Tải xuống thành công và đã thêm vào tập tin ẩn. &lt;font color=\"#2dd9ce\"&gt;Chạm để xem.&lt;/font&gt;</string>
+	<string name="download_completed_private_tips">Tải xuống thành công và đã thêm vào tập tin ẩn. &lt;font color=\"#2dd9ce\">Chạm để xem.&lt;/font></string>
 	<string name="feedback_send_email_body_extra_info">Không xóa thông tin dưới đây vì chúng giúp chúng tôi xác định vấn đề.</string>
-	<string name="pref_site_settings_camera_ask_permission">Bật quyền camera trong &lt;font color=\"#247BFF\"&gt;Cài đặt Android&lt;/font&gt;.</string>
+	<string name="pref_site_settings_camera_ask_permission">Bật quyền camera trong &lt;font color=\"#247BFF\">Cài đặt Android&lt;/font>.</string>
 	<string name="miui_facebook_enable_pref_summary">Quản lý thông báo Facebook thuận tiện hơn</string>
 	<string name="exit_clear_dialog_btn_ok">Xóa &amp; thoát</string>
 	<string name="pref_site_settings_cookie_block_summary">Hầu hết các tính năng của trang web có thể không hoạt động đúng</string>
@@ -2256,7 +2256,7 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 	<string name="incognito_message">Hiện bạn có thể trình duyệt một cách riêng tư và những người khác sử dụng thiết bị này sẽ không thấy hoạt động của bạn. Tuy nhiên, các lượt tải xuống và dấu trang vẫn được lưu.</string>
 	<string name="pf_delete_dialog_content">Các tập tin gốc cũng sẽ bị xóa.</string>
 	<string name="highly_recommend">Lựa chọn của Mint</string>
-	<string name="vpn_privacy_dialog_content">Dịch vụ này được cung cấp bởi Tai Xin. Đọc và đồng ý với &lt;font color="#4086f5"&gt;&lt;a href="%1$s" style="color:#4086f5;"&gt;Chính sách Riêng tư Tai Xin&lt;/a&gt;&lt;/font&gt; trước khi sử dụng dịch vụ.</string>
+	<string name="vpn_privacy_dialog_content">Dịch vụ này được cung cấp bởi Tai Xin. Đọc và đồng ý với &lt;font color="#4086f5">&lt;a href="%1$s" style="color:#4086f5;">Chính sách Riêng tư Tai Xin&lt;/a>&lt;/font> trước khi sử dụng dịch vụ.</string>
 	<string name="home_game_channel">Hiển thị \"Trò chơi\" trên thanh điều hướng</string>
 	<string name="preference_title_autocomplete_search">Tự động điền tìm kiếm và URL</string>
 	<string name="what_is_new">Cập nhật ứng dụng để truy cập các tính năng mới</string>
@@ -2293,8 +2293,8 @@ Tắt phím nhanh để dừng đồng bộ."</string>
 
 		Tên thiết bị:
 		Phiên bản hệ điều hành Android:
-		Phiên bản WebView (Trên Android L-M, đây là phiên bản của ứng dụng \"WebView Hệ thống Android \". Trên Android N-P, rất có thể đây là phiên bản của Chrome. Bạn có thể tìm thấy phiên bản của bất kỳ ứng dụng nào trong Cài đặt &gt; Ứng dụng &gt; dấu 3 chấm ở phía trên bên phải &gt; Hiển thị hệ thống.):
-		Ứng dụng: (Vui lòng liên kết đến trang Cửa hàng Play nếu có thể. Bạn có thể lấy liên kết từ bên trong ứng dụng Cửa hàng Play bằng cách nhấn vào 3 dấu chấm ở phía trên bên phải &gt; Chia sẻ &gt; Sao chép vào khay nhớ tạm. Hoặc bạn có thể tìm ứng dụng trên Trang web Cửa hàng Play: https://play.google.com/store/apps.)
+		Phiên bản WebView (Trên Android L-M, đây là phiên bản của ứng dụng \"WebView Hệ thống Android \". Trên Android N-P, rất có thể đây là phiên bản của Chrome. Bạn có thể tìm thấy phiên bản của bất kỳ ứng dụng nào trong Cài đặt > Ứng dụng > dấu 3 chấm ở phía trên bên phải > Hiển thị hệ thống.):
+		Ứng dụng: (Vui lòng liên kết đến trang Cửa hàng Play nếu có thể. Bạn có thể lấy liên kết từ bên trong ứng dụng Cửa hàng Play bằng cách nhấn vào 3 dấu chấm ở phía trên bên phải > Chia sẻ > Sao chép vào khay nhớ tạm. Hoặc bạn có thể tìm ứng dụng trên Trang web Cửa hàng Play: https://play.google.com/store/apps.)
 		Phiên bản ứng dụng:
 
 

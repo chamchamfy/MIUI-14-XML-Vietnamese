@@ -651,7 +651,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="adb_wireless_connection_failed_message">Đảm bảo %1$s kết nối tới đúng mạng</string>
 	<string name="adb_wireless_no_network_msg">Vui lòng kết nối Wi-Fi</string>
 	<string name="adb_wireless_settings">Gỡ lỗi không dây</string>
-	<string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url"&gt;Tìm hiểu thêm&lt;/annotation&gt;</string>
+	<string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url">Tìm hiểu thêm&lt;/annotation></string>
 	<string name="shared_data_no_accessors_dialog_text">Không có hợp đồng cho dữ liệu được chia sẻ này. Bạn có muốn xóa nó?</string>
 	<string name="tap_to_renew_subscription_and_connect">Chạm để làm mới đăng ký và kết nối</string>
 	<string name="adb_pair_method_qrcode_summary">Ghép đôi thiết bị mới bằng cách quét mã QR</string>

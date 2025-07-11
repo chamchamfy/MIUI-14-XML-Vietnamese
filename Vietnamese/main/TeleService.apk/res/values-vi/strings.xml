@@ -1392,7 +1392,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="importingSimContacts">Đang nhập liên hệ từ thẻ SIM</string>
     <string name="importSimEntry">Nhập</string>
     <string name="importToFDNfromContacts">Nhập từ liên hệ</string>
-    <string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url"&gt;Tìm hiểu thêm&lt;/annotation&gt;</string>
+    <string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url">Tìm hiểu thêm&lt;/annotation></string>
     <string name="ims_accounts_title">Tài khoản IMS</string>
     <string name="ims_edit_title">Chi tiết tài khoản IMS</string>
     <string name="ims_menu_discard">Hủy</string>
@@ -1597,7 +1597,7 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="lgu_msim_emm_cause_7_14">"SIM %d mạng không cung cấp dịch vụ dữ liệu di động"</string>
     <string name="lgu_msim_emm_cause_8">"SIM %d không thể đăng ký mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"SIM %d không thể kết nối mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
-    <string name="limited_service_alert_dialog_description">&lt;b&gt;Cuộc gọi khẩn cấp qua Gọi Wi-Fi&lt;/b&gt;"
+    <string name="limited_service_alert_dialog_description"><b>Cuộc gọi khẩn cấp qua Gọi Wi-Fi</b>"
 Cuộc gọi khẩn cấp không thể gọi qua Wi-Fi.
 
 Thiết bị tự động chuyển sang mạng di động (2G/3G) để gọi khẩn cấp.
@@ -2836,7 +2836,7 @@ Giao diện UT: %5$s"</string>
     <string name="roaming_warning">Cho phép chuyển vùng dữ liệu? Bạn có thể phải chịu phí chuyển vùng đáng kể!</string>
     <string name="rsp_unlock_failed">Yêu cầu Nhà cung cấp Dịch vụ RUIM mở khóa không thành công.</string>
     <string name="rsp_unlock_success">Nhà cung cấp dịch vụ RUIM mở khóa thành công.</string>
-    <string name="rtt_mode_more_information">Cuộc gọi RTT hỗ trợ người bị điếc, lãng tai, khiếm khuyết về ngôn ngữ, hoặc cần nhiều hơn là chỉ giọng nói.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Tìm hiểu thêm&lt;/a&gt; &lt;br&gt;&lt;br&gt; - Cuộc gọi RTT được lưu dưới dạng các bản ghi tin nhắn &lt;br&gt; - Cuộc gọi RTT không khả dụng cho gọi video</string>
+    <string name="rtt_mode_more_information">Cuộc gọi RTT hỗ trợ người bị điếc, lãng tai, khiếm khuyết về ngôn ngữ, hoặc cần nhiều hơn là chỉ giọng nói.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Tìm hiểu thêm&lt;/a> &lt;br>&lt;br> - Cuộc gọi RTT được lưu dưới dạng các bản ghi tin nhắn &lt;br> - Cuộc gọi RTT không khả dụng cho gọi video</string>
     <string name="rtt_mode_summary">Cho phép nhắn tin trong cuộc gọi thoại</string>
     <string name="rtt_mode_title">Cuộc gọi văn bản thời gian thực (Cuộc gọi RTT)</string>
     <string name="ruim_unlock_failed">Yêu cầu mở khóa RUIM không thành công.</string>
@@ -3602,7 +3602,7 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
     <string name="wifi_call_help_message">Nếu bạn chọn ưa thích mạng di động, mạng di động sẽ mặc định được dùng cho cuộc gọi. Trong trường hợp không có mạng di động hoặc mạng rất yếu, mạng Wi-Fi sẽ được dùng.</string>
     <string name="wifi_call_help_message_1">"Gọi Wi-Fi là một dịch vụ cung cấp bởi Orange cho phép bạn tạo và nhận cuộc gọi qua Wi-Fi. Tính năng này có thể sử dụng ở nơi tín hiệu di động yếu.
 
-Để sử dụng Gọi Wi-Fi, bật nó trong Cài đặt &gt; Gọi Wi-Fi.
+Để sử dụng Gọi Wi-Fi, bật nó trong Cài đặt > Gọi Wi-Fi.
 
 Để kích hoạt dochj vụ này, Orange sẽ gửi cho bạn một tin nhắn xác thực sớm nhất có thể khi dịch vụ khả dụng. Sau đó, bạn sẽ có thể kết nối mạng Wi-Fi để tạo cuộc gọi.
 

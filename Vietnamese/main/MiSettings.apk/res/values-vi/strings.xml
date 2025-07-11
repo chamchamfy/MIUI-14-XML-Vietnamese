@@ -256,7 +256,7 @@
 Để có thể hoạt động bình thường, ứng dụng này cần thu thập thông tin thời gian màn hình: số lần bạn mở khóa điện thoại, tên ứng dụng, và thời lượng sử dụng ứng dụng để khởi tạo thống kê Thời gian màn hình.
 Ứng dụng này cũng cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"</string>
     <string name="usage_home_permission_phone_summary">Để nhận diện thiết bị của bạn bằng VAID</string>
-    <string name="usage_home_premission_second_summary_new">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền trong Thời gian màn hình &gt; Cài đặt &gt; Tắt Thời gian màn hình. Nếu bạn có câu hỏi nào về riêng tư, bạn có thể liên hệ với chúng tôi qua privacy@xiaomi.com."</string>
+    <string name="usage_home_premission_second_summary_new">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền trong Thời gian màn hình > Cài đặt > Tắt Thời gian màn hình. Nếu bạn có câu hỏi nào về riêng tư, bạn có thể liên hệ với chúng tôi qua privacy@xiaomi.com."</string>
     <string name="usage_special_feature">Tính năng đặc biệt</string>
     <string name="usage_creating_weekly_report">Đang tạo báo cáo hàng tuần…</string>
     <string name="usage_request_timeout_summary">Yêu cầu quá thời gian</string>
@@ -292,7 +292,7 @@
     <string name="display_description">Biển tượng lớn hơn, chữ lớn, ít hiệu ứng</string>
     <string name="start_easymode">Bật Chế độ đơn giản</string>
     <string name="touch_title">Tăng cường điều khiển cảm ứng</string>
-    <string name="usage_home_premission_second_summary_double_link_prefix">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền của mình trong Thời gian trên màn hìnhChúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền của mình trong Thời gian màn hình &gt; Cài đặt &gt; Tắt Thời gian màn hình."</string>
+    <string name="usage_home_premission_second_summary_double_link_prefix">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền của mình trong Thời gian trên màn hìnhChúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền của mình trong Thời gian màn hình > Cài đặt > Tắt Thời gian màn hình."</string>
     <string name="display_title">Các mục lớn hơn</string>
     <string name="exit_easymode">Tắt Chế độ đơn giản</string>
     <string name="touch_description">Tối ưu nút và lối tắt sẽ khiến bạn tránh chạm nhầm</string>
@@ -304,7 +304,7 @@
     <string name="steady_on_screen_setting">Giới hạn thời gian cho các phiên không bị gián đoạn</string>
     <string name="steady_on_screen_notify">Thông báo về việc sử dụng không bị gián đoạn</string>
     <string name="cu_confirm">Đặt</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data></string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href="%1s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2s">Chính sách Riêng tư&lt;/a> của chúng tôi."</Data></string>
     <string name="chinese_day_20">20</string>
     <string name="month_november_short">Tháng 11</string>
     <string name="v7_preference_off">Tắt</string>
@@ -629,7 +629,7 @@
     <string name="anti_flicker_mode_categroy">Chế độ</string>
     <string name="usage_optional_summary">"Các quyền này được yêu cầu khi bạn sử dụng tính năng bổ sung."</string>
     <string name="usage_new_home_date_day_title">%s | Thời lượng sử dụng</string>
-    <string formatted="false" name="usage_permission_double_link"><Data>"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href="%1s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."</Data></string>
+    <string formatted="false" name="usage_permission_double_link"><Data>"Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường. Để hiểu đầy đủ quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, đọc và đồng ý với &lt;a href="%1s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2s">Chính sách Riêng tư&lt;/a> của chúng tôi."</Data></string>
     <string name="focus_mode_timer_delete">Xóa</string>
     <string name="usage_new_home_show_more_data_summary">Bạn cũng có thể giới hạn thời gian màn hình cho từng ứng dụng</string>
     <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d đến %d phút</string>

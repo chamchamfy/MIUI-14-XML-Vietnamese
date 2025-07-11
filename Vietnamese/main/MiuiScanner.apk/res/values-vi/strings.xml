@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Máy quét</string>
     <string name="impunity_declaration_title">Điều khoản Dịch vụ</string>
-	<string name="impunity_declaration_content">Máy quét cần sử dụng máy ảnh của bạn và xử lý ảnh bạn chụp khi sử dụng ứng dụng. Không sử dụng Máy quét để chụp đối tượng có chứa thông tin cá nhân của bạn. Khi nhấn vào "Đồng ý", bạn đang chấp nhận &lt;font color="#ff32b4ff"&gt;&lt;a href="%1$s" style="color:#ff32b4ff;"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi và cho phép Máy quét kết nối mạng.</string>
+	<string name="impunity_declaration_content">Máy quét cần sử dụng máy ảnh của bạn và xử lý ảnh bạn chụp khi sử dụng ứng dụng. Không sử dụng Máy quét để chụp đối tượng có chứa thông tin cá nhân của bạn. Khi nhấn vào "Đồng ý", bạn đang chấp nhận &lt;font color="#ff32b4ff">&lt;a href="%1$s" style="color:#ff32b4ff;">Chính sách Riêng tư&lt;/a>&lt;/font> của chúng tôi và cho phép Máy quét kết nối mạng.</string>
     <string name="impunity_declaration_positive_text">Cho phép</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="accessibility_shutter_button">Màn trập</string>
@@ -380,7 +380,7 @@
 	<string name="continue_waiting">Vui lòng chờ</string>
 	<string name="you_have_permission_to_download">Chạm để tải xuống phiên bản Thử nghiệm</string>
 	<string name="prompt">Chú ý</string>
-	<string name="uninstall_prompt">Nếu có vấn đề xảy ra khi cài đặt, vào Cài đặt &gt; Ứng dụng &gt; Quản lý ứng dụng &gt; Máy quét, chạm \"gỡ bỏ\", và thử cài đặt lại ứng dụng.</string>
+	<string name="uninstall_prompt">Nếu có vấn đề xảy ra khi cài đặt, vào Cài đặt > Ứng dụng > Quản lý ứng dụng > Máy quét, chạm \"gỡ bỏ\", và thử cài đặt lại ứng dụng.</string>
 	<string name="your_application_is_under_review">" (Ứng dụng của bạn đang được xem xét.)"</string>
 	<string name="store_title">Quét dấu hiệu cửa hàng</string>
 	<string name="store_location_dialog">Dịch vụ này được cung cấp bởi Dianping. Tất cả hình ảnh bạn chụp khi sử dụng dịch vụ này, bao gồm thông tin vị trí liên quan, sẽ được chia sẻ với Dianping để nhận thông tin về cửa hàng.</string>

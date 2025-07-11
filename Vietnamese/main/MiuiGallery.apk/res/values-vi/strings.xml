@@ -369,10 +369,10 @@ khả dụng"</string>
     <string name="confirm_merge_face_albums">Hợp nhất album này với %s?</string>
     <string name="confirm_merge_many_face_albums">Hợp nhất các album này với %s?</string>
     <string name="confirm_not_face">Không khớp</string>
-    <string name="confirm_recommandation_face_is">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Bạn có chắc đây là &lt;font color=#323232><b>%1$s</b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232><b>%1$s</b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bạn có chắc đây là &lt;font color=#323232><b>%1$s</b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232><b>%1$s</b>&lt;/font>? </Data>" "</string>
     <string name="contact_tip">Liên hệ</string>
     <string name="context_menu_add_contact">Thêm vào liên hệ</string>
     <string name="context_menu_copy">Sao chép</string>
@@ -3431,7 +3431,7 @@ Hãy chọn những ảnh khác và thử lại."</string>
     <string name="ai_image_over_limit_button_cancel">Tôi biết</string>
     <string name="ai_image_over_limit_button_create">Tiếp tục</string>
     <string name="ai_image_over_limit_title">Không thể tạo ảnh AI</string>
-    <string name="ai_image_privacy_message"><Data>Chào mừng bạn sử dụng chân dung AI&lt;br/>Để có thể cung cấp dịch vụ cho bạn, chúng tôi cần thu thập thông tin cá nhân cần thiết:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Để tạo chân dung AI, bạn sẽ phải tải &lt;b>ảnh của mọi người&lt;/b> lên máy chủ của chúng tôi. Chúng tôi sẽ thu thập và xử lý thông tin về &lt;b>khuôn mặt&lt;/b> của họ để tạo mô hình AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Khi bạn tải lên &lt;b>ảnh của mọi người&lt;/b>, chúng tôi sẽ đồng bộ &lt;b>tên và ảnh hồ sơ của họ&lt;/b> từ các album tương ứng và liên kết thông tin này với ảnh AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Khi bạn tạo ảnh AI dựa trên văn bản, chúng tôi sẽ thu thập &lt;b>mô tả&lt;/b> mà bạn cung cấp để tạo ảnh.&lt;br/>Chúng tôi chỉ thu thập thông tin cá nhân cần thiết cho các tính năng cụ thể của sản phẩm và dịch vụ của chúng tôi mà bạn sử dụng. Bạn có thể tìm hiểu cách chúng tôi thu thập và xử lý thông tin cá nhân trong &lt;a href="%4$s">Chính sách Riêng tư Chân dung AI&lt;/a>.&lt;br/>Đọc và đồng ý với &lt;a href="%5$s">Thỏa thuận Người dùng Chân dung AI&lt;/a> và &lt;a href="%6$s">Chính sách Riêng tư Chân dung AI&lt;/a> trước khi bạn tiếp tục.</Data></string>
+    <string name="ai_image_privacy_message"><Data>Chào mừng bạn sử dụng chân dung AI&lt;br/>Để có thể cung cấp dịch vụ cho bạn, chúng tôi cần thu thập thông tin cá nhân cần thiết:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Để tạo chân dung AI, bạn sẽ phải tải <b>ảnh của mọi người</b> lên máy chủ của chúng tôi. Chúng tôi sẽ thu thập và xử lý thông tin về <b>khuôn mặt</b> của họ để tạo mô hình AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Khi bạn tải lên <b>ảnh của mọi người</b>, chúng tôi sẽ đồng bộ <b>tên và ảnh hồ sơ của họ</b> từ các album tương ứng và liên kết thông tin này với ảnh AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Khi bạn tạo ảnh AI dựa trên văn bản, chúng tôi sẽ thu thập <b>mô tả</b> mà bạn cung cấp để tạo ảnh.&lt;br/>Chúng tôi chỉ thu thập thông tin cá nhân cần thiết cho các tính năng cụ thể của sản phẩm và dịch vụ của chúng tôi mà bạn sử dụng. Bạn có thể tìm hiểu cách chúng tôi thu thập và xử lý thông tin cá nhân trong &lt;a href="%4$s">Chính sách Riêng tư Chân dung AI&lt;/a>.&lt;br/>Đọc và đồng ý với &lt;a href="%5$s">Thỏa thuận Người dùng Chân dung AI&lt;/a> và &lt;a href="%6$s">Chính sách Riêng tư Chân dung AI&lt;/a> trước khi bạn tiếp tục.</Data></string>
     <string name="ai_input_name_hint">Nhập tên</string>
     <string name="ai_loading">Vui lòng chờ…</string>
     <string name="ai_multi_window_tip">Không thể xem trang này ở chế độ Chia màn hình</string>
@@ -3768,12 +3768,12 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="passport_register_restricted">Số điện thoại này được liên kết với quá nhiều tài khoản. Thử sử dụng số điện thoại khác.</string>
     <string name="passport_relogin_notice">Bạn cần phải đăng nhập lại</string>
     <string name="passport_request_agree">Cho phép</string>
-    <string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật và quy định có liên quan. Ứng dụng này cần các quyền sau để hoạt động bình thường:&lt;br>&lt;br>&lt;b>Sử dụng camera (để cài đặt ảnh hồ sơ của bạn)&lt;/b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền như vậy, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản vẫn sẽ khả dụng. Bạn luôn có thể giới hạn quyền hoặc hủy ủy quyền của mình trong Cài đặt.</string>
+    <string name="passport_request_camera_permission_message">Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật và quy định có liên quan. Ứng dụng này cần các quyền sau để hoạt động bình thường:&lt;br>&lt;br><b>Sử dụng camera (để cài đặt ảnh hồ sơ của bạn)</b>&lt;br>&lt;br>Nếu bạn không đồng ý cấp các quyền như vậy, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản vẫn sẽ khả dụng. Bạn luôn có thể giới hạn quyền hoặc hủy ủy quyền của mình trong Cài đặt.</string>
     <string name="passport_request_cancel">Hủy</string>
     <string name="passport_request_error_invalid_token">Không thể xác minh</string>
     <string name="passport_request_error_network">Lỗi mạng. Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="passport_request_error_unknown">Lỗi hệ thống. Quay lại và thử lại.</string>
-    <string name="passport_request_gallery_permission_message">Cho phép truy cập Thư viện:&lt;br />Để cài đặt ảnh hồ sơ</string>
+    <string name="passport_request_gallery_permission_message">Cho phép truy cập Thư viện:&lt;br/>Để cài đặt ảnh hồ sơ</string>
     <string name="passport_resend_ticket">Gửi lại mã</string>
     <string name="passport_retry">Thử lại</string>
     <string name="passport_send_sms_to">Mã đã được gửi đến %1$s</string>
@@ -3862,7 +3862,7 @@ Những ảnh chụp đẹp nhất được chọn tự động. Bạn có thể
     <string name="scan_qr_code">Quét mã QR</string>
     <string name="scan_qr_to_accept_invitation">Quét mã QR để chấp nhận lời mời</string>
     <string name="scope_storage_dialog_description">Quyền Thư viện đã được cập nhật. Cho phép Thư viện truy cập vào thư mục này để có thể xem nội dung.</string>
-    <string name="scope_storage_dialog_guide_content"><Data>Chạm &lt;b>\"%1$s\"&lt;/b> và sau đó chọn &lt;b>\"%2$s\"&lt;/b>.</Data></string>
+    <string name="scope_storage_dialog_guide_content"><Data>Chạm <b>\"%1$s\"</b> và sau đó chọn <b>\"%2$s\"</b>.</Data></string>
     <string name="scope_storage_dialog_guide_title">Làm thế nào để cấp quyền</string>
     <string name="scope_storage_operation_btn_2">Truy cập thư mục này</string>
     <string name="search_domestic_edit_hint">Tìm kiếm ảnh và video</string>

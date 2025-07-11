@@ -1530,7 +1530,7 @@ Bạn luôn có thể thay đổi số điện thoại của mình trong Cài đ
     <string name="cta_close_dialog_content">Nếu bạn hạn chế Bảo mật truy cập mạng và thông tin vị trí của bạn, bạn sẽ không thể nhận cảnh báo động đất, cập nhật định nghĩa vi-rút và thông tin danh sách chặn. Thiết bị của bạn sẽ kém an toàn hơn. Vẫn hạn chế?</string>
     <string name="cta_close_dialog_ok">Hạn chế</string>
     <string name="cta_close_dialog_title">Hạn chế truy cập</string>
-    <string name="cta_dialog_msg"><Data>Bạn cần đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Bảo mật. Bảo mật cũng cần kết nối mạng và truy cập vị trí của bạn để hoạt động bình thường và giữ cho nhận dạng quét virus được cập nhật. Đồng ý?</Data></string>
+    <string name="cta_dialog_msg"><Data>Bạn cần đồng ý với &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Bảo mật. Bảo mật cũng cần kết nối mạng và truy cập vị trí của bạn để hoạt động bình thường và giữ cho nhận dạng quét virus được cập nhật. Đồng ý?</Data></string>
     <string name="cta_dialog_negative">Thoát</string>
     <string name="cta_dialog_positive">Đồng ý</string>
     <string name="cta_dialog_title">Kết nối Internet</string>
@@ -6486,7 +6486,7 @@ Rút lại sự đồng ý ngay bây giờ?"</string>
     <string name="support_game_booster_tips">Tăng tốc độ &amp; cải thiện trải nghiệm trò chơi</string>
     <string name="system_anti_fraud_dialog_confirm_btn_txt">Tôi biết</string>
     <string name="system_anti_fraud_dialog_content">Có vẻ như bạn vừa nhận được một cuộc gọi hoặc tin nhắn lừa đảo. Việc tiếp tục thanh toán này có thể gây ra tổn thất tài chính.</string>
-    <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Nếu nhân viên dịch vụ khách hàng, cơ quan chức năng hoặc những người bạn có thể biết yêu cầu bạn hoàn tất khoản thanh toán này, &lt;/font>&lt;font = color=#F22424>hãy xác minh danh tính của họ trước khi bạn tiếp tục.&lt;/font></string>
+    <string name="system_anti_fraud_dialog_hint">&lt;font  = color=#747474>Nếu nhân viên dịch vụ khách hàng, cơ quan chức năng hoặc những người bạn có thể biết yêu cầu bạn hoàn tất khoản thanh toán này, &lt;/font>&lt;font  = color=#F22424>hãy xác minh danh tính của họ trước khi bạn tiếp tục.&lt;/font></string>
     <string name="system_anti_fraud_dialog_image_txt">Bảo vệ chống gian lận</string>
     <string name="system_anti_fraud_dialog_message">Bảo vệ chống gian lận</string>
     <string name="system_anti_fraud_dialog_title">Cảnh báo chống lừa đảo</string>
@@ -7777,7 +7777,7 @@ Thử nâng cấp độ phân giải!"</string>
     <string name="modify_risk_app_permission_dialog_confirm">Bật</string>
     <string name="modify_risk_app_permission_dialog_message">Để bảo vệ quyền riêng tư của bạn, chúng tôi kiến nghị bạn nên bật "Gửi lại tin nhắn trống" sau khi cấp quyền cho ứng dụng này.</string>
     <string name="modify_risk_app_permission_dialog_title">Gửi lại tin nhắn trống</string>
-    <string name="modify_risk_app_permission_steps">%1$d. Mở &lt;b>Cài đặt&lt;/b> > &lt;b>Ứng dụng&lt;/b>.&lt;br>&lt;/br> %2$d. Chọn &lt;b>Ứng dụng&lt;/b>.&lt;br>&lt;/br> %3$d. Chọn &lt;b>Quản lý quyền&lt;/b>.&lt;br>&lt;/br> %4$d. Chạm biểu tượng ︙ và chọn &lt;b>Bỏ chặn quyền&lt;/b>.&lt;br>&lt;/br> %5$d. Sau đó bạn có thể cấp từng quyền.</string>
+    <string name="modify_risk_app_permission_steps">%1$d. Mở <b>Cài đặt</b> > <b>Ứng dụng</b>.&lt;br>&lt;/br> %2$d. Chọn <b>Ứng dụng</b>.&lt;br>&lt;/br> %3$d. Chọn <b>Quản lý quyền</b>.&lt;br>&lt;/br> %4$d. Chạm biểu tượng ︙ và chọn <b>Bỏ chặn quyền</b>.&lt;br>&lt;/br> %5$d. Sau đó bạn có thể cấp từng quyền.</string>
     <string name="net_free_booster_new_user_tip">Nhận tăng tốc trò chơi miễn phí và tham gia để giành được điện thoại Xiaomi!</string>
     <string name="net_free_booster_new_user_title">Quà tặng người dùng mới</string>
     <string name="now_inquiry">Chi tiết</string>

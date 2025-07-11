@@ -209,9 +209,9 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
 	<string name="btn_restore_continue">Vẫn khôi phục</string>
 	<string name="btn_restore_wait">Chờ Wi-Fi</string>
 	<string name="doing_calc_backup_data_size">Đang tính kích thước…</string>
-	<string name="msg_restore_start_with_metered_network">"Màn hình chính của bạn sẽ tự khởi động lại. Ứng dụng đã sao lưu sẽ được tải xuống tự động. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s tệp sẽ được tải xuống.&lt;/font&gt;&lt;/b&gt;"</string>
+	<string name="msg_restore_start_with_metered_network">"Màn hình chính của bạn sẽ tự khởi động lại. Ứng dụng đã sao lưu sẽ được tải xuống tự động. &lt;br/><b>&lt;font color=red>%s tệp sẽ được tải xuống.&lt;/font></b>"</string>
 	<string name="msg_restore_with_metered_network_hint">Nếu bạn bắt đầu khôi phục các mục này, dữ liệu di động sẽ được dùng để tải.</string>
-	<string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; tệp sẽ được tải xuống."</string>
+	<string name="msg_restore_with_metered_network_pattern">"&lt;font color=red><b>%s</b>&lt;/font> tệp sẽ được tải xuống."</string>
 	<string name="restore_app_order_finish">Xong</string>
 	<string name="restore_app_order_loading">Chỉ vài giây…</string>
 	<string name="restore_app_order_retry">Thử lại</string>

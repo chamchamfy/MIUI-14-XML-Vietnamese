@@ -816,7 +816,7 @@
     <string name="prologue_bottom_tip">*Khuyến nghị: Khi chặn cuộc gọi theo cách thủ công, hãy để AI Call Assistant trả lời giúp bạn để người kia không kết thúc cuộc gọi</string>
     <string name="prologue_is_record">Xem lời chào âm thanh</string>
     <string name="prologue_manual_pick_radio_btn_title">Chào hỏi khi giơ tay bằng tay</string>
-    <string name="prologue_manual_subtitle">Những nhận xét giới thiệu sau đây dành cho những người trả lời thủ công.&lt;font color=\"#000000\">&lt;b>chế độ tạm thời không khả dụng&lt;/b>&lt;/font></string>
+    <string name="prologue_manual_subtitle">Những nhận xét giới thiệu sau đây dành cho những người trả lời thủ công.&lt;font color=\"#000000\"><b>chế độ tạm thời không khả dụng</b>&lt;/font></string>
     <string name="prologue_name_title">Trợ lý cuộc gọi AI nên gọi bạn là gì?</string>
     <string name="prologue_people_state">Trả lời với tư cách là trợ lý theo yêu cầu</string>
     <string name="prologue_people_state_summary">Trợ lý cuộc gọi AI sẽ thay bạn trả lời khi tắt tính năng này</string>

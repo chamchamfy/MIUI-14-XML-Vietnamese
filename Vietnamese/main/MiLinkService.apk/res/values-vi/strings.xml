@@ -769,8 +769,8 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="connect_settings_connect_permission">Kết nối và quyền</string>
     <string name="connect_settings_connection_service">Kết nối Xiaomi</string>
     <string name="device_permission_dialog_message">Mở Cài đặt > Kết nối > Kết nối và quyền trên %s và cấp quyền camera trước.</string>
-    <string name="mirror_phone_content_remote">Bạn có thể bật Màn hình chính+ trong Cài đặt &gt; Kết nối.</string>
-    <string name="mirror_remote_pad_content">Bạn có thể bật Màn hình chính+ trong Cài đặt &gt; Kết nối.</string>
+    <string name="mirror_phone_content_remote">Bạn có thể bật Màn hình chính+ trong Cài đặt > Kết nối.</string>
+    <string name="mirror_remote_pad_content">Bạn có thể bật Màn hình chính+ trong Cài đặt > Kết nối.</string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>Tôi đã đọc và đồng ý với &lt;font color=#8C93B0>&lt;a href="%1$s">Tuyên bố Rút lại chấp thuận đối với Chính sách Riêng tư Kết nối Xiaomi&lt;/a>&lt;/font>.</Data></string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Đảm bảo bạn có quyền rút lại chấp thuận trước khi tiếp tục.
 %2$d. Sau khi bạn rút lại chấp thuận, thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì dịch vụ kết nối được cung cấp dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại chấp thuận sẽ được coi là từ chối chấp nhận các dịch vụ kết nối. Việc bạn rút lại chấp thuận sẽ không ảnh hưởng đến việc sử dụng bình thường các tính năng và dịch vụ khác.

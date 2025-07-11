@@ -84,8 +84,8 @@
     <string name="activity_title_apk">Gói</string>
     <string name="activity_title_residual">Rác</string>
     <string name="btn_text_quick_scan">Quét</string>
-    <string name="optimizecenter_data_support_cm">๖ۣۜßεℓ™ - MIUI.VN (Clean Master)</string>
-    <string name="optimizecenter_data_support_tc">๖ۣۜßεℓ™ - MIUI.VN (Tencent)</string>
+    <string name="optimizecenter_data_support_cm">chamchamfy (Clean Master)</string>
+    <string name="optimizecenter_data_support_tc">chamchamfy (Tencent)</string>
     <string name="hints_app_uninstall_residual">Dọn dẹp tập tin rác sau khi gỡ ứng dụng?</string>
     <string name="button_text_cancel">Hủy</string>
     <string name="button_text_known">OK</string>
@@ -515,9 +515,9 @@
     <string name="file_not_found">Không tìm thấy tập tin</string>
     <string name="app_usage_never">Chưa sử dụng</string>
     <string name="app_usage_recently">Sử dụng gần đây</string>
-    <string name="resutl_function_deep_clean_summary">&lt;font color=#ff0000 >%1$s&lt;/font> tập tin có thể bị xóa. Giải phóng thêm dung lượng trống.</string>
-    <string name="resutl_function_wechat_clean_summary">&lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm WeChat. Giải phóng thêm dung lượng trống.</string>
-    <string name="resutl_function_qq_clean_summary">Bạn có thể xóa &lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm được tạo bởi QQ</string>
+    <string name="resutl_function_deep_clean_summary">&lt;font color=#ff0000>%1$s&lt;/font> tập tin có thể bị xóa. Giải phóng thêm dung lượng trống.</string>
+    <string name="resutl_function_wechat_clean_summary">&lt;font color=#ff0000>%1$s&lt;/font> bộ nhớ đệm WeChat. Giải phóng thêm dung lượng trống.</string>
+    <string name="resutl_function_qq_clean_summary">Bạn có thể xóa &lt;font color=#ff0000>%1$s&lt;/font> bộ nhớ đệm được tạo bởi QQ</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Giới thiệu Trình dọn dẹp</string>
@@ -586,7 +586,7 @@
     <string name="net_assistant_title">Sử dụng %s dữ liệu di động tháng này</string>
     <string name="notification_summary_of_apps_cleanup">Ứng dụng không thường dùng chiếm %s bộ nhớ</string>
     <string name="notification_title_of_apps_cleanup">Ứng dụng không thường sử dụng</string>
-    <string name="optimizecenter_data_support">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="optimizecenter_data_support">chamchamfy</string>
     <string name="pref_section_auto_clean_and_alert">Dọn dẹp tự động</string>
     <string name="pref_summary_auto_deepclean_and_alert">Thông báo ứng dụng không thường sử dụng</string>
     <string name="pref_summary_open_optimizer_memory_scan">Tự động chọn ứng dụng để dọn dẹp</string>

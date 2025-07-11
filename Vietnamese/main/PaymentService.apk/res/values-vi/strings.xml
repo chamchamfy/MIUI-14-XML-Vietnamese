@@ -117,7 +117,7 @@ Hãy liên hệ với dịch vụ khách hàng Xiaomi."</string>
     <string name="mibi_giftcard_record">Phiếu quà tặng của tôi</string>
     <string name="mibi_giftcard_title">Phiếu quà tặng Mi Credit</string>
     <string name="mibi_giftcard_will_expire">Hết hạn vào %1$s</string>
-    <string name="mibi_giftcard_with_num">&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Phiếu giảm giá Mi Coin khả dụng&lt;/font&gt;</string>
+    <string name="mibi_giftcard_with_num">&lt;font color=#FF7700>&lt;xliff:g id=value>%1$d&lt;/xliff:g> Phiếu giảm giá Mi Coin khả dụng&lt;/font></string>
     <string name="mibi_illegal_intent">Yêu cầu nội dung bất hợp pháp</string>
     <string name="mibi_is_what">Bạn có thể mua những gì với Mi Credit?</string>
     <string name="mibi_label_balance">Số dư</string>
@@ -222,7 +222,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_progress_warning_waiting">Thanh toán vẫn chưa chuyển đến đến tài khoản của bạn.</string>
     <string name="mibi_prompt_info_button_hint">Chú ý (%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use">"&lt;font color=#ff7700&gt;Mi Coin không thể sử dụng để mua phần cứng trên Mi.com.&lt;/font&gt;"</string>
+    <string name="mibi_prompt_info_for_first_use">"&lt;font color=#ff7700>Mi Coin không thể sử dụng để mua phần cứng trên Mi.com.&lt;/font>"</string>
     <string name="mibi_prompt_info_title">Mẹo</string>
     <string name="mibi_recharge_grid_error_denomination">Số tiền Mi Credit phải là giữa %1$s và %2$s.</string>
     <string name="mibi_recharge_grid_item_more">Thêm</string>
@@ -767,7 +767,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
 	<string name="for_diagnosis_usage_only">Nhật ký chỉ dùng để chẩn đoán.</string>
 	<string name="auth_fail_warning">Phiên hết hạn. Đăng nhập lại.</string>
 	<string name="diagnosis_log_send_failed">"Không thể gửi nhật ký. Thử lại."</string>
-	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data>"</string>
+	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Xiaomi, &lt;a href="%2$s">%3$s&lt;/a>.</Data>"</string>
 	<string name="account_user_avatar_from_album">Thư viện</string>
 	<string name="diagnosis_log_sent_format">"Gửi nhật ký thành công.
 ID:%s
@@ -777,11 +777,11 @@ Gửi mã này cho người giám sát."</string>
 	<string name="resend_email_success">Gửi thành công</string>
 	<string name="send_diagnosis_log">Gửi nhật ký</string>
 	<string name="temporary_not_available">"Tính năng này chưa khả dụng"</string>
-	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, &gt;, hoặc /"</string>
+	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, >, hoặc /"</string>
 	<string name="update_email_address_dialog_message">Bạn cần xác thực danh tính của bạn trước khi cập nhật email khôi phục.</string>
 	<string name="confirm_unbundled_phone_dialog_message">Số điện thoại này liên kết với Tài khoản Mi %2$s trên %1$s. Nó sẽ không còn được liên kết với Tài khoản Mi %3$s nếu bạn tiếp tục. Tiếp tục?</string>
 	<string name="collect_diagnosis_log">Thu thập nhật ký</string>
-	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data>"</string>
+	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Xiaomi.</Data>"</string>
 	<string name="sns_access_token_expired_warning">Phiên hết hạn. Đăng nhập để kết nối lại với tài khoản này.</string>
 	<string name="account_user_base_info">Thông tin cơ bản</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
@@ -799,13 +799,13 @@ Gửi mã này cho người giám sát."</string>
 	<string name="account_bind_secure_email_title">Thêm email khôi phục</string>
 	<string name="mibi_permanently_denied_perm_camera">Cho phéo Máy ảnh trong Cài đặt để sử dụng tính năng này.</string>
 	<string name="open_settings">Đến Cài đặt</string>
-	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br&gt;&lt;br&gt;&lt;b&gt; Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b&gt;&lt;br&gt;&lt;br&gt; Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
+	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br>&lt;br><b> Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện </b>&lt;br>&lt;br> Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
 	<string name="mibi_permanently_denied_perm_send_sms">Cho phép gửi SMS trong Cài đặt để sử dụng tính năng này.</string>
 	<string name="mibi_unit_value">%1$s Mi Coin</string>
 	<string name="mibi_prepaid_dialog_title">Chú ý</string>
 	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
-	<string name="mibi_prepaid_picker_hint_3_2">Nhập số thẻ, khuôn mặt và mật khẩu. &lt;b&gt;Bất kỳ tổn thất nào gây ra bởi sự khác biệt giữa thông tin bạn cung cấp và thông tin thực tế sẽ do bạn chịu.&lt;/b&gt;</string>
+	<string name="mibi_prepaid_picker_hint_3_2">Nhập số thẻ, khuôn mặt và mật khẩu. <b>Bất kỳ tổn thất nào gây ra bởi sự khác biệt giữa thông tin bạn cung cấp và thông tin thực tế sẽ do bạn chịu.</b></string>
 	<string name="mibi_prepaid_dialog_content">Mọi tổn thất do sai lệch giữa số thẻ, mệnh giá, mật khẩu và thông tin thực tế sẽ do bạn chịu. Kiểm tra kỹ thông tin bạn cung cấp trước khi tiếp tục.</string>
 	<string name="chinese_day_20">20</string>
 	<string name="month_november_short">Tháng 11</string>

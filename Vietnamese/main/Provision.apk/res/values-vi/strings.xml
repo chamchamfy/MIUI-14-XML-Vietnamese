@@ -728,9 +728,9 @@
     <string name="service_name_systemdesktop">Trình cắm dịch vụ màn hình chính</string>
     <string name="service_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a > của chúng tôi.</Data></string>
     <string name="service_policy_adjust_content">Chính sách Riêng tư Xunlei</string>
-    <string name="service_policy_download"><Data>Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách Riêng tư Xunlei&lt;/a &gt;.</Data></string>
+    <string name="service_policy_download"><Data>Trước khi sử dụng dịch vụ của chúng tôi, đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư Xunlei&lt;/a >.</Data></string>
     <string name="service_privacy_index">Chính sách Riêng tư</string>
-    <string name="service_security_over_r">"Đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách Riêng tư&lt;/a &gt; của chúng tôi trước khi sử dụng Bảo mật.&lt;br/>&lt;br/>Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó."</string>
+    <string name="service_security_over_r">"Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a > của chúng tôi trước khi sử dụng Bảo mật.&lt;br/>&lt;br/>Theo tiêu chuẩn Android 11, quyền một lần sẽ bị thu hồi trong vòng 5 giây sau khi ứng dụng tương ứng ngừng chạy. Nếu bạn mở ứng dụng trong khoảng thời gian ngắn này, quyền sẽ bị thu hồi sau đó."</string>
     <string name="service_sim_activation">Kích hoạt thẻ SIM</string>
     <string name="setting_locale">Đang thiết lập khu vực…</string>
     <string name="shut_down">Tắt máy</string>
@@ -935,9 +935,9 @@ Bạn cần đọc và đồng ý với Chính sách Riêng tư Mint Keyboard tr
     <string name="wc_dialog_title">Màn hình khóa được mô phỏng lại</string>
     <string name="wc_double_check_agree">Thử</string>
     <string name="wc_double_check_reject">Không, cảm ơn</string>
-    <string name="wc_double_check_summary">Bạn có thể bật Tạp chí hình nền để xem nó có phù hợp với bạn không. Hãy nhớ rằng bạn luôn có thể bật và tắt Tạp chí hình nền trong Cài đặt &gt; Màn hình khóa.</string>
+    <string name="wc_double_check_summary">Bạn có thể bật Tạp chí hình nền để xem nó có phù hợp với bạn không. Hãy nhớ rằng bạn luôn có thể bật và tắt Tạp chí hình nền trong Cài đặt > Màn hình khóa.</string>
     <string name="wc_double_check_title">Thử Tạp chí hình nền</string>
-    <string name="wc_notice_link_announcement_summary">"Đọc và đồng ý &lt;a href="%1$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%2$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này."</string>
+    <string name="wc_notice_link_announcement_summary">"Đọc và đồng ý &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này."</string>
     <string name="wednesday">Thứ Tư</string>
     <string name="wednesday_short">Th 4</string>
     <string name="wednesday_shortest">Th 4</string>

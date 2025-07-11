@@ -340,7 +340,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="sunday">Chủ Nhật</string>
 	<string name="month_october">Tháng 10</string>
 	<string name="phone">Điện thoại</string>
-	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: &lt;b&gt;%s&lt;/b&gt;.</string>
+	<string name="lack_perm_msg">Mi Mover cần quyền dưới đây: <b>%s</b>.</string>
 	<string name="web_sso_login_message">Đang đăng nhập…</string>
 	<string name="tuesday_short">Th 3</string>
 	<string name="logining">Đang đăng nhập…</string>
@@ -688,7 +688,7 @@ Tải và cài đặt Mi Mover."</string>
 	<string name="cannot_use_mi_huanji_summary">Có vẻ như MIUI đang sao lưu các mục. Dừng sao lưu liên tục hoặc khởi động lại thiết bị của bạn để cho phép Mi Mover bắt đầu chuyển.</string>
 	<string name="close_twice_auth_step_2">2. Đăng nhập vào Apple ID mà bạn muốn tắt xác thực hai bước, vào phần \"Bảo mật\" của cài đặt tài khoản và chọn \"Sửa\".</string>
 	<string name="scanner_quit_alert_btn_positive">"Đừng thoát"</string>
-	<string name="time_spent">Thời gian: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
+	<string name="time_spent">Thời gian: &lt;g id="time">%1$s&lt;/g></string>
 	<string name="transfer_bottom_tip">"Bạn sẽ không thể sử dụng Wi-Fi hoặc Bluetooth khi đang chuyển. Đừng rời khỏi trang này."</string>
 	<string name="guest_unfinished_task_alert_message">Hình như bạn có tác vụ chuyển đang dang dở. Tiếp tục chuyển?</string>
 	<string name="host_dialog_message">Đảm bảo phiên bản mới nhất của Mi Mover được cài đặt trên thiết bị khác; nếu không, hai thiết bị có thể không thể kết nối.</string>

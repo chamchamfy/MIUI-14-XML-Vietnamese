@@ -610,9 +610,9 @@ Việc tắt tính năng này không ảnh hưởng đến khả năng thiết b
     <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, hãy làm theo các bước tiếp theo để thiết lập thiết bị này</string>
     <string name="smartdevice_d2d_target_choice_use_old_device">Sao chép các Tài khoản Google, ứng dụng và dữ liệu của bạn từ thiết bị khác của bạn</string>
     <string name="smartdevice_d2d_target_copying_accounts">Đang sao chép tài khoản…</string>
-    <string name="smartdevice_d2d_target_description">1. Nói &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> hoặc nhập \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" và nhấn để xác nhận&lt;br/>&lt;br/> 2. Chạm vào &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> trên danh sách và làm theo các hướng dẫn trên màn hình</string>
+    <string name="smartdevice_d2d_target_description">1. Nói <b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"</b> hoặc nhập \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" và nhấn để xác nhận&lt;br/>&lt;br/> 2. Chạm vào <b>&lt;xliff:g id=device_name>^3&lt;/xliff:g></b> trên danh sách và làm theo các hướng dẫn trên màn hình</string>
     <string name="smartdevice_d2d_target_google_settings_backup">Hãy thử đường dẫn này</string>
-    <string name="smartdevice_d2d_target_google_settings_description">Trên thiết bị khác của bạn:&lt;br/>&lt;br/> 1. Mở ứng dụng &lt;b>Cài đặt Google&lt;/b>&lt;br/>&lt;br/> 2. Chọn &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Thiết lập thiết bị lân cận>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Chạm vào &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> trên danh sách và làm theo hướng dẫn trên màn hình.</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Trên thiết bị khác của bạn:&lt;br/>&lt;br/> 1. Mở ứng dụng <b>Cài đặt Google</b>&lt;br/>&lt;br/> 2. Chọn <b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Thiết lập thiết bị lân cận>%1$s&lt;/xliff:g></b> &lt;br/>&lt;br/> 3. Chạm vào <b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g></b> trên danh sách và làm theo hướng dẫn trên màn hình.</string>
     <string name="smartdevice_d2d_target_google_settings_link">Không thể hoàn thành các bước này</string>
     <string name="smartdevice_d2d_target_google_settings_mnc">Hãy sử dụng Cài đặt</string>
     <string name="smartdevice_d2d_target_help_text">Bạn gặp sự cố?</string>
@@ -660,8 +660,8 @@ Việc tắt tính năng này không ảnh hưởng đến khả năng thiết b
     <string name="smartdevice_setup_password_hint">Nhập mật khẩu Wi-Fi</string>
     <string name="smartdevice_setup_show_password">Hiển thị mật khẩu</string>
     <string name="smartdevice_setup_title_verify_code">Xác minh mã</string>
-    <string name="smartdevice_target_hotphrase_instructions">Trên thiết bị khác của bạn, hãy nói &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"&lt;/b>&lt;br/>&lt;br/> Hoặc nhập &lt;b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"&lt;/b> vào hộp tìm kiếm.</string>
-    <string name="smartdevice_type_typing_ok_google">Nếu lệnh thoại không hoạt động, hãy thử nhập vào hộp tìm kiếm. Nhập \"&lt;b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g>&lt;/b>\"</string>
+    <string name="smartdevice_target_hotphrase_instructions">Trên thiết bị khác của bạn, hãy nói <b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device>^2&lt;xliff:g>.\"</b>&lt;br/>&lt;br/> Hoặc nhập <b>\"&lt;xliff:g id=set_up_my_device>^2&lt;/xliff:g>\"</b> vào hộp tìm kiếm.</string>
+    <string name="smartdevice_type_typing_ok_google">Nếu lệnh thoại không hoạt động, hãy thử nhập vào hộp tìm kiếm. Nhập \"<b>&lt;xliff:g id=set_up_my_device>^1&lt;/xliff:g></b>\"</string>
     <string name="smartdevice_verify_device">Xác minh thiết bị</string>
     <string name="smartdevice_wifi_cannot_connect_description">Chỉ có thể sử dụng các mạng mở và mạng WPA/WPA2 để thiết lập thiết bị này</string>
     <string name="smartdevice_wifi_cannot_connect_title">Không thể sử dụng mạng WiFi</string>

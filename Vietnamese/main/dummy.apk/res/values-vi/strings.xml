@@ -602,7 +602,7 @@ Quản trị viên của bạn có thể giám sát và quản lý cài đặt, 
     <string name="auto_sync_personal_account_title">Tự động đồng bộ hóa dữ liệu cá nhân</string>
     <string name="auto_sync_work_account_title">Tự động đồng bộ hóa dữ liệu công việc</string>
     <string name="autofill_app">Dịch vụ tự động điền</string>
-    <string name="autofill_confirmation_message">&lt;b>Hãy đảm bảo bạn tin tưởng ứng dụng này&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> sử dụng nội dung trên màn hình của bạn để xác định nội dung nào có thể được tự động điền.</string>
+    <string name="autofill_confirmation_message"><b>Hãy đảm bảo bạn tin tưởng ứng dụng này</b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> sử dụng nội dung trên màn hình của bạn để xác định nội dung nào có thể được tự động điền.</string>
     <string name="autofill_keywords">tự động, điền, tự động điền</string>
     <string name="autofill_logging_level_title">Mức ghi nhật ký</string>
     <string name="autofill_max_partitions">Yêu cầu tối đa mỗi phiên</string>
@@ -903,7 +903,7 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="bluetooth_battery_level">%1$s pin</string>
     <string name="bluetooth_battery_level_untethered">L: %1$s pin, R: %2$s pin</string>
     <string name="bluetooth_broadcasting">Phát sóng</string>
-    <string name="bluetooth_confirm_passkey_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy đảm bảo thiết bị đang hiển thị mã xác nhận này:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_confirm_passkey_msg">Để ghép nối với:&lt;br><b>%1$s</b>&lt;br>&lt;br>Hãy đảm bảo thiết bị đang hiển thị mã xác nhận này:&lt;br><b>%2$s</b></string>
     <string name="bluetooth_connect_failed">Không thể kết nối. Thử lại.</string>
     <string name="bluetooth_connect_settings">Cài đặt kết nối Bluetooth</string>
     <string name="bluetooth_connect_specific_profiles_title">Kết nối với…</string>
@@ -952,11 +952,11 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Khởi động lại thiết bị?</string>
     <string name="bluetooth_disable_absolute_volume">Tắt âm lượng tuyệt đối</string>
     <string name="bluetooth_disable_absolute_volume_summary">Tắt âm lượng tuyệt đối cho Bluetooth trong trường hợp có các sự cố âm lượng với thiết bị từ xa, chẳng hạn như âm lượng lớn đến mức không thể chấp nhận được hoặc không thể kiểm soát.</string>
-    <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Khỏi:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Điều này sẽ vô hiệu:&lt;br><b>%1$s</b>&lt;br>&lt;br>Khỏi:&lt;br><b>%2$s</b></string>
     <string name="bluetooth_disable_profile_title">Vô hiệu hồ sơ?</string>
     <string name="bluetooth_disabled">Đã tắt</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s sẽ bị ngắt kết nối khỏi âm thanh phương tiện.</string>
-    <string name="bluetooth_disconnect_all_profiles">Tác vụ này sẽ kết thúc kết nối của bạn với:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Tác vụ này sẽ kết thúc kết nối của bạn với:&lt;br><b>%1$s</b></string>
     <string name="bluetooth_disconnect_dialog_ok">Ngắt kết nối</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s sẽ bị ngắt kết nối khỏi âm thanh thiết bị rảnh tay.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s sẽ bị ngắt kết nối khỏi thiết bị nhập.</string>
@@ -965,7 +965,7 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="bluetooth_disconnect_title">Ngắt kết nối?</string>
     <string name="bluetooth_disconnected">Đã ngắt kết nối</string>
     <string name="bluetooth_disconnecting">Đang ngắt kết nối…</string>
-    <string name="bluetooth_display_passkey_pin_msg">Để ghép nối với:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Hãy nhập trên thiết bị:&lt;br>&lt;b>%2$s&lt;/b> rồi nhấn Quay lại hoặc Enter.</string>
+    <string name="bluetooth_display_passkey_pin_msg">Để ghép nối với:&lt;br><b>%1$s</b>&lt;br>&lt;br>Hãy nhập trên thiết bị:&lt;br><b>%2$s</b> rồi nhấn Quay lại hoặc Enter.</string>
     <string name="bluetooth_display_settings">Cài đặt hiển thị Bluetooth</string>
     <string name="bluetooth_dock_settings">Cài đặt Đế</string>
     <string name="bluetooth_dock_settings_a2dp">Cho nhạc và phương tiện</string>
@@ -991,7 +991,7 @@ Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Đang ghép nối máy trợ thính phải...</string>
     <string name="bluetooth_hid_profile_summary_connected">Đã kết nối với thiết bị nhập</string>
     <string name="bluetooth_hid_profile_summary_use_for">Dùng để nhập</string>
-    <string name="bluetooth_incoming_pairing_msg">Từ:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ghép nối với thiết bị này?</string>
+    <string name="bluetooth_incoming_pairing_msg">Từ:&lt;br><b>%1$s</b>&lt;br>&lt;br>Ghép nối với thiết bị này?</string>
     <string name="bluetooth_inform_messgae">"Không thể kết nối với %1$s.
 Dưới đây là một số nguyên nhân:
 1. Bluetooth đã bị tắt trên thiết bị này hoặc nó nằm ngoài vùng phủ sóng.
@@ -1345,8 +1345,8 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
     <string name="captioning_foreground_opacity">Độ mờ văn bản</string>
     <string name="captioning_locale">Ngôn ngữ</string>
     <string name="captioning_preset">Kiểu phụ đề</string>
-    <string name="captioning_preview_characters">๖ۣۜßεℓ™ - MIUI.VN</string>
-    <string name="captioning_preview_text">๖ۣۜßεℓ™ - MIUI.VN</string>
+    <string name="captioning_preview_characters">chamchamfy</string>
+    <string name="captioning_preview_text">chamchamfy</string>
     <string name="captioning_preview_title">Xem trước</string>
     <string name="captioning_standard_options_title">Tùy chọn chuẩn</string>
     <string name="captioning_text_size">Kích thước văn bản</string>
@@ -1821,10 +1821,10 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="data_usage_restrict_denied_dialog">Chỉ có thể hạn chế dữ liệu nền khi bạn đặt giới hạn dữ liệu di động.</string>
     <string name="data_usage_summary_format">Đã sử dụng %1$s dữ liệu</string>
     <string name="data_usage_summary_title">Sử dụng dữ liệu</string>
-    <string name="data_usage_sweep_limit">&lt;font size="18">^1&lt;/font> &lt;font size="9">^2&lt;/font>"
-"&lt;font size="12">giới hạn&lt;/font></string>
-    <string name="data_usage_sweep_warning">&lt;font size="18">^1&lt;/font> &lt;font size="9">^2&lt;/font>"
-"&lt;font size="12">cảnh báo&lt;/font></string>
+    <string name="data_usage_sweep_limit">&lt;font  size="18">^1&lt;/font> &lt;font  size="9">^2&lt;/font>"
+"&lt;font  size="12">giới hạn&lt;/font></string>
+    <string name="data_usage_sweep_warning">&lt;font  size="18">^1&lt;/font> &lt;font  size="9">^2&lt;/font>"
+"&lt;font  size="12">cảnh báo&lt;/font></string>
     <string name="data_usage_tab_mobile">Di động</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_template">Đã sử dụng %1$s trong khoảng thời gian %2$s</string>
@@ -3149,17 +3149,17 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
     <string name="layout_exhuge_font_tips">Nhiều tùy chọn khả dụng trong %1$s</string>
     <string name="layout_exhuge_font_tips_reg">Khả năng truy cập > Kích thước hiển thị</string>
     <string name="layout_size_exhuge">Đại</string>
-    <string name="layout_size_exhuge_text">๖ۣۜßεℓ™</string>
+    <string name="layout_size_exhuge_text">chamchamfy</string>
     <string name="layout_size_huge">To</string>
-    <string name="layout_size_huge_text">๖ۣۜßεℓ™</string>
+    <string name="layout_size_huge_text">chamchamfy</string>
     <string name="layout_size_large">Lớn</string>
-    <string name="layout_size_large_text">๖ۣۜßεℓ™</string>
+    <string name="layout_size_large_text">chamchamfy</string>
     <string name="layout_size_medium">Vừa</string>
-    <string name="layout_size_medium_text">๖ۣۜßεℓ™</string>
+    <string name="layout_size_medium_text">chamchamfy</string>
     <string name="layout_size_normal">Nhỏ</string>
-    <string name="layout_size_normal_text">๖ۣۜßεℓ™</string>
+    <string name="layout_size_normal_text">chamchamfy</string>
     <string name="layout_size_small">Bé</string>
-    <string name="layout_size_small_text">๖ۣۜßεℓ™</string>
+    <string name="layout_size_small_text">chamchamfy</string>
     <string name="learn_more">Xem thêm</string>
     <string name="led_colors_summary">Thông báo</string>
     <string name="led_frequence_summary">Đặt khoảng thời gian nhấp nháy</string>
@@ -4347,7 +4347,7 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="page_layout_22">Hồ sơ của tôi</string>
     <string name="page_layout_23">Nhóm của tôi</string>
     <string name="page_layout_24">YÊU THÍCH</string>
-    <string name="page_layout_25">๖ۣۜßεℓ™</string>
+    <string name="page_layout_25">chamchamfy</string>
     <string name="page_layout_26">Hoàng NOVA</string>
     <string name="page_layout_27">Vũ Huy Anh</string>
     <string name="page_layout_28">Trương Hải Lâm</string>
@@ -4374,17 +4374,17 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="page_layout_medium_title">Vừa</string>
     <string name="page_layout_normal_title">Nhỏ</string>
     <string name="page_layout_page2_godzilla_summary">MIUI.VN</string>
-    <string name="page_layout_page2_godzilla_title">๖ۣۜßεℓ™</string>
+    <string name="page_layout_page2_godzilla_title">chamchamfy</string>
     <string name="page_layout_page2_huge_summary">MIUI.VN</string>
-    <string name="page_layout_page2_huge_title">๖ۣۜßεℓ™</string>
+    <string name="page_layout_page2_huge_title">chamchamfy</string>
     <string name="page_layout_page2_large_summary">MIUI.VN</string>
-    <string name="page_layout_page2_large_title">๖ۣۜßεℓ™</string>
+    <string name="page_layout_page2_large_title">chamchamfy</string>
     <string name="page_layout_page2_medium_summary">MIUI.VN</string>
-    <string name="page_layout_page2_medium_title">๖ۣۜßεℓ™</string>
+    <string name="page_layout_page2_medium_title">chamchamfy</string>
     <string name="page_layout_page2_normal_summary">MIUI.VN</string>
-    <string name="page_layout_page2_normal_title">๖ۣۜßεℓ™</string>
+    <string name="page_layout_page2_normal_title">chamchamfy</string>
     <string name="page_layout_page2_small_summary">MIUI.VN</string>
-    <string name="page_layout_page2_small_title">๖ۣۜßεℓ™</string>
+    <string name="page_layout_page2_small_title">chamchamfy</string>
     <string name="page_layout_page2_title">Xem trước</string>
     <string name="page_layout_small_title">Bé</string>
     <string name="page_tab_title_summary">Tất cả</string>
@@ -6229,7 +6229,7 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="sync_now">Đồng bộ</string>
     <string name="sync_one_time_sync">"Nhấn để đồng bộ hóa ngay
 %1$s"</string>
-    <string name="sync_plug">&lt;font fgcolor="#ffffffff">Chào mừng bạn đến với Google sync!&lt;/font>"
+    <string name="sync_plug"><font  fgcolor="#ffffffff">Chào mừng bạn đến với Google sync!</font>"
 Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền truy cập danh bạ, các cuộc hẹn và hơn thế nữa cho dù bạn ở đâu."</string>
     <string name="sync_settings">Tài khoản &amp; Đồng bộ</string>
     <string name="sync_wifi_label">Wi-Fi</string>
@@ -6874,7 +6874,7 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="virus_scanner_lib_update_failed">Không thể cập nhật</string>
     <string name="virus_scanner_lib_updating">Đang nâng cấp cơ sở dữ liệu virus…</string>
     <string name="virus_scanner_manual_update">Đã cập nhật lúc %s</string>
-    <string name="virus_scanner_provider">๖ۣۜßεℓ™ - MIUI.VN (%s)</string>
+    <string name="virus_scanner_provider">chamchamfy (%s)</string>
     <string name="virus_scanner_scan">Chạm để quét</string>
     <string name="virus_scanner_scanning">Đang quét…</string>
     <string name="virus_scanner_select_Cancel">Hủy</string>

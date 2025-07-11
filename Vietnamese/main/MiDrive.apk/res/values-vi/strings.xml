@@ -306,7 +306,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="activity_not_found_notice">Không tìm thấy ứng dụng</string>
 	<string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
 	<string name="find_psw">Quên mật khẩu</string>
-	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data>"</string>
+	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Xiaomi, &lt;a href="%2$s">%3$s&lt;/a>.</Data>"</string>
 	<string name="passport_relogin_notice">Bạn cần phải đăng nhập lại</string>
 	<string name="resend_active_email">Gửi lại</string>
 	<string name="category_document">Tài liệu</string>
@@ -499,11 +499,11 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="passport_account_label">Tài khoản Mi</string>
 	<string name="download_metered_network_dialog_ok">Tải xuống</string>
 	<string name="waiting_upload">Đang chờ</string>
-	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, &gt;, hoặc /"</string>
+	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, >, hoặc /"</string>
 	<string name="action_update_phone">Thay đổi số điện thoại</string>
 	<string name="upload_fail">Không thể tải lên</string>
 	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
-	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data>"</string>
+	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Xiaomi.</Data>"</string>
 	<string name="input_new_pwd">Nhập mật khẩu mới</string>
 	<string name="micloud_space_soundrecorder_title">Ghi âm</string>
 	<string name="storage_manage_upgrade">Nâng cấp</string>
@@ -574,7 +574,7 @@ Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
 	<string name="rename_file_select_error">"Không thể đổi tên nhiều mục"</string>
 	<string name="picker_permission_failed">"Không thể cấp quyền. Tính năng này không hoạt động nếu không có quyền."</string>
 	<string name="account_change_message">"Bạn đã chuyển sang tài khoản %1$s. Bạn sẽ thấy dữ liệu Mi Drive liên kết với tài khoản này."</string>
-	<string name="user_protocol_and_privacy_protocol">"Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt;."</string>
+	<string name="user_protocol_and_privacy_protocol">"Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>."</string>
 	<string name="image_preview_download_failed">"Không thể mở ảnh gốc"</string>
 	<string name="navigation_transport">Chuyển</string>
 	<string name="download_to">"Lưu vào "</string>

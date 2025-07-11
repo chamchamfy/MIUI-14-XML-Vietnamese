@@ -700,7 +700,7 @@ Chất lượng phát"</string>
 	<string name="volume_boost_text">Tăng âm lượng thành công</string>
 	<string name="wifi_security_owe">Mở tăng cường</string>
 	<string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-	<string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, hãy vào Menu &gt; Cài đặt.</string>
+	<string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, hãy vào Menu > Cài đặt.</string>
 	<string name="wifi_whitelist_roaming">Cầu nối SSID ‑ Chuyển giao nhanh</string>
 	<string name="wifi_unsaved_network_linking_summary">Bật tự động thử kết nối tới SSID WPA/WPA2‑PSK 5GHz mới với thông tin đăng nhập của SSID WPA/WPA2‑PSK 2GHz hiện tại trên một phần khớp SSID và BSSID</string>
 	<string name="wifi_whitelist_roaming_summary">Bật chuyển vùng giữa SSID WPA/WPA2‑PSK của điểm truy cập với cùng địa chỉ cổng MAC</string>
@@ -757,7 +757,7 @@ Bất kỳ người dùng nào cũng có thể thay mặt cho tất cả ngườ
 	<string name="adb_wireless_connection_failed_message">Đảm bảo %1$s kết nối tới đúng mạng</string>
 	<string name="adb_wireless_no_network_msg">Vui lòng kết nối Wi-Fi</string>
 	<string name="adb_wireless_settings">Gỡ lỗi không dây</string>
-	<string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url"&gt;Tìm hiểu thêm&lt;/annotation&gt;</string>
+	<string name="imsi_protection_warning">Mạng này nhận một ID duy nhất có thể sử dụng để theo dõi vị trí thiết bị. &lt;annotation id="url">Tìm hiểu thêm&lt;/annotation></string>
 	<string name="shared_data_no_accessors_dialog_text">Không có hợp đồng cho dữ liệu được chia sẻ này. Bạn có muốn xóa nó?</string>
 	<string name="tap_to_renew_subscription_and_connect">Chạm để làm mới đăng ký và kết nối</string>
 	<string name="adb_pair_method_qrcode_summary">Ghép đôi thiết bị mới bằng cách quét mã QR</string>

@@ -943,7 +943,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="common_signin_button_text">Đăng nhập</string>
 	<string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
 	<string name="data_empty">Không có mục nào ở đây</string>
-	<string name="dialog_privacy_info_new2">Để có thể sử dụng dịch vụ, bạn phải đồng ý rằng %1$s sẽ thu thập, xử lý và sử dụng thông tin cá nhân của bạn. Bạn sẽ được coi là đã đọc và đồng ý với &lt;a href="%2$s"&gt; Chính sách Riêng tư &lt;/a&gt; của chúng tôi khi bạn chạm \"Đồng ý\" bên dưới.</string>
+	<string name="dialog_privacy_info_new2">Để có thể sử dụng dịch vụ, bạn phải đồng ý rằng %1$s sẽ thu thập, xử lý và sử dụng thông tin cá nhân của bạn. Bạn sẽ được coi là đã đọc và đồng ý với &lt;a href="%2$s"> Chính sách Riêng tư &lt;/a> của chúng tôi khi bạn chạm \"Đồng ý\" bên dưới.</string>
 	<string name="dialog_privacy_title">Điều khoản và Điều kiện</string>
 	<string name="dialog_revoke_privacy_info_new2">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu và tất cả dữ liệu liên quan sẽ bị xóa khỏi máy chủ. Điều này có thể làm cho ứng dụng hầu như không sử dụng được. Vẫn tiếp tục hủy?</string>
 	<string name="dialog_revoke_privacy_title">Hủy ủy quyền</string>
@@ -990,7 +990,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="lv_confirm_unhide_videos">Bỏ ẩn video?</string>
 	<string name="lv_deleting">Đang xóa…</string>
 	<string name="lv_device_list">Thiết bị</string>
-	<string name="lv_device_list_seaching">&lt;Không có thiết bị để chiếu&gt;</string>
+	<string name="lv_device_list_seaching">&lt;Không có thiết bị để chiếu></string>
 	<string name="lv_do_not_show_this_again">Không hiển thị lại</string>
 	<string name="lv_find_new_version">Tìm thấy cập nhật mới</string>
 	<string name="lv_find_videos">Tìm kiếm video lại</string>
@@ -1051,7 +1051,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="lv_subtitle_onlinesub_loading">Đang tải phụ đề…</string>
 	<string name="lv_subtitle_onlinesub_loading_wait">Đang tải phụ đề…</string>
 	<string name="lv_subtitle_onlinesub_right_declare">Từ chối</string>
-	<string name="lv_subtitle_onlinesub_right_declare_content">Nhận phụ đề &lt;br/&gt;&lt;br/&gt;từ &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tất cả phụ đề trực tuyến được cung cấp bởi &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+	<string name="lv_subtitle_onlinesub_right_declare_content">Nhận phụ đề &lt;br/>&lt;br/>từ &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Tất cả phụ đề trực tuyến được cung cấp bởi &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
 	<string name="lv_subtitle_onlinesub_save_failed">Không thể thêm phụ đề</string>
 	<string name="lv_subtitle_onlinesub_save_success">Thêm phụ đề thành công</string>
 	<string name="lv_subtitle_onlinesub_search_keyword">Nhập từ khóa để tìm kiếm</string>
@@ -1179,7 +1179,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="pw_comment_back">Quay lại</string>
 	<string name="pw_comment_detail">Chi tiết</string>
 	<string name="pw_comment_let_me_comment">Tôi có một bình luận…</string>
-	<string formatted="false" name="pw_comment_reply">%s&lt;font color=#959AA0&gt;Trả lời&lt;/font&gt;%s</string>
+	<string formatted="false" name="pw_comment_reply">%s&lt;font color=#959AA0>Trả lời&lt;/font>%s</string>
 	<string name="pw_comment_reply_to">Trả lời %s</string>
 	<string name="pw_comment_send">Gửi</string>
 	<string name="pw_comment_type_all">Tất cả bình luận</string>
@@ -1270,7 +1270,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="bind_sign_in_title">Ràng buộc với Tài khoản Mi</string>
 	<string name="choose_to_signin">Có</string>
 	<string name="choose_to_signup">Không, tôi sẽ tạo mới</string>
-	<string name="com_facebook_device_auth_instructions">Truy cập &lt;b&gt;facebook.com/device&lt;/b&gt;&lt;br /&gt; trên điện thoại thông minh hoặc máy tính và nhập mã sau:</string>
+	<string name="com_facebook_device_auth_instructions">Truy cập <b>facebook.com/device</b>&lt;br/> trên điện thoại thông minh hoặc máy tính và nhập mã sau:</string>
 	<string name="com_facebook_image_download_unknown_error">Lỗi bất ngờ khi tải ảnh xuống.</string>
 	<string name="com_facebook_internet_permission_error_message">Đăng nhập WebView yêu cầu INTERNET cho phép</string>
 	<string name="com_facebook_internet_permission_error_title">Lỗi AndroidManifest</string>
@@ -1387,7 +1387,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="plus_sort_title">Sắp xếp</string>
 	<string name="plus_player_subtitle_online_search_no_network">Lỗi mạng đã xảy ra</string>
 	<string name="plus_player_subtitle_local">Phụ đề trên máy</string>
-	<string name="permission_content2">"Vào Cài đặt &gt; Ứng dụng &gt; Mi Video &gt; Quyền, và cho Mi Video các quyền dưới đây:
+	<string name="permission_content2">"Vào Cài đặt > Ứng dụng > Mi Video > Quyền, và cho Mi Video các quyền dưới đây:
 
 1. Truy cập bộ nhớ
 2. Truy cập thông tin thiết bị"</string>
@@ -1462,7 +1462,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="plus_player_share_screen_searching_device">Đang tìm thiết bị lân cận…</string>
 	<string name="plus_player_detail_file_time">"Dấu thời gian: "</string>
 	<string name="plus_player_subtitle_no_file">Không có phụ đề.</string>
-	<string name="plus_player_subtitle_online_declare_content">"Bạn đang tìm kiếm &lt;br/&gt;phụ đề trong &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; cơ sở dữ liệu. &lt;br/&gt;Tất cả phụ đề cung cấp bởi &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;."</string>
+	<string name="plus_player_subtitle_online_declare_content">"Bạn đang tìm kiếm &lt;br/>phụ đề trong &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a> cơ sở dữ liệu. &lt;br/>Tất cả phụ đề cung cấp bởi &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>."</string>
 	<string name="plus_player_subtitle_local_add_fail">"Không thể thêm phụ đề. Đảm bảo tệp tin không bị hỏng."</string>
 	<string name="plus_player_share_screen_connect_fail">"Không thể kết nối. Thử lại."</string>
 	<string name="plus_deleting_wait">Đang xóa</string>
@@ -1505,7 +1505,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="playlist_offline">Danh sách phát này không còn khả dụng.</string>
 	<string name="feedback_input_tip">Bạn có thể mô tả vấn đề hoặc cung cấp gợi ý ở đây.</string>
 	<string name="Earlier">Sớm hơn</string>
-	<string name="language_setting_tips_dialog">Bạn có thể chọn cài đặt ngôn ngữ cho nội dung trong Tài khoản &gt; Ngôn ngữ.</string>
+	<string name="language_setting_tips_dialog">Bạn có thể chọn cài đặt ngôn ngữ cho nội dung trong Tài khoản > Ngôn ngữ.</string>
 	<string name="sync_favorites_limit">"Có hơn 500 video trong ưa thích của bạn. Chúng tôi sẽ sớm phải xóa một vài video để tiếp tục đồng bộ."</string>
 	<string name="srl_header_finish">Làm mới thành công</string>
 	<string name="lv_menu_selectAll">Chọn tất cả</string>
@@ -1516,7 +1516,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="sync_favorites_message">Đồng bộ ưa thích từ thiết bị này vào tài khoản của bạn? Các mục không khả dụng sẽ bị xóa.</string>
 	<string name="history_local_video">Trên máy</string>
 	<string name="sync_favorites_title">Đồng bộ ưa thích</string>
-	<string name="language_later_setting_tips">Bạn có thể thay đổi cài đặt ngôn ngữ trong Hồ sơ &gt; Ngôn ngữ.</string>
+	<string name="language_later_setting_tips">Bạn có thể thay đổi cài đặt ngôn ngữ trong Hồ sơ > Ngôn ngữ.</string>
 	<string name="srl_header_failed">Làm mới thất bại</string>
 	<string name="update_find_new_version">Cập nhật mới khả dụng</string>
 	<string name="lv_favor">Ưa thích</string>
@@ -1585,7 +1585,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="sign_in_progress">Đang đăng nhập…</string>
 	<string name="upload_error_log">Tải lên nhật ký</string>
 	<string name="passport_error_user_agreement_error">Đồng ý với Điều khoản và Điều kiện trước</string>
-	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%4$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href="%2$s"&gt;%3$s&lt;/a&gt;.</Data>"</string>
+	<string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Xiaomi, &lt;a href="%2$s">%3$s&lt;/a>.</Data>"</string>
 	<string name="sns_bind_limit">Thử quá nhiều lần. Thử cách đăng nhập khác.</string>
 	<string name="account_none_bind_info">Không</string>
 	<string name="account_user_details">Thông tin cá nhân</string>
@@ -1671,12 +1671,12 @@ Gửi mã này cho người giám sát."</string>
 	<string name="send_diagnosis_log">Gửi nhật ký</string>
 	<string name="all">Hiển thị tất cả</string>
 	<string name="temporary_not_available">"Tính năng này chưa khả dụng"</string>
-	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, &gt;, hay /"</string>
+	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, >, hay /"</string>
 	<string name="update_email_address_dialog_message">Bạn cần xác nhận danh tính trước khi cập nhật email khôi phục.</string>
 	<string name="confirm_unbundled_phone_dialog_message">Số điện thoại này được liên kết với Tài khoản Mi %2$s trên %1$s. Nó sẽ không còn được kết nối với Tài khoản Mi %3$s nếu bạn tiếp tục. Tiếp tục?</string>
 	<string name="passport_error_auth_fail">Phiên hết hạn. Đăng nhập lại.</string>
 	<string name="collect_diagnosis_log">Thu thập nhật ký</string>
-	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.</Data>"</string>
+	<string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Xiaomi.</Data>"</string>
 	<string name="sns_access_token_expired_warning">Phiên hết hạn. Đăng nhập lại để kết nối lại với tài khoản này.</string>
 	<string name="account_user_base_info">Thông tin cơ bản</string>
 	<string name="account_user_other_info">Chi tiết</string>
@@ -1854,7 +1854,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="galleryplus_cta_tips">Bạn có thể giúp chúng tôi cải thiện dịch vụ của mình bằng cách đăng ký Chương trình Trải nghiệm Người dùng và cho phép Mi Video kết nối mạng. Đồng ý?</string>
 	<string name="galleryplus_vp_hardware_unsported">"Video này không thể phát trên thiết bị của bạn."</string>
 	<string name="playlist_hot">Phổ biến</string>
-	<string name="galleryplus_permission_content2">"Để có thể sử dụng tính năng này, vào Cài đặt &gt; Ứng dụng &gt; Mi Video &gt; Quyền ứng dụng và cho phép Mi Video thực hiện:
+	<string name="galleryplus_permission_content2">"Để có thể sử dụng tính năng này, vào Cài đặt > Ứng dụng > Mi Video > Quyền ứng dụng và cho phép Mi Video thực hiện:
 
 1. Truy cập bộ nhớ
 2. Truy cập ID thiết bị"</string>
@@ -1893,7 +1893,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="logo_neverthink">Giám tuyển bởi Neverthink.tv</string>
 	<string name="download_power_off_tips">"Tính năng này chưa khả dụng"</string>
 	<string name="report_content_rubbish">Thông tin spam hoặc sai lệch</string>
-	<string name="start_download_tip">Đã thêm vào hàng đợi. Kiểm tra tiến trình trong Hồ sơ &gt; Tải xuống.</string>
+	<string name="start_download_tip">Đã thêm vào hàng đợi. Kiểm tra tiến trình trong Hồ sơ > Tải xuống.</string>
 	<string name="ovp_player_cached_error_btn">Video trực tuyến</string>
 	<string name="report_content_dislike">Bạo lực hoặc hành vi không phù hợp</string>
 	<string name="video_download_fail">"Không thể tải xuống video"</string>
@@ -1935,7 +1935,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="file_cant_rename">Tệp tin với tên %1$s đã tồn tại. Vui lòng đổi tên</string>
 	<string name="tip_author_click">Chạm để xem thêm video từ tài khoản này</string>
 	<string name="download_unable_tip">"Không thể tải xuống mục này"</string>
-	<string name="dialog_privacy_info_new3">"Để có thể sử dụng dịch vụ này, bạn cần đồng ý để %1$s thu thập, xử lý, và sử dụng thông tin cá nhân của bạn theo Chính sách Riêng tư. Bằng cách nhấn nút \"Đồng ý\" bên dưới, bạn đồng ý với &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; và &lt;a href="%3$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; của Xiaomi."</string>
+	<string name="dialog_privacy_info_new3">"Để có thể sử dụng dịch vụ này, bạn cần đồng ý để %1$s thu thập, xử lý, và sử dụng thông tin cá nhân của bạn theo Chính sách Riêng tư. Bằng cách nhấn nút \"Đồng ý\" bên dưới, bạn đồng ý với &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Thỏa thuận Người dùng&lt;/a> của Xiaomi."</string>
 	<string name="cast_expanded_controller_live_head_description">Vị trí hiện tại ở đầu tiên của phát trực tuyến</string>
 	<string name="galleryplus_already_cloud_member">Sử dụng Thành viên VIP để phát</string>
 	<string name="galleryplus_fr_unsupport_restore_speed">Không hỗ trợ tốc độ khung hình. Đã chuyển sang tốc độ thông thường.</string>
@@ -1980,7 +1980,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="playlist_name">Nhập tên danh sách phát</string>
 	<string name="cloud_online_player">Trình phát</string>
 	<string name="off_tip_firework_recommend">"Bạn sẽ không nhận được đề xuất nội dung cá nhân hóa từ Firework"</string>
-	<string name="tip_pop">Nội dung từ Khoảnh khắc được cung cấp bởi Firework. Để cải thiện trải nghiệm xem của bạn và nhận được các đề xuất nội dung phù hợp hơn, hãy cho phép Firework thu thập, xử lý và sử dụng thông tin cá nhân của bạn theo Chính sách quyền riêng tư của họ. Đọc và đồng ý với &lt;a href="%1$s"&gt;Chính sách Riêng tư Firework&lt;/a&gt; trước khi sử dụng dịch vụ của họ.</string>
+	<string name="tip_pop">Nội dung từ Khoảnh khắc được cung cấp bởi Firework. Để cải thiện trải nghiệm xem của bạn và nhận được các đề xuất nội dung phù hợp hơn, hãy cho phép Firework thu thập, xử lý và sử dụng thông tin cá nhân của bạn theo Chính sách quyền riêng tư của họ. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư Firework&lt;/a> trước khi sử dụng dịch vụ của họ.</string>
 	<string name="firework_privacy">Chính sách Riêng tư Firework</string>
 	<string name="galleryplus_subtitle_edit_reminder">Văn bản bạn nhập quá dài</string>
 	<string name="galleryplus_chose_play_speed_2">Đang phát ở tốc độ %1$.2fX</string>
@@ -1988,7 +1988,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="tool_bar_notification_setting_title">Thanh công cụ trên Bảng thông báo</string>
 	<string name="tool_bar_notification_setting_sub_title">Hiển thị thanh công cụ trên Bảng thông báo</string>
 	<string name="open_settings">Cài đặt</string>
-	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br&gt;&lt;br&gt;&lt;b&gt; Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b&gt;&lt;br&gt;&lt;br&gt; Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
+	<string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br>&lt;br><b> Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện </b>&lt;br>&lt;br> Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
 	<string name="access_denied_info">Quá nhiều lần thử. Chờ một vài phút rồi thử lại.</string>
 	<string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
 	<string name="plus_menu_rename_cant_empty">"Tên tệp không được trống"</string>
@@ -2039,13 +2039,13 @@ Gửi mã này cho người giám sát."</string>
 	<string name="video_download_play_video_guide">Trước tiên, phát video.</string>
 	<string name="video_download_floating_guide">Tải xuống video miễn phí</string>
 	<string name="dialog_disagree_privacychange_info">"Bạn sẽ không thể sử dụng các dịch vụ phát trực tuyến của Mi Video nếu bạn không đồng ý với Chính sách quyền riêng tư của chúng tôi. Chạm \"Hủy\" để quay lại hoặc \"Không đồng ý\" để tiếp tục và sử dụng Mi Video như trình phát video cục bộ."</string>
-	<string name="dialog_privacy_info_new4">"Chào mừng bạn đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br&gt;&lt;/br&gt; - Dịch vụ stream trực tuyến&lt;br&gt;&lt;/br&gt;- Trình phát video cục bộ&lt;br&gt;&lt;/br&gt;Mi Video cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong Chính sách Riêng tư của chúng tôi. Bạn sẽ có thể thay đổi các cài đặt liên quan trong Cài đặt &gt; Mật khẩu &amp; bảo mật.&lt;br&gt;&lt;/br&gt;Đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Mi Video."</string>
+	<string name="dialog_privacy_info_new4">"Chào mừng bạn đến với Mi Video! Ứng dụng này cung cấp các dịch vụ sau:&lt;br>&lt;/br> - Dịch vụ stream trực tuyến&lt;br>&lt;/br>- Trình phát video cục bộ&lt;br>&lt;/br>Mi Video cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong Chính sách Riêng tư của chúng tôi. Bạn sẽ có thể thay đổi các cài đặt liên quan trong Cài đặt > Mật khẩu &amp; bảo mật.&lt;br>&lt;/br>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Mi Video."</string>
 	<string name="video_download_forbidden">"Không thể tải xuống từ trang web này"</string>
 	<string name="privacy_revoke_setting">Bằng cách tắt công tắc, bạn rút lại sự đồng ý của mình đối với Chính sách Riêng tư của Mi Video.</string>
 	<string name="dialog_privacy_revoke_success">Rút lại thành công</string>
 	<string name="video_download_source">Tải xuống từ web</string>
 	<string name="ytb_login_hint">Đăng nhập để xem kênh Youtube đăng ký của bạn</string>
-	<string name="dialog_privacy_change_info">"Chúng tôi đã cập nhật Chính sách quyền riêng tư của Mi Video do những điều chỉnh trong các dịch vụ mà chúng tôi cung cấp. Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1$s"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="%2$s"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng ứng dụng."</string>
+	<string name="dialog_privacy_change_info">"Chúng tôi đã cập nhật Chính sách quyền riêng tư của Mi Video do những điều chỉnh trong các dịch vụ mà chúng tôi cung cấp. Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng."</string>
 	<string name="dialog_privacy_change_title">Cập nhật Chính sách Riêng tư</string>
 	<string name="video_download_play_video_guide2">Sau đó nhấn nút để tải xuống.</string>
 	<string name="month_november_short">Tháng 11</string>

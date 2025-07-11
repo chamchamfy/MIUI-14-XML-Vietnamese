@@ -1280,7 +1280,7 @@ hoàn toàn"</string>
     <string name="keyguard_password_enter_pin_prompt">Mã PIN SIM mới</string>
     <string name="keyguard_password_enter_puk_code">Nhập PUK SIM và mã PIN mới</string>
     <string name="keyguard_password_enter_puk_prompt">Mã PUK SIM</string>
-    <string name="keyguard_password_entry_touch_hint">&lt;font size="17">Chạm để nhập mật khẩu&lt;/font></string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font  size="17">Chạm để nhập mật khẩu&lt;/font></string>
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
  Liên hệ với nhà cung cấp dịch vụ không dây để cung cấp thẻ SIM khác."</string>
@@ -1432,7 +1432,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="phone_locked_foget_password_method_next">Tiếp theo</string>
     <string name="phone_locked_foget_password_ok">Tôi biết</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Tắt thiết bị, sau đó nhấn giữ nút &lt;font color=#e6e6e6>[Nguồn]&lt;/font> và &lt;font color=#e6e6e6>[Âm lượng +]&lt;/font> cho đến khi bạn thấy &lt;img src=\"\">.</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Làm thế nào để xóa dữ liệu?</string>
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="pip_close">Đóng PiP</string>
@@ -3631,11 +3631,11 @@ Bạn sẽ cần thiết lập lại tính năng này để mở khoá điện t
     <string name="failed_attempts_now_wiping_dialog_dismiss">Đóng</string>
     <string name="failed_attempts_now_wiping_profile">Quá nhiều lần thử không chính xác. Hồ sơ công việc này và dữ liệu của hồ sơ công việc sẽ bị xoá.</string>
     <string name="failed_attempts_now_wiping_user">Quá nhiều lần thử không chính xác. Người dùng này sẽ bị xoá.</string>
-    <string name="feedback_alerted">Hệ thống đã tự động &lt;b>thay đổi thành Mặc định&lt;/b> theo tầm quan trọng của thông báo này.</string>
-    <string name="feedback_demoted">Hệ thống đã tự động &lt;b>giảm mức độ quan trọng&lt;/b> của thông báo này trong ngăn thông báo.</string>
-    <string name="feedback_promoted">Hệ thống đã tự động &lt;b>tăng mức độ quan trọng&lt;/b> của thông báo này trong ngăn thông báo.</string>
+    <string name="feedback_alerted">Hệ thống đã tự động <b>thay đổi thành Mặc định</b> theo tầm quan trọng của thông báo này.</string>
+    <string name="feedback_demoted">Hệ thống đã tự động <b>giảm mức độ quan trọng</b> của thông báo này trong ngăn thông báo.</string>
+    <string name="feedback_promoted">Hệ thống đã tự động <b>tăng mức độ quan trọng</b> của thông báo này trong ngăn thông báo.</string>
     <string name="feedback_prompt">Chia sẻ ý kiến phản hồi của bạn với nhà phát triển. Thông tin này có chính xác không?</string>
-    <string name="feedback_silenced">Hệ thống đã tự động &lt;b>thay đổi thành Im lặng&lt;/b> theo tầm quan trọng của thông báo này.</string>
+    <string name="feedback_silenced">Hệ thống đã tự động <b>thay đổi thành Im lặng</b> theo tầm quan trọng của thông báo này.</string>
     <string name="fgs_dot_content_description">Thông tin mới</string>
     <string name="fgs_manager_app_item_stop_button_label">Dừng</string>
     <string name="fgs_manager_app_item_stop_button_stopped_label">Đã dừng</string>
@@ -3911,10 +3911,10 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="notification_channel_instant">Ứng dụng tức thì</string>
     <string name="notification_channel_setup">Thiết lập</string>
     <string name="notification_channel_summary_automatic">Cho phép hệ thống quyết định xem thông báo này phát âm thanh hay rung</string>
-    <string name="notification_channel_summary_automatic_alerted">&lt;b>Trạng thái:&lt;/b> Đã thay đổi thành Mặc định</string>
-    <string name="notification_channel_summary_automatic_demoted">&lt;b>Trạng thái:&lt;/b> Đã giảm mức độ quan trọng</string>
-    <string name="notification_channel_summary_automatic_promoted">&lt;b>Trạng thái:&lt;/b> Đã tăng mức độ quan trọng</string>
-    <string name="notification_channel_summary_automatic_silenced">&lt;b>Trạng thái:&lt;/b> Đã thay đổi thành Im lặng</string>
+    <string name="notification_channel_summary_automatic_alerted"><b>Trạng thái:</b> Đã thay đổi thành Mặc định</string>
+    <string name="notification_channel_summary_automatic_demoted"><b>Trạng thái:</b> Đã giảm mức độ quan trọng</string>
+    <string name="notification_channel_summary_automatic_promoted"><b>Trạng thái:</b> Đã tăng mức độ quan trọng</string>
+    <string name="notification_channel_summary_automatic_silenced"><b>Trạng thái:</b> Đã thay đổi thành Im lặng</string>
     <string name="notification_channel_summary_priority_all">Hiện ở đầu phần thông báo cuộc trò chuyện và ở dạng ảnh hồ sơ trên màn hình khóa, xuất hiện ở dạng bong bóng, làm gián đoạn chế độ Không làm phiền</string>
     <string name="notification_channel_summary_priority_baseline">Hiện ở đầu phần thông báo cuộc trò chuyện và ở dạng ảnh hồ sơ trên màn hình khóa</string>
     <string name="notification_channel_summary_priority_bubble">Hiện ở đầu phần thông báo cuộc trò chuyện và ở dạng ảnh hồ sơ trên màn hình khóa, xuất hiện ở dạng bong bóng</string>
@@ -4258,7 +4258,7 @@ Nếu không cấp quyền này, các chuông báo và sự kiện theo thời g
     <string name="call_notification_screening_text">Đang sàng lọc cuộc gọi đến</string>
     <string name="cant_open_more_windows">Không thể mở thêm cửa sổ</string>
     <string name="cast_to_other_device_stop_dialog_button">Dừng truyền</string>
-    <string name="cast_to_other_device_stop_dialog_message_specific_app">Bạn sẽ dừng truyền nội dung của &lt;b>%1$s&lt;/b></string>
+    <string name="cast_to_other_device_stop_dialog_message_specific_app">Bạn sẽ dừng truyền nội dung của <b>%1$s</b></string>
     <string name="casting_not_supported_app">Không thể chuyển %s giữa các thiết bị</string>
     <string name="category_clone">Nhân bản</string>
     <string name="category_private">Riêng tư</string>
@@ -4545,7 +4545,7 @@ M</string>
     <string name="screenrecord_permission_dialog_continue">Bắt đầu ghi</string>
     <string name="screenrecord_permission_dialog_warning_single_app">Khi bạn ghi một ứng dụng, Android sẽ có quyền truy cập vào mọi nội dung xuất hiện hoặc phát trên ứng dụng đó. Vì vậy, hãy thận trọng để không làm lộ thông tin như mật khẩu, thông tin thanh toán, tin nhắn, ảnh, âm thanh và video.</string>
     <string name="screenrecord_stop_dialog_button">Dừng ghi</string>
-    <string name="screenrecord_stop_dialog_message_specific_app">Bạn sẽ dừng ghi âm nội dung của &lt;b>%1$s&lt;/b></string>
+    <string name="screenrecord_stop_dialog_message_specific_app">Bạn sẽ dừng ghi âm nội dung của <b>%1$s</b></string>
     <string name="screenshot_failed_external_display_indication">Màn hình bên ngoài</string>
     <string name="screenshot_private_profile_notification">Đã lưu vào %1$s trong hồ sơ riêng tư</string>
     <string name="screenshot_saving_private_profile">Đang lưu ảnh chụp màn hình vào hồ sơ riêng tư</string>
@@ -4556,7 +4556,7 @@ M</string>
     <string name="settingslib_category_private">Riêng tư</string>
     <string name="settingslib_category_work">Công việc</string>
     <string name="share_to_app_stop_dialog_button">Dừng chia sẻ</string>
-    <string name="share_to_app_stop_dialog_message_specific_app">Bạn sẽ dừng chia sẻ nội dung của &lt;b>%1$s&lt;/b></string>
+    <string name="share_to_app_stop_dialog_message_specific_app">Bạn sẽ dừng chia sẻ nội dung của <b>%1$s</b></string>
     <string name="share_to_app_stop_dialog_title">Dừng chia sẻ màn hình?</string>
     <string name="share_wifi_button_text">Chia sẻ Wi‑Fi</string>
     <string name="shortcut_helper_category_a11y">Hỗ trợ tiếp cận</string>
