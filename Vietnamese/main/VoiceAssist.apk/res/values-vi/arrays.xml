@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_title">
+        <item>tuyệt vời</item>
+        <item>Tốt</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa phải</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nặng</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s ô nhiễm</item>
+        <item>%1$s ô nhiễm</item>
+        <item>%1$s ô nhiễm</item>
+        <item>%1$s ô nhiễm</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>Không khí%1$s</item>
+        <item>Không khí%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_short">
+        <item>tuyệt vời</item>
+        <item>Tốt</item>
+        <item>Nhẹ</item>
+        <item>Ôn hoà</item>
+        <item>Nghiêm trọng</item>
+        <item>Nghiêm trọng</item>
+    </string-array>
+    <string-array name="im_window_tips_array">
+        <item>Thời tiết ngày mai</item>
+        <item>Thời tiết Bắc Kinh</item>
+        <item>Chất lượng không khí</item>
+        <item>Ngày mai mặc gì</item>
+        <item>Bắc Kinh hạn chế số đuôi hôm nay</item>
+        <item>Số đuôi dòng hạn chế</item>
+        <item>Tỷ giá hối đoái của đô la Mỹ</item>
+        <item>10 USD là bao nhiêu RMB</item>
+        <item>Súp gà độc</item>
+        <item>Hãy làm một trò đùa</item>
+        <item>Kể một câu chuyện cười</item>
+        <item>Hãy đùa</item>
+        <item>Chúc mừng năm mới bằng tiếng Anh/tiếng Nhật/tiếng Hàn</item>
+        <item>Chúc mừng năm mới cách nói bằng tiếng Anh</item>
+        <item>Vị trí của tôi</item>
+        <item>Giá cổ phiếu Xiaomi</item>
+        <item>Thượng Hải</item>
+        <item>Thứ Hai tiếp theo là gì?</item>
+        <item>Số lượng của Quốc khánh là bao nhiêu?</item>
+        <item>2 lũy thừa của 32 là gì</item>
+        <item>$ 300 được giảm giá 20%</item>
+        <item>Em gái của bà được gọi là gì</item>
+    </string-array>
+    <string-array name="permission_management_bluetooth_text">
+        <item>Nhận hướng dẫn về quyền và quyền riêng tư cho các thiết bị ở gần kết nối</item>
+        <item>Chúng tôi có quyền truy cập vào các thiết bị gần kết nối, được sử dụng cho các chức năng như tìm thiết bị Bluetooth, cho phép các thiết bị khác phát hiện, giao tiếp với các thiết bị Bluetooth được ghép nối, v.v. Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng trên.</item>
+    </string-array>
+    <string-array name="permission_management_call_phone_text">
+        <item>Nhận quyền thực hiện cuộc gọi và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi sử dụng quyền Thực hiện cuộc gọi điện thoại để thực hiện cuộc gọi bằng giọng nói của bạn và nếu bạn tắt tính năng này, bạn sẽ không thể sử dụng tính năng cuộc gọi thoại.</item>
+    </string-array>
+    <string-array name="permission_management_camera_text">
+        <item>Nhận quyền máy ảnh và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi truy cập máy ảnh để chụp ảnh, phát hiện kết cấu da và các chức năng khác. Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng trên.</item>
+    </string-array>
+    <string-array name="permission_management_external_storage_pad_text">
+        <item>Đọc/ghi quyền lưu trữ máy tính bảng và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng ta cần sử dụng phương pháp đọc và ghi bộ nhớ máy tính bảng để lưu dữ liệu của bạn, lưu hoặc đọc trạng thái chạy của ứng dụng, lưu thông tin phân phối đám mây, v.v. Nếu quyền này bị vô hiệu hóa, chúng tôi sẽ không thể thực hiện các thao tác trên, điều này sẽ ảnh hưởng đến việc sử dụng bình thường một số chức năng.</item>
+    </string-array>
+    <string-array name="permission_management_external_storage_text">
+        <item>Đọc và ghi quyền lưu trữ điện thoại di động và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng ta cần đọc và ghi bộ nhớ điện thoại di động, được sử dụng để lưu dữ liệu của bạn, lưu hoặc đọc trạng thái chạy của ứng dụng, lưu thông tin phân phối đám mây, v.v. Nếu quyền này bị vô hiệu hóa, chúng tôi sẽ không thể thực hiện các thao tác trên, điều này sẽ ảnh hưởng đến việc sử dụng bình thường một số chức năng.</item>
+    </string-array>
+    <string-array name="permission_management_location_text">
+        <item>Nhận quyền truy cập vị trí và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi lấy thông tin vị trí của bạn cho chức năng thời tiết để có được thông tin thời tiết chính xác, chức năng điều hướng để truy vấn vị trí và bắt đầu điều hướng, truy vấn chức năng thông tin hạn chế giao thông để xác định thành phố hiện tại, thời gian truy vấn để xác định múi giờ, chức năng radio để lấy vị trí hiện tại của trạm, vị trí thành phố hiện tại khi đặt vé giao thông và truy vấn vé vận chuyển, truy vấn thức ăn gần đó để lấy vị trí hiện tại, truy vấn phim để lấy vị trí hiện tại để truy vấn bộ phim được chiếu trong rạp chiếu gần đó, Chức năng tính thuế thu nhập cá nhân xác định thành phố mà nó thuộc về để cung cấp chính xác cách tính thuế thu nhập cá nhân,... Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_process_outgoing_calls_text">
+        <item>Nhận quyền điện thoại và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi xin quyền điện thoại của bạn, theo dõi trạng thái cuộc gọi, cung cấp sự gián đoạn ghi âm Xiaoai và tổng hợp giọng nói sau khi cuộc gọi được quay số, đồng thời cung cấp chức năng trả lời và ngắt cuộc gọi. Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_read_calendar_text">
+        <item>Xin quyền truy cập lịch và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi truy cập lịch để tạo, truy vấn, sửa đổi và xóa lời nhắc sự kiện trong lịch. Nếu tắt quyền này, bạn sẽ không thể sử dụng lời nhắc lịch.</item>
+    </string-array>
+    <string-array name="permission_management_read_call_log_text">
+        <item>Xin quyền đọc nhật ký cuộc gọi và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi đọc thông tin nhật ký cuộc gọi để kết hợp bạn chính xác hơn với một liên hệ hoặc để giúp bạn gọi lại cuộc gọi trước đó. Nếu quyền này bị tắt, chức năng cuộc gọi thoại có thể thực hiện cuộc gọi sai khi có liên lạc cùng tên hoặc tên liên hệ có cùng tên trong sổ địa chỉ của bạn; Gọi lại cũng không thể.</item>
+    </string-array>
+    <string-array name="permission_management_read_contacts_text">
+        <item>Xin quyền đọc danh bạ và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi đọc thông tin liên hệ và sử dụng nó để hoàn thành chức năng liên hệ và cuộc gọi truy vấn bằng giọng nói cho bạn. Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_read_multimedia_message_text">
+        <item>Nhận quyền đọc tin nhắn MMS và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi xin phép bạn đọc tin nhắn MMS, được sử dụng để cung cấp chức năng của Bluetooth để phát tin nhắn văn bản. Nếu tắt quyền này, bạn sẽ không thể sử dụng tính năng Thông báo SMS.</item>
+    </string-array>
+    <string-array name="permission_management_read_sms_and_multimedia_message_text">
+        <item>Nhận quyền đọc tin nhắn SMS và MMS cũng như hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi xin phép bạn đọc tin nhắn SMS và MMS, được sử dụng để cung cấp chức năng Bluetooth để thông báo SMS. Nếu tắt quyền này, bạn sẽ không thể sử dụng tính năng Thông báo SMS.</item>
+    </string-array>
+    <string-array name="permission_management_read_sms_text">
+        <item>Xin quyền đọc tin nhắn SMS và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi xin phép bạn đọc tin nhắn văn bản, được sử dụng để cung cấp chức năng Bluetooth để thông báo tin nhắn văn bản. Nếu tắt quyền này, bạn sẽ không thể sử dụng tính năng Thông báo SMS.</item>
+    </string-array>
+    <string-array name="permission_management_record_audio_text">
+        <item>Nhận quyền ghi âm và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi sử dụng quyền ghi âm để nhận ra các chức năng đánh thức bằng giọng nói, nhập giọng nói và nhận dạng giọng nói, bằng cách cấp quyền này, bạn cũng có thể ghi lại âm thanh trong chức năng dịch Xiaoai để dịch và ghi lại âm thanh trong chức năng kế hoạch đào tạo để phát nó như một câu trả lời. Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng trên.</item>
+    </string-array>
+    <string-array name="permission_management_send_sms_text">
+        <item>Xin quyền gửi tin nhắn SMS và hướng dẫn bảo vệ quyền riêng tư</item>
+        <item>Chúng tôi xin phép bạn gửi tin nhắn SMS với mục đích sử dụng chức năng gửi SMS bằng giọng nói. Nếu tắt quyền này, bạn sẽ không thể sử dụng các tính năng này.</item>
+    </string-array>
+    <string-array name="permission_management_write_contacts_text">
+        <item>Nhận hướng dẫn sửa đổi quyền liên hệ và bảo vệ quyền riêng tư</item>
+        <item>Chúng ta cần sửa đổi quyền liên hệ để thêm biệt danh của người mà bạn đang thực hiện cuộc gọi khi thực hiện cuộc gọi, để bạn có thể sử dụng chức năng cuộc gọi tốt hơn. Nếu tắt quyền này, bạn sẽ không thể sử dụng tính năng này.</item>
+    </string-array>
+    <string-array name="report_method_entries">
+        <item>Chỉ khi tai nghe được kết nối</item>
+        <item>Bất kể thời gian nào</item>
+        <item>Dừng lại</item>
+    </string-array>
+    <string-array name="travel_mode_entries">
+        <item>Phương tiện công cộng</item>
+        <item>Lái xe</item>
+        <item>Cưỡi</item>
+        <item>đi</item>
+    </string-array>
+</resources>
