@@ -697,7 +697,6 @@ Người dùng tai nghe không phải Xiaomi: đặt lại tai nghe của bạn 
     <string name="super_volume_toast">Bật tăng âm lượng</string>
     <string name="system_update">Cập nhật hệ thống</string>
     <string name="time_picker_label_minute">Phút</string>
-    <string name="time_picker_label_minute">Phút</string>
     <string name="accessibility_sliding_button_state_description_off">tắt</string>
     <string name="accessibility_sliding_button_state_description_on">bật</string>
     <string name="accessibility_tab_state_description_unselect">Không được chọn</string>
