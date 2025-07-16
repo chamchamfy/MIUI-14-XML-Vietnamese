@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
     <string name="acousticguitar">Guitar mộc</string>
     <string name="add_frequent_phrases">Thêm cụm từ thường dùng</string>
     <string name="africaanimals_preview">Xavan</string>
@@ -516,6 +514,4 @@ mm"</string>
     <string name="yellow_page_sms_sending">Đang gửi…</string>
     <string name="yellow_page_unable_send_sms">Không thể gửi tin nhắn văn bản</string>
     <string name="yesterday">Hôm qua</string>
-</resources>
-
 </resources>
