@@ -133,7 +133,6 @@
     <string name="cta_title">Điều khoản Sử dụng</string>
     <string name="cuckooclock">Đồng hồ cuckoo</string>
     <string name="dance">Khiêu vũ</string>
-    <string name="dance">Nhảy</string>
     <string name="day_following_good_friday">Sau Thứ Sáu Tuần Thánh</string>
     <string name="daydream">Mơ ban ngày</string>
     <string name="delete_frequent_phrases">Xóa cụm từ thường dùng</string>
@@ -144,7 +143,6 @@
     <string name="device_poco_india">POCO PHONE</string>
     <string name="device_xiaomi">Điện thoại Mi</string>
     <string name="dewdrops">Giọt sương</string>
-    <string name="dewdrops">Sương buổi sáng</string>
     <string name="digitaluniverse">Vũ trụ số (âm thanh nổi)</string>
     <string name="double_seventh_day">Lễ Thất Tịch</string>
     <string name="early_morning">SA</string>
@@ -255,7 +253,6 @@
     <string name="group_name_family">Gia đình</string>
     <string name="group_name_friends">Bạn bè</string>
     <string name="guitar">Ghi ta</string>
-    <string name="hallofmemories">Hồi ức</string>
     <string name="hallofmemories">Kỷ niệm</string>
     <string name="harp">Hạc cầm</string>
     <string name="hawaii">Hawaii</string>
@@ -307,7 +304,6 @@
     <string name="lunar_yi">1</string>
     <string name="lunar_yue">Tháng</string>
     <string name="lunar_zheng">1</string>
-    <string name="makewishes">Điều ước sinh nhật</string>
     <string name="makewishes">Ước nguyện</string>
     <string name="maml_component_customization_title">Cài đặt</string>
     <string name="martix">Ma trận</string>
@@ -316,7 +312,6 @@
     <string name="menu_edit">Sửa</string>
     <string name="messagesent">Tin nhắn đã gửi</string>
     <string name="mi">Chuyển tập tin mà không cần kết nối Internet cho bất kỳ nội dung nào sau đây:</string>
-    <string name="mi">Mi</string>
     <string name="mibi_license">Điều khoản Dịch vụ Mi Credit</string>
     <string name="miclassic">Mi Cổ điển</string>
     <string name="midnight">SA</string>
@@ -325,8 +320,8 @@
     <string name="miremix">Mi (Remix)</string>
     <string name="miui_clock_city_name_local">Địa phương</string>
     <string name="miui_clock_city_name_second">Đồng hồ thứ hai</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM | e/N</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM | e/N</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE
 dd/MM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
@@ -473,6 +468,7 @@ mm"</string>
     <string name="the_hksar_establishment_day">Ngày thành lập đặc khu hành chính Hồng Kông</string>
     <string name="the_international_womens_day">Quốc Tế Phụ Nữ</string>
     <string name="the_laba_festival">Mùng tám tháng chạp</string>
+    <string name="the_laba_rice_porridge_festival">Lễ Lạp Bát</string>
     <string name="the_labour_day">Quốc Tế Lao Động</string>
     <string name="the_lantern_festival">Tết Nguyên tiêu</string>
     <string name="the_mid_autumn_festival">Tết Trung Thu</string>
@@ -526,7 +522,6 @@ mm"</string>
     <string name="wallpaper_group_minimalist_scenery_title">Tối giản</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Thêm hình nền hệ thống</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen và khác</string>
-    <string name="wallpaper_group_natural_texture_title">Hình mở khóa tự nhiên</string>
     <string name="wallpaper_group_natural_texture_title">Mẫu tự nhiên</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Đại học Arizona</string>
     <string name="wallpaper_group_red_mars_title">Sao Hỏa</string>
