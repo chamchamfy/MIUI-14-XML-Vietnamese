@@ -103,7 +103,7 @@
     <string name="exit_alert_title">Hủy thay đổi?</string>
     <string name="extra_photo_common_save_fail">Không thể lưu</string>
     <string name="extra_photo_common_saving">Đang lưu…</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

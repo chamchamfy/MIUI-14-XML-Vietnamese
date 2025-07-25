@@ -1010,7 +1010,7 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
-	<string name="fmt_chinese_date">e N</string>
+	<string name="fmt_chinese_date">e t N</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="fmt_date_long_month_day">dd MMMM</string>
 	<string name="fmt_date_short_year_month_day">d MMM, yyyy</string>

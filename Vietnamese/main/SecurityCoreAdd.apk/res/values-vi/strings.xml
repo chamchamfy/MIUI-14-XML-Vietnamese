@@ -256,7 +256,7 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
     <string name="fingerprint_double_tap">Chạm đúp cảm biến vân tay</string>
     <string name="fingerprint_number_upper_limit">Quá nhiều lần thử mở khóa không thành công</string>
     <string name="fingerprint_removal_failed">Không thể xóa vân tay</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

@@ -66,7 +66,7 @@
     <string name="expand_handle">Mở rộng điều khiển</string>
     <string name="failed_notification_title_template">Lỗi máy in %1$s</string>
     <string name="favorite_printer">Máy in sử dụng gần đây</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

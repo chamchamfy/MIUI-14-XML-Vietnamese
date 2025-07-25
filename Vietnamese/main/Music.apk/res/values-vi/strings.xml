@@ -1789,7 +1789,7 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="chinese_symbol_animals_dog">Tuất</string>
 	<string name="pm">CH</string>
 	<string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
-	<string name="fmt_chinese_date">e N</string>
+	<string name="fmt_chinese_date">e t N</string>
 	<string name="date_picker_lunar">Lịch âm</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="the_double_ninth_festival">Lễ Trùng Cửu</string>

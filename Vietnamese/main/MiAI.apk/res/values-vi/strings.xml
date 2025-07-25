@@ -1009,7 +1009,7 @@ Vui lòng kiểm tra trạng thái kết nối mạng"</string>
     <string name="finger_dial">Trợ lý cuộc gọi AI</string>
     <string name="finger_dial_summary">Chuyển đổi giọng nói và văn bản để trả lời cuộc gọi một cách im lặng</string>
     <string name="fireware">Không thể xác minh gói.</string>
-    <string name="fmt_chinese_date">N tháng e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

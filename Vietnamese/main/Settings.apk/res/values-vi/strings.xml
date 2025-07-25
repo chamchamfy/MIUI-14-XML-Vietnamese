@@ -11675,7 +11675,7 @@ Bạn chưa từng kết nối với %2$s trước đó."</string>
     <string name="headphone_assisted_summary">"Truyền nguồn cấp dữ liệu micrô của điện thoại tới tai nghe Bluetooth được kết nối"</string>
     <string name="dark_mode_auto_time_summary">Bật/tắt Chế độ tối khi đến lịch</string>
     <string name="maintenance_title">Chế độ sửa chữa</string>
-    <string name="fmt_chinese_date">e N</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="switch_power_sound">Âm thanh sạc</string>
     <string name="bt_audio_repair_property">Sửa lỗi âm thanh</string>

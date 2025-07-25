@@ -751,7 +751,7 @@
     <string name="filter_talkback_filter_seekbar">Hiệu ứng kết xuất</string>
     <string name="filter_texture_shadow">Mờ tối</string>
     <string name="filter_travel_charlotte">Charlotte</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

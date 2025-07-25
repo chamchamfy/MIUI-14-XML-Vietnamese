@@ -120,7 +120,7 @@ kiểm tra phần Cài đặt để biết chi tiết.</string>
     <string name="fast_connect_same_accout_ok">Tôi biết</string>
     <string name="fast_connect_sound_normalizer_content">Âm thanh tốt hơn trong cuộc gọi thoại.
 Giao thức kết nối nhanh hơn.</string>
-    <string name="fmt_chinese_date">e N</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

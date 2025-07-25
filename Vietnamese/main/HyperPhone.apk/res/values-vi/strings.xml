@@ -69,7 +69,7 @@
     <string name="fivega_enhanced_network_title">Tùy chọn mạng 5G-A</string>
     <string name="fivega_switch_summary">Kết nối mạng 5G nâng cao để thử nghiệm (khả dụng khi được cung cấp bởi nhà mạng)</string>
     <string name="fivega_switch_title">NR CA</string>
-    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>

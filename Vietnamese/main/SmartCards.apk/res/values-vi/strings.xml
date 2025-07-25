@@ -732,7 +732,7 @@
 	<string name="fast_bind_bank_card">Nhanh chóng trong Mi Pay</string>
 	<string name="finger_printer_error">Quá nhiều nỗ lực không thành công</string>
 	<string name="finger_printer_failed">Không thể xác minh dấu vân tay, hãy thử lại.</string>
-	<string name="fmt_chinese_date">N tháng e</string>
+	<string name="fmt_chinese_date">e t N</string>
 	<string name="foreground_service_notification_content">Sử dụng thẻ thông minh ngay bây giờ…</string>
 	<string name="foreground_service_notification_title">Ví Mi</string>
 	<string name="fpan_duplicated_apply">Đang tải lại thẻ…</string>

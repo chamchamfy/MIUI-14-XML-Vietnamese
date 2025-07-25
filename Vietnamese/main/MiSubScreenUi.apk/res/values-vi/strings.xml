@@ -360,7 +360,7 @@
 	<string name="subscreen_switch_title">Sử dụng màn hình phía sau</string>
 	<string name="color_change_with_time_description">Tự động đổi màu chữ theo thời gian trong ngày</string>
 	<string name="page_detail_publish_time_label">"Được phát hành: "</string>
-	<string name="fmt_chinese_date">e N</string>
+	<string name="fmt_chinese_date">e t N</string>
 	<string name="align_type">Căn chỉnh</string>
 	<string name="fmt_date_numeric_month_day">d/M</string>
 	<string name="step_to_image_community">Tìm thêm tại Mi Community</string>

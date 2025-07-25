@@ -1160,7 +1160,7 @@ d MMMM"</string>
     <string name="idbct_opt_low_dev_desc_text">Luôn tải ảnh chất lượng tiêu chuẩn</string>
     <string name="time_interval_dialog_content2">Bạn có thể thay đổi tần suất cập nhật hình nền trong \"Cài đặt trình chiếu\".</string>
     <string name="time_interval_dialog_content1">Tạp chí màn hình khoá cho phép bạn thấy ảnh mới mỗi khi mở khóa thiết bị.</string>
-    <string name="fmt_chinese_date">e N</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
