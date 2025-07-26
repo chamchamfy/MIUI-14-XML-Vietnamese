@@ -1602,8 +1602,8 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="status_bar_alarm">Báo thức</string>
     <string name="status_bar_clear_all_button">Xóa</string>
     <string name="status_bar_clock_date_format_12">E, d/M/y | e/N YY</string>
-    <string name="status_bar_clock_date_time_format">H:mm E, d/M/y | e/N YY</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d/M/y | e/N YY</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d/M/y</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d/M/y</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Thiết lập phương thức nhập</string>
     <string name="status_bar_latest_events_title">Thông báo</string>
     <string name="status_bar_no_notifications_title">Không có thông báo</string>
@@ -2890,7 +2890,7 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="the_third_day">Mùng 3 Tết Nguyên Đán</string>
     <string name="solar_term_white_dews">Bạch Lộ</string>
     <string name="chinese_digit_six">6</string>
-    <string name="chinese_leap">Nhuận</string>
+    <string name="chinese_leap">"(Nhuận) "</string>
     <string name="wednesday">Thứ Tư</string>
     <string name="month_september">Tháng 9</string>
     <string name="solar_term_hoar_frost_falls">Tuyết Sương</string>

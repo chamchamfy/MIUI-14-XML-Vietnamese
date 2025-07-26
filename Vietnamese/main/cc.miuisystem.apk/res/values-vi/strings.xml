@@ -82,7 +82,7 @@
     <string name="chinese_digit_twenty">20</string>
     <string name="chinese_digit_two">2</string>
     <string name="chinese_digit_zero">0</string>
-    <string name="chinese_leap">Nhuận</string>
+    <string name="chinese_leap">"(Nhuận) "</string>
     <string name="chinese_month">Tháng</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
@@ -288,7 +288,7 @@
     <string name="lunar_er">2</string>
     <string name="lunar_er_shi">20</string>
     <string name="lunar_jiu">9</string>
-    <string name="lunar_leap">Nhuận</string>
+    <string name="lunar_leap">"(Nhuận) "</string>
     <string name="lunar_ling">0</string>
     <string name="lunar_liu">6</string>
     <string name="lunar_nian">20</string>
