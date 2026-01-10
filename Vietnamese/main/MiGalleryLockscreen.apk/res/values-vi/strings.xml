@@ -50,8 +50,8 @@
     <string name="sst_subscribe_title">Đăng ký của tôi</string>
     <string name="sst_wifi_only_desc">Tắt tính năng này để tiết kiệm dữ liệu di động</string>
     <string name="sst_wifi_only_title">Cập nhật hình nền bằng dữ liệu di động</string>
-    <string name="summary">"Đồng ý với &lt;a href="%s">Chính sách Riêng tư&lt;/a> của chúng tôi để xem nội dung trực tuyến. Nếu bạn không đồng ý, hình nền trong máy vẫn sẽ khả dụng."</string>
-    <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
+    <string name="summary">"Đồng ý với &lt;a href='%s'>Chính sách Riêng tư&lt;/a> của chúng tôi để xem nội dung trực tuyến. Nếu bạn không đồng ý, hình nền trong máy vẫn sẽ khả dụng."</string>
+    <string name="summary_international">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href ='%1$s'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='%2$s'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường."</string>
     <string name="theme_apply_failured">Không thể áp dụng, hãy thử lại sau</string>
     <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
     <string name="theme_applying">Đang áp dụng…</string>
@@ -127,7 +127,7 @@
     <string name="apply_to_wallpaper">Đặt làm Màn hình chính</string>
     <string name="carousel_declaration_btn_text">Bật Tạp chí màn hình khoá</string>
     <string name="carousel_declaration_cta_btn_text">Đồng ý và bật</string>
-    <string name="carousel_declaration_cta">Tạp chí màn hình khoá cần kết nối mạng để hoạt động bình thường. Để có thể truy cập nội dung trực tuyến, bạn cần đồng ý với &lt;a href="%s">Chính sách Riêng tư&lt;/a> của chúng tôi. Đồng ý?</string>
+    <string name="carousel_declaration_cta">Tạp chí màn hình khoá cần kết nối mạng để hoạt động bình thường. Để có thể truy cập nội dung trực tuyến, bạn cần đồng ý với &lt;a href=\'%s\'>Chính sách Riêng tư&lt;/a> của chúng tôi. Đồng ý?</string>
     <string name="carousel_declaration_des">Xem những địa điểm đẹp và nhận những bất ngờ thú vị với Tạp chí màn hình khoá</string>
     <string name="carousel_declaration_title">Đăng ký hình nền tuyệt đẹp</string>
     <string name="carousel_suggest">Chú ý</string>
@@ -557,7 +557,7 @@
     <string name="sst_wallpaper_history_title">Lịch sử</string>
     <string name="subscribe_item_checked">Đã đăng ký</string>
     <string name="subscribe_item_unchecked">Đã hủy đăng ký</string>
-    <string name="summary2">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;font color="#37A5FF">&lt;a href="%1$s">Thỏa thuận Người dùng&lt;/font>&lt;/a> và &lt;font color="#37A5FF">&lt;a href="%2$s">Chính sách Riêng tư&lt;/font>&lt;/a> của chúng tôi. Tính năng này cần kết nối mạng để làm việc bình thường."</string>
+    <string name="summary2">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;font color='#37A5FF'>&lt;a href ='%1$s'>Thỏa thuận Người dùng&lt;/font>&lt;/a> và &lt;font color='#37A5FF'>&lt;a href='%2$s'>Chính sách Riêng tư&lt;/font>&lt;/a> của chúng tôi. Tính năng này cần kết nối mạng để làm việc bình thường."</string>
     <string name="theme_des">Áp dụng lại chủ đề mặc định và bật lại Tạp chí màn hình khoá.</string>
     <string name="theme_ok">Cài đặt</string>
     <string name="theme_title">Chuyển sang Chủ đề mặc định</string>
@@ -749,7 +749,7 @@
     <string name="for_diagnosis_usage_only">Nhật ký chỉ được sử dụng để chẩn đoán.</string>
     <string name="auth_fail_warning">Phiên hết hạn. Đăng nhập lại.</string>
     <string name="diagnosis_log_send_failed">"Không thể gửi nhật ký. Thử lại."</string>
-    <string name="passport_user_agreement_link_more">"<Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%4$s">Chính sách Riêng tư&lt;/a> của Xiaomi, &lt;a href="%2$s">%3$s&lt;/a>.</Data>"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Tôi đã đọc và đồng ý với các tài liệu dưới đây: &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%4$s>Chính sách Riêng tư&lt;/a> của Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
     <string name="account_user_avatar_from_album">Thư viện</string>
     <string name="diagnosis_log_sent_format">"Gửi nhật ký thành công.
 ID:%s
@@ -763,7 +763,7 @@ Gửi mã này cho người giám sát."</string>
     <string name="update_email_address_dialog_message">Bạn cần xác thực danh tính của bạn trước khi cập nhật email khôi phục.</string>
     <string name="confirm_unbundled_phone_dialog_message">Số điện thoại này đã được liên kết với Tài khoản Mi %2$s trên %1$s. Nó sẽ không còn được liên kết với Tài khoản Mi %3$s nếu bạn tiếp tục. Tiếp tục?</string>
     <string name="collect_diagnosis_log">Thu thập nhật ký</string>
-    <string name="passport_user_agreement_link">"<Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của Xiaomi.</Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của Xiaomi.&lt;/Data>"</string>
     <string name="sns_access_token_expired_warning">Phiên hết hạn. Đăng nhập và kết nối lại tài khoản này.</string>
     <string name="account_user_base_info">Thông tin cơ bản</string>
     <string name="account_user_other_info">Chi tiết</string>
@@ -1160,7 +1160,7 @@ d MMMM"</string>
     <string name="idbct_opt_low_dev_desc_text">Luôn tải ảnh chất lượng tiêu chuẩn</string>
     <string name="time_interval_dialog_content2">Bạn có thể thay đổi tần suất cập nhật hình nền trong \"Cài đặt trình chiếu\".</string>
     <string name="time_interval_dialog_content1">Tạp chí màn hình khoá cho phép bạn thấy ảnh mới mỗi khi mở khóa thiết bị.</string>
-    <string name="fmt_chinese_date">e t N</string>
+    <string name="fmt_chinese_date">e N</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
@@ -1173,7 +1173,7 @@ d MMMM"</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_minute_second_millis">"m 'phút' s.S 'giây'"</string>
     <string name="fmt_time_minute_second">"m 'phút' s 'giây'"</string>
-    <string name="fmt_time_24hour">"H 'giờ'"</string>
+    <string name="fmt_time_24hour">"HH 'giờ'"</string>
     <string name="fmt_time_minute">"m 'phút'"</string>
     <string name="fmt_time_12hour">"h 'giờ'"</string>
     <string name="fmt_time_second_millis">"s.S 'giây'"</string>
@@ -1202,21 +1202,21 @@ d MMMM"</string>
     <string name="revoke_failed_internet_confirm">Tôi biết</string>
     <string name="privacy_update_quit">Thoát</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute">H:mm</string>
+    <string name="fmt_time_12hour_minute">HH:mm</string>
     <string name="revoke_failed_internet">Lỗi mạng. Chờ một hoặc hai phút và thử lại.</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="privacy_update_confirm">Đồng ý</string>
-    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_day">D</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="not_cancel_button">Tiếp tục mở</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_time_24hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">D</string>
     <string name="revoke_privacy">Đồng ý Chính sách Riêng tư</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="privacy_update_cancel">Hủy</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="expand_button_title">Nâng cao</string>
@@ -1238,7 +1238,7 @@ d MMMM"</string>
     <string name="privacy_update_title2">Chú ý</string>
     <string name="doing_query_account">Đang kiểm tra thông tin tài khoản…</string>
     <string name="open_settings">Cài đặt</string>
-    <string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br>&lt;br><b> Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện </b>&lt;br>&lt;br> Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
+    <string name="request_camera_permission_message">Dịch vụ này cần phải xin phép bạn như sau, chúng tôi sẽ tuân thủ nghiêm ngặt các luật liên quan để bảo vệ thông tin cá nhân của bạn: &lt;br>&lt;br>&lt;b> Truy cập Máy ảnh: trải nghiệm dịch vụ ghi hình thời gian thực để cài đặt Ảnh đại diện &lt;/b>&lt;br>&lt;br> Nếu bạn không đồng ý gọi các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng cơ bản của ứng dụng này. Bạn có thể chọn tắt cuộc gọi cấp phép ở trên trong cài đặt hệ thống để rút lại sự đồng ý của bạn.</string>
     <string name="request_error_network">Lỗi mạng đã xảy ra. Kiểm tra cài đặt mạng của bạn và thử lại.</string>
     <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API dựa trên SQLCipher</string>
     <string name="user_name_phone_number">Số điện thoại</string>
@@ -1293,19 +1293,19 @@ d MMMM"</string>
     <string name="lks_loop_icon_ask_cancle">Hủy</string>
     <string name="google_login_btn_content_description">Đăng nhập bằng Google</string>
     <string name="main_fragment_title_home_excellent">Đặc sắc</string>
-    <string name="user_agreement_hint_default"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư.&lt;/a></Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a>, &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.</Data></string>
+    <string name="user_agreement_hint_default">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư.&lt;/a>&lt;/Data></string>
+    <string name="user_agreement_hint_with_unicom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a>, &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Unicom&lt;/a>.&lt;/Data></string>
     <string name="detail_recomm_personal">Đề xuất</string>
     <string name="weixin_login_btn_content_description">Đăng nhập với WeChat</string>
     <string name="back">Quay lại</string>
     <string name="detail_recomm_excellent">Đặc sắc</string>
-    <string name="user_agreement_hint_with_telecom"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a>, &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.</Data></string>
+    <string name="user_agreement_hint_with_telecom">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a>, &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh tài khoản eSurfing&lt;/a>.&lt;/Data></string>
     <string name="facebook_login_btn_content_description">Đăng nhập bằng Facebook</string>
-    <string name="user_agreement_hint_with_mobile"><Data>Tôi đã đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a>, &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%3$s">Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.</Data></string>
-    <string name="summary3">"Chào mừng bạn đến với Tạp chí màn hình khoá! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường.&lt;br>Để cung cấp các dịch vụ bổ sung, chúng tôi có thể yêu cầu quyền truy cập và lưu các mục vào bộ nhớ của thiết bị này.&lt;br>Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;font color ="#37A5FF">&lt;a href="%1$s">Thỏa thuận người dùng&lt;/font>&lt;/a> và &lt;font color ="#37A5FF">&lt;a href="%2$s">Chính sách riêng tư&lt;/font>&lt;/a> trước khi sử dụng ứng dụng này."</string>
+    <string name="user_agreement_hint_with_mobile">&lt;Data>Tôi đã đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a>, &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href=%3$s>Điều khoản và Điều kiện của dịch vụ xác minh China Mobile&lt;/a>.&lt;/Data></string>
+    <string name="summary3">"Chào mừng bạn đến với Tạp chí màn hình khoá! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. Ứng dụng này cần kết nối với internet và thu thập dữ liệu cá nhân cần thiết để có thể hoạt động bình thường.&lt;br>Để cung cấp các dịch vụ bổ sung, chúng tôi có thể yêu cầu quyền truy cập và lưu các mục vào bộ nhớ của thiết bị này.&lt;br>Để hiểu đầy đủ các quyền của bạn với tư cách là người dùng cũng như cách chúng tôi sử dụng dữ liệu của bạn, hãy đọc và đồng ý với &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Thỏa thuận người dùng&lt;/font>&lt;/a> và &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Chính sách riêng tư&lt;/font>&lt;/a> trước khi sử dụng ứng dụng này."</string>
     <string name="summary4">"Chào mừng bạn đến với Tạp chí màn hình khoá! Tại đây, bạn có thể đăng ký các danh mục hình nền yêu thích của mình và thường xuyên nhận những hình ảnh mới được gửi đến Màn hình khóa của bạn. "</string>
     <string name="select_at_least_one_mode">Chọn chế độ trình chiếu hình nền</string>
-    <string name="applied_and_added_to_custom_wallpaper">"Đã thêm vào trình chiếu của bạn thành công. &lt;font color ="#3482FF">&lt;a href="%1$s">Xem&lt;/font>&lt;/a>"</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Đã thêm vào trình chiếu của bạn thành công. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Xem&lt;/font>&lt;/a>"</string>
     <string name="dlg_add_to_loop_success_toast">Đã thêm hình nền vào trình chiếu</string>
     <string name="wallpaper_added_success_toast">Đã thêm hình nền thành công</string>
     <string name="sst_surprise_wallpaper">Hình nền ấn tượng</string>
@@ -1333,7 +1333,7 @@ d MMMM"</string>
     <string name="ai_participation">Sự tham gia của AI</string>
     <string name="ai_recommend_keyword">Kiểu</string>
     <string name="ai_text_limit">"Không thể nhập thêm văn bản"</string>
-    <string name="ai_wallpaper_declare_double_link"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận của người dùng&lt;/a> và &lt;a href="%2$s">Chính sách bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
+    <string name="ai_wallpaper_declare_double_link"><Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận của người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> trước khi bạn tiếp tục.</Data></string>
     <string name="creation_ai_disable_limit_message">Không còn lượt nào cho ngày hôm nay. Tạo thêm hình nền AI vào ngày mai!</string>
     <string name="creation_ai_disable_message">Tính năng này chỉ dành cho người thử nghiệm Beta. Bạn có thể đăng ký trên Cộng đồng Xiaomi.</string>
     <string name="creation_ai_disable_title">Cần có quyền của người thử nghiệm beta</string>
@@ -1407,8 +1407,8 @@ d MMMM"</string>
     <string name="common_open_on_phone">Mở trên điện thoại</string>
     <string name="common_signin_button_text">Đăng nhập</string>
     <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
-    <string name="cookie_dialog_message">Nếu bạn đồng ý, nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt như mô tả trong &lt;a href="%1$s">Chính sách Cookie&lt;/a>. Nếu bạn không chấp nhận cookie, bạn vẫn nhận được đầy đủ hình ảnh và câu chuyện của Khóa tạp chí, nhưng không có kiến nghị cá nhân. Bạn có thể thay đổi tùy chọn cookie bất cứ lúc nào trong Cài đặt.</string>
-    <string name="cookie_dialog_message_update">Chúng tôi đã cập nhật &lt;a href="%1$s">Chính sách Cookie&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy. Để đảm bảo bạn biết về những thay đổi, đọc phiên bản cập nhật và chạm Đồng ý. Nếu bạn không chấp nhận cookie, bạn vẫn sẽ nhận được đầy đủ hình ảnh và câu chuyện của Khóa tạp chí, nhưng không có kiến nghị cá nhân. Bạn có thể thay đổi tùy chọn cookie của mình bất kỳ lúc nào trong Cài đặt.</string>
+    <string name="cookie_dialog_message">Nếu bạn đồng ý, nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt như mô tả trong &lt;a href =%1$s>Chính sách Cookie&lt;/a>. Nếu bạn không chấp nhận cookie, bạn vẫn nhận được đầy đủ hình ảnh và câu chuyện của Khóa tạp chí, nhưng không có kiến nghị cá nhân. Bạn có thể thay đổi tùy chọn cookie bất cứ lúc nào trong Cài đặt.</string>
+    <string name="cookie_dialog_message_update">Chúng tôi đã cập nhật &lt;a href =%1$s>Chính sách Cookie&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy. Để đảm bảo bạn biết về những thay đổi, đọc phiên bản cập nhật và chạm Đồng ý. Nếu bạn không chấp nhận cookie, bạn vẫn sẽ nhận được đầy đủ hình ảnh và câu chuyện của Khóa tạp chí, nhưng không có kiến nghị cá nhân. Bạn có thể thay đổi tùy chọn cookie của mình bất kỳ lúc nào trong Cài đặt.</string>
     <string name="cookie_dialog_title">Chúng tôi yêu cầu quyền cookie để cung cấp trải nghiệm được cá nhân hơn</string>
     <string name="cookie_dialog_title_update">Cập nhật Chính sách Cookie</string>
     <string name="copy_toast_msg">Đã sao chép đường liên kết vào bảng nhớ tạm</string>
@@ -1429,8 +1429,8 @@ d MMMM"</string>
     <string name="dialog_maml_warning_button_positive">Bật</string>
     <string name="dialog_maml_warning_content">Bạn đang sử dụng chủ đề của bên thứ ba. Nếu bạn bật Khóa tạp chí, đồng hồ Màn hình khóa có thể được đặt lại về mặc định. Vẫn bật?</string>
     <string name="dialog_maml_warning_title">Bật Khóa tạp chí</string>
-    <string name="dialog_message_switch_cp">Để cung cấp cho bạn nhiều nội dung được cá nhân hóa hơn, Khóa tạp chí đã thay đổi nhà cung cấp nội dung. Đọc và đồng ý với &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba mới trước khi bạn tiếp tục.</string>
-    <string name="dialog_privacy_rsa_content">Trước khi sử dụng dịch vụ, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể thay đổi tùy chọn bất kỳ lúc nào trong Cài đặt.</string>
+    <string name="dialog_message_switch_cp">Để cung cấp cho bạn nhiều nội dung được cá nhân hóa hơn, Khóa tạp chí đã thay đổi nhà cung cấp nội dung. Đọc và đồng ý với &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba mới trước khi bạn tiếp tục.</string>
+    <string name="dialog_privacy_rsa_content">Trước khi sử dụng dịch vụ, đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể thay đổi tùy chọn bất kỳ lúc nào trong Cài đặt.</string>
     <string name="dialog_privacy_rsa_negative">Hủy</string>
     <string name="dialog_privacy_rsa_positive">Đồng ý</string>
     <string name="dialog_privacy_rsa_title">Chọn chế độ</string>
@@ -1540,9 +1540,9 @@ d MMMM"</string>
     <string name="glance_caught_up_description">Chạm để tiếp tục</string>
     <string name="glance_content_description_close_read_more_section">Đóng \"Tìm hiểu thêm\"</string>
     <string name="glance_content_description_glance_logo">Logo Glance</string>
-    <string name="glance_dialog_tc">Bằng cách sử dụng Khóa tạp chí, bạn đồng ý với &lt;a href="%1$s">Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>. Khóa tạp chí cần kết nối internet để làm việc bình thường.</string>
-    <string name="glance_dialog_tc_in">Bằng cách sử dụng Glance cho Mi, bạn đồng ý với &lt;a href="%1$s">Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>. Glance cho Mi cần kết nối internet để làm việc bình thường.</string>
-    <string name="glance_discovery_tc">Bằng cách bật tính năng này, bạn đồng ý với &lt;a href="%1$s">Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>.</string>
+    <string name="glance_dialog_tc">Bằng cách sử dụng Khóa tạp chí, bạn đồng ý với &lt;a href =%1$s>Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a>. Khóa tạp chí cần kết nối internet để làm việc bình thường.</string>
+    <string name="glance_dialog_tc_in">Bằng cách sử dụng Glance cho Mi, bạn đồng ý với &lt;a href =%1$s>Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a>. Glance cho Mi cần kết nối internet để làm việc bình thường.</string>
+    <string name="glance_discovery_tc">Bằng cách bật tính năng này, bạn đồng ý với &lt;a href =%1$s>Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a>.</string>
     <string name="glance_game_available_offline">Chơi offline</string>
     <string name="glance_game_button_retry">Thử lại</string>
     <string name="glance_game_connecting_online">Đang kết nối…</string>
@@ -1631,7 +1631,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 Bật dữ liệu di động để xem video này."</string>
     <string name="glance_whatsapp_not_installed">Cài đặt WhatsApp trước</string>
     <string name="go_setting">Vào Cài đặt</string>
-    <string name="haokan_cookie_content">Khi bạn chạm hình ảnh và câu chuyện trong Khóa tạp chí, chúng tôi sẽ mở phiên bản đầy đủ trong trình duyệt của bạn. Levect, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể kiến nghị nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Levect sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href="%1$s">Chính sách Cookie&lt;/a> của Levect. Nếu bạn từ chối sử dụng cookie, các mục của Khóa tạp chí sẽ tiếp tục xuất hiện trên Màn hình khóa và các câu chuyện đầy đủ sẽ được mở trong trình duyệt, nhưng các kiến nghị bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.</string>
+    <string name="haokan_cookie_content">Khi bạn chạm hình ảnh và câu chuyện trong Khóa tạp chí, chúng tôi sẽ mở phiên bản đầy đủ trong trình duyệt của bạn. Levect, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể kiến nghị nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Levect sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href =%1$s>Chính sách Cookie&lt;/a> của Levect. Nếu bạn từ chối sử dụng cookie, các mục của Khóa tạp chí sẽ tiếp tục xuất hiện trên Màn hình khóa và các câu chuyện đầy đủ sẽ được mở trong trình duyệt, nhưng các kiến nghị bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.</string>
     <string name="highlights_cd_open_menu">Mở menu</string>
     <string name="highlights_choose_content_language">Chọn ngôn ngữ nội dung</string>
     <string name="highlights_nudge_fab_open">"Chạm để khám phá trò chơi,
@@ -1659,7 +1659,7 @@ thẻ tiếp theo"</string>
     <string name="label_dynamic">Động</string>
     <string name="lite_content">Bố cục đơn giản và lối tắt thuận tiện</string>
     <string name="lite_mode">Chế độ thu gọn</string>
-    <string name="lite_mode_privacy_content">Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi để tiếp tục.</string>
+    <string name="lite_mode_privacy_content">Đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi để tiếp tục.</string>
     <string name="load_error_hint">Không thể tải. Trượt lên để thử lại.</string>
     <string name="lock_screen_guide_remind_title">Khám phá hình nền thú vị</string>
     <string name="lock_screen_guide_slide_right_title">Trượt sang phải</string>
@@ -1706,7 +1706,7 @@ thẻ tiếp theo"</string>
     <string name="ng_feedback_content_region">"Khu vực: "</string>
     <string name="ng_more">Thêm</string>
     <string name="ng_setting_feedback">Phản hồi</string>
-    <string name="ng_summary">"Bằng cách sử dụng Khóa Tạp chí, bạn đồng ý với &lt;a href="https://h5.app.intl.miui.com/gallery/eula.html?lang=%1$s_%2$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="https://h5.app.intl.miui.com/gallery/privacy.html?lang=%1$s_%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi."</string>
+    <string name="ng_summary">"Bằng cách sử dụng Khóa Tạp chí, bạn đồng ý với &lt;a href ='https://h5.app.intl.miui.com/gallery/eula.html?lang=%1$s_%2$s'>Thỏa thuận Người dùng&lt;/a> và &lt;a href='https://h5.app.intl.miui.com/gallery/privacy.html?lang=%1$s_%2$s'>Chính sách Riêng tư&lt;/a> của chúng tôi."</string>
     <string name="no_connection">Không thể kết nối mạng</string>
     <string name="no_internet_message">Không thể kết nối mạng.</string>
     <string name="no_more_wallpapers">Đã tải toàn bộ nội dung! Chạm để xem nội dung bạn thích.</string>
@@ -1761,8 +1761,8 @@ thẻ tiếp theo"</string>
     <string name="opt_out_help_us_improve_skip">Bỏ qua</string>
     <string name="opt_out_help_us_improve_title">Giúp chúng tôi cải thiện</string>
     <string name="permission_statement_confirm">Tiếp theo</string>
-    <string name="permission_statement_desc">&lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>. Khóa tạp chí cần truy cập <b>Lưu trữ thiết bị</b> để sử dụng ảnh trong Thư viện làm hình nền cho Màn hình khóa.&lt;br>&lt;xliff:g id=item2 refersto=2>%2$d&lt;/xliff:g>. Chúng tôi hợp tác với các nhà cung cấp nội dung bên thứ ba để cung cấp cho bạn trải nghiệm được cá nhân hóa hơn. Đồng ý với chính sách riêng tư và chính sách cookie của bên thứ ba trước khi bạn tiếp tục.</string>
-    <string name="permission_statement_desc_new">&lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>. Khi bạn thêm ảnh từ Thư viện vào trình chiếu Khóa tạp chí, chúng tôi cần truy cập <b>lưu trữ của thiết bị</b> để có thể cung cấp tính năng này.&lt;br>&lt;xliff:g id=item2 refersto=2>%2$d&lt;/xliff:g>. Bạn sẽ cần đồng ý với Chính sách Riêng tư và Chính sách Cookie của nhà cung cấp dịch vụ bên thứ ba của chúng tôi để bật và sử dụng các dịch vụ cá nhân. Bạn có thể thay đổi các cài đặt này bất cứ lúc nào.</string>
+    <string name="permission_statement_desc">&lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>. Khóa tạp chí cần truy cập &lt;b>Lưu trữ thiết bị&lt;/b> để sử dụng ảnh trong Thư viện làm hình nền cho Màn hình khóa.&lt;br>&lt;xliff:g id=item2 refersto=2>%2$d&lt;/xliff:g>. Chúng tôi hợp tác với các nhà cung cấp nội dung bên thứ ba để cung cấp cho bạn trải nghiệm được cá nhân hóa hơn. Đồng ý với chính sách riêng tư và chính sách cookie của bên thứ ba trước khi bạn tiếp tục.</string>
+    <string name="permission_statement_desc_new">&lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>. Khi bạn thêm ảnh từ Thư viện vào trình chiếu Khóa tạp chí, chúng tôi cần truy cập &lt;b>lưu trữ của thiết bị&lt;/b> để có thể cung cấp tính năng này.&lt;br>&lt;xliff:g id=item2 refersto=2>%2$d&lt;/xliff:g>. Bạn sẽ cần đồng ý với Chính sách Riêng tư và Chính sách Cookie của nhà cung cấp dịch vụ bên thứ ba của chúng tôi để bật và sử dụng các dịch vụ cá nhân. Bạn có thể thay đổi các cài đặt này bất cứ lúc nào.</string>
     <string name="permission_statement_title">Khóa tạp chí cho phép bạn nhận ảnh mới được gửi đến Màn hình khóa mỗi ngày.</string>
     <string name="pick_one_topics">Thêm %d nữa</string>
     <string name="pick_three_topics">Thêm %d để tiếp tục</string>
@@ -1778,13 +1778,13 @@ thẻ tiếp theo"</string>
     <string name="preference_mode_select_title">Trượt sang phải để xem thêm</string>
     <string name="preview">Xem trước</string>
     <string name="privacy_agree">Đồng ý</string>
-    <string name="privacy_content"><Data>Chào mừng sử dụng Khóa tạp chí. Ứng dụng này cung cấp dịch vụ duyệt hình nền tùy chỉnh. Khóa tạp chí cần thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ này. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận người dùng&lt;/a>. Bạn luôn có thể thay đổi cài đặt liên quan trong phần \"Chính sách Riêng tư \" của ứng dụng. Nếu bạn không đồng ý với các điều khoản và điều kiện đó, hãy chọn \"Tắt Khóa tạp chí\". Bằng cách chọn \"Đồng ý\", bạn đồng ý với Chính sách Riêng tư của chúng tôi và bật Khóa tạp chí.</Data></string>
+    <string name="privacy_content"><Data>Chào mừng sử dụng Khóa tạp chí. Ứng dụng này cung cấp dịch vụ duyệt hình nền tùy chỉnh. Khóa tạp chí cần thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ này. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin thu thập được trong &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận người dùng&lt;/a>. Bạn luôn có thể thay đổi cài đặt liên quan trong phần \"Chính sách Riêng tư \" của ứng dụng. Nếu bạn không đồng ý với các điều khoản và điều kiện đó, hãy chọn \"Tắt Khóa tạp chí\". Bằng cách chọn \"Đồng ý\", bạn đồng ý với Chính sách Riêng tư của chúng tôi và bật Khóa tạp chí.</Data></string>
     <string name="privacy_dialog_a_c">Đồng ý</string>
-    <string name="privacy_dialog_content">Để truy cập các dịch vụ trên, trước tiên hãy đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của chúng tôi. Bạn có thể thay đổi các cài đặt này bất cứ lúc nào.</string>
-    <string name="privacy_dialog_message">Nếu bạn đồng ý và bật Khóa tạp chí, chúng tôi sẽ không sử dụng dữ liệu của bạn để cá nhân mà không có sự đồng ý của bạn. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi trước khi sử dụng Khóa tạp chí.</string>
-    <string name="privacy_dialog_message_2">Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> để bắt đầu.</string>
+    <string name="privacy_dialog_content">Để truy cập các dịch vụ trên, trước tiên hãy đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của chúng tôi. Bạn có thể thay đổi các cài đặt này bất cứ lúc nào.</string>
+    <string name="privacy_dialog_message">Nếu bạn đồng ý và bật Khóa tạp chí, chúng tôi sẽ không sử dụng dữ liệu của bạn để cá nhân mà không có sự đồng ý của bạn. Đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của nhà cung cấp dịch vụ bên thứ ba đáng tin cậy của chúng tôi trước khi sử dụng Khóa tạp chí.</string>
+    <string name="privacy_dialog_message_2">Đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Giấy phép Người dùng cuối Glance&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> để bắt đầu.</string>
     <string name="privacy_dialog_message_new">Nếu bạn bật tính năng này, Khóa tạp chí sẽ tự động hiển thị hình nền mới trên Màn hình khóa.</string>
-    <string name="privacy_dialog_message_update">Để giúp bạn đưa ra quyết định chính xác về thông tin bạn chia sẻ với chúng tôi, chúng tôi đã cập nhật &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a>. Việc bạn tiếp tục sử dụng các dịch vụ của chúng tôi sẽ được xem là bạn đã đồng ý với những thay đổi này.</string>
+    <string name="privacy_dialog_message_update">Để giúp bạn đưa ra quyết định chính xác về thông tin bạn chia sẻ với chúng tôi, chúng tôi đã cập nhật &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a>. Việc bạn tiếp tục sử dụng các dịch vụ của chúng tôi sẽ được xem là bạn đã đồng ý với những thay đổi này.</string>
     <string name="privacy_dialog_sub_title">Dễ dàng truy cập vào các hình nền tuyệt đẹp và tin tức kịp thời về công nghệ, thể thao, thời trang, du lịch, v.v.</string>
     <string name="privacy_dialog_subtitle_1">Luôn cập nhật thông tin mới nhất về thể thao, game, mua sắm, tin tức và nhiều thông tin thú vị khác</string>
     <string name="privacy_dialog_title_1">Giữ Màn hình khóa của bạn luôn làm mới với Khóa tạp chí</string>
@@ -1819,7 +1819,7 @@ thẻ tiếp theo"</string>
     <string name="revocation_got_it">Tôi biết</string>
     <string name="revocation_no_internet">Không thể kết nối mạng</string>
     <string name="revocation_on_internet_notice">Thiết bị cần kết nối mạng để bạn có thể rút lại chấp thuận. Kiểm tra cài đặt mạng và thử lại.</string>
-    <string name="revocation_other_priv_ua">Bằng cách bật tính năng này, bạn đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của bên thứ ba.</string>
+    <string name="revocation_other_priv_ua">Bằng cách bật tính năng này, bạn đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"%2$s\">Thỏa thuận Người dùng&lt;/a> của bên thứ ba.</string>
     <string name="revocation_revoking">Đang rút lại chấp thuận…</string>
     <string name="revocation_setting_content">Bằng cách tắt, bạn rút lại chấp thuận của mình đối với Chính sách Riêng tư của Khóa tạp chí. Chúng tôi sẽ ngừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ (bao gồm cả thông tin được các nhà cung cấp nội dung bên thứ ba lưu giữ) sẽ bị xóa trong khoảng thời gian cụ thể theo yêu cầu của luật hiện hành. Khóa tạp chí cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Rút lại chấp thuận đối với Chính sách Riêng tư được coi là từ chối chấp nhận các dịch vụ dựa trên thông tin cá nhân được thu thập.</string>
     <string name="revocation_setting_content_new">Nếu tiếp tục, bạn sẽ rút lại chấp thuận của mình đối với Chính sách Riêng tư Khóa tạp chí. Chúng tôi sẽ dừng thu thập thông tin cá nhân của bạn. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Do Khóa tạp chí cung cấp các dịch vụ dựa trên việc thu thập thông tin cá nhân cần thiết, việc rút lại chấp thuận của bạn sẽ được coi là từ chối chấp nhận các dịch vụ này.</string>
@@ -1903,18 +1903,18 @@ thẻ tiếp theo"</string>
     <string name="tab">Thẻ</string>
     <string name="taboola_access_non_personal_data">Nếu bạn rút lại chấp thuận đối với việc truy cập và sử dụng dữ liệu phi cá nhân từ thiết bị của mình, dịch vụ Khóa tạp chí sẽ bị vô hiệu hóa và mọi dữ liệu thu thập được sẽ bị xóa trong khoảng thời gian được chỉ định trong luật và quy định hiện hành.</string>
     <string name="taboola_agree_cookie">Chấp nhận cookie</string>
-    <string name="taboola_cookies_content_one">Khi bạn chạm hình ảnh và câu chuyện trong Khóa tạp chí, chúng tôi sẽ mở phiên bản đầy đủ trong trình duyệt của bạn. Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể kiến nghị nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Taboola sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href="%1$s">Chính sách cookie&lt;/a> của Taboola. Nếu bạn từ chối sử dụng cookie, các mục của Khóa tạp chí sẽ tiếp tục xuất hiện trên Màn hình khóa và các câu chuyện đầy đủ sẽ được mở trong trình duyệt, nhưng các kiến nghị bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.</string>
+    <string name="taboola_cookies_content_one">Khi bạn chạm hình ảnh và câu chuyện trong Khóa tạp chí, chúng tôi sẽ mở phiên bản đầy đủ trong trình duyệt của bạn. Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi, sau đó có thể kiến nghị nội dung và quảng cáo bổ sung phù hợp với sở thích của bạn. Nếu bạn đồng ý kích hoạt tính năng này, Taboola sẽ đặt cookie trên thiết bị của bạn thông qua trình duyệt, như được mô tả trong &lt;a href =%1$s>Chính sách cookie&lt;/a> của Taboola. Nếu bạn từ chối sử dụng cookie, các mục của Khóa tạp chí sẽ tiếp tục xuất hiện trên Màn hình khóa và các câu chuyện đầy đủ sẽ được mở trong trình duyệt, nhưng các kiến nghị bổ sung sẽ không được chọn cụ thể cho bạn. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.</string>
     <string name="taboola_cookies_content_two">Quyết định xem bạn có muốn nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi sử dụng cookie để cá nhân hóa kiến nghị nội dung và quảng cáo dựa trên sở thích của bạn hay không.</string>
     <string name="taboola_cookies_discover">KHÁM PHÁ</string>
     <string name="taboola_cookies_title">Cookie và nội dung cá nhân</string>
     <string name="taboola_cookies_title_new">Nội dung và quảng cáo bên thứ ba</string>
-    <string name="taboola_privacy_content_one">Kiến nghị Khóa tạp chí được cung cấp bởi Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi. Để cung cấp nội dung này, Taboola cần truy cập và lưu trữ dữ liệu phi cá nhân từ thiết bị của bạn, bao gồm ngôn ngữ hệ thống và loại trình duyệt. Bạn có thể tìm hiểu cách Taboola sử dụng dữ liệu thu thập được trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của Taboola. Đọc và đồng ý với các điều khoản và điều kiện được cung cấp trong các tài liệu này trước khi bạn tiếp tục. Nếu bạn không đồng ý, dịch vụ Khóa tạp chí sẽ bị vô hiệu hóa.</string>
+    <string name="taboola_privacy_content_one">Kiến nghị Khóa tạp chí được cung cấp bởi Taboola, nhà cung cấp nội dung bên thứ ba đáng tin cậy của chúng tôi. Để cung cấp nội dung này, Taboola cần truy cập và lưu trữ dữ liệu phi cá nhân từ thiết bị của bạn, bao gồm ngôn ngữ hệ thống và loại trình duyệt. Bạn có thể tìm hiểu cách Taboola sử dụng dữ liệu thu thập được trong &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của Taboola. Đọc và đồng ý với các điều khoản và điều kiện được cung cấp trong các tài liệu này trước khi bạn tiếp tục. Nếu bạn không đồng ý, dịch vụ Khóa tạp chí sẽ bị vô hiệu hóa.</string>
     <string name="taboola_privacy_refuse">Không đồng ý</string>
     <string name="taboola_privacy_title">Điều khoản &amp; Chính sách Riêng tư</string>
     <string name="taboola_refuse_cookie">Từ chối cookie</string>
     <string name="taboola_withdraw_consent">Nếu bạn rút lại chấp thuận, dịch vụ Khóa tạp chí sẽ bị vô hiệu hóa.</string>
     <string name="tap_wallpaper">Chạm để xem hình nền</string>
-    <string name="term_condition_detail">Nhận những hình ảnh tuyệt đẹp và những câu chuyện thú vị được gửi đến Màn hình khóa của bạn mỗi ngày. Tính năng này sẽ không sử dụng dữ liệu của bạn để cá nhân hóa mà không có sự chấp thuận của bạn. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này.</string>
+    <string name="term_condition_detail">Nhận những hình ảnh tuyệt đẹp và những câu chuyện thú vị được gửi đến Màn hình khóa của bạn mỗi ngày. Tính năng này sẽ không sử dụng dữ liệu của bạn để cá nhân hóa mà không có sự chấp thuận của bạn. Đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của nhà cung cấp nội dung bên thứ ba trước khi sử dụng tính năng này.</string>
     <string name="term_condition_message">Khóa tạp chí gửi những hình ảnh tuyệt đẹp và những câu chuyện thú vị đến Màn hình khóa của bạn mỗi ngày.</string>
     <string name="third_party_dialog_keep_on_content">Thêm ảnh này vào Khóa tạp chí để tùy chỉnh thêm Màn hình khóa. Bạn có thể thay đổi cài đặt này bất kỳ lúc nào trong Mix hình nền.</string>
     <string name="third_party_dialog_keep_on_title">Tiếp tục sử dụng Khóa tạp chí</string>
@@ -1960,12 +1960,12 @@ thẻ tiếp theo"</string>
     <string name="wc_to_turn_off_retain_title">Tắt Khóa tạp chí?</string>
     <string name="wc_toast_switch_cp_usertoast">Các hiệu ứng Màn hình khóa được thay thế bằng Khóa tạp chí ngay bây giờ</string>
     <string name="wd_dialog_switch_cp_cancel">Hủy</string>
-    <string name="wd_dialog_switch_cp_content">Chúng tôi đã thêm nhiều nội dung vào Khóa tạp chí. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s" >Thỏa thuận Người dùng&lt;/a> trước khi bạn tiếp tục.</string>
+    <string name="wd_dialog_switch_cp_content">Chúng tôi đã thêm nhiều nội dung vào Khóa tạp chí. Đọc và đồng ý với &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"%2$s\" >Thỏa thuận Người dùng&lt;/a> trước khi bạn tiếp tục.</string>
     <string name="wd_dialog_switch_cp_title">Điều khoản và Điều kiện</string>
-	<string name="external_storage_permission_summary">Cho phép ứng dụng này truy cập các tệp trên thiết bị của bạn để có thể thêm hình nền của riêng bạn vào Tạp chí màn hình khoá và lưu nội dung đã tải xuống vào thiết bị của bạn.</string>
-	<string name="personalized">Cá nhân hóa</string>
-	<string name="cancel_mfashiongallery_service">Hủy dịch vụ Tạp chí màn hình khoá</string>
-	<string name="cancel_service">Hủy dịch vụ</string>
+    <string name="external_storage_permission_summary">Cho phép ứng dụng này truy cập các tệp trên thiết bị của bạn để có thể thêm hình nền của riêng bạn vào Tạp chí màn hình khoá và lưu nội dung đã tải xuống vào thiết bị của bạn.</string>
+    <string name="personalized">Cá nhân hóa</string>
+    <string name="cancel_mfashiongallery_service">Hủy dịch vụ Tạp chí màn hình khoá</string>
+    <string name="cancel_service">Hủy dịch vụ</string>
     <string name="cancel_service_running">Hủy dịch vụ…</string>
     <string name="cancel_service_summary">"Nếu tiếp tục, bạn sẽ hủy dịch vụ Tạp chí màn hình khoá. Thông tin cá nhân đã được thu thập và lưu giữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vẫn hủy dịch vụ?"</string>
     <string name="sst_my_wallpaper_desc">Xem hình nền từ Tạp chí màn hình khoá</string>
@@ -1983,7 +1983,7 @@ thẻ tiếp theo"</string>
     <string name="confirm_device_credential_password">Dùng mật khẩu</string>
     <string name="default_error_msg">Lỗi không xác định</string>
     <string name="delete_wallpaper_talkback">Xóa hình nền này</string>
-    <string name="dialog_privacy_rsa_content_pep">Trước khi sử dụng dịch vụ, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể thay đổi tùy chọn bất kỳ lúc nào trong Cài đặt. Dịch vụ này có thể chứa quảng cáo.</string>
+    <string name="dialog_privacy_rsa_content_pep">Trước khi sử dụng dịch vụ, đọc và đồng ý với &lt;a href =%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href =%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi. Bạn có thể thay đổi tùy chọn bất kỳ lúc nào trong Cài đặt. Dịch vụ này có thể chứa quảng cáo.</string>
     <string name="edit_talkback">Sửa</string>
     <string name="enter_fullscreen_talkback">Xem ở chế độ toàn màn hình</string>
     <string name="exo_track_unknown_name">Không xác định (%1$s)</string>
@@ -2003,22 +2003,22 @@ thẻ tiếp theo"</string>
     <string name="generic_error_user_canceled">Người dùng đã hủy thao tác xác thực.</string>
     <string name="help_answer_category1_answer1_1">%d. Làm cách nào để tôi sử dụng ảnh của riêng mình cho Khóa tạp chí?</string>
     <string name="help_answer_category1_answer1_2">Thực hiện theo các bước bên dưới để thêm ảnh của riêng bạn vào Khóa tạp chí:</string>
-    <string name="help_answer_category1_answer1_4"><Data>Bạn có thể chọn ảnh của riêng mình bằng cách vào Cài đặt > Màn hình khóa > Khóa tạp chí > Cài đặt Khóa tạp chí > &lt;a href="%2$s">Quản lý hình nền đã chọn&lt;/a>, sau đó chạm vào "+" để chọn ảnh từ Thư viện.</Data></string>
+    <string name="help_answer_category1_answer1_4"><Data>Bạn có thể chọn ảnh của riêng mình bằng cách vào Cài đặt > Màn hình khóa > Khóa tạp chí > Cài đặt Khóa tạp chí > &lt;a href =%2$s>Quản lý hình nền đã chọn&lt;/a>, sau đó chạm vào "+" để chọn ảnh từ Thư viện.</Data></string>
     <string name="help_answer_category1_answer1_5">Bạn có thể sử dụng Mix Hình nền để hiển thị sự kết hợp giữa ảnh Khóa tạp chí và ảnh của riêng bạn, ví dụ: hiển thị %1$d ảnh cho mỗi %2$d/%3$d/%4$d/%5$d hình nền Khóa tạp chí.</string>
     <string name="help_answer_category1_answer2_1">%d. Làm cách nào để bật và tắt Khóa tạp chí?</string>
     <string name="help_answer_category1_answer2_2">Thực hiện theo các bước bên dưới để bật hoặc tắt Khóa tạp chí:</string>
-    <string name="help_answer_category1_answer2_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href="%2$s">Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.</Data></string>
-    <string name="help_answer_category1_answer2_4"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href="%2$s">Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.</Data></string>
+    <string name="help_answer_category1_answer2_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.</Data></string>
+    <string name="help_answer_category1_answer2_4"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Trình chiếu Màn hình khóa.</Data></string>
     <string name="help_answer_category1_answer2_5">Vui lòng lưu ý rằng nếu tắt Khóa tạp chí, bạn sẽ không còn thấy hình nền và câu chuyện mới trên Màn hình khóa nữa.</string>
     <string name="help_answer_category1_answer3_1">%d. Làm cách nào để ngăn ứng dụng sử dụng dữ liệu di động để cập nhật hình nền?</string>
     <string name="help_answer_category1_answer3_2">Thực hiện theo các bước bên dưới để chỉ cho phép Khóa tạp chí cập nhật hình nền khi sử dụng Wi-Fi:</string>
-    <string name="help_answer_category1_answer3_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href="%2$s">Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.</Data></string>
-    <string name="help_answer_category1_answer3_4"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href="%2$s">Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.</Data></string>
+    <string name="help_answer_category1_answer3_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.</Data></string>
+    <string name="help_answer_category1_answer3_4"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Cập nhật hình nền bằng dữ liệu di động.</Data></string>
     <string name="help_answer_category2_answer1_1">%d. Làm thế nào để chọn thể loại nội dung mà tôi quan tâm?</string>
     <string name="help_answer_category2_answer1_2">Khóa tạp chí hiện có %d thể loại nội dung: thực phẩm, phong cách sống, du lịch, sức khỏe, chế độ ăn kiêng, thiết kế nội thất, tập luyện, thời trang &amp; làm đẹp, kinh doanh và tin tức. Thực hiện theo các bước dưới đây để chọn thể loại bạn quan tâm:</string>
-    <string name="help_answer_category2_answer1_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href="%2$s">Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href="%3$s">chọn chủ đề bạn quan tâm nhất&lt;/a>.</Data></string>
+    <string name="help_answer_category2_answer1_3"><Data>Phương pháp &lt;xliff:g id=item1 refersto=1>%1$d&lt;/xliff:g>: Vào Cài đặt > Màn hình khóa > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href =%3$s>chọn chủ đề bạn quan tâm nhất&lt;/a>.</Data></string>
     <string name="help_answer_category2_answer1_4">Ghi chú: Tính năng này chỉ được hỗ trợ ở một số khu vực.</string>
-    <string name="help_answer_category2_answer1_5"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href="%2$s">Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href="%3$s">chọn chủ đề bạn quan tâm nhất&lt;/a>.</Data></string>
+    <string name="help_answer_category2_answer1_5"><Data>Phương pháp &lt;xliff:g id=item1 refersto=2>%1$d&lt;/xliff:g>: Trượt sang phải từ Màn hình khóa và vào Cài đặt bổ sung > &lt;a href =%2$s>Khóa tạp chí&lt;/a> > Chọn chủ đề và &lt;a href =%3$s>chọn chủ đề bạn quan tâm nhất&lt;/a>.</Data></string>
     <string name="help_answer_category2_answer2_1">%d. Làm cách nào tôi có thể nhận được kiến nghị phù hợp hơn với sở thích của mình?</string>
     <string name="help_answer_category2_answer2_2">%d) Khi bạn nhìn thấy hình nền bạn thích trong Khóa tạp chí, hãy chạm vào biểu tượng trái tim để thích.</string>
     <string name="help_answer_category2_answer2_3">Nếu bạn không thích hình nền, hãy chạm vào "…" ở góc dưới bên phải và chạm "Không hứng thú".</string>
@@ -2027,9 +2027,9 @@ thẻ tiếp theo"</string>
     <string name="help_answer_category2_answer2_6">%d) Nếu bạn không thích nội dung của một thể loại cụ thể nào đó, hãy thay đổi tùy chọn thể loại của bạn. Chúng tôi sẽ đề xuất nhiều nội dung hơn từ các thể loại mà bạn đã chọn.</string>
     <string name="help_answer_category2_answer2_7">Ghi chú: Tính năng này chỉ được hỗ trợ ở một số khu vực.</string>
     <string name="help_answer_category3_answer1_1">%d. Chính sách Riêng tư</string>
-    <string name="help_answer_category3_answer1_2"><Data>Bạn có thể xem Chính sách Riêng tư của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href="%1$s">Khóa tạp chí&lt;/a> > Chính sách Riêng tư.</Data></string>
+    <string name="help_answer_category3_answer1_2"><Data>Bạn có thể xem Chính sách Riêng tư của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href =%1$s>Khóa tạp chí&lt;/a> > Chính sách Riêng tư.</Data></string>
     <string name="help_answer_category3_answer2_1">%d. Thỏa thuận Người dùng</string>
-    <string name="help_answer_category3_answer2_2"><Data>Bạn có thể xem Thỏa thuận Người dùng của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href="%1$s">Khóa tạp chí&lt;/a> > Thỏa thuận Người dùng.</Data></string>
+    <string name="help_answer_category3_answer2_2"><Data>Bạn có thể xem Thỏa thuận Người dùng của chúng tôi trong Cài đặt > Màn hình khóa > &lt;a href =%1$s>Khóa tạp chí&lt;/a> > Thỏa thuận Người dùng.</Data></string>
     <string name="help_answer_dialog_1">Gửi phản hồi</string>
     <string name="help_answer_dialog_2">Cảm ơn bạn đã chọn Khóa tạp chí! Phản hồi của bạn rất quan trọng vì giúp chúng tôi liên tục tối ưu các dịch vụ và mang đến cho bạn trải nghiệm tốt hơn.</string>
     <string name="help_answer_dialog_3">Khi bạn gửi email này, địa chỉ email của bạn sẽ được ghi lại. Xin hãy yên tâm, chúng tôi sẽ bảo mật thông tin cá nhân của bạn và sẽ không tiết lộ thông tin của bạn cho bất kỳ bên thứ ba nào.</string>
@@ -2093,7 +2093,7 @@ thẻ tiếp theo"</string>
     <string name="popup_window_talkback">Cửa sổ nổi</string>
     <string name="preference_mode_select_show">Hiển thị</string>
     <string name="preference_mode_select_title_2">Trượt sang phải trên Màn hình khóa</string>
-    <string name="privacy_dialog_message_pep">Nếu bạn đồng ý và bật Khóa tạp chí, chúng tôi sẽ không sử dụng dữ liệu của bạn để cá nhân mà không có sự đồng ý của bạn. Dịch vụ này có thể chứa quảng cáo. Đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> và &lt;a href="%2$s">Thỏa thuận Người dùng&lt;/a> của chúng tôi trước khi sử dụng Khóa tạp chí.</string>
+    <string name="privacy_dialog_message_pep">Nếu bạn đồng ý và bật Khóa tạp chí, chúng tôi sẽ không sử dụng dữ liệu của bạn để cá nhân mà không có sự đồng ý của bạn. Dịch vụ này có thể chứa quảng cáo. Đọc và đồng ý với &lt;a href =%1$s>Chính sách Riêng tư&lt;/a> và &lt;a href =%2$s>Thỏa thuận Người dùng&lt;/a> của chúng tôi trước khi sử dụng Khóa tạp chí.</string>
     <string name="setting_carousel_mode_description">Thêm ảnh của riêng bạn</string>
     <string name="setting_mix_retain_dialog_btn">Thêm</string>
     <string name="setting_mix_retain_dialog_content">Bạn có thể tắt Khóa tạp chí hoặc thêm ảnh của riêng bạn vào Màn hình khóa.</string>
@@ -2109,4 +2109,42 @@ thẻ tiếp theo"</string>
     <string name="watermark_label_prefix">AdMob –</string>
     <string name="weather_widget_talkback">Tiện ích thời tiết</string>
     <string name="widget_talkback">Tiện ích</string>
+	<string name="sst_lock_screen_gallery">Tạp chí màn hình khoá</string>
+	<string name="sst_mobile_data_only">Tải qua dữ liệu di động</string>
+    <string name="sst_carousel_wallpaper">Xáo trộn hình nền</string>
+    <string name="sst_image_quality_title">Chất lượng hình ảnh</string>
+    <string name="sst_morning_greeting_desc_new">Nhận những câu trích dẫn và hình ảnh truyền cảm hứng vào buổi sáng</string>
+    <string name="sst_morning_greeting_history_title">Lịch sử lời chào buổi sáng</string>
+    <string name="sst_wallpaper_history_title2">Lịch sử</string>
+	<string name="lws_wallpaper_custom_title">Chọn hình ảnh</string>
+	<string name="enable_toast_wr">"Bạn sẽ thấy lựa chọn của biên tập viên"</string>
+	<string name="enable_toast_wc">"Bạn sẽ thấy Hình ảnh đã chọn"</string>
+	<string name="lws_loop_setting_title">Tuỳ chọn</string>
+    <string name="lws_loop_wallpaper_close_btn_text">Tắt</string>
+    <string name="lws_loop_wallpaper_close_dlg_btn_close">Tắt</string>
+    <string name="lws_loop_wallpaper_close_dlg_btn_continue">Huỷ</string>
+    <string name="lws_loop_wallpaper_close_dlg_desc">Hình nền sẽ được khôi phục về mặc định khi bạn tắt tính năng này.</string>
+    <string name="lws_loop_wallpaper_close_dlg_title">Tắt ngay?</string>
+    <string name="lws_loop_wallpaper_open_btn_text">Bật</string>
+    <string name="lws_loop_wallpaper_open_btn_text2">Thêm vào hình nền bị xáo trộn</string>
+    <string name="lws_minutes_15_per">Mỗi %d phút</string>
+    <string name="lws_minutes_5_per">Mỗi %d phút</string>
+    <string name="lws_wallpaper_apply_both">Cả hai</string>
+    <string name="lws_wallpaper_apply_home">Màn hình chính</string>
+    <string name="lws_wallpaper_apply_home_only">Chỉ màn hình chính</string>
+    <string name="lws_wallpaper_apply_lockscreen">Màn hình khóa</string>
+    <string name="lws_wallpaper_apply_lockscreen_only">Chỉ màn hình khóa</string>
+    <string name="lws_wallpaper_apply_range_title">Áp dụng cho</string>
+    <string name="lws_wallpaper_range_title">Danh mục hình ảnh</string>
+    <string name="lws_wallpaper_recommend_title">"Lựa chọn của biên tập viên"</string>
+    <string name="lws_wallpaper_switch_interval_title">Tần suất xáo trộn</string>
+	<string name="cw_wallpaper_empty_dlg_content2">"Bạn chưa thêm hình ảnh nào được chọn. Tạp chí màn hình khoá sẽ hiển thị các hình nền được đề xuất thay thế."</string>
+	<string name="cw_wallpaper_empty_dlg_title2">Chưa có hình ảnh nào được thêm</string>
+	<string name="recommend_wallpaper_fragment_online_wallpaper_title">Hình nền trực tuyến</string>
+	<string name="sst_lock_screen_carousel">Trình chiếu</string>
+	<string name="passport_open_settings">Cài đặt</string>
+	<string name="sst_carousel_setting">Cài đặt</string>
+	<string name="sst_mobile_data_only_new">Tải ảnh qua dữ liệu di động</string>
+	<string name="sst_morning_greeting">Lời chào buổi sáng</string>
+	<string name="sst_morning_greeting_history_picture">Lịch sử lời chào buổi sáng</string>
 </resources>

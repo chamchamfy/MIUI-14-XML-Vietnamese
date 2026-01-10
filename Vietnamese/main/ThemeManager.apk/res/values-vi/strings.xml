@@ -104,7 +104,7 @@
     <string name="item_resource_audio_optional_color_ring">Nhạc chuông</string>
     <string name="item_resource_audio_optional_notification_ring">Thông báo</string>
     <string name="item_resource_audio_optional_phone_ring">Nhạc chuông</string>
-    <string name="live_wallpaper">H.nền động</string>
+    <string name="live_wallpaper">Hình nền động</string>
     <string name="loading">Vui lòng chờ…</string>
     <string name="loading_resource_detail_fail">Không thể tải tài nguyên</string>
     <string name="loading_resource_detail_info">Vui lòng chờ…</string>
@@ -321,7 +321,7 @@
     <string name="resource_select_notification_audio_confirm">Chọn âm báo thức này?</string>
     <string name="resource_select_ringtone_audio_confirm">Chọn nhạc chuông này?</string>
     <string name="resource_select_ringtone_confirm">Chọn nhạc chuông này?</string>
-    <string name="resource_selected">Đặc sắc</string>
+    <string name="resource_selected">Nổi bật</string>
     <string name="resource_send">Gửi</string>
     <string name="resource_server_alert_dialog_title">Chúng tôi sẽ quay lại ngay…</string>
     <string name="resource_server_out_of_service">Xin lỗi, hiện tại không thế kết nối đến máy chủ.</string>
@@ -337,7 +337,7 @@
     <string name="resource_title_local">Trên máy</string>
     <string name="resource_title_rank">Hàng đầu</string>
     <string name="resource_title_select_ringtone">Chọn nhạc chuông</string>
-    <string name="resource_title_subject">Đặc sắc</string>
+    <string name="resource_title_subject">Nổi bật</string>
     <string name="resource_trial_15_days_end_title">Đã hết hạn dùng thử 15 ngày</string>
     <string name="resource_trial_15_days_immediately">Dùng thử 15 ngày ngay</string>
     <string name="resource_trial_days">(dùng thử: %1$d ngày)</string>
@@ -1092,7 +1092,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="theme_not_include_module_desc">"Củ đề này không chứa những mục sau: %s"</string>
     <string name="de_font_exchange_success">Thanh toán thành công</string>
     <string name="de_mix_mode_lockscreen">Màn hình khóa</string>
-    <string name="theme_component_title_aod">MH luôn bật</string>
+    <string name="theme_component_title_aod">Màn hình luôn bật</string>
     <string name="search_sort_synthesize">Chung</string>
     <string name="no_network_please_retry">Kiểm tra cài đặt mạng của bạn và thử lại</string>
     <string name="de_apply_icons">Biểu tượng ứng dụng</string>
@@ -1348,7 +1348,7 @@ Chạm vào đây để đăng nhập."</string>
     <string name="chinese_month_may">5</string>
     <string name="heavenly_stems_jia">"Giáp "</string>
     <string name="heavenly_stems_bing">"Bính "</string>
-    <string name="fmt_time_24hour">"H 'giờ'"</string>
+    <string name="fmt_time_24hour">"HH 'giờ'"</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="month_september_short">Tháng 9</string>
     <string name="month_july_short">Tháng 7</string>
@@ -1644,10 +1644,10 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="privacy_pad_fold_Read_write_storage">Lưu trữ</string>
     <string name="material_minute_selection">Chọn phút</string>
     <string name="allow">Cho phép</string>
-    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_day">D</string>
     <string name="wallpaper_set_as_both_small">Đặt cả hai</string>
     <string name="material_timepicker_am">SA</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">D</string>
     <string name="privacy_reading_the_application_list">nhận thông tin về ứng dụng đã cài đặt trên thiết bị</string>
     <string name="material_timepicker_hour">Giờ</string>
     <string name="privacy_remind_user_mode_title">Chú ý</string>
@@ -1690,15 +1690,15 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="toast_transparent_wallpaper_filter_set_failured">Không áp dụng</string>
     <string name="toast_transparent_wallpaper_filter_set_successfully">Đã áp dụng màn hình khóa</string>
     <string name="ad_close">Đóng</string>
-    <string name="large_icon_apply_fail_for_in_dock">Không thể sử dụng các Siêu biểu tượng trong thanh ứng dụng</string>
-    <string name="large_icon_apply_fail_for_in_folder">Không thể sử dụng Siêu biểu tượng cho ứng dụng trong thư mục</string>
-    <string name="large_icon_apply_fail_for_in_oldmode">Siêu biểu tượng không hỗ trợ ở Chế độ thu gọn</string>
-    <string name="large_icon_apply_fail_for_not_in_launcher">Không thể sử dụng Siêu biểu tượng cho các ứng dụng không có trên Màn hình chính</string>
-    <string name="large_icon_detail_title">%s Siêu biểu tượng</string>
-    <string name="large_icon_detail_warning_dialog_btn_keep">Siêu biểu tượng</string>
+    <string name="large_icon_apply_fail_for_in_dock">Không thể sử dụng các Biểu tượng lớn trong thanh ứng dụng</string>
+    <string name="large_icon_apply_fail_for_in_folder">Không thể sử dụng Biểu tượng lớn cho ứng dụng trong thư mục</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">Biểu tượng lớn không hỗ trợ ở Chế độ thu gọn</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">Không thể sử dụng Biểu tượng lớn cho các ứng dụng không có trên Màn hình chính</string>
+    <string name="large_icon_detail_title">%s Biểu tượng lớn</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Biểu tượng lớn</string>
     <string name="large_icon_detail_warning_dialog_btn_not_keep">Biểu tượng mặc định</string>
-    <string name="large_icon_detail_warning_dialog_msg">Một số ứng dụng đang sử dụng Siêu biểu tượng. Tiếp tục sử dụng Siêu biểu tượng hay biểu tượng mặc định của chủ đề?</string>
-    <string name="large_icon_detail_warning_dialog_title">Cài đặt siêu biểu tượng</string>
+    <string name="large_icon_detail_warning_dialog_msg">Một số ứng dụng đang sử dụng Biểu tượng lớn. Tiếp tục sử dụng Biểu tượng lớn hay biểu tượng mặc định của chủ đề?</string>
+    <string name="large_icon_detail_warning_dialog_title">Cài đặt Biểu tượng lớn</string>
     <string name="large_icon_no_more">Chưa có gì ở đây</string>
     <string name="large_icon_no_network">Không thể kết nối với mạng</string>
     <string name="large_icon_not_support">Không thể đặt biểu tượng cho %s</string>
@@ -1711,7 +1711,7 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="large_icon_to_find_more">Xem thêm</string>
     <string name="large_icon_warning_install">Cài đặt</string>
     <string name="large_icon_warning_not_install">Cài đặt %s</string>
-    <string name="large_icon_warning_not_install_msg">Cài đặt %s để có thể sử dụng Siêu biểu tượng. Cài đặt ngay?</string>
+    <string name="large_icon_warning_not_install_msg">Cài đặt %s để có thể sử dụng Biểu tượng lớn. Cài đặt ngay?</string>
     <string name="toast_both_all_apply_failured">Không thể áp dụng cho Màn hình chính hoặc Màn hình khóa</string>
     <string name="toast_both_all_apply_success">Đã áp dụng thành công cho Màn hình chính và Màn hình khóa</string>
     <string name="toast_home_apply_failured">Không thể áp dụng cho Màn hình chính</string>
@@ -1720,11 +1720,11 @@ Bạn sẽ thấy ảnh mới mỗi giờ."</string>
     <string name="toast_lockscreen_apply_failured_but_home_apply_success">Đã áp dụng thành công cho Màn hình chính. Không thể áp dụng cho Màn hình khóa.</string>
     <string name="toast_lockscreen_apply_success">Đã áp dụng thành công cho Màn hình khóa</string>
     <string name="toast_lockscreen_apply_success_but_home_apply_failured">Đã áp dụng thành công cho Màn hình khóa. Không thể áp dụng cho Màn hình chính.</string>
-    <string name="theme_component_title_large_icon">Siêu biểu tượng</string>
+    <string name="theme_component_title_large_icon">Biểu tượng lớn</string>
     <string name="phone_log_in_theme">Đăng nhập vào Chủ đề</string>
     <string name="login_theme">Đăng nhập vào Chủ đề</string>
-    <string name="phone_log_in_theme_detail"><Data>"Tôi đã đọc và đồng ý với Chủ đề &lt;font color=#37A5FF>&lt;a href="%1$s">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#37A5FF>&lt;a href="%2$s">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=#37A5FF>&lt;a href="%3$s">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=#37A5FF> and &lt;a href="%4$s">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
-    <string name="read_and_agree_account_privacy"><Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=#37A5FF>&lt;a href="%3$s">Thỏa thuận người dùng&lt;/a>&lt;/font> và &lt;font color=#37A5FF>&lt;a href="%4$s">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Tôi đã đọc và đồng ý với Chủ đề' &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a>&lt;/font>, cũng như Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> and &lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font> (để đăng nhập bằng tài khoản hệ thống)."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"Tôi đã đọc và đồng ý với Tài khoản Mi &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Thỏa thuận người dùng&lt;/a>&lt;/font> and &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Chính sách bảo mật&lt;/a>&lt;/font>."</Data></string>
     <string name="local_mode">Chế độ ngoại tuyến</string>
     <string name="local_mode_close">Tắt chế độ ngoại tuyến?</string>
     <string name="local_mode_close_desc">Tắt chế độ ngoại tuyến nếu bạn muốn sử dụng các dịch vụ trực tuyến. Tắt ngay bây giờ?</string>
@@ -1824,7 +1824,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="advanced_customize_mode">Tùy chỉnh nâng cao</string>
     <string name="alarm_sound">Báo thức</string>
     <string name="all_wallpapers">Tất cả hình nền</string>
-    <string name="aod_screen">Màn hình luôn bật</string>
+    <string name="Màn hình luôn bật_screen">Always-on display</string>
     <string name="app_description_content">Chủ đề là ứng dụng hệ thống. Ứng dụng cung cấp hình nền và nhiều tùy chọn cá nhân. Bạn sẽ vẫn có thể sử dụng Chủ đề qua Cài đặt sau khi xóa lối tắt Màn hình chính.</string>
     <string name="app_description_title">Xóa \"Chủ đề\" khỏi Màn hình chính?</string>
     <string name="applied_success_contine">Tiếp tục duyệt</string>
@@ -1840,7 +1840,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="apply_wallpaper_notice_content">Chủ đề hiện được áp dụng chứa mô-đun Màn hình khóa tùy chỉnh có thể ngăn bạn thực hiện các điều chỉnh liên quan đến Màn hình khóa.</string>
     <string name="apply_wallpaper_notice_lockscreen">Chủ đề hiện tại chứa Màn hình khóa tùy chỉnh. Chúng tôi sẽ thay thế bằng Màn hình khóa mặc định nếu bạn áp dụng hình nền này. Vẫn áp dụng?</string>
     <string name="apply_wallpaper_notice_still_apply">Áp dụng</string>
-    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Màn hình luôn bật sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa, đồng thời Always-on display sẽ được khôi phục về cài đặt trước. Áp dụng ngay?</string>
     <string name="apply_wallpaper_warning_use_super_wallpaper">Bạn hiện đang sử dụng Siêu hình nền. Nếu bạn chọn hình nền mới, hình nền đó sẽ được áp dụng cho cả Màn hình chính và Màn hình khóa. Áp dụng ngay?</string>
     <string name="aqi_format">AQI %s</string>
     <string name="aqi_format_desc">Chỉ số chất lượng không khí: %s</string>
@@ -1854,7 +1854,7 @@ Tất cả các mục cá nhân hóa hiện đang được sử dụng trên thi
     <string name="back_to_none">Không đặt làm nhạc chuông</string>
     <string name="beep">Âm thanh thông báo</string>
     <string name="carefully_chosen_wallpaper">Lựa chọn của biên tập viên</string>
-    <string name="channel_featured_page">Đặc sắc</string>
+    <string name="channel_featured_page">Nổi bật</string>
     <string name="choose_pay_method">Chọn phương thức thanh toán</string>
     <string name="classic_calendar_day_of_week_format">EE</string>
     <string name="classic_calendar_month_of_year_format">MMM</string>
@@ -2014,7 +2014,7 @@ mm"</string>
     <string name="payment_coins_balance">(Số dư: %1s)</string>
     <string name="payment_coins_insufficient_balance">(Số dư không đủ)</string>
     <string name="payment_data_move_tips">Dữ liệu tài khoản của bạn sẽ được chuyển đến máy chủ trong khu vực của bạn để tuân thủ các quy định về riêng tư. Có nguy cơ mất dữ liệu trong quá trình chuyển.</string>
-    <string name="payment_instructions"><Data>Bằng cách hoàn tất thanh toán, bạn sẽ đồng ý với &lt;a href="%1$s">Thông báo về mua hàng trong ứng dụng&lt;/a>.</Data></string>
+    <string name="payment_instructions">&lt;Data>Bằng cách hoàn tất thanh toán, bạn sẽ đồng ý với &lt;a href=\"%1$s\">Thông báo về mua hàng trong ứng dụng&lt;/a>.&lt;/Data></string>
     <string name="payment_method">Phương thức thanh toán</string>
     <string name="permission_desc">Để lưu chủ đề đã lưu và các mục khác</string>
     <string name="permission_pop_desc">Để có thể thay đổi tùy chọn cá nhân và lưu các mục đã tải xuống, trước tiên cho phép Chủ đề truy cập lưu trữ.</string>
@@ -2085,7 +2085,7 @@ mm"</string>
     <string name="rewarded_ad_pop_title">Chủ đề cao cấp</string>
     <string name="rewarded_ad_watch_again_pop">Xem hết video để tải xuống chủ đề cao cấp này. Xem ngay?</string>
     <string name="rewarded_ad_watch_again_pop_for_lw">Xem hết video để tải xuống hình nền này. Xem ngay?</string>
-    <string name="ringtone_agreement_message">Trước khi sử dụng nhạc chuông từ Chủ đề, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
+    <string name="ringtone_agreement_message">Trước khi sử dụng nhạc chuông từ Chủ đề, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
     <string name="ringtone_preset">Nhạc chuông cài sẵn</string>
     <string name="scroll_switch">Trượt để chuyển giữa các mục</string>
     <string name="show_incompatible_font">Hiển thị phông chữ không tương thích</string>
@@ -2108,7 +2108,7 @@ mm"</string>
     <string name="support_google_dynamic_color_hint">Bạn đang sử dụng Google Dynamic Color. Bảng màu của một số ứng dụng có thể thay đổi khi bạn áp dụng chủ đề và hình nền mới.</string>
     <string name="system_phone">Cuộc gọi</string>
     <string name="text_play">Chơi</string>
-    <string name="theme_apply_fully">Áp dụng chủ đề thành công. Khóa tạp chí đã tắt.</string>
+    <string name="theme_apply_fully">Áp dụng chủ đề thành công. Tạp chí màn hình khoá đã tắt.</string>
     <string name="theme_desc">Chủ đề cho phép bạn tùy chỉnh thành phần giao diện người dùng trên toàn hệ thống.</string>
     <string name="theme_desc_a">Làm cho thiết bị thêm thú vị với chủ đề, hình nền, phông chữ và nhạc chuông.</string>
     <string name="theme_desc_b">Chào mừng sử dụng Chủ đề. Làm cho thiết bị thêm thú vị với chủ đề, hình nền, phông chữ và nhạc chuông.</string>
@@ -2119,7 +2119,7 @@ mm"</string>
     <string name="third_privacy_policies">Chính sách riêng tư của bên thứ ba</string>
     <string name="time_picker_label_minute">Phút</string>
     <string name="tip_global_v2">Thay đổi Tin nhắn, Điện thoại và Cài đặt</string>
-    <string name="tip_lockscreen2">Bạn đang sử dụng Khóa tạp chí. Tùy chỉnh chủ đề sẽ thay đổi hình nền Màn hình khóa và đồng hồ.</string>
+    <string name="tip_lockscreen2">Bạn đang sử dụng Tạp chí màn hình khoá. Tùy chỉnh chủ đề sẽ thay đổi hình nền Màn hình khóa và đồng hồ.</string>
     <string name="tip_statusbar">Thay đổi Trung tâm điều khiển và Thanh thông báo</string>
     <string name="top">Phổ biến</string>
     <string name="try_fresh_functions_and_contents">Kiểm tra tính năng và nội dung mới</string>
@@ -2135,15 +2135,15 @@ mm"</string>
     <string name="user_authorization_dialog_agree">Đồng ý</string>
     <string name="user_authorization_dialog_agree_a">Đồng ý</string>
     <string name="user_authorization_dialog_disagree">Thoát</string>
-    <string name="user_authorization_dialog_message">"<Data>Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin mà chúng tôi thu thập trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a> của chúng tôi. Đọc và đồng ý với &lt;a href="%2$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%3$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Chủ đề.
-Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Chủ đề trong Cài đặt bất kỳ lúc nào.</Data>"</string>
-    <string name="user_authorization_dialog_message_a"><Data>Đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.</Data></string>
+    <string name="user_authorization_dialog_message">"&lt;Data>Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin mà chúng tôi thu thập trong &lt;a href=\"%1$s\">Chính sách Riêng tư&lt;/a> của chúng tôi. Đọc và đồng ý với &lt;a href=\"%2$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%3$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng Chủ đề.
+Bạn có thể rút lại chấp thuận của mình đối với Chính sách Riêng tư của Chủ đề trong Cài đặt bất kỳ lúc nào.&lt;/Data>"</string>
+    <string name="user_authorization_dialog_message_a">&lt;Data>Đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi bạn tiếp tục. Bạn có thể thay đổi tùy chọn của mình bất cứ lúc nào trong Cài đặt.&lt;/Data></string>
     <string name="user_authorization_dialog_title">Điều khoản và Điều kiện</string>
     <string name="uvi_format">UVI %1$s %2$s</string>
     <string name="uvi_format_desc">Chỉ số tia cực tím: %1$s, %2$s</string>
     <string name="video_cancel">Hủy</string>
     <string name="video_not_support_message">Video này có thể được hiển thị không chính xác hoặc làm chậm thiết bị của bạn. Vẫn áp dụng?</string>
-    <string name="wallpaper_agreement_message">Trước khi sử dụng hình nền từ Chủ đề, đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
+    <string name="wallpaper_agreement_message">Trước khi sử dụng hình nền từ Chủ đề, đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.</string>
     <string name="wallpaper_and_personal">Hình nền &amp; cá nhân</string>
     <string name="wallpaper_desc">Hình nền giúp Màn hình chính trông mới mẻ hơn.</string>
     <string name="wallpaper_group_black_gobi_title">Cát Gobi</string>
@@ -2242,8 +2242,8 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="ai_inquire_apply_wallpaper">Áp dụng hình nền này?</string>
     <string name="ai_moving_your_wallpaper">Xem cách AI có thể làm cho hình nền của bạn trở nên sống động</string>
     <string name="personalize_aod_notify_style_title">Hiển thị thông báo</string>
-    <string name="ai_read_the_privacy_policy"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách bảo mật&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
-    <string name="ai_read_the_privacy_policy_pad"><Data>Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận người dùng&lt;/a> và &lt;a href="%2$s">Chính sách bảo mật hình nền và cá nhân hóa&lt;/a> của chúng tôi trước khi bạn tiếp tục.</Data></string>
+    <string name="ai_read_the_privacy_policy">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
+    <string name="ai_read_the_privacy_policy_pad">&lt;Data>Đọc và đồng ý với &lt;a href=\"%1$s\">Thỏa thuận người dùng&lt;/a> và &lt;a href=\"%2$s\">Chính sách bảo mật hình nền và cá nhân hóa&lt;/a> của chúng tôi trước khi bạn tiếp tục.&lt;/Data></string>
     <string name="ai_select_again">Chọn</string>
     <string name="ai_select_message">Chỉ chọn hình ảnh phong cảnh, thành phố, cây cối và ô tô, và đảm bảo rằng chủ thể chính của hình ảnh rõ ràng và không bị cản trở.</string>
     <string name="ai_select_title">"Không thể xử lý hình ảnh"</string>
@@ -2299,7 +2299,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">"Hình nền của bên thứ ba không hỗ trợ hiệu ứng"</string>
     <string name="kg_effects_tip_title">Độ sâu trường ảnh và bộ lọc</string>
     <string name="kg_enable_blur">Hiệu ứng mờ</string>
-    <string name="loop_video_wallpaper">Vòng lặp hình nền động</string>
+    <string name="loop_video_wallpaper">Hình nền lặp</string>
     <string name="to_lock_screen">Đặt làm màn hình khóa</string>
     <string name="to_the_desktop">Đặt làm màn hình chính</string>
     <string name="apply_at_the_same_time">Đặt cả hai</string>
@@ -2596,7 +2596,7 @@ Bạn có thể rút lại chấp thuận của mình đối với Chính sách 
     <string name="kg_template_title_classic_phone">Cảnh quan</string>
     <string name="kg_template_title_eastern_art">Thẩm mỹ phương Đông</string>
     <string name="kg_template_title_magazine">Tạp chí</string>
-    <string name="kg_template_title_magazine_phone">Người</string>
+    <string name="kg_template_title_magazine_phone">Chủ thể</string>
     <string name="kg_template_title_mine">Màn hình khóa</string>
     <string name="kg_template_title_rhombus">Hình thoi</string>
     <string name="kg_time_language_string">Chữ số</string>
@@ -2750,18 +2750,17 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="tt_00_00">00:00</string>
     <string name="tt_ad_clicked_text">Quảng cáo được nhấp</string>
     <string name="tt_ad_close_text">Quảng cáo đã đóng</string>
-    <string name="tt_ad_data_error">Response data error</string>
+    <string name="tt_ad_data_error">Lỗi dữ liệu phản hồi</string>
     <string name="tt_ad_is_closed">Quảng cáo đã đóng</string>
     <string name="tt_ad_logo_txt">AD</string>
     <string name="tt_ad_showed_text">Quảng cáo được hiển thị</string>
-    <string name="tt_adslot_empty">No request ad slot</string>
-    <string name="tt_adslot_id_error">Illegal ad slot id</string>
-    <string name="tt_adslot_size_empty">Empty ad slot size</string>
-    <string name="tt_adtype_not_match_rit">Ad slot id error</string>
-    <string name="tt_app_empty">No request app</string>
-    <string name="tt_app_name">tt_open_ad_sdk</string>
+    <string name="tt_adslot_empty">Không có yêu cầu vị trí quảng cáo</string>
+    <string name="tt_adslot_id_error">ID vị trí quảng cáo bất hợp pháp</string>
+    <string name="tt_adslot_size_empty">Kích thước ô quảng cáo trống</string>
+    <string name="tt_adtype_not_match_rit">Lỗi ID vị trí quảng cáo</string>
+	<string name="tt_app_empty">Không có ứng dụng được yêu cầu</string>
     <string name="tt_auto_play_cancel_text">Hủy</string>
-    <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
+    <string name="tt_banner_ad_load_image_error">Lỗi tải banner</string>
     <string name="tt_cancel">Hủy</string>
     <string name="tt_choose_language">vi</string>
     <string name="tt_click_to_replay">Nhấn để phát lại</string>
@@ -2770,42 +2769,42 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="tt_comment_score">Đánh giá</string>
     <string name="tt_confirm_download">Bạn không được kết nối với mạng Wi-Fi. Bạn có chắc chắn muốn tải không?</string>
     <string name="tt_confirm_download_have_app_name">Chuẩn bị tải %s ứng dụng</string>
-    <string name="tt_content_type">Http content type error</string>
+    <string name="tt_content_type">Lỗi loại nội dung HTTP</string>
     <string name="tt_count_down_view">Bỏ qua</string>
     <string name="tt_dislike_header_tv_back">Quay lại</string>
     <string name="tt_dislike_header_tv_title">Chọn</string>
     <string name="tt_display_error">Lỗi hiển thị</string>
-    <string name="tt_error_access_method_pass">Illegal access method</string>
-    <string name="tt_error_ad_type">Illegal ad type</string>
-    <string name="tt_error_adtype_differ">Ad type error</string>
-    <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
-    <string name="tt_error_code_adcount_error">Incorrect number of ad</string>
-    <string name="tt_error_code_click_event_error">Click event error</string>
-    <string name="tt_error_image_size">Illegal image size</string>
-    <string name="tt_error_media_id">Illegal media id</string>
-    <string name="tt_error_media_type">Illegal media type</string>
-    <string name="tt_error_new_register_limit">New ad slot exceeded daily request limit</string>
-    <string name="tt_error_origin_ad_error">Origin type error</string>
-    <string name="tt_error_package_name">Package name error</string>
-    <string name="tt_error_redirect">Redirect error</string>
-    <string name="tt_error_request_invalid">Invalid request</string>
-    <string name="tt_error_slot_id_app_id_differ">SlotId and AppId match error</string>
-    <string name="tt_error_splash_ad_type">Splash ad type error</string>
-    <string name="tt_error_union_os_error">Os type error</string>
-    <string name="tt_error_union_sdk_too_old">Sdk version too low</string>
-    <string name="tt_error_unknow">Unknown error</string>
-    <string name="tt_error_verify_reward">Reward verify error</string>
+    <string name="tt_error_access_method_pass">Phương thức truy cập không hợp lệ</string>
+    <string name="tt_error_ad_type">Loại quảng cáo không hợp lệ</string>
+    <string name="tt_error_adtype_differ">Lỗi loại quảng cáo</string>
+    <string name="tt_error_apk_sign_check_error">Giá trị SHA1 của APK không hợp lệ</string>
+    <string name="tt_error_code_adcount_error">Số lượng quảng cáo không chính xác</string>
+    <string name="tt_error_code_click_event_error">Lỗi sự kiện nhấp chuột</string>
+    <string name="tt_error_image_size">Kích thước hình ảnh không hợp lệ</string>
+    <string name="tt_error_media_id">ID phương tiện không hợp lệ</string>
+    <string name="tt_error_media_type">Loại phương tiện không hợp lệ</string>
+    <string name="tt_error_new_register_limit">Vị trí quảng cáo mới đã vượt quá giới hạn yêu cầu hàng ngày</string>
+    <string name="tt_error_origin_ad_error">Lỗi loại nguồn gốc</string>
+    <string name="tt_error_package_name">Lỗi tên gói</string>
+    <string name="tt_error_redirect">Lỗi chuyển hướng</string>
+    <string name="tt_error_request_invalid">Yêu cầu không hợp lệ</string>
+    <string name="tt_error_slot_id_app_id_differ">SlotID và AppID không khớp</string>
+    <string name="tt_error_splash_ad_type">Lỗi loại quảng cáo khởi động</string>
+    <string name="tt_error_union_os_error">Lỗi loại hệ điều hành (OS)</string>
+    <string name="tt_error_union_sdk_too_old">Phiên bản SDK quá cũ</string>
+    <string name="tt_error_unknow">Lỗi không xác định</string>
+    <string name="tt_error_verify_reward">Lỗi xác minh phần thưởng</string>
     <string name="tt_feedback_experience_text">Chúng tôi sẽ không ngừng cải thiện dịch vụ.</string>
     <string name="tt_feedback_submit_text">Bạn đã gửi phản hồi xong! Vui lòng không gửi lại.</string>
     <string name="tt_feedback_thank_text">Cảm ơn bạn đã phản hồi!</string>
-    <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
+    <string name="tt_frequent_call_erroe">Yêu cầu quảng cáo quá thường xuyên</string>
     <string name="tt_full_screen_skip_tx">Bỏ qua</string>
     <string name="tt_get_reward">Phần thưởng được phân phối</string>
-    <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
+    <string name="tt_insert_ad_load_image_error">Lỗi tải quảng cáo xen kẽ</string>
     <string name="tt_label_cancel">Hủy</string>
     <string name="tt_label_ok">OK</string>
-    <string name="tt_load_creative_icon_error">Icon loading failed</string>
-    <string name="tt_load_creative_icon_response_error">Icon loading error</string>
+    <string name="tt_load_creative_icon_error">Lỗi tải biểu tượng</string>
+    <string name="tt_load_creative_icon_response_error">Lỗi phản hồi khi tải biểu tượng</string>
     <string name="tt_load_failed_text">Quảng cáo không tải được</string>
     <string name="tt_load_success_text">Quảng cáo được tải thành công</string>
     <string name="tt_logo_en">Quảng cáo</string>
@@ -2813,48 +2812,48 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="tt_multiple_ad_indicator">quảng cáo %1$d/%2$d</string>
     <string name="tt_negtiveBtnBtnText">Rời đi</string>
     <string name="tt_negtive_txt">Hủy</string>
-    <string name="tt_net_error">Network error</string>
-    <string name="tt_no_ad">No ad</string>
-    <string name="tt_no_ad_parse">Parsing data without ad</string>
+    <string name="tt_net_error">Lỗi mạng</string>
+    <string name="tt_no_ad">Không có quảng cáo</string>
+    <string name="tt_no_ad_parse">Phân tích dữ liệu không có quảng cáo</string>
     <string name="tt_no_network">Không có kết nối mạng, vui lòng thử lại sau.</string>
     <string name="tt_no_thank_you">Không, cảm ơn</string>
-    <string name="tt_parse_fail">Parsing error</string>
-    <string name="tt_permission_denied">Bạn đã vô hiệu hóa các quyền cần thiết. Vui lòng kích</string>
+    <string name="tt_parse_fail">Lỗi phân tích</string>
+    <string name="tt_permission_denied">Bạn đã vô hiệu hóa các quyền cần thiết. Vui lòng kích hoạt</string>
     <string name="tt_postiveBtnText">Tiếp tục</string>
     <string name="tt_postiveBtnTextPlayable">Tiếp tục chơi</string>
     <string name="tt_postive_txt">OK</string>
     <string name="tt_privacy_title">Chính sách quyền riêng tư</string>
-    <string name="tt_reder_ad_load_timeout">Template loading timeout</string>
-    <string name="tt_render_diff_template_invalid">Template diff invalid</string>
-    <string name="tt_render_fail_meta_invalid">Template invalid</string>
-    <string name="tt_render_fail_template_parse_error">Template parsing error</string>
-    <string name="tt_render_fail_timeout">Render timeout</string>
-    <string name="tt_render_fail_unknown">Render failed unknown</string>
-    <string name="tt_render_main_template_invalid">Main template invalid</string>
-    <string name="tt_render_render_parse_error">Render parsing failed</string>
-    <string name="tt_request_body_error">Request entity is empty</string>
-    <string name="tt_request_pb_error">Http request pb error</string>
+    <string name="tt_reder_ad_load_timeout">Quá thời gian tải mẫu</string>
+    <string name="tt_render_diff_template_invalid">Mẫu so sánh (diff) không hợp lệ</string>
+    <string name="tt_render_fail_meta_invalid">Mẫu không hợp lệ</string>
+    <string name="tt_render_fail_template_parse_error">Lỗi phân tích mẫu</string>
+    <string name="tt_render_fail_timeout">Quá thời gian kết xuất</string>
+    <string name="tt_render_fail_unknown">Lỗi kết xuất không xác định</string>
+    <string name="tt_render_main_template_invalid">Mẫu chính không hợp lệ</string>
+    <string name="tt_render_render_parse_error">Phân tích kết xuất thất bại</string>
+    <string name="tt_request_body_error">Nội dung yêu cầu trống</string>
+    <string name="tt_request_pb_error">Lỗi PB yêu cầu HTTP</string>
     <string name="tt_reward_feedback">Phản hồi</string>
     <string name="tt_reward_full_skip">Bỏ qua sau %1$s giây</string>
     <string name="tt_reward_msg">Xem hết video để nhận phần thưởng</string>
     <string name="tt_reward_screen_skip_tx">Bỏ qua</string>
     <string name="tt_reward_video_show_error">Lỗi hiển thị video có thưởng</string>
-    <string name="tt_ror_code_show_event_error">Show event error</string>
+    <string name="tt_ror_code_show_event_error">Lỗi sự kiện hiển thị</string>
     <string name="tt_skip_ad_time_text">Bỏ qua sau %ds giây</string>
-    <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
-    <string name="tt_splash_cache_expired_error">Cache expired</string>
-    <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
-    <string name="tt_splash_not_have_cache_error">No splash cache</string>
+    <string name="tt_splash_ad_load_image_error">Tải quảng cáo khởi động thất bại</string>
+    <string name="tt_splash_cache_expired_error">Bộ nhớ đệm đã hết hạn</string>
+    <string name="tt_splash_cache_parse_error">Phân tích bộ nhớ đệm thất bại</string>
+    <string name="tt_splash_not_have_cache_error">Không có bộ nhớ đệm khởi động</string>
     <string name="tt_splash_skip_tv">3 giây | Bỏ qua</string>
     <string name="tt_suggestion_commit">Gửi</string>
     <string name="tt_suggestion_description">Nhập mô tả về lỗi hiển thị và nhấp vào nút Gửi. Mẫu quảng cáo cũng sẽ được gửi lại cho Pangle để hỗ trợ khắc phục sự cố.</string>
-    <string name="tt_sys_error">System error</string>
+    <string name="tt_sys_error">Lỗi hệ thống</string>
     <string name="tt_tip">Nhắc nhở</string>
-    <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
-    <string name="tt_toast_later_download">Download later</string>
-    <string name="tt_toast_no_ad">No Ad to Show, Please Load Ad</string>
-    <string name="tt_toast_start_loading">Start Loading</string>
-    <string name="tt_toast_tiktok_ad_failed">TikTok Ad Failed to load, error code is:</string>
+    <string name="tt_toast_ad_on_rewarded">Đã trao thưởng quảng cáo</string>
+    <string name="tt_toast_later_download">Tải về sau</string>
+    <string name="tt_toast_no_ad">Không có quảng cáo để hiển thị, vui lòng tải quảng cáo</string>
+    <string name="tt_toast_start_loading">Bắt đầu tải</string>
+    <string name="tt_toast_tiktok_ad_failed">Quảng cáo TikTok tải thất bại, mã lỗi là:</string>
     <string name="tt_try_now">Thử ngay bây giờ</string>
     <string name="tt_txt_skip">Bỏ qua</string>
     <string name="tt_unlike">Không quan tâm</string>
@@ -2887,4 +2886,20 @@ Chúng tôi sẽ chia sẻ nhiều hơn khi bạn kết nối mạng trở lại
     <string name="ai_dialog_support_type_confirm">Hãy thử ngay</string>
     <string name="ai_dialog_support_type_content">Bây giờ bạn có thể tạo hình nền động với ảnh người hoặc động vật và hình ảnh anime.</string>
     <string name="ai_dialog_support_type_title">Kiểu hình ảnh mới</string>
+	<string name="kg_settings_template_loading">Vui lòng chờ…</string>
+	<string name="kg_settings_customize">Tùy chỉnh</string>
+	<string name="kg_settings_template_add_new_match">Thêm đặt mới</string>
+	<string name="kg_settings_template_new_match">Đặt mới</string>
+	<string name="kg_settings_template_using">Đã áp dụng</string>
+	<string name="kg_settings_apply">Áp dụng</string>
+	<string name="kg_delete_this_collocation">Xóa bộ này?</string>
+    <string name="kg_delete_this_collocation_desc">Cài đặt Màn hình khóa và Màn hình chính của bộ này sẽ bị xóa. Xóa bộ ngay bây giờ?</string>
+	<string name="personalize_aod_title">Màn hình luôn bật</string>
+	<string name="theme_component_aod">Màn hình luôn bật</string>
+	<string name="wallpaper_setting_aod_wallpaper_banner_button_text">Màn hình luôn bật</string>
+	<string name="carousel_wallpaper">Xáo trộn hình nền</string>
+	<string name="carousel_wallpaper_dlg_apply_home_btn">Chỉ màn hình chính</string>
+	<string name="carousel_wallpaper_dlg_apply_lock_btn">Áp dụng bộ hình nền này cho cả màn hình khóa?</string>
+	<string name="ai_wallpaper_local_title">Hình nền của tôi</string>
+	<string name="ai_wallpaper_featured_title">Nổi bật</string>
 </resources>
