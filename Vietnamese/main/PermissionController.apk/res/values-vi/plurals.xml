@@ -1,19 +1,32 @@
-<?xml version='1.0' encoding='utf-8' ?>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="one">%d thông báo mới</item>
+	<plurals name="additional_permissions_more">
+		<item quantity="other">%1$d quyền khác</item>
+		<item quantity="one">%1$d quyền khác</item>
+	</plurals>
+	<plurals name="permission_usage_bar_label">
+		<item quantity="other">%s ứng dụng</item>
+		<item quantity="one">1 ứng dụng</item>
+	</plurals>
+	<plurals name="permission_usage_permission_filter_subtitle">
+		<item quantity="other">%s ứng dụng</item>
+		<item quantity="one">1 ứng dụng</item>
+	</plurals>
+	<plurals name="days">
+		<item quantity="other">%s ngày</item>
+	</plurals>
+	<plurals name="hours">
+		<item quantity="other">%s giờ</item>
+	</plurals>
+	<plurals name="minutes">
+		<item quantity="other">%s phút</item>
+	</plurals>
+	<plurals name="seconds">
+		<item quantity="other">%s giây</item>
+	</plurals>
+	<plurals name="mtrl_badge_content_description">
         <item quantity="other">%d thông báo mới</item>
-    </plurals>
-    <plurals name="wear_m3c_time_picker_hours_content_description">
-        <item quantity="one">%d giờ</item>
-        <item quantity="other">%d giờ</item>
-    </plurals>
-    <plurals name="wear_m3c_time_picker_minutes_content_description">
-        <item quantity="one">%d phút</item>
-        <item quantity="other">%d phút</item>
-    </plurals>
-    <plurals name="wear_m3c_time_picker_seconds_content_description">
-        <item quantity="one">%d giây</item>
-        <item quantity="other">%d giây</item>
+        <item quantity="one">%d thông báo mới</item>
     </plurals>
 </resources>

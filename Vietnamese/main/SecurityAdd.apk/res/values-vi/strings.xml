@@ -280,11 +280,11 @@
     <string name="superpower_system">Đề xuất</string>
     <string name="superpower_third">Ứng dụng bên thứ ba</string>
     <string name="superpower_exit_hint">Đang tắt Siêu Tiết kiệm pin…</string>
-    <string name="gdpr_msg">&lt;Data>Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý rằng Xiaomi sẽ thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin cách bạn sử dụng các tính năng của Bảo mật (v.d., thống kê sử dụng dữ liệu di động, thông tin về malware, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định tại &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.&lt;/Data></string>
+    <string name="gdpr_msg"><Data>Để sử dụng các tính năng cơ bản của Bảo mật, bạn phải đồng ý rằng Xiaomi sẽ thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm thông tin cách bạn sử dụng các tính năng của Bảo mật (v.d., thống kê sử dụng dữ liệu di động, thông tin về malware, cũng như thông tin cơ bản về thiết bị của bạn) và các loại thông tin khác được chỉ định tại &lt;a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi.</Data></string>
     <string name="guide_desc_1">Cha mẹ hoàn toàn nắm bắt và quản lý việc sử dụng của bé</string>
     <string name="guide_desc_2">"Tùy chỉnh ứng dụng cho trẻ em
 An toàn, chất lượng, phát triển"</string>
-    <string name="no_net_dialog_negative_text">Hủy</string>
+<string name="no_net_dialog_negative_text">Hủy</string>
     <string name="no_net_dialog_title">Nhắc</string>
     <string name="cta_main_purpose">Chào mừng đến với Game Turbo!</string>
     <string name="no_net_dialog_positive_text">Đến cài đặt mạng</string>
@@ -404,7 +404,7 @@ An toàn và bảo mật"</string>
     <string name="month_march_shortest">Thg 3</string>
     <string name="solar_term_summer_begins">Lập Hạ</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute">HH:mm</string>
+    <string name="fmt_time_12hour_minute">H:mm</string>
     <string name="the_armys_day">Ngày thành lập quân đội</string>
     <string name="earthly_branches_si">Tỵ</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -575,7 +575,7 @@ An toàn và bảo mật"</string>
     <string name="gb_gpu_control_fps">Tỷ lệ khung hình</string>
     <string name="the_fools_day">Cá Tháng Tư</string>
     <string name="monday_short">Th 2</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="noon">CH</string>
     <string name="month_december_short">Tháng 12</string>
     <string name="month_may_short">Tháng 5</string>
@@ -784,9 +784,9 @@ An toàn và bảo mật"</string>
     <string name="fmt_date">D</string>
     <string name="fmt_time_millis">Giây</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_date_numeric_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
     <string name="size_kilo_byte">KB</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="size_peta_byte">PB</string>
     <string name="agree">Đồng ý</string>
     <string name="auto_task_select_city">Chọn thành phố</string>

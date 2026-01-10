@@ -1250,7 +1250,7 @@ hoàn toàn"</string>
     <string name="keyguard_charging_info_battery_used_time_text">Thời gian sử dụng</string>
     <string name="keyguard_charging_info_click_to_detail">Xem chi tiết</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Tiêu hao điện năng</string>
-    <string name="keyguard_charging_info_last_charge_time">d/M HH:mm</string>
+    <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">%s hôm nay</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">%s hôm qua</string>
     <string name="keyguard_charging_info_last_charged_time_text">Sạc lần trước</string>
@@ -1280,7 +1280,7 @@ hoàn toàn"</string>
     <string name="keyguard_password_enter_pin_prompt">Mã PIN SIM mới</string>
     <string name="keyguard_password_enter_puk_code">Nhập PUK SIM và mã PIN mới</string>
     <string name="keyguard_password_enter_puk_prompt">Mã PUK SIM</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Chạm để nhập mật khẩu</font></string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font  size="17">Chạm để nhập mật khẩu&lt;/font></string>
     <string name="keyguard_password_wrong_pin_code">Mã PIN không chính xác.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Thẻ SIM của bạn đã bị vô hiệu hóa vĩnh viễn.
  Liên hệ với nhà cung cấp dịch vụ không dây để cung cấp thẻ SIM khác."</string>
@@ -1432,7 +1432,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="phone_locked_foget_password_method_next">Tiếp theo</string>
     <string name="phone_locked_foget_password_ok">Tôi biết</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">Tắt thiết bị, sau đó nhấn giữ nút &lt;font color=#e6e6e6>[Nguồn]&lt;/font> và &lt;font color=#e6e6e6>[Âm lượng +]&lt;/font> cho đến khi bạn thấy &lt;img src=\"\">.</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp;amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>Chọn &lt;font color=#a5220e>\"Xóa &amp; Đặt lại\"&lt;/font> và chờ cho đến khi thiết bị khởi động lại.;</Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Làm thế nào để xóa dữ liệu?</string>
     <string name="phone_locked_string">Điện thoại đã bị khóa</string>
     <string name="pip_close">Đóng PiP</string>
@@ -1602,7 +1602,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
     <string name="status_bar_alarm">Báo thức</string>
     <string name="status_bar_clear_all_button">Xóa</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
-    <string name="status_bar_clock_date_time_format">HH:mm E, d MMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">hh:mm aa, E, d MMM</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Thiết lập phương thức nhập</string>
     <string name="status_bar_latest_events_title">Thông báo</string>
@@ -2056,7 +2056,7 @@ d MMMM"</string>
     <string name="lock_screen_magazine_label">Mở Tạp chí Khóa màn hình</string>
     <string name="long_screenshot_guide_text">"Chạm để tạo
 ảnh chụp màn hình cuộn"</string>
-    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="hour_minute_time_format">H:mm</string>
     <string name="notification_channel_usb">Kết nối USB</string>
     <string name="recents_dimiss_task">Xóa</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Không thể chia màn hình khi đang sử dụng Chia sẻ màn hình"</string>
@@ -3099,7 +3099,7 @@ Bạn sẽ được thông báo khi có thể sử dụng lại cổng USB."</st
     <string name="chinese_symbol_animals_dog">Tuất</string>
     <string name="pm">CH</string>
     <string name="the_fifth_day">Mùng 5 Tết Nguyên Đán</string>
-    <string name="fmt_chinese_date">N e</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
@@ -3284,12 +3284,12 @@ dd/MM"</string>
     <string name="fmt_weekday_short">e</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">Giây</string>
     <string name="fmt_weekday_date_time">W, D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
@@ -3308,8 +3308,8 @@ dd/MM"</string>
     <string name="fmt_weekday_date_time_timezone">W, D T z</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Doanh nghiệp 192-bit</string>
-    <string name="fmt_date_numeric_day">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_day">d</string>
     <string name="item_view_role_description">Tab</string>
     <string name="wifitrackerlib_wifi_security_sae">WPA3-Cá nhân</string>
     <string name="privacy_dialog_title">Riêng tư</string>
@@ -3444,7 +3444,7 @@ dd/MM"</string>
     <string name="accessibility_floating_button_docking_tooltip">Di chuyển nút sang cạnh để ẩn nút tạm thời</string>
     <string name="accessibility_floating_button_migration_tooltip">"Nhấn để mở bộ tính năng hỗ trợ tiếp cận. Tuỳ chỉnh/thay thế nút này trong phần Cài đặt.
 
-"<annotation id="link">Xem chế độ cài đặt</annotation></string>
+"&lt;annotation id="link">Xem chế độ cài đặt&lt;/annotation></string>
     <string name="accessibility_floating_button_undo">Huỷ</string>
     <string name="accessibility_floating_button_undo_message_label_text">Đã xoá phím tắt dành cho %s</string>
     <string name="accessibility_floating_button_undo_message_number_text">{count,plural, =1{Đã xoá # lối tắt}other{Đã xoá # lối tắt}}</string>
@@ -3631,11 +3631,11 @@ Bạn sẽ cần thiết lập lại tính năng này để mở khoá điện t
     <string name="failed_attempts_now_wiping_dialog_dismiss">Đóng</string>
     <string name="failed_attempts_now_wiping_profile">Quá nhiều lần thử không chính xác. Hồ sơ công việc này và dữ liệu của hồ sơ công việc sẽ bị xoá.</string>
     <string name="failed_attempts_now_wiping_user">Quá nhiều lần thử không chính xác. Người dùng này sẽ bị xoá.</string>
-    <string name="feedback_alerted">Hệ thống đã tự động &lt;b>thay đổi thành Mặc định&lt;/b> theo tầm quan trọng của thông báo này.</string>
-    <string name="feedback_demoted">Hệ thống đã tự động &lt;b>giảm mức độ quan trọng&lt;/b> của thông báo này trong ngăn thông báo.</string>
-    <string name="feedback_promoted">Hệ thống đã tự động &lt;b>tăng mức độ quan trọng&lt;/b> của thông báo này trong ngăn thông báo.</string>
+    <string name="feedback_alerted">Hệ thống đã tự động <b>thay đổi thành Mặc định</b> theo tầm quan trọng của thông báo này.</string>
+    <string name="feedback_demoted">Hệ thống đã tự động <b>giảm mức độ quan trọng</b> của thông báo này trong ngăn thông báo.</string>
+    <string name="feedback_promoted">Hệ thống đã tự động <b>tăng mức độ quan trọng</b> của thông báo này trong ngăn thông báo.</string>
     <string name="feedback_prompt">Chia sẻ ý kiến phản hồi của bạn với nhà phát triển. Thông tin này có chính xác không?</string>
-    <string name="feedback_silenced">Hệ thống đã tự động &lt;b>thay đổi thành Im lặng&lt;/b> theo tầm quan trọng của thông báo này.</string>
+    <string name="feedback_silenced">Hệ thống đã tự động <b>thay đổi thành Im lặng</b> theo tầm quan trọng của thông báo này.</string>
     <string name="fgs_dot_content_description">Thông tin mới</string>
     <string name="fgs_manager_app_item_stop_button_label">Dừng</string>
     <string name="fgs_manager_app_item_stop_button_stopped_label">Đã dừng</string>
@@ -3911,10 +3911,10 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="notification_channel_instant">Ứng dụng tức thì</string>
     <string name="notification_channel_setup">Thiết lập</string>
     <string name="notification_channel_summary_automatic">Cho phép hệ thống quyết định xem thông báo này phát âm thanh hay rung</string>
-    <string name="notification_channel_summary_automatic_alerted">&lt;b>Trạng thái:&lt;/b> Đã thay đổi thành Mặc định</string>
-    <string name="notification_channel_summary_automatic_demoted">&lt;b>Trạng thái:&lt;/b> Đã giảm mức độ quan trọng</string>
-    <string name="notification_channel_summary_automatic_promoted">&lt;b>Trạng thái:&lt;/b> Đã tăng mức độ quan trọng</string>
-    <string name="notification_channel_summary_automatic_silenced">&lt;b>Trạng thái:&lt;/b> Đã thay đổi thành Im lặng</string>
+    <string name="notification_channel_summary_automatic_alerted"><b>Trạng thái:</b> Đã thay đổi thành Mặc định</string>
+    <string name="notification_channel_summary_automatic_demoted"><b>Trạng thái:</b> Đã giảm mức độ quan trọng</string>
+    <string name="notification_channel_summary_automatic_promoted"><b>Trạng thái:</b> Đã tăng mức độ quan trọng</string>
+    <string name="notification_channel_summary_automatic_silenced"><b>Trạng thái:</b> Đã thay đổi thành Im lặng</string>
     <string name="notification_channel_summary_priority_all">Hiện ở đầu phần thông báo cuộc trò chuyện và ở dạng ảnh hồ sơ trên màn hình khóa, xuất hiện ở dạng bong bóng, làm gián đoạn chế độ Không làm phiền</string>
     <string name="notification_channel_summary_priority_baseline">Hiện ở đầu phần thông báo cuộc trò chuyện và ở dạng ảnh hồ sơ trên màn hình khóa</string>
     <string name="notification_channel_summary_priority_bubble">Hiện ở đầu phần thông báo cuộc trò chuyện và ở dạng ảnh hồ sơ trên màn hình khóa, xuất hiện ở dạng bong bóng</string>
@@ -3943,7 +3943,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="pin_toast">Trượt lên từ phía dưới màn hình và tạm dừng để bỏ ghim ứng dụng này</string>
     <string name="pin_toast_nav">Bấm và giữ phím quay lại và xem trước để bỏ ghim ứng dụng này</string>
     <string name="pip_collapse">Thu gọn</string>
-    <string name="pip_edu_text">Nhấn đúp vào nút <annotation icon="home_icon">MÀN HÌNH CHÍNH</annotation> để mở trình đơn điều khiển</string>
+    <string name="pip_edu_text">Nhấn đúp vào nút &lt;annotation icon="home_icon">MÀN HÌNH CHÍNH&lt;/annotation> để mở trình đơn điều khiển</string>
     <string name="pip_expand">Mở rộng</string>
     <string name="pip_menu_accessibility_title">Trình đơn hình trong hình.</string>
     <string name="pip_move">Di chuyển</string>
@@ -4122,7 +4122,7 @@ Nếu bạn có thắc mắc, hãy liên hệ với %2$s."</string>
     <string name="weather_no_data">Không có dữ liệu thời tiết</string>
     <string name="wifi_empty_list_wifi_on">Đang tìm mạng…</string>
     <string name="wifi_failed_connect_message">Không kết nối được với mạng</string>
-    <string name="wifi_scan_notify_message">Để cải thiện trải nghiệm khi dùng thiết bị, các ứng dụng và dịch vụ vẫn có thể quét tìm mạng Wi‑Fi bất cứ lúc nào, ngay cả khi Wi‑Fi tắt. Bạn có thể thay đổi chế độ này trong phần cài đặt tính năng Quét tìm Wi‑Fi. <annotation id="link">Thay đổi</annotation></string>
+    <string name="wifi_scan_notify_message">Để cải thiện trải nghiệm khi dùng thiết bị, các ứng dụng và dịch vụ vẫn có thể quét tìm mạng Wi‑Fi bất cứ lúc nào, ngay cả khi Wi‑Fi tắt. Bạn có thể thay đổi chế độ này trong phần cài đặt tính năng Quét tìm Wi‑Fi. &lt;annotation id="link">Thay đổi&lt;/annotation></string>
     <string name="wifi_unavailable_dream_overlay_content_description">Không có Wi-Fi</string>
     <string name="wifi_wont_autoconnect_for_now">Tạm thời, Wi-Fi sẽ không tự động kết nối</string>
     <string name="wifitrackerlib_admin_restricted_network">Không được tổ chức của bạn cho phép</string>
@@ -4258,7 +4258,7 @@ Nếu không cấp quyền này, các chuông báo và sự kiện theo thời g
     <string name="call_notification_screening_text">Đang sàng lọc cuộc gọi đến</string>
     <string name="cant_open_more_windows">Không thể mở thêm cửa sổ</string>
     <string name="cast_to_other_device_stop_dialog_button">Dừng truyền</string>
-    <string name="cast_to_other_device_stop_dialog_message_specific_app">Bạn sẽ dừng truyền nội dung của &lt;b>%1$s&lt;/b></string>
+    <string name="cast_to_other_device_stop_dialog_message_specific_app">Bạn sẽ dừng truyền nội dung của <b>%1$s</b></string>
     <string name="casting_not_supported_app">Không thể chuyển %s giữa các thiết bị</string>
     <string name="category_clone">Nhân bản</string>
     <string name="category_private">Riêng tư</string>
@@ -4545,7 +4545,7 @@ M</string>
     <string name="screenrecord_permission_dialog_continue">Bắt đầu ghi</string>
     <string name="screenrecord_permission_dialog_warning_single_app">Khi bạn ghi một ứng dụng, Android sẽ có quyền truy cập vào mọi nội dung xuất hiện hoặc phát trên ứng dụng đó. Vì vậy, hãy thận trọng để không làm lộ thông tin như mật khẩu, thông tin thanh toán, tin nhắn, ảnh, âm thanh và video.</string>
     <string name="screenrecord_stop_dialog_button">Dừng ghi</string>
-    <string name="screenrecord_stop_dialog_message_specific_app">Bạn sẽ dừng ghi âm nội dung của &lt;b>%1$s&lt;/b></string>
+    <string name="screenrecord_stop_dialog_message_specific_app">Bạn sẽ dừng ghi âm nội dung của <b>%1$s</b></string>
     <string name="screenshot_failed_external_display_indication">Màn hình bên ngoài</string>
     <string name="screenshot_private_profile_notification">Đã lưu vào %1$s trong hồ sơ riêng tư</string>
     <string name="screenshot_saving_private_profile">Đang lưu ảnh chụp màn hình vào hồ sơ riêng tư</string>
@@ -4556,7 +4556,7 @@ M</string>
     <string name="settingslib_category_private">Riêng tư</string>
     <string name="settingslib_category_work">Công việc</string>
     <string name="share_to_app_stop_dialog_button">Dừng chia sẻ</string>
-    <string name="share_to_app_stop_dialog_message_specific_app">Bạn sẽ dừng chia sẻ nội dung của &lt;b>%1$s&lt;/b></string>
+    <string name="share_to_app_stop_dialog_message_specific_app">Bạn sẽ dừng chia sẻ nội dung của <b>%1$s</b></string>
     <string name="share_to_app_stop_dialog_title">Dừng chia sẻ màn hình?</string>
     <string name="share_wifi_button_text">Chia sẻ Wi‑Fi</string>
     <string name="shortcut_helper_category_a11y">Hỗ trợ tiếp cận</string>
@@ -4676,7 +4676,7 @@ M</string>
     <string name="wifitrackerlib_hotspot_network_summary_error_generic">Không kết nối được. Hãy thử kết nối lại.</string>
     <string name="wifitrackerlib_hotspot_network_summary_error_settings">{DEVICE_TYPE,select, PHONE{Không kết nối được. Hãy kiểm tra chế độ cài đặt của điện thoại rồi thử lại.}TABLET{Không kết nối được. Hãy kiểm tra chế độ cài đặt của máy tính bảng rồi thử lại.}COMPUTER{Không kết nối được. Hãy kiểm tra chế độ cài đặt của máy tính rồi thử lại.}WATCH{Không kết nối được. Hãy kiểm tra chế độ cài đặt của đồng hồ rồi thử lại.}VEHICLE{Không kết nối được. Hãy kiểm tra chế độ cài đặt của xe rồi thử lại.}other{Không kết nối được. Hãy kiểm tra chế độ cài đặt của thiết bị rồi thử lại.}}</string>
     <string name="wifitrackerlib_hotspot_network_summary_new">{DEVICE_TYPE,select, PHONE{{NETWORK_NAME} trên điện thoại của bạn}TABLET{{NETWORK_NAME} trên máy tính bảng của bạn}COMPUTER{{NETWORK_NAME} trên máy tính của bạn}WATCH{{NETWORK_NAME} trên đồng hồ của bạn}VEHICLE{{NETWORK_NAME} trên xe của bạn}other{{NETWORK_NAME} trên thiết bị của bạn}}</string>
-    <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. <annotation id="url">Tìm hiểu thêm</annotation></string>
+    <string name="wifitrackerlib_imsi_protection_warning">Mạng này nhận được một mã nhận dạng SIM có thể dùng để theo dõi vị trí của thiết bị. &lt;annotation id="url">Tìm hiểu thêm&lt;/annotation></string>
     <string name="wifitrackerlib_known_network_summary">Nguồn Internet: %1$s</string>
     <string name="wifitrackerlib_link_speed_mbps">%1$d Mb/giây</string>
     <string name="wifitrackerlib_link_speed_on_band">%1$s trên %2$s</string>

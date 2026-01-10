@@ -42,7 +42,7 @@
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
     <string name="search_menu_title">Tìm kiếm</string>
     <string name="animation_clock_panel">Dạng sóng</string>
-    <string name="aod_lock_screen_date_lunar">e N, YY</string>
+    <string name="aod_lock_screen_date_lunar">e t N, YY</string>
     <string name="apply">Áp dụng</string>
     <string name="background_icon">Nền</string>
     <string name="black_white_clock_panel">Đồng hồ</string>
@@ -411,10 +411,10 @@ dd/MM"</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Thất bại</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="the_spring_festival">Lễ hội mùa xuân</string>
-    <string name="fmt_chinese_date">e N</string>
+    <string name="fmt_chinese_date">e t N</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Đang làm mới</string>
     <string name="date_picker_lunar">Âm lịch</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
@@ -463,7 +463,7 @@ dd/M"</string>
     <string name="miuix_appcompat_confirm_description">Xác nhận</string>
     <string name="miuix_appcompat_action_mode_select_all">Chọn tất cả</string>
     <string name="miuix_appcompat_select_all_description">Chọn tất cả</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="month_march_shortest">Thg 3</string>
     <string name="miuix_appcompat_action_mode_title_empty">Chọn mục</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Thêm</string>
@@ -478,12 +478,12 @@ dd/M"</string>
     <string name="temporary_style_summary">Đề xuất</string>
     <string name="ambient_display_screen_title">Màn hình luôn bật</string>
     <string name="off">Tắt</string>
-    <string name="ambient_display_screen_title_sp">Màn hình luôn bật</string>
+    <string name="ambient_display_screen_title_sp">Màn hình Ambient</string>
     <string name="on">Bật</string>
     <string name="step_to_image_community">Tìm nhiều hơn trong Cộng đồng Mi</string>
     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
     <string name="share_to_community">Chia sẻ lên Cộng đồng Mi</string>
-    <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+    <string name="aod_dual_clock_date">H:mm dd/MM</string>
     <string name="dual_clock_tip">Đồng hồ kép đang bật. Chạm để mở Cài đặt.</string>
     <string name="scheduled_style_summary">Đặt thời gian tùy chỉnh</string>
     <string name="always_style_symmary">Tốn pin hơn</string>
@@ -503,8 +503,8 @@ dd/M"</string>
     <string name="notification_channel_alerts">Cảnh báo</string>
     <string name="garbage_count">Có %1$s instance cũ</string>
     <string name="memory_leak">Rò rỉ bộ nhớ</string>
-    <string name="fmt_date_numeric_day">D</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_time">T</string>
     <string name="miuix_access_state_desc">Đã chọn</string>
     <string name="miuix_indexer_selected">Đã chọn %s</string>
@@ -754,7 +754,7 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="rain_probability_desc">Khả năng có mưa: %s</string>
     <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
-    <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+    <string name="scheduled_mode_dialog_msg_24">H:mm</string>
     <string name="settings_view_btn_check_off">Tắt</string>
     <string name="settings_view_btn_check_on">Bật</string>
     <string name="signature_default_content">"Luôn tin rằng
@@ -851,11 +851,11 @@ mm"</string>
     <string name="default_clock_style">Quay số không xác định</string>
     <string name="error_a11y_label">Lỗi: không hợp lệ</string>
     <string name="full_aod_not_support_reason_depth_video">Không thể thiết lập cùng kiểu với Màn hình khóa khi sử dụng hiệu ứng chiều sâu video</string>
-    <string name="full_aod_not_support_reason_super_wallpaper">Màn hình luôn bật với Siêu hình nền không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_reason_template">Màn hình luôn bật với doodle không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_reason_third_theme">Màn hình luôn bật với chủ đề bên thứ ba không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_reason_third_wallpaper">Màn hình luôn bật với hình nền bên thứ ba không thể nhất quán với Màn hình khóa</string>
-    <string name="full_aod_not_support_toast_notification">Chủ đề Màn hình luôn bật hiện tại không hỗ trợ sử dụng hiệu ứng thông báo</string>
+    <string name="full_aod_not_support_reason_super_wallpaper">Always-on display với Siêu hình nền không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_reason_template">Always-on display với doodle không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_reason_third_theme">Always-on display với chủ đề bên thứ ba không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_reason_third_wallpaper">Always-on display với hình nền bên thứ ba không thể nhất quán với Màn hình khóa</string>
+    <string name="full_aod_not_support_toast_notification">Chủ đề Always-on display hiện tại không hỗ trợ sử dụng hiệu ứng thông báo</string>
     <string name="keyguard_shortcut_empty">Không</string>
     <string name="keyguard_shortcut_open_failed">Không thể khởi chạy ứng dụng. Thử lại.</string>
     <string name="keyguard_shortcut_slide_enter">Trượt để mở</string>
@@ -1003,7 +1003,7 @@ mm"</string>
     <string name="kg_template_description_eastern_art">Thể hiện cách diễn giải đương đại về các yếu tố phương Đông bằng cách sử dụng đối xứng giao thoa cổ điển, bố cục dọc đặc trưng và biểu hiện thư pháp</string>
     <string name="kg_template_title_classic_phone">Cảnh quan</string>
     <string name="kg_template_title_eastern_art">Thẩm mỹ phương Đông</string>
-    <string name="kg_template_title_magazine_phone">Chủ thể</string>
+    <string name="kg_template_title_magazine_phone">Người</string>
     <string name="kg_template_title_pets">Động vật</string>
     <string name="kg_time_language_string">Chữ số</string>
     <string name="kg_title_content">Nội dung</string>
@@ -1080,6 +1080,5 @@ M</string>
     <string name="smart_style_summary_outer">Khi ai đó nhìn vào màn hình ngoài</string>
     <string name="talkback_invert_color">Đảo màu</string>
     <string name="tiny_accessibility_kg_battery_level">Pin</string>
-    <string name="tiny_camera_content_description">Máy ảnh</string>
-	<string name="kg_function_wallpaper_pinch_to_zoom">Thu phóng và di chuyển bằng hai ngón tay</string>
+    <string name="tiny_camera_content_description">Camera</string>
 </resources>

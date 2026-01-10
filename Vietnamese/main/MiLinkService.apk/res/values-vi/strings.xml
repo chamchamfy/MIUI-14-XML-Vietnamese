@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Chiếu</string>
+    <string name="app_name">Dịch vụ UniPlay</string>
     <string name="service_name">Dịch vụ UniPlay</string>
     <string name="notification_rc_title">Trợ lý MiTV</string>
     <string name="notification_rc_desc">Trợ lý truyền hình tốt nhất cho điện thoại di động của bạn để phát video, hình ảnh và các ứng dụng tới Mi Box (hoặc TV), chỉ cần thử bây giờ!</string>
@@ -84,11 +84,11 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
     <string name="help_page_text_end">"Nếu thương hiệu của bạn không được liệt kê ở đây, liên hệ nhà sản xuất để tìm hiểu thêm về tính năng truyền."</string>
     <string name="notification_show_more">Xem thêm tính năng</string>
     <string name="privacy_agree">Đồng ý</string>
-    <string name="privacy_text_1">&lt;Data>"Chào mừng tới Truyền! Truyền cho phép bạn chiếu các mục từ màn hình điện thoại tới màn hình mở rộng lớn hơn.
-Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Một vài tính năng được cung cấp bởi dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a> và &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a>.
-Để có thể hoạt động bình thường, ứng dụng này cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"&lt;/Data></string>
-    <string name="privacy_text_2">&lt;Data>"Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ ứng dụng, đăng xuất, hoặc hạn chế quyền trong Cài đặt với những trường hợp như vậy.
-Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này."&lt;/Data></string>
+    <string name="privacy_text_1"><Data>"Chào mừng tới Truyền! Truyền cho phép bạn chiếu các mục từ màn hình điện thoại tới màn hình mở rộng lớn hơn.
+Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Một vài tính năng được cung cấp bởi dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href="%2$s">Tuyên bố Pháp lý HappyCast&lt;/a> và &lt;a href="%1$s">Chính sách Riêng tư HappyCast&lt;/a>.
+Để có thể hoạt động bình thường, ứng dụng này cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"</Data></string>
+    <string name="privacy_text_2"><Data>"Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ bỏ ứng dụng, đăng xuất, hoặc hạn chế quyền trong Cài đặt với những trường hợp như vậy.
+Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng tính năng này."</Data></string>
     <string name="privacy_text_pemission">"　　• Quyền kết nối Wi-Fi được sử dụng để tìm kiếm và kết nối thiết bị.
 　　•Bluetooth được sử dụng để tìm kiếm và kết nối thiết bị.
 　　•Đọc bộ nhớ điện thoại. Sau khi đọc nội dung, truyền nội dung lên màn hình lớn.
@@ -380,7 +380,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="abc_capital_off">Tắt</string>
     <string name="solar_term_the_rains">Vũ Thủy</string>
     <string name="heavenly_stems_bing">"Bính "</string>
-    <string name="fmt_time_24hour">"HH 'giờ'"</string>
+    <string name="fmt_time_24hour">"H 'giờ'"</string>
     <string name="month_june_shortest">Thg 6</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="month_april_shortest">Thg 4</string>
@@ -448,11 +448,11 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="dialog_scan_message">"1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.
 
 2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem \"Trợ giúp\" để biết thêm chi tiết."</string>
-    <string name="dialog_no_device_message">&lt;Data>1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br>&lt;br>2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để biết thêm chi tiết.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br>&lt;br>2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để biết thêm chi tiết.</Data></string>
     <string name="dialog_scan_message_china">"1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.
 
 2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem \"Trợ giúp\" để biết thêm chi tiết."</string>
-    <string name="dialog_no_device_message_china">&lt;Data>1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br>&lt;br>2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để biết thêm chi tiết.&lt;/Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Kết nối cả điện thoại và TV vào cùng mạng Wi-Fi.&lt;br>&lt;br>2. Trên một số mẫu TV, tính năng này chỉ khả dụng khi phản chiếu màn hình bật. Xem &lt;a href=milink://com.milink.service/specification>\"Trợ giúp\"&lt;/a> để biết thêm chi tiết.</Data></string>
     <string name="privacy_permission_wlan_china">Bật/tắt Wi-Fi</string>
     <string name="privacy_permission_wlan_desc_china">Nhận thông tin về các thiết bị có thể sàng lọc gần đó</string>
     <string name="screen_projection_example_gallery_title">Ảnh &amp; video</string>
@@ -556,8 +556,8 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="global_privacy_main">"Chiếu các mục từ màn hình điện thoại của bạn lên một màn hình bên ngoài lớn hơn."</string>
     <string name="global_privacy_feature">Sử dụng cửa sổ thu nhỏ, truyền khi màn hình tắt và ẩn các mục riêng tư.</string>
     <string name="global_privacy_explain">Chào mừng bạn đến với tính năng Truyền! Ứng dụng này cung cấp các dịch vụ sau:</string>
-    <string name="global_privacy_detail">"Đọc và đồng ý với &lt;a href=%1$s>Thỏa thuận Người dùng&lt;/a> và &lt;a href=%2$s>Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng này.&lt;br>Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó sẽ vẫn có sẵn cho bạn."</string>
-    <string name="global_privacy_tip">Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản và tối ưu hóa quá trình tuyển chọn. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href=%1$s>Chính sách Riêng tư&lt;/a>. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách Riêng tư trong Cài đặt bất kỳ lúc nào.</string>
+    <string name="global_privacy_detail">"Đọc và đồng ý với &lt;a href="%1$s">Thỏa thuận Người dùng&lt;/a> và &lt;a href="%2$s">Chính sách Riêng tư&lt;/a> của chúng tôi trước khi sử dụng ứng dụng này.&lt;br>Nếu bạn không đồng ý sử dụng các dịch vụ nói trên, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó sẽ vẫn có sẵn cho bạn."</string>
+    <string name="global_privacy_tip">Chúng tôi cần thu thập thông tin cá nhân cần thiết để cung cấp cho bạn các dịch vụ cơ bản và tối ưu hóa quá trình tuyển chọn. Bạn có thể tìm hiểu cách chúng tôi xử lý thông tin chúng tôi thu thập trong &lt;a href="%1$s">Chính sách Riêng tư&lt;/a>. Bạn có thể rút lại sự đồng ý của mình đối với Chính sách Riêng tư trong Cài đặt bất kỳ lúc nào.</string>
     <string name="dialog_scanning_precondition_new_china">Bật Wi-Fi, Bluetooth, và dịch vụ vị trí để có thể truyền. Bật ngay??</string>
     <string name="debug_mode_milink_version">Phiên bản MiLink</string>
     <string name="debug_mode_merge_support">Hỗ trợ ứng dụng thấp nhất</string>
@@ -574,11 +574,11 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="paipai_error_dialog_negative">Tôi biết</string>
     <string name="privacy_setting_category_1">Chính sách Riêng tư</string>
     <string name="permission_uballowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
-    <string name="fmt_date_numeric_day">D</string>
+    <string name="fmt_date_numeric_day">d</string>
     <string name="privacy_update_dialog_quit">Thoát</string>
     <string name="scan_wifi_label_china">Kết nối Wi-Fi</string>
     <string name="privacy_setting_show_authority">Chi tiết quyền</string>
-    <string name="fmt_date_day">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="privacy_revoke_dialog_title">Đồng ý Chính sách Riêng tư</string>
     <string name="privacy_setting_show_policy">Chính sách Riêng tư</string>
     <string name="wifi_connect_btn_text">Định cấu hình</string>
@@ -695,7 +695,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="circulate_cta_premission_wlan_title">Bật và tắt Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_subtitle">Để truyền các mục và kết nối thiết bị qua Wi-Fi</string>
     <string name="circulate_cta_premission_storage_pad_title">Truy cập và lưu các mục vào bộ lưu trữ</string>
-    <string name="circulate_cta_user_agreement">Đọc và đồng ý với chúng tôi &lt;txt href=\"%1$s\">Thoả thuận người dùng&lt;/txt> and &lt;txt href=\"%2$s\">Chính sách bảo mật&lt;/txt> trước khi bạn tiếp tục.</string>
+    <string name="circulate_cta_user_agreement">Đọc và đồng ý với chúng tôi &lt;txt href="%1$s">Thoả thuận người dùng&lt;/txt> and &lt;txt href="%2$s">Chính sách bảo mật&lt;/txt> trước khi bạn tiếp tục.</string>
     <string name="guide_page_title_0">Chào mừng bạn đến với Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">Chào mừng bạn đến với Mi Smart Hub!</string>
     <string name="guide_page_subtitle_0">Mi Smart Hub hợp nhất các thiết bị của bạn thành một trạm làm việc duy nhất bằng cách cho phép bạn bắt đầu một tác vụ trên một trong các thiết bị và sau đó chuyển sang thiết bị khác một cách liền mạch.</string>
@@ -771,7 +771,7 @@ Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, b
     <string name="device_permission_dialog_message">Mở Cài đặt > Kết nối > Kết nối và quyền trên %s và cấp quyền camera trước.</string>
     <string name="mirror_phone_content_remote">Bạn có thể bật Màn hình chính+ trong Cài đặt > Kết nối.</string>
     <string name="mirror_remote_pad_content">Bạn có thể bật Màn hình chính+ trong Cài đặt > Kết nối.</string>
-    <string name="privacy_phone_read_theme_privacy_policy"><Data>Tôi đã đọc và đồng ý với \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Tuyên bố Rút lại chấp thuận đối với Chính sách Riêng tư Kết nối Xiaomi&lt;/a>&lt;/font>\".</Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy"><Data>Tôi đã đọc và đồng ý với &lt;font color=#8C93B0>&lt;a href="%1$s">Tuyên bố Rút lại chấp thuận đối với Chính sách Riêng tư Kết nối Xiaomi&lt;/a>&lt;/font>.</Data></string>
     <string name="privacy_revoke_agree_detail_content">"%1$d. Đảm bảo bạn có quyền rút lại chấp thuận trước khi tiếp tục.
 %2$d. Sau khi bạn rút lại chấp thuận, thông tin cá nhân đã được thu thập và lưu trữ sẽ bị xóa trong khoảng thời gian cụ thể theo luật và quy định hiện hành trừ khi có yêu cầu khác. Vì dịch vụ kết nối được cung cấp dựa trên việc thu thập thông tin cá nhân cần thiết nên việc bạn rút lại chấp thuận sẽ được coi là từ chối chấp nhận các dịch vụ kết nối. Việc bạn rút lại chấp thuận sẽ không ảnh hưởng đến việc sử dụng bình thường các tính năng và dịch vụ khác.
 %3$d. Rút lại chấp thuận là một hành động không thể đảo ngược. Hãy nhớ rằng bạn sẽ không thể xem xét lại quyết định của mình sau khi rút lại chấp thuận."</string>
@@ -1022,7 +1022,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="connect_settings_share_clipboard">Bộ nhớ tạm</string>
     <string name="connect_settings_share_launcher">Màn hình chính+</string>
     <string name="connect_settings_share_notification">Thông báo</string>
-    <string name="connect_settings_summary"><Data>Tự động khám phá các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối lại với nhau để thực hiện nhiều nhiệm vụ trên nhiều thiết bị. &lt;a href=%1$s>Tìm hiểu thêm&lt;/a></Data></string>
+    <string name="connect_settings_summary"><Data>Tự động khám phá các thiết bị lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối lại với nhau để thực hiện nhiều nhiệm vụ trên nhiều thiết bị. &lt;a href="%1$s">Tìm hiểu thêm&lt;/a></Data></string>
     <string name="connect_settings_summary_connection_service">Cho phép các thiết bị của bạn tương tác với nhau không dây</string>
     <string name="connect_settings_summary_corp_phone">Trả lời cuộc gọi trên máy tính bảng hoặc máy tính lân cận đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
     <string name="connect_settings_summary_relay_app">Tiếp tục nhiệm vụ cùng ứng dụng trên thiết bị khác</string>
@@ -1201,7 +1201,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="privacy_action_failed">Không thể rút lại chấp thuận</string>
     <string name="privacy_confirm_revoke_and_exit_btn">Rút lại</string>
     <string name="privacy_detail">Cho phép ứng dụng này kết nối internet và cấp các quyền yêu cầu trước khi bạn tiếp tục.</string>
-    <string name="privacy_detail_extra"><Data>Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%1$s>Chính sách Riêng tư HappyCast&lt;/a> và &lt;a href=%2$s>Tuyên bố Pháp lý HappyCast&lt;/a>.</Data></string>
+    <string name="privacy_detail_extra"><Data>Một số tính năng được cung cấp bởi nhà cung cấp dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href="%1$s">Chính sách Riêng tư HappyCast&lt;/a> và &lt;a href="%2$s">Tuyên bố Pháp lý HappyCast&lt;/a>.</Data></string>
     <string name="privacy_give_up_revoke_btn">Hủy</string>
     <string name="privacy_i_know_btn">Tiếp tục</string>
     <string name="privacy_permission_nfc">NFC</string>
@@ -1402,7 +1402,7 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="cast_unmute">Bật tiếng</string>
     <string name="cast_zero_devices_found">Không tìm thấy thiết bị nào.
 </string>
-    <string name="cast_zero_devices_learn_more_description"><a href="https://support.google.com/chromecastbuiltin/answer/3006709">Tìm hiểu thêm</a> về cách bạn có thể truyền nội dung tới các thiết bị khác.</string>
+    <string name="cast_zero_devices_learn_more_description">&lt;a href="https://support.google.com/chromecastbuiltin/answer/3006709">Tìm hiểu thêm&lt;/a> về cách bạn có thể truyền nội dung tới các thiết bị khác.</string>
     <string name="circulate_add_another_device_control_app">Thêm ứng dụng</string>
     <string name="circulate_cta_desc_phone_global">Kết nối Xiaomi cho phép các thiết bị của bạn tương tác với nhau không dây.</string>
     <string name="circulate_cta_title_global">Tuyên bố Riêng tư</string>
@@ -1529,23 +1529,4 @@ và đăng nhập vào Tài khoản Xiaomi của bạn"</string>
     <string name="unlock_screen_to_authorize_camera_car">%s đang truy cập camera của thiết bị này</string>
     <string name="update">Cập nhật</string>
     <string name="using_camera_of_device_description">Đang sử dụng camera của %1$s.</string>
-	<string name="connect_settings_summary_global_v2">Tự động phát hiện các thiết bị gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối chúng với nhau để thực hiện nhiều tác vụ trên nhiều thiết bị. Bật Wi-Fi và Bluetooth trước khi sử dụng.</string>
-	<string name="connect_settings_summary_v2_china"><Data>Tự động phát hiện các thiết bị gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn và kết nối chúng với nhau để thực hiện nhiều tác vụ khác nhau trên nhiều thiết bị. &lt;br&gt;Bật Wi-Fi và Bluetooth trước khi sử dụng. &lt;a href=%1$s&gt;Tìm hiểu thêm&lt;/a&gt;</Data></string>
-	<string name="circulate_card_tv_screen">Chiếu</string>
-	<string name="connect_settings_screen_cast">Chiếu</string>
-	<string name="privacy_setting_content">Không hiển thị thông báo nổi và cuộc gọi đến</string>
-	<string name="connect_settings_summary_relay_app_v2">Tiếp tục nhiệm vụ cùng ứng dụng trên thiết bị khác</string>
-	<string name="connect_settings_summary_corp_network">Sử dụng mạng điện thoại của bạn trên máy tính bảng hoặc máy tính</string>
-	<string name="camera_new_title">Camera đa thiết bị</string>
-	<string name="connect_settings_share_camera">Camera đa thiết bị</string>
-	<string name="inter_connect_setting_unavailable_dialog_title">Camera đa thiết bị</string>
-	<string name="wifi_disabled_dialog_title">Camera đa thiết bị</string>
-	<string name="connect_settings_general_summary_relay_app">Sử dụng cùng một ứng dụng trên các thiết bị đã đăng nhập vào Tài khoản Xiaomi của bạn. Hỗ trợ cho điện thoại, máy tính bảng và máy tính.</string>
-	<string name="connect_settings_general_summary_share_notification_phone">Hiển thị thông báo quan trọng trên điện thoại trên TV, máy tính bảng và máy tính gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn.
-Hoạt động với các ứng dụng giao đồ ăn và gọi xe trên TV, cũng như cảnh báo pin yếu trên máy tính bảng và máy tính.</string>
-    <string name="connect_settings_share_notification_mi_device">Hiển thị thông báo từ thiết bị này trên các thiết bị Xiaomi</string>
-    <string name="connect_settings_share_notification_more_feature">Nhiều tính năng hơn</string>
-	<string name="connect_settings_general_summary_corp_phone_phone">Trả lời cuộc gọi trên máy tính bảng hoặc máy tính gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
-	<string name="connect_settings_general_summary_share_clipboard">Sao chép văn bản, hình ảnh hoặc tệp trên thiết bị và dán chúng vào một thiết bị khác ở gần (điện thoại, máy tính bảng, máy tính hoặc xe) đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
-	<string name="connect_settings_general_summary_share_camera">Sử dụng camera của điện thoại để điều chỉnh góc chụp trong khi gọi video hoặc phát trực tiếp trên máy tính bảng và máy tính gần đó đã đăng nhập vào Tài khoản Xiaomi của bạn</string>
 </resources>
