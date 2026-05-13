@@ -25,7 +25,7 @@
     <string name="add_done">Đã thêm thành công</string>
     <string name="add_game">Thêm trò chơi</string>
     <string name="add_whitelist">Thêm vào danh sách ngoại lệ</string>
-    <string name="afternoon">CH</string>
+    <string name="afternoon">Buổi tối</string>
     <string name="agree">Đồng ý</string>
     <string name="am">SA</string>
     <string name="anim_gamebooster_text">Vui lòng chờ…</string>
@@ -300,8 +300,7 @@
     <string name="exo_track_surround_7_point_1">Âm thanh vòm 7.1</string>
     <string name="exo_track_unknown">Không xác định</string>
     <string name="expand_button_title">Nâng cao</string>
-    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
-    <string name="exposed_dropdown_menu_content_description">Hiển thị menu</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị danh sách</string>
     <string name="eye_protect_desc">Màu sắc và độ sáng màn hình được điều chỉnh để bảo vệ mắt của trẻ và tự động nhắc nhở trẻ kịp thời giữ khoảng cách với thiết bị điện tử</string>
     <string name="eye_protect_title">Chế độ bảo vệ mắt</string>
     <string name="face_distance_detect_desc">Để bảo vệ mắt cho trẻ em, điện thoại sẽ tự động nhắc khi nhìn quá gần màn hình</string>
@@ -586,7 +585,6 @@
     <string name="heavenly_stems_wu">"Mậu "</string>
     <string name="heavenly_stems_xin">"Tân "</string>
     <string name="heavenly_stems_yi">"Ất "</string>
-    <string name="hybrid_provider">Cung cấp bởi %1$s</string>
     <string name="hybrid_provider">Được cung cấp bởi %1$s</string>
     <string name="i_know">Tôi biết</string>
     <string name="icon_content_description">Biểu tượng hộp thoại</string>
@@ -628,7 +626,6 @@
     <string name="material_timepicker_select_time">Chọn thời gian</string>
     <string name="material_timepicker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
     <string name="midnight">Ban đêm</string>
-    <string name="midnight">SA</string>
     <string name="miuishare_title_more">Thêm</string>
     <string name="miuishare_title_share">Chia sẻ</string>
     <string name="miuishare_wechat_timeline_title">Khoảnh khắc Wechat</string>
@@ -739,7 +736,6 @@
     <string name="more_settins_title">Cài đặt khác</string>
     <string name="more_settings_title">Thêm cài đặt</string>
     <string name="morning">Buổi sáng</string>
-    <string name="morning">SA</string>
     <string name="mtrl_badge_numberless_content_description">Thông báo mới</string>
     <string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Hơn %1$d thông báo mới</string>
@@ -1235,7 +1231,6 @@
     <string name="user_notification">Đồng ý Chính sách Riêng tư</string>
     <string name="v7_preference_off">TẮT</string>
     <string name="v7_preference_on">BẬT</string>
-    <string name="web_sso_login_fail">Bạn cần đăng nhập lại</string>
     <string name="web_sso_login_fail">Bạn cần phải đăng nhập lại</string>
     <string name="web_sso_login_message">Đang đăng nhập…</string>
     <string name="webview_reload">Thử lại</string>

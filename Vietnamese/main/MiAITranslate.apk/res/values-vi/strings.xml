@@ -152,7 +152,6 @@ Gửi mã này cho kỹ thuật viên."</string>
     <string name="dialog_save_summary_title">Có lưu tóm tắt và phụ đề hay không</string>
     <string name="dialog_title_need_create_shortcut">Phím tắt màn hình chính</string>
     <string name="dialog_title_revoke_authorization">Thu hồi ủy quyền</string>
-    <string name="dialog_title_revoke_authorization_new">Rút lại sự đồng ý</string>
     <string name="dont_translate">Đừng dịch</string>
     <string name="double_display">Cả hai</string>
     <string name="download_button_text">Tải xuống</string>
@@ -557,7 +556,6 @@ Gửi mã này cho kỹ thuật viên."</string>
     <string name="word_third">Ngôi thứ ba số ít</string>
     <string name="word_verb">Động từ</string>
     <string name="yesterday">Hôm qua</string>
-	<string name="dialog_title_need_create_shortcut">Phím tắt Màn hình chính</string>
 	<string name="pref_title_shortcut">Phím tắt Màn hình chính</string>
 	<string name="preference_shortcut_title">Phím tắt Màn hình chính</string>
 	<string name="create">Tạo</string>
@@ -572,7 +570,6 @@ Gửi mã này cho kỹ thuật viên."</string>
 	<string name="preference_category_function_title">Tính năng</string>
 	<string name="pref_title_sound_source">Nguồn âm thanh</string>
 	<string name="preference_sound_source_title">Nguồn âm thanh</string>
-	<string name="detail_how_to_open">Nhấn vào nút ở giữa để cho phép Mi Ditto phiên âm lời nói và âm thanh phát lại hệ thống.</string>
 	<string name="preference_sound_source_summary">Hệ thống hoặc micrô</string>
 	<string name="preference_text_size_summary">Kích thước văn bản cho phụ đề cửa sổ nổi</string>
 	<string name="caption_guide_go_to_normal_window_mode">Nhấn đúp vào màn hình để quay lại cửa sổ nổi</string>
@@ -585,15 +582,10 @@ Gửi mã này cho kỹ thuật viên."</string>
 	<string name="preference_recognition_and_translation_summary">Chọn ngôn ngữ để nhận dạng và dịch</string>
 	<string name="preference_category_help_and_feedback_title">Dịch vụ và phản hồi</string>
 	<string name="title_how_to_open">Làm cách nào để bật Mi Ditto?</string>
-	<string name="detail_how_to_reply">Nhấn vào nút ở phía dưới bên phải để nhập câu trả lời của bạn. Mi Ditto sẽ đọc nó cho người khác.</string>
-	<string name="detail_how_to_save_messages">Bạn có thể nhấn vào nút ở cuối màn hình để lưu các mục đã chép lời vào Ghi chú.</string>
-	<string name="detail_how_to_switch_float_window">Nhấn vào nút ở phía dưới bên trái để thu nhỏ Mi Ditto. Nó sẽ cho phép bạn sử dụng các ứng dụng khác.</string>
 	<string name="title_how_to_save_messages">Làm cách nào để lưu các mục đã chép lời?</string>
 	<string name="preference_category_title_permission_authorization">Quyền riêng tư và quyền</string>
 	<string name="preference_permission_title">Quyền</string>
-	<string name="dialog_title_revoke_authorization_new">Rút lại sự đồng ý</string>
-	<string name="preference_revoke_authorization_title">Rút lại sự đồng ý</string>
+	<string name="dialog_title_revoke_authorization_new">Thu hồi ủy quyền</string>
 	<string name="en_to_cn_v2">Dịch sang tiếng Trung</string>
 	<string name="title_what_is_ai_translate">Phụ đề trực tiếp là gì?</string>
-	<string name="detail_what_is_ai_translate">Trong các tình huống như xem video, gọi điện thoại và họp trực tuyến, thiết bị hoặc âm thanh bên ngoài sẽ được trình bày dưới dạng văn bản và hỗ trợ dịch thuật theo thời gian thực. Nếu bạn cảm thấy bất tiện khi phát biểu trong cuộc gọi/cuộc họp, bạn có thể phát giọng nói trả lời bằng văn bản của mình cho bên kia. Nội dung phụ đề có thể được lưu vào ghi chú để dễ dàng tạo bản ghi cuộc trò chuyện.</string>
 </resources>

@@ -7232,7 +7232,6 @@ Bật cái này sẽ tắt cái kia."</string>
 	<string name="pc_phone_battery_level">Điện thoại</string>
 	<string name="pc_power_mode_has_performance">Chế độ hiệu suất đang bật</string>
 	<string name="pc_reminder_always_protect_summary">Chuyển sang sạc hạn chế để giảm lão hóa pin</string>
-	<string name="power_center_problem_title">Tiêu thụ điện năng cao</string>
 	<string name="power_ntc_dialog_btn_finish">Hiểu rồi</string>
 	<string name="power_ntc_dialog_msg">Ngắt kết nối bộ sạc ngay bây giờ. Làm sạch và lau khô cổng sạc trước khi sử dụng lại.</string>
 	<string name="power_ntc_dialog_title">Phát hiện vật thể lạ hoặc chất lỏng</string>
@@ -7241,7 +7240,6 @@ Bật cái này sẽ tắt cái kia."</string>
 	<string name="pp_toast_read_clipboard">Thông báo khi ứng dụng truy cập các mục trong bảng nhớ tạm</string>
 	<string name="pp_toast_read_clipboard_item">Thông báo</string>
 	<string name="privacy_risk_result_screen_shield_msg">Các ứng dụng chứa thông tin cá nhân nhạy cảm sẽ được hiển thị trong Gần đây với phần xem trước bị che đi</string>
-	<string name="quick_optimize_no_fix_issue_title">"Không thể tối ưu các mục có mức tiêu thụ điện năng cao"</string>
 	<string name="recommend_type_random">Hệ thống đề xuất mà không có lý do</string>
 	<string name="recommend_type_recent_used">Được đề xuất dựa trên các chức năng thường được sử dụng</string>
 	<string name="recommend_type_server_config">Cấu hình hoạt động</string>
