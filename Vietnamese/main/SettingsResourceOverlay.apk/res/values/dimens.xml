@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="my_device_os_logo_height">246.19998dip</dimen>
+    <dimen name="my_device_os_logo_margin_top">35.0dip</dimen>
+    <dimen name="my_device_os_logo_area_height">400.0dip</dimen>
+</resources>
