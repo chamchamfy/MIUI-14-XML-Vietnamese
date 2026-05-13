@@ -7939,4 +7939,12 @@ Tính năng này sẽ không hoạt động khi Tết kiệm pin hoặc Tiết k
     <string name="whitelist_prefix_add_hint_international">Cho phép cuộc gọi bắt đầu bằng một số cụ thể</string>
     <string name="wireless_charging_no_reverser_charge_message">Không thể sử dụng sạc ngược khi bộ sạc được kết nối.</string>
     <string name="wireless_charging_no_reverser_charge_title">Ngắt kết nối bộ sạc</string>
+	<string name="game_balance_none_gpu_enhance_subtitle">Hiệu suất hình ảnh được nâng cao</string>
+	<string name="gamebox_mem_clean_new">Tối ưu hóa bộ nhớ</string>
+	<string name="game_toolbox_mem_clean_desc_new">Giải phóng bộ nhớ hệ thống</string>
+	<string name="game_toolbox_gesture_control_title">Bỏ qua những lần chạm vô tình.</string>
+	<string name="game_toolbox_gesture_control_main_switch_title">Bỏ qua thao tác chạm nhầm trong trò chơi.</string>
+	<string name="game_toolbox_gesture_control_multi_finger_title">Bỏ qua các thao tác nhiều ngón tay</string>
+	<string name="game_toolbox_gesture_control_multi_finger_des">Các thao tác như vuốt ba ngón tay để chụp ảnh màn hình sẽ bị bỏ qua.</string>
+	<string name="game_toolbox_gesture_control_main_switch_des">Những thay đổi này chỉ được áp dụng cho trò chơi hiện tại.</string>
 </resources>
